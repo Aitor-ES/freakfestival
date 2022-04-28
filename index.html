@@ -1,14 +1,223 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
+    <!-- Required meta tags -->
     <meta charset="utf-8">
-    <title>Freak Festival</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/logo_freak_festival_22_xs.svg">
+
+    <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <!-- Font Awesome icon library -->
+    <link href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" rel="stylesheet">
+
+    <!-- Own CSS styles -->
+    <link href="styles/index.css" rel="stylesheet">
+
+    <title>Freak Festival</title>
   </head>
   <body>
-    <h1>Freak Festival</h1>
-    <h2>Hello world!</h2>
-    
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg flex-wrap navbar-dark bg-dark">
+      <div class="container-fluid">
+        <div class="row justify-content-between align-items-center w-100">
+          <div class="order-0 w-auto">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent-left, #navbarSupportedContent-right" aria-controls="navbarSupportedContent-left, navbarSupportedContent-right" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          </div>
+          <a class="order-1 order-lg-2 w-auto col-lg-4 navbar-brand text-center mx-0" href="index.html">
+            <img src="images/logo_freak_festival_22.svg" alt="" width="153" height="60">
+          </a>
+          <div class="col-lg-4 order-2 order-lg-1 collapse navbar-collapse" id="navbarSupportedContent-left">
+            <ul class="navbar-nav d-flex justify-content-evenly w-100">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Programa
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown-program">
+                  <li><a class="dropdown-item" href="horario.html">Horario</a></li>
+                  <li><a class="dropdown-item" href="actividades.html">Actividades</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="invitados.html">Invitados</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4 order-3 collapse navbar-collapse" id="navbarSupportedContent-right">
+            <ul class="navbar-nav d-flex justify-content-evenly w-100">
+              <li class="nav-item">
+                <a class="nav-link" href="localizacion.html">Cómo llegar</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-rules" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Normas
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown-rules">
+                  <li><a class="dropdown-item" href="#">Código de conducta</a></li>
+                  <li><a class="dropdown-item" href="#">Protocolo COVID-19</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Sobre nosotros
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown-about">
+                  <li><a class="dropdown-item" href="organizadores.html">Organizadores</a></li>
+                  <li><a class="dropdown-item" href="#">Prensa</a></li>
+                  <li><a class="dropdown-item" href="galeria.html">Galería</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- Navbar End -->
+
+    <!-- Main Start -->
+    <div class="container-fluid text-center text-white mb-4 py-5" id="presentation">
+      <!-- Presentación (fecha, lugar, descripción) -->
+      <div class="row mb-5">
+        <div class="col">
+          <img src="images/logo_freak_festival_22.svg" class="img-fluid" alt="">
+        </div>
+      </div>
+      <div class="row mb-5">
+        <div class="col">
+          <h3>Vitoria-Gasteiz</h3>
+          <h4>Palacio de congresos Europa</h4>
+          <h2>25-26 de junio de 2022</h2>
+        </div>
+      </div>
+    </div>
+    <!-- Main End -->
+
+    <!-- About Start -->
+    <div id="checkpoint2" class="container-xxl">
+      <hr class="my-5">
+
+      <!-- 1st about item -->
+      <div class="row">
+        <div class="order-lg-1 col-lg-5 text-center mb-4 mb-lg-0">
+          <img class="img-fluid rounded-pill" src="images/photos/general_1_blue.jpg" width="400" height="400" alt="">
+        </div>
+        <div class="order-lg-0 col-lg-7 d-flex flex-column justify-content-center text-center text-lg-end">
+          <h2>El Freak Festival es...</h2>
+          <p>
+            Un <strong>evento de ocio alternativo para el público general</strong>, ubicado en la ciudad de Vitoria-Gasteiz. En este evento podrás encontrar todo tipo de actividades de la cultura friki, como torneos de juegos de mesa, partidas de rol, charlas, cosplay, talleres de manualidades, puestos de artistas y exhibiciones de artes marciales.
+          </p>
+          <p>
+            <strong>La entrada</strong> del evento y la participación en sus actividades <strong>es totalmente gratuita</strong>, ya que nuestro objetivo es dar a conocer nuestros hobbies sin barreras.
+          </p>
+        </div>
+      </div>
+
+      <hr class="my-5">
+    </div>
+    <!-- About End -->
+
+    <!-- Features Start -->
+    <div class="container-xxl">
+      <div class="row">
+        <div class="col-12">
+          <h1 class="mb-5">Actividades del evento</h1>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 justify-content-center text-center">
+
+        <!-- 1st feature -->
+        <div class="col mb-5 px-4">
+          <img class="rounded-circle mb-4" src="images/photos/juegos_de_mesa_blue_sq.jpg" alt="" width="200" height="200">
+          <h3 class="fw-light">Juegos de mesa</h3>
+          <p>Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para que puedas conocer y descubrir nuevos juegos con los que divertirte, o jugar una vez más a los clásicos de siempre.</p>
+        </div>
+
+        <!-- 2nd feature -->
+        <div class="col mb-5 px-4">
+          <img class="rounded-circle mb-4" src="images/photos/torneos_blue_sq.jpg" alt="" width="200" height="200">
+          <h3 class="fw-light">Torneos</h3>
+          <p>Compite contra otros adversarios en juegos de mesa, wargames, cartas, etc. y lucha por ser el ganador de los impresionantes premios que nuestros colaboradores aportarán para los campeones.</p>
+        </div>
+
+        <!-- 3rd feature -->
+        <div class="col mb-5 px-4">
+          <img class="rounded-circle mb-4" src="images/photos/rol_blue_sq.jpg" alt="" width="200" height="200">
+          <h3 class="fw-light">Partidas de rol</h3>
+          <p>Vive las aventuras más emocionantes con un grupo de héroes que viajan por mundos de fantasía, ciencia ficción, terror, etc. guiados por un director de partida, que se asegurará de que vuestra historia sea digna de relato.</p>
+        </div>
+
+        <!-- 4th feature -->
+        <div class="col mb-5 px-4">
+          <img class="rounded-circle mb-4" src="images/photos/cosplay_blue_sq.jpg" alt="" width="200" height="200">
+          <h3 class="fw-light">Concursos</h3>
+          <p>Participa en nuestros concursos de cosplay, relato corto, fast manga, etc. y opta a increíbles premios aportados por nuestros colaboradores.</p>
+        </div>
+
+        <!-- 5th feature -->
+        <div class="col mb-5 px-4">
+          <img class="rounded-circle mb-4" src="images/photos/tiendas_artistas_y_artesanos_blue_sq.jpg" alt="" width="200" height="200">
+          <h3 class="fw-light">Tiendas, artistas y artesanos</h3>
+          <p>Descubre a creadores y negocios locales que hacen posible la expansión de nuestros hobbies y quieren dar a conocer al mundo sus productos.</p>
+        </div>
+
+        <!-- 6th feature -->
+        <div class="col mb-5 px-4">
+          <img class="rounded-circle mb-4" src="images/photos/charlas_blue_sq.jpg" alt="" width="200" height="200">
+          <h3 class="fw-light">Charlas y exhibiciones</h3>
+          <p>Aprende sobre tus hobbies favoritos con las charlas y exhibiciones impartidas por expertos en una gran variedad de disciplinas como artes marciales, literatura, arte, cosplay, etc.</p>
+        </div>
+
+        <!-- 7th feature -->
+        <div class="col mb-5 px-4">
+          <img class="rounded-circle mb-4" src="images/photos/talleres_blue_sq.jpg" alt="" width="200" height="200">
+          <h3 class="fw-light">Talleres</h3>
+          <p>Crea con tus propias manos recuerdos únicos como tazas personalizadas, lámparas japonesas y otras manualidades que te permitirán dar rienda suelta a tu creatividad y llevarte un bonito recuerdo del evento.</p>
+        </div>
+      </div>
+    </div>
+    <!-- Features End -->
+
+    <!-- Footer Start -->
+    <footer class="mt-5 py-5 bg-dark text-white text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h3>¡Conócenos!</h3>
+            <p>Contacta con nosotros en redes sociales</p>
+            <ul class="list-inline pt-3">
+              <li class="list-inline-item"><a class="btn btn-lg btn-light" href="mailto:asovalinor@gmail.com"><i class="fa-solid fa-envelope fa-fw"></i></a></li>
+              <li class="list-inline-item"><a class="btn btn-lg btn-light" href="https://www.facebook.com/asociacionvalinor"><i class="fa-brands fa-facebook-f fa-fw"></i></a></li>
+              <li class="list-inline-item"><a class="btn btn-lg btn-light" href="https://www.instagram.com/asovalinor"><i class="fa-brands fa-instagram fa-fw"></i></a></li>
+              <li class="list-inline-item"><a class="btn btn-lg btn-light" href="https://twitter.com/AsoValinor"><i class="fa-brands fa-twitter fa-fw"></i></a></li>
+            </ul>
+          </div>
+        </div>
+
+        <hr class="my-4">
+
+        <div class="row">
+          <div class="col-12 text-muted">
+            <p class="mb-2">Organizado por</p>
+            <h4>Asociación Cultural Valinor</h4>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Footer End -->
+
+    <!-- Bootstrap JS bundle w/ Popper.js -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+    <!-- jQuery JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   </body>
 </html>
