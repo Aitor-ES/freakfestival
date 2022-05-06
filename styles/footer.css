@@ -1,9 +1,11 @@
 .logo-contributor {
+    height: auto;
+    max-height: 50px;
     max-width: 100%;
 }
 
 @media (min-width: 992px) {
     .logo-contributor {
-        height: 75px;
+        max-height: 75px;
     }
 }
