@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "UncialRegular";
+    src: url('../fonts/UncialAntiqua-Regular.ttf');
+}
+
+@font-face {
+    font-family: "FrutigerLight";
+    src: url('../fonts/Frutiger-LT-Std-45-Light.otf');
+}
+
+@font-face {
+    font-family: "FrutigerRegular";
+    src: url('../fonts/Frutiger-LT-Std-55-Roman-Regular.otf');
+}
+
+@font-face {
+    font-family: "FrutigerBold";
+    src: url('../fonts/Frutiger-LT-Std-55-Roman-Bold.otf');
+}
+
+.f-uncial-r {
+    font-family: "UncialRegular";
+}
+
+.f-frutiger-l {
+    font-family: "FrutigerLight";
+}
+
+.f-frutiger-r {
+    font-family: "FrutigerRegular";
+}
+
+.f-frutiger-b {
+    font-family: "FrutigerBold";
+}
+
+.f-gradient-ff {
+    background: #55D5D7;
+    background: linear-gradient(to bottom, #55D5D7 38%, #FFDB52 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

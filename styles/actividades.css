@@ -1,0 +1,15 @@
+#accordion-activities .accordion-button {
+    background: #55d5d73a;
+}
+
+#accordion-activities .accordion-button:not(.collapsed) {
+    background: #ffdc523a;
+    box-shadow: none;
+}
+
+/* p, .accordion-body {
+    font-family: "FrutigerLight";
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+} */

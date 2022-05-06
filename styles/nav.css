@@ -1,0 +1,16 @@
+.navbar .dropdown-item:hover, .navbar .dropdown-item:focus {
+    color: #1e2125;
+    background-color: #55d5d73a;
+}
+
+.navbar .dropdown-item.active, .navbar .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #55d5d7;
+}
+
+.navbar .dropdown-item.disabled, .navbar .dropdown-item:disabled {
+    color: #adb5bd;
+    pointer-events: none;
+    background-color: transparent;
+}
