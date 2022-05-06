@@ -1,0 +1,9 @@
+.logo-contributor {
+    max-width: 100%;
+}
+
+@media (min-width: 992px) {
+    .logo-contributor {
+        height: 75px;
+    }
+}
