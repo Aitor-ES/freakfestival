@@ -3,14 +3,15 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/freakfestival/public_html/
     - /bin/cp actividades.html $DEPLOYPATH
-    - /bin/cp galeria.html $DEPLOYPATH
+    - /bin/cp galeria-fotos.html $DEPLOYPATH
     - /bin/cp horario.html $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp invitados.html $DEPLOYPATH
-    - /bin/cp localizacion.html $DEPLOYPATH
+    - /bin/cp como-llegar.html $DEPLOYPATH
     - /bin/cp organizadores.html $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R libraries $DEPLOYPATH
     - /bin/cp -R styles $DEPLOYPATH
+    - /bin/cp -R eu $DEPLOYPATH
