@@ -1,21 +1,25 @@
 @font-face {
     font-family: "UncialRegular";
     src: url('../fonts/UncialAntiqua-Regular.ttf');
+    font-display: swap;
 }
 
 @font-face {
     font-family: "FrutigerLight";
     src: url('../fonts/Frutiger-LT-Std-45-Light.otf');
+    font-display: swap;
 }
 
 @font-face {
     font-family: "FrutigerRegular";
     src: url('../fonts/Frutiger-LT-Std-55-Roman-Regular.otf');
+    font-display: swap;
 }
 
 @font-face {
     font-family: "FrutigerBold";
     src: url('../fonts/Frutiger-LT-Std-55-Roman-Bold.otf');
+    font-display: swap;
 }
 
 .f-uncial-r {
