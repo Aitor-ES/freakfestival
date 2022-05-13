@@ -1,3 +1,14 @@
+.navbar-logo {
+    width: auto;
+    height: 40px;
+}
+
+@media (min-width: 992px) {
+    .navbar-logo {
+        height: 60px;
+    }
+}
+
 .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show > .nav-link {
     background: #55D5D7;
     background: linear-gradient(to bottom, #55D5D7 38%, #FFDB52 100%);
