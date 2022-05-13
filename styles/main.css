@@ -1,3 +1,3 @@
 body {
-    font-family: "FrutigerLight";
+    font-family: var(--body-font-family);
 }

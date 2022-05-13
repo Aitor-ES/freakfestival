@@ -22,6 +22,10 @@
     font-display: swap;
 }
 
+:root {
+    --body-font-family: "FrutigerLight";
+}
+
 .f-uncial-r {
     font-family: "UncialRegular";
 }
