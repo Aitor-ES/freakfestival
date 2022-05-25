@@ -23,6 +23,7 @@
     <link href="/styles/color/bootstrap-color-fflime.css" rel="stylesheet">
     <link href="/styles/color/bootstrap-color-ffolive.css" rel="stylesheet">
     <link href="/styles/color/bootstrap-color-ffyellow.css" rel="stylesheet">
+    <link href="/styles/color/bootstrap-color-ffcyanyellow.css" rel="stylesheet">
 
     <!-- Own CSS styles -->
     <link href="/styles/main.css" rel="stylesheet">
@@ -56,6 +57,25 @@
     <title>Actividades · Freak Festival</title>
   </head>
   <body>
+    <!-- Modal -->
+    <div class="modal fade" id="modal-contest-asian-dance" tabindex="-1" aria-labelledby="modal-contest-asian-dance-label" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable modal-xl">
+        <div class="modal-content h-100">
+          <div class="modal-header">
+            <h5 class="modal-title" id="modal-contest-asian-dance-label">Asian Dance Contest</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <embed class="w-100 h-100" id="pdf" src="/docs/Bases KADC FreakFestival 2022.pdf"></embed>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+            <a class="btn btn-ffcyanyellow" href="https://forms.gle/P1szQdB9QZfDz1LeA" role="button">¡Inscríbete!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg flex-wrap navbar-dark bg-dark">
       <div class="container-fluid">
@@ -153,7 +173,7 @@
           </h2>
           <div id="collapse-board-games" class="accordion-collapse collapse" aria-labelledby="heading-board-games" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
-              Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para que puedas conocer y descubrir nuevos juegos con los que divertirte, o jugar una vez más a los clásicos de siempre.
+              <p>Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para que puedas conocer y descubrir nuevos juegos con los que divertirte, o jugar una vez más a los clásicos de siempre.</p>
             </div>
           </div>
         </div>
@@ -166,7 +186,7 @@
           </h2>
           <div id="collapse-tournaments" class="accordion-collapse collapse" aria-labelledby="heading-tournaments" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
-              Compite contra otros adversarios en juegos de mesa, wargames, cartas, etc. y lucha por ser el ganador de los impresionantes premios que nuestros colaboradores aportarán para los campeones.
+              <p>Compite contra otros adversarios en juegos de mesa, wargames, cartas, etc. y lucha por ser el ganador de los impresionantes premios que nuestros colaboradores aportarán para los campeones.</p>
             </div>
           </div>
         </div>
@@ -179,7 +199,7 @@
           </h2>
           <div id="collapse-rpg" class="accordion-collapse collapse" aria-labelledby="heading-rpg" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
-              Vive las aventuras más emocionantes con un grupo de héroes que viajan por mundos de fantasía, ciencia ficción, terror, etc. guiados por un director de partida, que se asegurará de que vuestra historia sea digna de relato.
+              <p>Vive las aventuras más emocionantes con un grupo de héroes que viajan por mundos de fantasía, ciencia ficción, terror, etc. guiados por un director de partida, que se asegurará de que vuestra historia sea digna de relato.</p>
             </div>
           </div>
         </div>
@@ -187,12 +207,27 @@
         <div class="accordion-item border-0 my-3">
           <h2 class="accordion-header" id="heading-contests">
             <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-contests" aria-expanded="false" aria-controls="collapse-contests">
-              Concursos
+              Concursos<span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-ffyellow text-dark">¡Nuevo!</span>
             </button>
           </h2>
           <div id="collapse-contests" class="accordion-collapse collapse" aria-labelledby="heading-contests" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
-              Participa en nuestros concursos de cosplay, relato corto, fast manga, etc. y opta a increíbles premios aportados por nuestros colaboradores.
+              <p>Participa en nuestros concursos de cosplay, relato corto, fast manga, etc. y opta a increíbles premios aportados por nuestros colaboradores.</p>
+
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  <div>
+                    <h4>Asian Dance Contest</h4>
+                    <p>No te pierdas la oportunidad de participar en el concurso de baile de K-pop organizado por el maravilloso grupo Kuàizi.
+                      Ya sea en equipo o en solitario, ¡ya puedes bailar al ritmo del estilo coreano más moderno!</p>
+
+                    <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-ffcyanyellow" data-bs-toggle="modal" data-bs-target="#modal-contest-asian-dance">
+                      Bases del concurso e inscripción
+                    </button>
+                  </div>
+                </li>
+              </ul>
             </div>
           </div>
         </div>
@@ -205,7 +240,7 @@
           </h2>
           <div id="collapse-stands" class="accordion-collapse collapse" aria-labelledby="heading-stands" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
-              Descubre a creadores y negocios locales que hacen posible la expansión de nuestros hobbies y quieren dar a conocer al mundo sus productos.
+              <p>Descubre a creadores y negocios locales que hacen posible la expansión de nuestros hobbies y quieren dar a conocer al mundo sus productos.</p>
             </div>
           </div>
         </div>
@@ -218,7 +253,7 @@
           </h2>
           <div id="collapse-talks" class="accordion-collapse collapse" aria-labelledby="heading-talks" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
-              Aprende sobre tus hobbies favoritos con las charlas y exhibiciones impartidas por expertos en una gran variedad de disciplinas como artes marciales, literatura, arte, cosplay, etc.
+              <p>Aprende sobre tus hobbies favoritos con las charlas y exhibiciones impartidas por expertos en una gran variedad de disciplinas como artes marciales, literatura, arte, cosplay, etc.</p>
             </div>
           </div>
         </div>
@@ -231,7 +266,7 @@
           </h2>
           <div id="collapse-workshops" class="accordion-collapse collapse" aria-labelledby="heading-workshops" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
-              Crea con tus propias manos recuerdos únicos como tazas personalizadas, lámparas japonesas y otras manualidades que te permitirán dar rienda suelta a tu creatividad y llevarte un bonito recuerdo del evento.
+              <p>Crea con tus propias manos recuerdos únicos como tazas personalizadas, lámparas japonesas y otras manualidades que te permitirán dar rienda suelta a tu creatividad y llevarte un bonito recuerdo del evento.</p>
             </div>
           </div>
         </div>

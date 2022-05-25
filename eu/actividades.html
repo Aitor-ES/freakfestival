@@ -23,6 +23,7 @@
     <link href="/styles/color/bootstrap-color-fflime.css" rel="stylesheet">
     <link href="/styles/color/bootstrap-color-ffolive.css" rel="stylesheet">
     <link href="/styles/color/bootstrap-color-ffyellow.css" rel="stylesheet">
+    <link href="/styles/color/bootstrap-color-ffcyanyellow.css" rel="stylesheet">
 
     <!-- Own CSS styles -->
     <link href="/styles/main.css" rel="stylesheet">
@@ -56,6 +57,25 @@
     <title>Jarduerak · Freak Festival</title>
   </head>
   <body>
+    <!-- Modal -->
+    <div class="modal fade" id="modal-contest-asian-dance" tabindex="-1" aria-labelledby="modal-contest-asian-dance-label" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable modal-xl">
+        <div class="modal-content h-100">
+          <div class="modal-header">
+            <h5 class="modal-title" id="modal-contest-asian-dance-label">Asian Dance Contest</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <embed class="w-100 h-100" id="pdf" src="/docs/Bases KADC FreakFestival 2022.pdf"></embed>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Itxi</button>
+            <a class="btn btn-ffcyanyellow" href="https://forms.gle/P1szQdB9QZfDz1LeA" role="button">Izena eman!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg flex-wrap navbar-dark bg-dark">
       <div class="container-fluid">
@@ -187,12 +207,27 @@
         <div class="accordion-item border-0 my-3">
           <h2 class="accordion-header" id="heading-contests">
             <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-contests" aria-expanded="false" aria-controls="collapse-contests">
-              Lehiaketak
+              Lehiaketak<span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-ffyellow text-dark">Berria!</span>
             </button>
           </h2>
           <div id="collapse-contests" class="accordion-collapse collapse" aria-labelledby="heading-contests" data-bs-parent="#accordion-activities">
             <div class="accordion-body">
               <p>Parte hartu ezazu gure cosplay, istorio labur, fast manga etab. lehiaketetan eta gure kolaboratzaileek eskeinitako sari bikainen irabazle izateko aukera izan ezazu.</p>
+
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  <div>
+                    <h4>Asian Dance Contest</h4>
+                    <p>Ez galdu Kuàizi elkarte zoragarriak antolatutako K-pop dantza lehiaketan parte hartzeko aukera.
+                      Taldeka edo banaka, orain korear estilo berrienaren erritmora dantza dezakezu!</p>
+
+                    <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-ffcyanyellow" data-bs-toggle="modal" data-bs-target="#modal-contest-asian-dance">
+                      Lehiaketaren oinarriak eta izen-ematea
+                    </button>
+                  </div>
+                </li>
+              </ul>
             </div>
           </div>
         </div>
