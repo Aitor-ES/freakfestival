@@ -5,8 +5,8 @@
   border-color: #55d5d7; }
   .btn-outline-ffcyanyellow:hover {
     color: #000;
-    background-color: #55d5d7;
-    border-color: #55d5d7; }
+    background-color: #ffdc52;
+    border-color: #ffdc52; }
   .btn-check:focus + .btn-outline-ffcyanyellow, .btn-outline-ffcyanyellow:focus {
     box-shadow: 0 0 0 0.25rem rgba(255, 220, 82, 0.5); }
   .btn-check:checked + .btn-outline-ffcyanyellow, .btn-check:active + .btn-outline-ffcyanyellow, .btn-outline-ffcyanyellow:active, .btn-outline-ffcyanyellow.active, .btn-outline-ffcyanyellow.dropdown-toggle.show {
