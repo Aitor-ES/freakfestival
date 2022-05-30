@@ -1,3 +1,12 @@
+:root {
+    --ff-midnight: #191d38;
+    --ff-midnight-rgb: 25, 29, 56;
+}
+
 body {
     font-family: var(--body-font-family);
+}
+
+.ff-main-gutter {
+    --bs-gutter-x: 1.5rem;
 }
