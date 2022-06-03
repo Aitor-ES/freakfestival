@@ -5,6 +5,16 @@
     box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15),inset 0 -1px 0 rgba(0,0,0,0.15);
 }
 
+/* .ff-navbar .navbar-toggler:first-child {
+    margin-left: -.5rem;
+}
+
+.ff-navbar .navbar-toggler {
+    padding: 0;
+    margin-right: -.5rem;
+    border: 0;
+} */
+
 .navbar-logo {
     width: auto;
     height: 40px;
