@@ -40,6 +40,15 @@
 .bg-ffmidnight {
   background-color: #191d38 !important; }
 
+.bg-ffmidnight-75 {
+  background-color: #191d38c0 !important; }
+
+.bg-ffmidnight-50 {
+  background-color: #191d3880 !important; }
+
+.bg-ffmidnight-25 {
+  background-color: #191d3840 !important; }
+
 .text-ffmidnight {
   color: #191d38 !important; }
 
