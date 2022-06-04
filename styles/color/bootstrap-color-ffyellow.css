@@ -20,15 +20,15 @@
     background-color: transparent; }
 
 .table-ffyellow {
-  --bs-table-bg: #ffdc52;
-  --bs-table-striped-bg: #f2d14e;
+  --bs-table-bg: #ffdc5232;
+  --bs-table-striped-bg: #f2d14e32;
   --bs-table-striped-color: #000;
-  --bs-table-active-bg: #e6c64a;
+  --bs-table-active-bg: #e6c64a7d;
   --bs-table-active-color: #000;
-  --bs-table-hover-bg: #eccc4c;
+  --bs-table-hover-bg: #eccc4c64;
   --bs-table-hover-color: #000;
   color: #000;
-  border-color: #e6c64a; }
+  border-color: #e6c64a7d; }
 
 .alert-ffyellow {
   color: #665821;
