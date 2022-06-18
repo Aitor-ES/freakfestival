@@ -10,6 +10,7 @@ deployment:
     - /bin/cp como-llegar.html $DEPLOYPATH
     - /bin/cp organizadores.html $DEPLOYPATH
     - /bin/cp colaboradores.html $DEPLOYPATH
+    - /bin/cp mapas-recinto.html $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
