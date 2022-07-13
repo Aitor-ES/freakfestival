@@ -11,6 +11,7 @@ deployment:
     - /bin/cp organizadores.php $DEPLOYPATH
     - /bin/cp colaboradores.php $DEPLOYPATH
     - /bin/cp mapas-recinto.php $DEPLOYPATH
+    - /bin/cp -R include $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
