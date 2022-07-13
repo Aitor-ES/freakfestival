@@ -4,7 +4,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $title = "Actividades";
-      require("/include/head.php");
+      require("include/head.php");
     ?>
 
     <!-- Page CSS -->
@@ -12,7 +12,7 @@
   </head>
   <body>
     <!-- Navbar Start -->
-    <?php include("/include/header.php"); ?>
+    <?php include("include/header.php"); ?>
     <!-- Navbar End -->
 
     <!-- Main Start -->
@@ -730,7 +730,7 @@
     <!-- Main End -->
 
     <!-- Footer Start -->
-    <?php include("/include/footer.php"); ?>
+    <?php include("include/footer.php"); ?>
     <!-- Footer End -->
 
     <!-- Bootstrap JS bundle w/ Popper.js -->
