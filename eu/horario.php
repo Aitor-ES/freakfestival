@@ -1,136 +1,15 @@
 <!DOCTYPE html>
 <html lang="eu">
   <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Freak Festival Vitoria-Gasteizeko aisialdi alternatiboko ekitaldi bat da, mundu frikiko jarduera ugari eskaintzen dituena.">
-    <meta name="author" content="Valinor Kultura-Elkartea">
-    <meta name="theme-color" content="#191d38">
-
-    <!-- Favicon -->
-    <link rel="icon" href="/images/logo_freak_festival_22_xs.svg">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <!-- Bootstrap Icons CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.min.css">
-
-    <!-- Own Bootstrap colors CSS -->
-    <link href="/styles/color/bootstrap-color-ffash.css" rel="stylesheet">
-    <link href="/styles/color/bootstrap-color-ffmidnight.css" rel="stylesheet">
-    <link href="/styles/color/bootstrap-color-ffcyan.css" rel="stylesheet">
-    <link href="/styles/color/bootstrap-color-ffemerald.css" rel="stylesheet">
-    <link href="/styles/color/bootstrap-color-ffgreen.css" rel="stylesheet">
-    <link href="/styles/color/bootstrap-color-fflime.css" rel="stylesheet">
-    <link href="/styles/color/bootstrap-color-ffolive.css" rel="stylesheet">
-    <link href="/styles/color/bootstrap-color-ffyellow.css" rel="stylesheet">
-
-    <!-- Own CSS styles -->
-    <link href="/styles/main.css" rel="stylesheet">
-    <link href="/styles/fonts.css" rel="stylesheet">
-    <link href="/styles/layout.css" rel="stylesheet">
-    <link href="/styles/radius.css" rel="stylesheet">
-    <link href="/styles/btn.css" rel="stylesheet">
-    <link href="/styles/nav.css" rel="stylesheet">
-    <link href="/styles/footer.css" rel="stylesheet">
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@AsoValinor">
-    <meta name="twitter:creator" content="@AsoValinor">
-    <meta name="twitter:title" content="Ordutegia · Freak Festival">
-    <meta name="twitter:description" content="Freak Festival Vitoria-Gasteizeko aisialdi alternatiboko ekitaldi bat da, mundu frikiko jarduera ugari eskaintzen dituena.">
-    <meta name="twitter:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
-
-    <!-- Facebook -->
-    <meta property="og:url" content="https://freakfestival.es/eu/horario.html">
-    <meta property="og:title" content="Ordutegia · Freak Festival">
-    <meta property="og:description" content="Freak Festival Vitoria-Gasteizeko aisialdi alternatiboko ekitaldi bat da, mundu frikiko jarduera ugari eskaintzen dituena.">
-    <meta property='og:site_name' content='Freak Festival'>
-    <meta property="og:type" content="article">
-    <meta property="og:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
-    <meta property="og:image:type" content="image/jpg">
-    <meta property="og:image:width" content="1000">
-    <meta property="og:image:height" content="500">
-
-    <title>Ordutegia · Freak Festival</title>
+    <!-- Header tags and common CSS -->
+    <?php
+      $title = "Ordutegia";
+      require("include/head.php");
+    ?>
   </head>
   <body>
     <!-- Navbar Start -->
-    <header class="navbar navbar-expand-lg sticky-top flex-wrap navbar-dark ff-navbar">
-      <nav class="container-xxl">
-        <button id="nav-toggler" class="navbar-toggler p-2 border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvas" aria-controls="navbarOffcanvas" aria-expanded="false" aria-label="Toggle navigation">
-          <i class="bi bi-list" style="font-size: 2rem;"></i>
-        </button>
-        <a id="nav-logo" class="navbar-brand mx-auto mx-lg-0 pe-5 pe-lg-0" href="index.html">
-          <img src="/images/logo_freak_festival_22.svg" class="navbar-logo" alt="Freak Festival" width="102" height="40">
-        </a>
-        <div class="offcanvas offcanvas-start bg-ffmidnight d-lg-contents" tabindex="-1" id="navbarOffcanvas" aria-labelledby="offcanvasTitle">
-          <div class="offcanvas-header text-light px-4 pb-0">
-            <img src="/images/logo_freak_festival_22.svg" id="offcanvasTitle" alt="Freak Festival" width="153" height="60">
-            <button type="button" class="btn-close btn-close-white text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-          </div>
-          <div class="offcanvas-body d-lg-contents p-4 pt-0 p-lg-0">
-            <hr class="d-lg-none text-white-50">
-            <div id="nav-links-start" class="navbar-collapse">
-              <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
-                <li class="nav-item">
-                  <a class="nav-link f-frutiger-b text-uppercase text-lg-center" href="index.html">Hasiera</a>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link f-frutiger-b text-uppercase text-lg-center dropdown-toggle active" aria-current="page" href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Egitaraua
-                  </a>
-                  <ul class="dropdown-menu p-1" aria-labelledby="navbarDropdown-program">
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades.html">Jarduerak</a></li>
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.html">Ordutegia</a></li>
-                  </ul>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link f-frutiger-b text-uppercase text-lg-center" href="invitados.html">Gonbidatuak</a>
-                </li>
-              </ul>
-            </div>
-            <div id="nav-links-end" class="navbar-collapse">
-              <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
-                <li class="nav-item dropdown">
-                  <a class="nav-link f-frutiger-b text-uppercase text-lg-center dropdown-toggle" href="#" id="navbarDropdown-info" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Lekua
-                  </a>
-                  <ul class="dropdown-menu p-1" aria-labelledby="navbarDropdown-info">
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="como-llegar.html">Nola heldu</a></li>
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.html">Esparruaren mapak</a></li>
-                  </ul>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link f-frutiger-b text-uppercase text-lg-center dropdown-toggle" href="#" id="navbarDropdown-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Nortzuk gara
-                  </a>
-                  <ul class="dropdown-menu p-1" aria-labelledby="navbarDropdown-about">
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="organizadores.html">Antolatzaileak</a></li>
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="colaboradores.html">Kolaboratzaileak</a></li>
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="galeria-fotos.html">Argazki-galeria</a></li>
-                  </ul>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link f-frutiger-b text-lowercase nav-link-lang dropdown-toggle" href="#" id="navbarDropdown-lang" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Hautatutako hizkuntza: euskara">
-                    Euskara
-                  </a>
-                  <ul class="dropdown-menu dropdown-menu-lg-end p-1" aria-labelledby="navbarDropdown-lang">
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="/horario.html">Español</a></li>
-                    <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="#">Euskara</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- <div id="footer-toggler" class="d-lg-none invisible px-2 p-lg-0">
-          <i class="bi bi-three-dots-vertical" style="font-size: 2rem;"></i>
-        </div> -->
-      </nav>
-    </header>
+    <?php include("include/header.php"); ?>
     <!-- Navbar End -->
 
     <!-- Main Start -->
@@ -656,45 +535,7 @@
     <!-- Main End -->
 
     <!-- Footer Start -->
-    <footer class="mt-5 py-5 bg-ffmidnight text-white text-center">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <p>Antolatzaileak:</p>
-            <h4><a class="text-reset text-decoration-none" href="organizadores.html">Valinor Kultura-Elkartea</a></h4>
-            <p class="my-4">Ezagutu gaitzazu!</p>
-            <ul class="list-inline mb-0">
-              <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="https://www.facebook.com/asociacionvalinor"><i class="bi bi-facebook"></i></a></li>
-              <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="https://www.instagram.com/asovalinor"><i class="bi bi-instagram"></i></a></li>
-              <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="mailto:asovalinor@gmail.com"><i class="bi bi-envelope-fill"></i></a></li>
-              <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="https://twitter.com/AsoValinor"><i class="bi bi-twitter"></i></a></li>
-            </ul>
-          </div>
-        </div>
-
-        <hr class="my-5">
-
-        <div class="row row-cols-2 row-cols-lg-4 gy-4">
-          <div class="col d-flex justify-content-center align-items-center">
-            <img class="logo-sponsor" src="/images/logos/Logo_Gauekoak-min.png" alt="" width="auto" height="40">
-          </div>
-
-          <div class="col d-flex justify-content-center align-items-center">
-            <img class="logo-sponsor rounded-4" src="/images/logos/marcaVG!greencapital-BicolorNegativo-min.jpg" alt="" width="auto" height="40">
-          </div>
-
-          <div class="col d-flex justify-content-center align-items-center">
-            <img class="logo-sponsor rounded-4" src="/images/logos/MarcaAytoNegativo-H-min.jpg" alt="" width="auto" height="40">
-          </div>
-
-          <div class="col d-flex justify-content-center align-items-center">
-            <a href="https://www.fundacionvital.eus/">
-              <img class="logo-sponsor bg-light rounded-4 p-2 p-lg-3" src="/images/logos/fundacion-vital-logo-pie.svg" alt="" width="auto" height="40">
-            </a>
-          </div>
-        </div>
-      </div>
-    </footer>
+    <?php include("include/footer.php"); ?>
     <!-- Footer End -->
 
     <!-- Bootstrap JS bundle w/ Popper.js -->
