@@ -20,108 +20,99 @@
     <div class="container-md ff-main-gutter my-5">
       <h1 class="f-uncial-r mb-5">Aurreko urtetan...</h1>
 
-      <div class="row gy-4 justify-content-center">
+      <h2 class="f-uncial-r mb-5">2022</h2>
+
+      <div class="row gy-4 mb-5 justify-content-center">
+        <?php
+          foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min") as $file) {
+            if (!$file->isFile()) continue;
+        ?>
+
         <div class="col-auto">
-          <a href="/images/photos/gallery/Charlas.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/Charlas-min.jpg" alt="" width="auto" height="100px">
+          <a href="/images/photos/gallery/2022/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+            <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
           </a>
         </div>
 
+        <?php
+          }
+        ?>
+      </div>
+
+      <h3 class="mb-4">Artistak</h3>
+
+      <div class="row gy-4 mb-5 justify-content-center">
+        <?php
+          foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Artistas") as $file) {
+            if (!$file->isFile()) continue;
+        ?>
+
         <div class="col-auto">
-          <a href="/images/photos/gallery/Cosplay.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/Cosplay-min.jpg" alt="" width="auto" height="100px">
+          <a href="/images/photos/gallery/2022/min/Artistas/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+            <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Artistas/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
           </a>
         </div>
 
+        <?php
+          }
+        ?>
+      </div>
+
+      <h3 class="mb-4">Kolaboratzaileak eta tailerrak</h3>
+
+      <div class="row gy-4 mb-5 justify-content-center">
+        <?php
+          foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Colaboradores y talleres") as $file) {
+            if (!$file->isFile()) continue;
+        ?>
+
         <div class="col-auto">
-          <a href="/images/photos/gallery/General 1.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/General 1-min.jpg" alt="" width="auto" height="100px">
+          <a href="/images/photos/gallery/2022/min/Colaboradores y talleres/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+            <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Colaboradores y talleres/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
           </a>
         </div>
 
+        <?php
+          }
+        ?>
+      </div>
+
+      <h3 class="mb-4">Mahai- eta rol-jokoak</h3>
+
+      <div class="row gy-4 mb-5 justify-content-center">
+        <?php
+          foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Juegos de mesa y rol") as $file) {
+            if (!$file->isFile()) continue;
+        ?>
+
         <div class="col-auto">
-          <a href="/images/photos/gallery/General 2.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/General 2-min.jpg" alt="" width="auto" height="100px">
+          <a href="/images/photos/gallery/2022/min/Juegos de mesa y rol/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+            <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Juegos de mesa y rol/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
           </a>
         </div>
 
+        <?php
+          }
+        ?>
+      </div>
+
+      <h2 class="f-uncial-r mb-5">2018</h2>
+
+      <div class="row gy-4 mb-5 justify-content-center">
+        <?php
+          foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2018/min") as $file) {
+            if ($file->isDot()) continue;
+        ?>
+
         <div class="col-auto">
-          <a href="/images/photos/gallery/General 3.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/General 3-min.jpg" alt="" width="auto" height="100px">
+          <a href="/images/photos/gallery/2018/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+            <img class="border rounded p-1" src="/images/photos/gallery/2018/thumbnails/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
           </a>
         </div>
 
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7770.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7770-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7797.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7797-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7826.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7826-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7828.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7828-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7830.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7830-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7851.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7851-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7864.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7864-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7874.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7874-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/IMG_7880.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/IMG_7880-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/Juegos de mesa.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/Juegos de mesa-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/Tiendas, artistas y artesanos.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/Tiendas, artistas y artesanos-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
-
-        <div class="col-auto">
-          <a href="/images/photos/gallery/Torneos.jpg" data-lightbox="gallery">
-            <img class="border rounded p-1" src="/images/photos/gallery/Torneos-min.jpg" alt="" width="auto" height="100px">
-          </a>
-        </div>
+        <?php
+          }
+        ?>
       </div>
     </div>
     <!-- Main End -->
