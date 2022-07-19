@@ -7,9 +7,11 @@
       require("include/head.php");
     ?>
 
-    <!-- Page CSS -->
     <!-- Lightbox2 library -->
     <link href="/libraries/lightbox2/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Page CSS -->
+    <link href="/styles/galeria-fotos.css" rel="stylesheet">
   </head>
   <body>
     <!-- Navbar Start -->
@@ -94,6 +96,12 @@
         <?php
           }
         ?>
+      </div>
+
+      <h3 class="mb-4">Bideoa</h3>
+
+      <div class="text-center">
+        <iframe id="gallery-video" class="mb-5" src="https://drive.google.com/file/d/1J2vmd-zc02kKfumchDEKKgDNB6eJCGWu/preview" width="640" height="360"></iframe>
       </div>
 
       <h2 class="f-uncial-r mb-5">2018</h2>
