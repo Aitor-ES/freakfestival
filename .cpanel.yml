@@ -19,3 +19,4 @@ deployment:
     - /bin/cp -R styles $DEPLOYPATH
     - /bin/cp -R eu $DEPLOYPATH
     - /bin/cp -R docs $DEPLOYPATH
+    - /bin/cp -R lang $DEPLOYPATH
