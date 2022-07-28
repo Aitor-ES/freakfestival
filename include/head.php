@@ -3,22 +3,22 @@
 <!-- Required meta tags -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="El Freak Festival es un evento de ocio alternativo en Vitoria-Gasteiz en el que disfrutar una gran variedad de actividades relacionadas con el mundo friki.">
-<meta name="author" content="Asociación Cultural Valinor">
+<meta name="description" content="<?php echo $lang["lang.head.description"]; ?>">
+<meta name="author" content="<?php echo $lang["lang.head.author"]; ?>">
 <meta name="theme-color" content="#191d38">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@AsoValinor">
 <meta name="twitter:creator" content="@AsoValinor">
-<meta name="twitter:title" content="<?php echo $title; ?> · Freak Festival">
-<meta name="twitter:description" content="El Freak Festival es un evento de ocio alternativo en Vitoria-Gasteiz en el que disfrutar una gran variedad de actividades relacionadas con el mundo friki.">
+<meta name="twitter:title" content="<?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?>">
+<meta name="twitter:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta name="twitter:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
 
 <!-- Facebook -->
 <meta property="og:url" content="https://freakfestival.es/<?php echo $curPageName; ?>">
-<meta property="og:title" content="<?php echo $title; ?> · Freak Festival">
-<meta property="og:description" content="El Freak Festival es un evento de ocio alternativo en Vitoria-Gasteiz en el que disfrutar una gran variedad de actividades relacionadas con el mundo friki.">
+<meta property="og:title" content="<?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?>">
+<meta property="og:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta property='og:site_name' content='Freak Festival'>
 <meta property="og:type" content="article">
 <meta property="og:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
@@ -26,7 +26,7 @@
 <meta property="og:image:width" content="1000">
 <meta property="og:image:height" content="500">
 
-<title><?php echo $title; ?> · Freak Festival</title>
+<title><?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?></title>
 
 <!-- Favicon -->
 <link rel="icon" href="/images/logo_freak_festival_22_xs.svg">
