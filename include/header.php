@@ -25,7 +25,7 @@
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
-              <ul class="dropdown-menu p-1" aria-labelledby="navbarDropdown-program">
+              <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-program">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
               </ul>
@@ -44,7 +44,7 @@
               href="#" id="navbarDropdown-info" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.location"]; ?>
               </a>
-              <ul class="dropdown-menu p-1" aria-labelledby="navbarDropdown-info">
+              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-info">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="como-llegar.php"><?php echo $lang["lang.header.how-to-come"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
               </ul>
@@ -55,7 +55,7 @@
               href="#" id="navbarDropdown-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.who-we-are"]; ?>
               </a>
-              <ul class="dropdown-menu p-1" aria-labelledby="navbarDropdown-about">
+              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-about">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="organizadores.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="colaboradores.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="galeria-fotos.php"><?php echo $lang["lang.header.photo-gallery"]; ?></a></li>
@@ -65,7 +65,7 @@
               <a class="nav-link f-frutiger-b text-lowercase nav-link-lang dropdown-toggle" href="#" id="navbarDropdown-lang" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Idioma seleccionado: español">
               <?php echo $lang["lang.header.lang." . $lang["lang"]]; ?>
               </a>
-              <ul class="dropdown-menu dropdown-menu-lg-end p-1" aria-labelledby="navbarDropdown-lang">
+              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-lang">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="/<?php echo $curPageName; ?>"><?php echo $lang["lang.header.lang.es"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="/eu/<?php echo $curPageName; ?>"><?php echo $lang["lang.header.lang.eu"]; ?></a></li>
               </ul>

@@ -22,18 +22,22 @@
       </div>
 
       <div class="col d-flex justify-content-center align-items-center">
-        <img class="logo-sponsor rounded-4" src="/images/logos/marcaVG!greencapital-BicolorNegativo-min.jpg" alt="" width="auto" height="40">
+        <img class="logo-sponsor rounded-3" src="/images/logos/marcaVG!greencapital-BicolorNegativo-min.jpg" alt="" width="auto" height="40">
       </div>
 
       <div class="col d-flex justify-content-center align-items-center">
-        <img class="logo-sponsor rounded-4" src="/images/logos/MarcaAytoNegativo-H-min.jpg" alt="" width="auto" height="40">
+        <img class="logo-sponsor rounded-3" src="/images/logos/MarcaAytoNegativo-H-min.jpg" alt="" width="auto" height="40">
       </div>
 
       <div class="col d-flex justify-content-center align-items-center">
         <a href="https://www.fundacionvital.eus/">
-          <img class="logo-sponsor bg-light rounded-4 p-2 p-lg-3" src="/images/logos/fundacion-vital-logo-pie.svg" alt="" width="auto" height="40">
+          <img class="logo-sponsor bg-light rounded-3 p-2 p-lg-3" src="/images/logos/fundacion-vital-logo-pie.svg" alt="" width="auto" height="40">
         </a>
       </div>
     </div>
   </div>
 </footer>
+
+<!-- Common scripts -->
+<!-- Bootstrap JS bundle w/ Popper.js -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>

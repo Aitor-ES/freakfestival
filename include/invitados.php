@@ -9,7 +9,7 @@
 
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-evenly">
       <div class="col">
-        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-5">
+        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
           <div class="card-header"><?php echo $lang["lang.guests.dedication.cosplayer"]; ?></div>
 
           <img src="/images/photos/invitados/Invitada_burning_flare-min.jpg" class="card-img-top rounded-0" alt="Burning Flare">
@@ -38,7 +38,7 @@
       </div>
 
       <div class="col">
-        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-5">
+        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
           <div class="card-header"><?php echo $lang["lang.guests.dedication.cosplayer"]; ?></div>
 
           <img src="/images/photos/invitados/Invitada_pandastica-min.jpg" class="card-img-top rounded-0" alt="Pandastica">
@@ -63,7 +63,7 @@
       </div>
 
       <div class="col">
-        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-5">
+        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
           <div class="card-header"><?php echo $lang["lang.guests.dedication.cosplayer"]; ?></div>
 
           <img src="/images/photos/invitados/Invitada_kaceda-min.jpg" class="card-img-top rounded-0" alt="Kaceda">
@@ -89,10 +89,4 @@
   <!-- Footer Start -->
   <?php include("footer.php"); ?>
   <!-- Footer End -->
-
-  <!-- Bootstrap JS bundle w/ Popper.js -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-
-  <!-- jQuery JS -->
-  <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> -->
 </body>
