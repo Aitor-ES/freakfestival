@@ -1,6 +1,13 @@
 #banner {
-    background-image: url('../images/photos/banner_dark-min.jpg');
+    background:
+        /* top, transparent black, faked with gradient */
+        linear-gradient(
+          rgba(0, 0, 0, 0.5),
+          rgba(0, 0, 0, 0.7)
+        ),
+        /* bottom, image */
+        url('../images/photos/banner-min.jpg');
     background-size: cover;
-    background-position: right top;
-    background-color: #30272C;
+    background-position: 85%;
+    background-color: #43413E;
 }
