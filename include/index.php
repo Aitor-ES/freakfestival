@@ -5,24 +5,23 @@
 
   <!-- Banner Start -->
   <div class="container-fluid ff-main-gutter text-center text-white mb-4 py-5" id="banner">
-    <div class="row mb-5">
-      <div class="col">
-        <h1><img src="/images/logo_freak_festival_22.svg" class="img-fluid" alt="Freak Festival"></h1>
-      </div>
-    </div>
     <div class="row">
       <div class="col">
-        <h3 class="display-5 f-uncial-r f-gradient-ff"><?php echo $lang["lang.home.banner.location.town"]; ?></h3>
+        <h1 class="mb-5"><img src="/images/logo_freak_festival_22.svg" class="img-fluid" alt="Freak Festival"></h1>
       </div>
     </div>
+
     <div class="row">
       <div class="col">
-        <h4 class="f-gradient-ff"><?php echo $lang["lang.home.banner.location.building"]; ?></h4>
+        <h2 class="display-5 f-uncial-r f-gradient-ff mb-3"><?php echo $lang["lang.home.banner.location.town"]; ?></h2>
+        <h3 class="f-gradient-ff mb-3"><?php echo $lang["lang.home.banner.location.building"]; ?></h3>
+        <h4 class="f-gradient-ff mb-5"><?php echo $lang["lang.home.banner.entrance"]; ?></h4>
       </div>
     </div>
-    <div class="row my-5">
+
+    <div class="row">
       <div class="col">
-        <h2 class="display-5 f-frutiger-b f-gradient-ff"><?php echo $lang["lang.home.banner.date"]; ?></h2>
+        <h2 class="display-6 f-frutiger-b f-gradient-ff mb-4"><?php echo $lang["lang.home.banner.date"]; ?></h2>
       </div>
     </div>
   </div>

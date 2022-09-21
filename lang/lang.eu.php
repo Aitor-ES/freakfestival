@@ -36,6 +36,7 @@ $lang = array(
 
   "lang.home.banner.location.town" => "Vitoria-Gasteiz",
   "lang.home.banner.location.building" => "Europa Biltzar Jauregia",
+  "lang.home.banner.entrance" => "Sarrera irekia",
   "lang.home.banner.date" => "2022ko ekainaren 25 eta 26a",
   "lang.home.introduction.title" => "Freak Festival…",
   "lang.home.introduction.paragraph.1" => "<strong>Aisialdi alternatiboko ekitaldi bat da, publiko orokorrari zuzendua</strong>, Vitoria-Gasteizen kokatua. Jardunaldi honetan era desberdinetako jarduerak aurkituko dituzu, hala nola, mahai jokoen txapelketak, rol jokoak, hitzaldiak, cosplay-a, tailer desberdinak, artista ugariren postuak eta arte martzialen ikuskizunak.",

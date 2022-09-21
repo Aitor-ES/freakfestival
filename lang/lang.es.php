@@ -36,6 +36,7 @@ $lang = array(
 
   "lang.home.banner.location.town" => "Vitoria-Gasteiz",
   "lang.home.banner.location.building" => "Palacio de Congresos Europa",
+  "lang.home.banner.entrance" => "Entrada abierta",
   "lang.home.banner.date" => "25 y 26 de junio de 2022",
   "lang.home.introduction.title" => "El Freak Festival es…",
   "lang.home.introduction.paragraph.1" => "Un <strong>evento de ocio alternativo para el público general</strong>, ubicado en la ciudad de Vitoria-Gasteiz. En este evento podrás encontrar todo tipo de actividades de la cultura friki, como torneos de juegos de mesa, partidas de rol, charlas, cosplay, talleres de manualidades, puestos de artistas y exhibiciones de artes marciales.",
