@@ -4,7 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.head.title.galeria-fotos"];
+      $title = $lang["lang.head.title.fotos"];
       require("include/head.php");
     ?>
 
@@ -12,7 +12,7 @@
     <link href="/libraries/lightbox2/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Page CSS -->
-    <link href="/styles/galeria-fotos.css" rel="stylesheet">
+    <link href="/styles/fotos.css" rel="stylesheet">
   </head>
-  <?php require("include/galeria-fotos.php"); ?>
+  <?php require("include/fotos.php"); ?>
 </html>

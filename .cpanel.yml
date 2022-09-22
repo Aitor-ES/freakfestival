@@ -3,11 +3,10 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/ra4450/public_html/
     - /bin/cp actividades.php $DEPLOYPATH
-    - /bin/cp galeria-fotos.php $DEPLOYPATH
+    - /bin/cp fotos.php $DEPLOYPATH
     - /bin/cp horario.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp invitados.php $DEPLOYPATH
-    - /bin/cp como-llegar.php $DEPLOYPATH
     - /bin/cp organizadores.php $DEPLOYPATH
     - /bin/cp colaboradores.php $DEPLOYPATH
     - /bin/cp mapas-recinto.php $DEPLOYPATH
