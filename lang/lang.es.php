@@ -41,7 +41,7 @@ $lang = array(
 
   "lang.home.introduction.title" => "El Freak Festival es…",
   "lang.home.introduction.paragraph.1" => "Redoble de tambores para lo que os traemos este mes de junio.",
-  "lang.home.introduction.paragraph.2" => "Después de dos años sin oportunidad de disfrutar del Freak Festival y después de la dura pandemia <strong>volvemos más fuertes que nunca</strong>, y con un buen lavado de cara.",
+  "lang.home.introduction.paragraph.2" => "Después de dos años sin oportunidad de disfrutar del Freak Festival y después de la dura pandemia <strong>estamos de vuelta, más fuertes que nunca</strong> y con un buen lavado de cara.",
   "lang.home.introduction.paragraph.3" => "¡Os presentamos el <strong>Freak Festival 2022</strong>, el fin de semana del <strong>25 y 26 de junio</strong>, en el emblemático <strong>Palacio de congresos Europa!</strong>",
   "lang.home.introduction.paragraph.4" => "¿Os animáis a venir? ¡Estad atentos a todo lo que se viene!",
   "lang.home.introduction.location.title" => "Localización",
