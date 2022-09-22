@@ -29,30 +29,60 @@
 
   <div class="container-md ff-main-gutter my-5">
     <!-- Introduction Start -->
-    <div class="row">
-      <div class="order-lg-1 col-lg-5 text-center mb-4 mb-lg-0">
-        <img class="img-fluid rounded-pill" src="/images/photos/general_1_blue-min.jpg" width="400" height="400" alt="">
+    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
+
+    <div class="row mb-5">
+      <div class="col-12 col-lg-4 pb-4 pb-lg-0">
+        <p><?php echo $lang["lang.home.introduction.paragraph.1"]; ?></p>
+        <p><?php echo $lang["lang.home.introduction.paragraph.2"]; ?></p>
+        <p><?php echo $lang["lang.home.introduction.paragraph.3"]; ?></p>
+        <p><?php echo $lang["lang.home.introduction.paragraph.4"]; ?></p>
       </div>
-      <div class="order-lg-0 col-lg-7 d-flex flex-column justify-content-center text-center text-lg-end">
-        <h2 class="f-uncial-r"><?php echo $lang["lang.home.introduction.title"]; ?></h2>
-        <p>
-        <?php echo $lang["lang.home.introduction.paragraph.1"]; ?>
-        </p>
-        <p>
-        <?php echo $lang["lang.home.introduction.paragraph.2"]; ?>
-        </p>
+
+      <div class="col-12 col-lg-7 offset-lg-1">
+        <div class="row gy-4 text-center text-sm-start">
+          <div class="col-12 col-sm-6 px-3">
+            <div class="mb-2"><i class="bi bi-geo fs-1 text-ffmidnight"></i></div>
+            <h3 class="fw-light"><?php echo $lang["lang.home.introduction.location.title"]; ?></h3>
+            <p>
+              <?php echo $lang["lang.home.introduction.location.building"]; ?>
+              <br>
+              <?php echo $lang["lang.home.introduction.location.address"]; ?>
+              <br>
+              <?php echo $lang["lang.home.introduction.location.town"]; ?>
+              <br>
+              <a href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
+            </p>
+          </div>
+
+          <div class="col-12 col-sm-6 px-3">
+            <div class="mb-2"><i class="bi bi-dice-6 fs-1 text-ffmidnight"></i></div>
+            <h3 class="fw-light"><?php echo $lang["lang.home.introduction.leisure.title"]; ?></h3>
+            <p><?php echo $lang["lang.home.introduction.leisure.description"]; ?></p>
+          </div>
+
+          <div class="col-12 col-sm-6 px-3">
+            <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffmidnight"></i></div>
+            <h3 class="fw-light"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
+            <p>
+              <?php echo $lang["lang.home.introduction.date.days"]; ?>
+              <br>
+              <?php echo $lang["lang.home.introduction.date.weekdays"]; ?>
+            </p>
+          </div>
+
+          <div class="col-12 col-sm-6 px-3">
+            <div class="mb-2"><i class="bi bi-box-arrow-in-right fs-1 text-ffmidnight"></i></div>
+            <h3 class="fw-light"><?php echo $lang["lang.home.introduction.entrance.title"]; ?></h3>
+            <p><?php echo $lang["lang.home.introduction.entrance.description"]; ?></p>
+          </div>
+        </div>
       </div>
     </div>
     <!-- Introduction End -->
 
-    <hr class="my-5">
-
     <!-- Features Start -->
-    <div class="row">
-      <div class="col-12">
-        <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.home.features.title"]; ?></h1>
-      </div>
-    </div>
+    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.home.features.title"]; ?></h1>
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 gy-5 justify-content-center text-center">
 
