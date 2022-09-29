@@ -8,20 +8,9 @@
     <div class="row">
       <div class="col">
         <h1 class="mb-5"><img src="/images/logo_freak_festival_22.svg" class="img-fluid" alt="Freak Festival"></h1>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col">
-        <h2 class="display-5 f-uncial-r f-gradient-ff mb-3"><?php echo $lang["lang.home.banner.location.town"]; ?></h2>
-        <h3 class="f-gradient-ff mb-3"><?php echo $lang["lang.home.banner.location.building"]; ?></h3>
-        <h4 class="f-gradient-ff mb-5"><?php echo $lang["lang.home.banner.entrance"]; ?></h4>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col">
-        <h2 class="display-6 f-frutiger-b f-gradient-ff mb-4"><?php echo $lang["lang.home.banner.date"]; ?></h2>
+        <h1 class="f-uncial-r f-gradient-ff mb-4"><?php echo $lang["lang.home.banner.location.town"]; ?></h1>
+        <h3 class="f-inknut-regular f-gradient-ff mb-5"><?php echo $lang["lang.home.banner.entrance"]; ?></h3>
+        <h1 class="f-inknut-regular f-gradient-ff mb-4"><?php echo $lang["lang.home.banner.date"]; ?></h1>
       </div>
     </div>
   </div>

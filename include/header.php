@@ -17,14 +17,14 @@
           <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
             <!-- Inicio -->
             <li class="nav-item">
-              <a class="nav-link f-frutiger-b text-uppercase text-lg-center
+              <a class="nav-link fw-bold text-uppercase text-lg-center
               <?php if ($curPageName == "index.php") echo "active\" aria-current=\"page"; ?>" href="index.php">
                 <?php echo $lang["lang.header.home"]; ?>
               </a>
             </li>
             <!-- Programa -->
             <li class="nav-item dropdown">
-              <a class="nav-link f-frutiger-b text-uppercase text-lg-center dropdown-toggle
+              <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
               <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
@@ -36,7 +36,7 @@
             </li>
             <!-- Invitados -->
             <li class="nav-item">
-              <a class="nav-link f-frutiger-b text-uppercase text-lg-center
+              <a class="nav-link fw-bold text-uppercase text-lg-center
               <?php if ($curPageName == "invitados.php") echo "active\" aria-current=\"page"; ?>" href="invitados.php">
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
@@ -47,14 +47,14 @@
           <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
             <!-- Fotos -->
             <li class="nav-item">
-              <a class="nav-link f-frutiger-b text-uppercase text-lg-center
+              <a class="nav-link fw-bold text-uppercase text-lg-center
               <?php if ($curPageName == "fotos.php") echo "active\" aria-current=\"page"; ?>" href="fotos.php">
                 <?php echo $lang["lang.header.photos"]; ?>
               </a>
             </li>
             <!-- Info -->
             <li class="nav-item dropdown">
-              <a class="nav-link f-frutiger-b text-uppercase text-lg-center dropdown-toggle
+              <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
               <?php if ($curPageName == "organizadores.php" || $curPageName == "colaboradores.php" || $curPageName == "mapas-recinto.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-info" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.info"]; ?>
@@ -67,7 +67,7 @@
             </li>
             <!-- Idioma -->
             <li class="nav-item dropdown">
-              <a class="nav-link f-frutiger-b text-lowercase nav-link-lang dropdown-toggle" href="#" id="navbarDropdown-lang" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Idioma seleccionado: español">
+              <a class="nav-link fw-bold text-lowercase nav-link-lang dropdown-toggle" href="#" id="navbarDropdown-lang" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Idioma seleccionado: español">
                 <?php echo $lang["lang.header.lang." . $lang["lang"]]; ?>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-lang">
