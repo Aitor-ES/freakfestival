@@ -21,11 +21,7 @@
 
       <hr class="my-5">
 
-      <div class="row row-cols-2 row-cols-lg-4 gy-4">
-        <div class="col d-flex justify-content-center align-items-center">
-          <img class="logo-sponsor" src="/images/logos/Logo_Gauekoak-min.png" alt="" width="auto" height="40">
-        </div>
-
+      <div class="row row-cols-1 row-cols-lg-3 gy-4">
         <div class="col d-flex justify-content-center align-items-center">
           <img class="logo-sponsor rounded-3" src="/images/logos/marcaVG!greencapital-BicolorNegativo-min.jpg" alt="" width="auto" height="40">
         </div>
