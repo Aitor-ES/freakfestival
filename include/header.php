@@ -23,7 +23,13 @@
               </a>
             </li>
             <!-- Programa -->
-            <li class="nav-item dropdown">
+            <li class="nav-item">
+              <a class="nav-link fw-bold text-uppercase text-lg-center
+              <?php if ($curPageName == "actividades.php") echo "active\" aria-current=\"page"; ?>" href="actividades.php">
+                <?php echo $lang["lang.header.activities"]; ?>
+              </a>
+            </li>
+            <!-- <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
               <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -33,7 +39,7 @@
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
               </ul>
-            </li>
+            </li> -->
             <!-- Invitados -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center

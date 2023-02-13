@@ -42,9 +42,9 @@
                     <div class="col-auto">
                       <a class="btn btn-ffcyan" href="/docs/Bases juegos de mesa y cartas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -58,9 +58,9 @@
                     <div class="col-auto">
                       <a class="btn btn-ffcyan" href="/docs/Bases TORNEO FREAK FESTIVAL22 Infinity.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -74,9 +74,9 @@
                     <div class="col-auto">
                       <a class="btn btn-ffcyan" href="/docs/Bases smash bros FF22.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -102,9 +102,9 @@
                   <p><?php echo $lang["lang.activities.rpg.alien.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -115,9 +115,9 @@
                   <p><?php echo $lang["lang.activities.rpg.the-witcher.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -128,9 +128,9 @@
                   <p><?php echo $lang["lang.activities.rpg.d&d.1.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -141,9 +141,9 @@
                   <p><?php echo $lang["lang.activities.rpg.d&d.2.description"]; ?>.</p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -154,9 +154,9 @@
                   <p><?php echo $lang["lang.activities.rpg.my-little-pony.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -168,9 +168,9 @@
                   <p><?php echo $lang["lang.activities.rpg.cthulhu.description.2"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -182,9 +182,9 @@
                   <p><?php echo $lang["lang.activities.rpg.cultos-innombrables.description.2"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -195,9 +195,9 @@
                   <p><?php echo $lang["lang.activities.rpg.1800.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -208,9 +208,9 @@
                   <p><?php echo $lang["lang.activities.rpg.symbaroum.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -221,9 +221,9 @@
                   <p><?php echo $lang["lang.activities.rpg.rol-ochentero.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -234,9 +234,9 @@
                   <p><?php echo $lang["lang.activities.rpg.rol-infantil.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -247,9 +247,9 @@
                   <p><?php echo $lang["lang.activities.rpg.crazy-rol.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -261,9 +261,9 @@
                   <p><?php echo $lang["lang.activities.rpg.olimpo.description.2"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -274,9 +274,9 @@
                   <p><?php echo $lang["lang.activities.rpg.viena-1914.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -306,9 +306,9 @@
                       <a class="btn btn-ffcyan" href="/docs/Bases cosplay 22.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -322,9 +322,10 @@
                     <div class="col-auto">
                       <a class="btn btn-ffcyan" href="/docs/Bases KADC FreakFestival 2022.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
-                    <div class="col-auto">
+
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://forms.gle/P1szQdB9QZfDz1LeA" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -339,9 +340,9 @@
                       <a class="btn btn-ffcyan" href="/docs/FREAK FESTIVAL CONCURSO FAST PAINTING.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -356,9 +357,9 @@
                       <a class="btn btn-ffcyan" href="/docs/Bases fast fic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -373,9 +374,9 @@
                       <a class="btn btn-ffcyan" href="/docs/Bases fast comic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -390,9 +391,9 @@
                       <a class="btn btn-ffcyan" href="/docs/Miniaturas, Dioramas (Bases).pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -407,9 +408,9 @@
                       <a class="btn btn-ffcyan" href="/docs/Miniaturas, Dioramas (Bases).pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -519,9 +520,9 @@
                   <p><?php echo $lang["lang.activities.workshops.academia-jedi.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -531,9 +532,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.rev-creacion-pjs.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -543,9 +544,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.varitas.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -555,9 +556,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.jarras.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -567,9 +568,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.chapas.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -579,9 +580,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.darumas.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -591,9 +592,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.dibujos-chibi-kawaii.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -603,9 +604,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.bordado-pokemon.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -619,9 +620,9 @@
                       <a class="btn btn-ffcyan" href="/docs/Taller de Retrato Artístico.pdf" role="button"><?php echo $lang["lang.activities.btn.dossier"]; ?></a>
                     </div>
 
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -631,9 +632,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.fotografia-camara-oscura.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -643,9 +644,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.ilustracion-comic-creacion-pjs.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
@@ -655,9 +656,9 @@
                   <h4 class="mb-3"><?php echo $lang["lang.activities.workshops.literatura-comedia.title"]; ?></h4>
 
                   <div class="row gy-3 mb-3">
-                    <div class="col-auto">
+                    <!-- <div class="col-auto">
                       <a class="btn btn-ffyellow" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </li>
