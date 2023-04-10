@@ -8,5 +8,5 @@
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>
-  <?php require(__DIR__ . "/../include/invitados.php"); ?>
+  <?php require(__DIR__ . "/../include/invitados-2023.php"); ?>
 </html>

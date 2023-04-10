@@ -11,5 +11,5 @@
     <!-- Page CSS -->
     <link href="/styles/actividades.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/actividades.php"); ?>
+  <?php require(__DIR__ . "/../include/actividades-2022.php"); ?>
 </html>
