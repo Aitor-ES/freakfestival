@@ -23,29 +23,29 @@
               </a>
             </li>
             <!-- Programa -->
-            <li class="nav-item">
-              <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "actividades.php") echo "active\" aria-current=\"page"; ?>" href="actividades.php">
-                <?php echo $lang["lang.header.activities"]; ?>
-              </a>
-            </li>
-            <!-- <li class="nav-item dropdown">
+            <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
               <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-program">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2023.php"><?php echo $lang["lang.header.activities.2023"]; ?></a></li>
+                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li> -->
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2022.php"><?php echo $lang["lang.header.activities.2022"]; ?></a></li>
               </ul>
-            </li> -->
+            </li>
             <!-- Invitados -->
-            <li class="nav-item">
-              <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "invitados.php") echo "active\" aria-current=\"page"; ?>" href="invitados.php">
+            <li class="nav-item dropdown">
+              <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
+              <?php if ($curPageName == "invitados.php") echo "active\" aria-current=\"page"; ?>"
+              href="#" id="navbarDropdown-guests" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
+              <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-guests">
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2023.php"><?php echo $lang["lang.header.guests.2023"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2022.php"><?php echo $lang["lang.header.guests.2022"]; ?></a></li>
+              </ul>
             </li>
           </ul>
         </div>

@@ -5,7 +5,7 @@
 
   <!-- Main Start -->
   <div class="container-md ff-main-gutter my-5">
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.guests.title"]; ?></h1>
+    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.guests.title.2022"]; ?></h1>
 
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-evenly">
       <div class="col">
