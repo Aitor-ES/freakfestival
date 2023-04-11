@@ -8,7 +8,7 @@
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.guests.title.2023"]; ?></h1>
 
     <div class="text-center pb-3">
-      <h2><?php echo $lang["lang.timetable.wip"]; ?></h2>
+      <h2><?php echo $lang["lang.general.soon"]; ?></h2>
     </div>
   </div>
   <!-- Main End -->

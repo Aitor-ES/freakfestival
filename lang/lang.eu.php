@@ -36,10 +36,13 @@ $lang = array(
   "lang.footer.valinor" => "Valinor Kultura-Elkartea",
   "lang.footer.contact" => "Ezagutu gaitzazu!",
 
+  "lang.general.soon" => "Laster!",
+  "lang.general.wip" => "Lanean…",
+
   "lang.home.banner.activities" => "Mahai-jokoak, Rola, Tailerrak eta Artisautza",
   "lang.home.banner.location.town" => "Vitoria-Gasteiz",
   "lang.home.banner.location.building" => "Europa Biltzar Jauregia",
-  "lang.home.banner.entrance" => "Doaneko sarrera",
+  "lang.home.banner.entrance" => "Dohaineko sarrera",
   "lang.home.banner.date" => "2022ko ekainaren 25-26an",
 
   "lang.home.introduction.title" => "Freak Festivala…",
@@ -57,7 +60,7 @@ $lang = array(
   "lang.home.introduction.date.title" => "Data",
   "lang.home.introduction.date.days" => "2022ko <strong>ekainaren 25-26an</strong>",
   "lang.home.introduction.date.weekdays" => "Larunbata - igandea",
-  "lang.home.introduction.entrance.title" => "Doaneko sarrera",
+  "lang.home.introduction.entrance.title" => "Dohaineko sarrera",
   "lang.home.introduction.entrance.description" => "Sarrera eta jardueren parte hartzea <strong>guztiz dohainik</strong> izango dira, gure helburua gure zaletasunak oztopo gabe ezagutzera ematea baita.",
 
   "lang.home.features.title" => "Ekitaldiko jarduerak",
@@ -192,7 +195,6 @@ $lang = array(
   "lang.timetable.zone.workshops" => "Tailerren gunea",
   "lang.timetable.zone.rpg-tabletop" => "Mahai-rola",
   "lang.timetable.zone.rpg-live-action" => "Rol bizia",
-  "lang.timetable.wip" => "Lanean…",
   "lang.timetable.start.title" => "Hasiera",
   "lang.timetable.end.title" => "Bukaera",
   "lang.timetable.activity.title" => "Actividad",

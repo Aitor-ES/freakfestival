@@ -36,6 +36,9 @@ $lang = array(
   "lang.footer.valinor" => "Asociación Cultural Valinor",
   "lang.footer.contact" => "¡Conócenos!",
 
+  "lang.general.soon" => "¡Próximamente!",
+  "lang.general.wip" => "En construcción…",
+
   "lang.home.banner.activities" => "Juegos de mesa, Rol, Talleres y Artesanía",
   "lang.home.banner.location.town" => "Vitoria-Gasteiz",
   "lang.home.banner.location.building" => "Palacio de Congresos Europa",
@@ -192,7 +195,6 @@ $lang = array(
   "lang.timetable.zone.workshops" => "Zona de talleres",
   "lang.timetable.zone.rpg-tabletop" => "Rol de mesa",
   "lang.timetable.zone.rpg-live-action" => "Rol en vivo",
-  "lang.timetable.wip" => "En construcción…",
   "lang.timetable.start.title" => "Inicio",
   "lang.timetable.end.title" => "Fin",
   "lang.timetable.activity.title" => "Actividad",
