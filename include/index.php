@@ -7,11 +7,7 @@
   <div class="container-fluid ff-main-gutter text-center text-white mb-4 py-5" id="banner">
     <div class="row">
       <div class="col">
-        <h1 class="mb-5"><img src="/images/logo_freak_festival_22.svg" class="img-fluid" alt="Freak Festival"></h1>
-        <h1 class="f-uncial-r f-gradient-ff mb-5"><?php echo $lang["lang.home.banner.activities"]; ?></h1>
-        <h2 class="f-inknut-regular f-gradient-ff mb-4"><?php echo $lang["lang.home.banner.location.town"]; ?></h2>
-        <h2 class="f-inknut-regular f-gradient-ff mb-4"><?php echo $lang["lang.home.banner.entrance"]; ?></h2>
-        <!-- <h1 class="f-inknut-regular f-gradient-ff mb-4"><?php echo $lang["lang.home.banner.date"]; ?></h1> -->
+        <h1><img src="/images/Letras_dado_tabla.png" class="img-fluid" alt="Freak Festival" width="375" height="375"></h1>
       </div>
     </div>
   </div>
@@ -21,18 +17,29 @@
     <!-- Introduction Start -->
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
 
-    <div class="row mb-5">
+    <div class="row mb-4">
       <div class="col-12 col-lg-4 pb-4 pb-lg-0">
         <p><?php echo $lang["lang.home.introduction.paragraph.1"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.2"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.3"]; ?></p>
-        <p><?php echo $lang["lang.home.introduction.paragraph.4"]; ?></p>
+        <p class="text-uppercase"><?php echo $lang["lang.home.introduction.paragraph.4"]; ?></p>
       </div>
 
       <div class="col-12 col-lg-7 offset-lg-1">
         <div class="row gy-4 text-center text-sm-start">
+          <!-- Date -->
+          <div class="col-12 col-sm-4 px-3">
+            <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffmidnight"></i></div>
+            <h3 class="fw-light"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
+            <p>
+              <?php echo $lang["lang.home.introduction.date.days.2023"]; ?>
+              <br>
+              <?php echo $lang["lang.home.introduction.date.weekdays"]; ?>
+            </p>
+          </div>
+
           <!-- Location -->
-          <div class="col-12 col-sm-6 px-3">
+          <div class="col-12 col-sm-4 px-3">
             <div class="mb-2"><i class="bi bi-geo fs-1 text-ffmidnight"></i></div>
             <h3 class="fw-light"><?php echo $lang["lang.home.introduction.location.title"]; ?></h3>
             <p>
@@ -46,26 +53,8 @@
             </p>
           </div>
 
-          <!-- Leisure -->
-          <!-- <div class="col-12 col-sm-6 px-3">
-            <div class="mb-2"><i class="bi bi-dice-6 fs-1 text-ffmidnight"></i></div>
-            <h3 class="fw-light"><?php echo $lang["lang.home.introduction.leisure.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.introduction.leisure.description"]; ?></p>
-          </div> -->
-
-          <!-- Date -->
-          <!-- <div class="col-12 col-sm-6 px-3">
-            <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffmidnight"></i></div>
-            <h3 class="fw-light"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
-            <p>
-              <?php echo $lang["lang.home.introduction.date.days"]; ?>
-              <br>
-              <?php echo $lang["lang.home.introduction.date.weekdays"]; ?>
-            </p>
-          </div> -->
-
           <!-- Entrance -->
-          <div class="col-12 col-sm-6 px-3">
+          <div class="col-12 col-sm-4 px-3">
             <div class="mb-2"><i class="bi bi-box-arrow-in-right fs-1 text-ffmidnight"></i></div>
             <h3 class="fw-light"><?php echo $lang["lang.home.introduction.entrance.title"]; ?></h3>
             <p><?php echo $lang["lang.home.introduction.entrance.description"]; ?></p>
@@ -73,6 +62,41 @@
         </div>
       </div>
     </div>
+
+    <!-- <div class="row row-cols-1 row-cols-md-3 gy-5 justify-content-center text-center mb-5">
+      <div class="col px-4">
+        <img class="home-feature-img rounded-circle mb-4" src="/images/placeholder.png" alt="" width="200" height="200">
+        <h3 class="fw-light mb-3">Juega</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat nam at lectus urna.
+        </p>
+        <p>
+          Cras ornare arcu dui vivamus arcu felis bibendum. Eget sit amet tellus cras adipiscing enim eu turpis.
+        </p>
+      </div>
+
+      <div class="col px-4">
+        <img class="home-feature-img rounded-circle mb-4" src="/images/placeholder.png" alt="" width="200" height="200">
+        <h3 class="fw-light mb-3">Descubre</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat nam at lectus urna.
+        </p>
+        <p>
+          Cras ornare arcu dui vivamus arcu felis bibendum. Eget sit amet tellus cras adipiscing enim eu turpis.
+        </p>
+      </div>
+
+      <div class="col px-4">
+        <img class="home-feature-img rounded-circle mb-4" src="/images/placeholder.png" alt="" width="200" height="200">
+        <h3 class="fw-light mb-3">Crea</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Erat nam at lectus urna.
+        </p>
+        <p>
+          Cras ornare arcu dui vivamus arcu felis bibendum. Eget sit amet tellus cras adipiscing enim eu turpis.
+        </p>
+      </div>
+    </div> -->
     <!-- Introduction End -->
 
     <!-- Features Start -->

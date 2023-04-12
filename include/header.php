@@ -4,11 +4,11 @@
       <i class="bi bi-list" style="font-size: 2rem;"></i>
     </button>
     <a id="nav-logo" class="navbar-brand mx-auto mx-lg-0" href="index.php">
-      <img src="/images/logo_freak_festival_22.svg" class="navbar-logo" alt="Freak Festival" width="102" height="40">
+      <img src="/images/Letras_dado_tabla.png" class="navbar-logo" alt="Freak Festival" width="40" height="40">
     </a>
     <div class="offcanvas offcanvas-start bg-ffmidnight d-lg-contents" tabindex="-1" id="navbarOffcanvas" aria-labelledby="offcanvasTitle">
       <div class="offcanvas-header text-light px-4 pb-0">
-        <img src="/images/logo_freak_festival_22.svg" id="offcanvasTitle" alt="Freak Festival" width="153" height="60">
+        <img src="/images/Letras_dado_tabla.png" id="offcanvasTitle" alt="Freak Festival" width="60" height="60">
         <button type="button" class="btn-close btn-close-white text-reset" data-bs-dismiss="offcanvas" data-bs-target="#navbarOffcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body d-lg-contents p-4 pt-0 p-lg-0">
@@ -25,7 +25,7 @@
             <!-- Programa -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "actividades-2023.php" || $curPageName == "actividades-2022.php" || $curPageName == "horario.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
@@ -38,7 +38,7 @@
             <!-- Invitados -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "invitados.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "invitados-2023.php" || $curPageName == "invitados-2022.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-guests" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>

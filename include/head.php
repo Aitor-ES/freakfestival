@@ -29,7 +29,7 @@
 <title><?php echo $title; ?><?php echo $lang["lang.head.title.name"]; ?></title>
 
 <!-- Favicon -->
-<link rel="icon" href="/images/logo_freak_festival_22_xs.svg">
+<link rel="icon" href="/images/Letras_dado_tabla.png">
 
 <!-- Common CSS -->
 

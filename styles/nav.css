@@ -63,8 +63,8 @@
 }
 
 .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show > .nav-link {
-    background: #55D5D7;
-    background: linear-gradient(to bottom, #55D5D7 38%, #FFDB52 100%);
+    background: #36FFFF;
+    background: linear-gradient(to right, #2BB0D4, #36FFFF, #2BB0D4);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
