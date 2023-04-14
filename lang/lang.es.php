@@ -2,7 +2,7 @@
 $lang = array(
   "lang" => "es",
 
-  "lang.head.description" => "El Freak Festival es un evento de ocio alternativo gratuito en Vitoria-Gasteiz en el que disfrutar una gran variedad de actividades relacionadas con el mundo friki.",
+  "lang.head.description" => "El Freak Festival es un evento gratuito de ocio alternativo de Vitoria-Gasteiz que acerca a todos los públicos juegos de mesa, rol, talleres, puestos de artesanía y más.",
   "lang.head.author" => "Asociación Cultural Valinor",
   "lang.head.title.actividades" => "Actividades · ",
   "lang.head.title.colaboradores" => "Colaboradores · ",
@@ -47,7 +47,7 @@ $lang = array(
   "lang.home.banner.date.2022" => "25-26 de junio de 2022",
 
   "lang.home.introduction.title" => "El Freak Festival es…",
-  "lang.home.introduction.paragraph.1" => "El Freak Festival es el evento de <strong>ocio alternativo gratuito</strong> más grande de Euskadi.",
+  "lang.home.introduction.paragraph.1" => "El Freak Festival es el evento <strong>gratuito</strong> de <strong>ocio alternativo</strong> más grande de Euskadi.",
   "lang.home.introduction.paragraph.2" => "Organizado por la <strong>Asociación Cultural Valinor</strong>, este festival acerca a <strong>todos los públicos</strong> una amplia oferta de actividades como <strong>juegos de mesa, rol, talleres, puestos de artesanía</strong>, charlas, espectáculos, torneos, concursos y mucho más. Durante un fin de semana entero, podrás disfrutar de la mejor oferta de entretenimiento, ya sea con amigos, familia, o por tu cuenta.",
   "lang.home.introduction.paragraph.3" => "No dejes escapar la oportunidad de participar en el Freak Festival.",
   "lang.home.introduction.paragraph.4" => "<strong>Juega, Descubre, Crea</strong>",

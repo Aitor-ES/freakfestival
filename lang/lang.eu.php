@@ -2,7 +2,7 @@
 $lang = array(
   "lang" => "eu",
 
-  "lang.head.description" => "Freak Festival Vitoria-Gasteizen mundu frikiko jarduera ugari eskaintzen dituen aisialdi alternatiboko doaneko ekitaldi bat da.",
+  "lang.head.description" => "Freak Festival publiko guztientzat mahai-jokoak, rola, tailerrak, artisautza postuak eta gehiago eskaintzen dituen Vitoria-Gasteizeko aisialdi alternatiboko dohaineko ekitaldia da.",
   "lang.head.author" => "Valinor Kultura-Elkartea",
   "lang.head.title.actividades" => "Jarduerak · ",
   "lang.head.title.colaboradores" => "Kolaboratzaileak · ",
@@ -46,9 +46,9 @@ $lang = array(
   "lang.home.banner.date.2023" => "2023ko ekainak 17-18",
   "lang.home.banner.date.2022" => "2022ko ekainak 25-26",
 
-  "lang.home.introduction.title" => "Freak Festivala…",
-  "lang.home.introduction.paragraph.1" => "Freak Festivala Euskadiko <strong>aisialdi alternatiboko, doaneko</strong> ekitaldi handiena da.",
-  "lang.home.introduction.paragraph.2" => "<strong>Valinor Kultura-Elkarteak</strong> antolatuta, festibal honek <strong>publiko guztientzat</strong> jarduera eskaintza zabala eskaintzen du: <strong>mahai-jokoak, rola, tailerrak, artisautza dendak</strong>, hitzaldiak, ikuskizunak, txapelketak, leihaketak eta askoz gehiago. Asteburu oso batean zehar, aisialdirako eskaintza onenarekin gozatu ahal izango duzu, bai familiarekin, lagun artean edo zure kabuz.",
+  "lang.home.introduction.title" => "Freak Festival…",
+  "lang.home.introduction.paragraph.1" => "Freak Festival Euskadiko <strong>aisialdi alternatiboko dohaineko</strong> ekitaldi handiena da.",
+  "lang.home.introduction.paragraph.2" => "<strong>Valinor Kultura-Elkarteak</strong> antolatuta, festibal honek <strong>publiko guztientzat</strong> jarduera eskaintza zabala eskaintzen du: <strong>mahai-jokoak, rola, tailerrak, artisautza postuak</strong>, hitzaldiak, ikuskizunak, txapelketak, leihaketak eta askoz gehiago. Asteburu oso batean zehar, aisialdirako eskaintza onenarekin gozatu ahal izango duzu, bai familiarekin, lagun artean edo zure kabuz.",
   "lang.home.introduction.paragraph.3" => "Ez ezazu alde batera utzi Freak Festivalaren parte izateko aukera.",
   "lang.home.introduction.paragraph.4" => "<strong>Jolastu, Aurkitu, Sortu</strong>",
   "lang.home.introduction.location.title" => "Kokapena",
@@ -56,8 +56,6 @@ $lang = array(
   "lang.home.introduction.location.address" => "Gasteiz Hiribidea, 85, 01009",
   "lang.home.introduction.location.town" => "Vitoria-Gasteiz, Araba",
   "lang.home.introduction.location.map" => "Mapa",
-  "lang.home.introduction.leisure.title" => "Aisia alternatiboa",
-  "lang.home.introduction.leisure.description" => "<strong>Aisia alternatiboko ekitaldi bat, publiko orokorrari zuzendua</strong>. Kultura frikiaren era guztietako jarduerak aurkituko dituzu, esaterako, mahai jokoak, txapelketak, rol jokoak, hitzaldiak, cosplay-a, eskulan tailerrak, artisten postuak eta gehiago.",
   "lang.home.introduction.date.title" => "Data",
   "lang.home.introduction.date.days.2023" => "2023ko <strong>ekainak 17-18</strong>",
   "lang.home.introduction.date.days.2022" => "2022ko <strong>ekainak 25-26</strong>",
