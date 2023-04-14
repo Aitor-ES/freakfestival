@@ -20,16 +20,16 @@
 
       <div class="row row-cols-1 row-cols-lg-3 gy-5">
         <div class="col">
-          <img class="logo-sponsor" src="/images/logos/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="50">
+          <img class="logo-sponsor" src="/images/logos/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="70">
         </div>
 
         <div class="col">
-          <img class="logo-sponsor" src="/images/logos/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="50">
+          <img class="logo-sponsor" src="/images/logos/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="70">
         </div>
 
         <div class="col">
           <a href="https://www.fundacionvital.eus/">
-            <img class="logo-sponsor" src="/images/logos/fvital-min.png" alt="" width="auto" height="50">
+            <img class="logo-sponsor" src="/images/logos/fvital-min.png" alt="" width="auto" height="70">
           </a>
         </div>
       </div>
