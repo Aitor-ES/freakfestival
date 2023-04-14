@@ -4,35 +4,32 @@
   </div>
   <div class="offcanvas-body px-4 px-lg-0">
     <div class="container">
-      <div class="row">
-        <div class="col-12">
+      <div class="row row-cols-1 row-cols-lg-2 gy-5">
+        <div class="col">
+          <p><?php echo $lang["lang.footer.contact"]; ?></p>
+          <a class="btn btn-lg btn-outline-light btn-outline-b" href="mailto:info@freakfestival.es"><i class="bi bi-envelope-fill me-3"></i>info@freakfestival.es</a>
+        </div>
+
+        <div class="col">
           <p><?php echo $lang["lang.footer.organized-by"]; ?></p>
-          <h4><a class="text-reset text-decoration-none" href="organizadores.php"><?php echo $lang["lang.footer.valinor"]; ?></a></h4>
-          <p class="my-4"><?php echo $lang["lang.footer.contact"]; ?></p>
-          <ul class="list-inline mb-0">
-            <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="https://www.facebook.com/asociacionvalinor"><i class="bi bi-facebook"></i></a></li>
-            <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="https://www.instagram.com/asovalinor"><i class="bi bi-instagram"></i></a></li>
-            <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="mailto:asociacionvalinor@gmail.com"><i class="bi bi-envelope-fill"></i></a></li>
-            <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="https://www.discord.com/invite/w4DQ2kZ9TV"><i class="bi bi-discord"></i></a></li>
-            <li class="list-inline-item"><a class="btn btn-lg btn-outline-light btn-outline-b" href="https://twitter.com/AsoValinor"><i class="bi bi-twitter"></i></a></li>
-          </ul>
+          <a class="btn btn-lg btn-outline-light btn-outline-b" href="organizadores.php"><?php echo $lang["lang.footer.valinor"]; ?></a>
         </div>
       </div>
 
       <hr class="my-5">
 
-      <div class="row row-cols-1 row-cols-lg-3 gy-4">
-        <div class="col d-flex justify-content-center align-items-center">
-          <img class="logo-sponsor rounded-3" src="/images/logos/marcaVG!greencapital-BicolorNegativo-min.jpg" alt="" width="auto" height="40">
+      <div class="row row-cols-1 row-cols-lg-3 gy-5">
+        <div class="col">
+          <img class="logo-sponsor" src="/images/logos/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="50">
         </div>
 
-        <div class="col d-flex justify-content-center align-items-center">
-          <img class="logo-sponsor rounded-3" src="/images/logos/MarcaAytoNegativo-H-min.jpg" alt="" width="auto" height="40">
+        <div class="col">
+          <img class="logo-sponsor" src="/images/logos/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="50">
         </div>
 
-        <div class="col d-flex justify-content-center align-items-center">
+        <div class="col">
           <a href="https://www.fundacionvital.eus/">
-            <img class="logo-sponsor bg-light rounded-3 p-2 p-lg-3" src="/images/logos/fundacion-vital-logo-pie.svg" alt="" width="auto" height="40">
+            <img class="logo-sponsor" src="/images/logos/fvital-min.png" alt="" width="auto" height="50">
           </a>
         </div>
       </div>

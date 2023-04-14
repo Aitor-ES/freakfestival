@@ -34,7 +34,7 @@ $lang = array(
 
   "lang.footer.organized-by" => "Antolatzaileak:",
   "lang.footer.valinor" => "Valinor Kultura-Elkartea",
-  "lang.footer.contact" => "Ezagutu gaitzazu!",
+  "lang.footer.contact" => "Kontakta gaitzazu:",
 
   "lang.common.soon" => "Laster!",
   "lang.common.wip" => "Lanean…",
