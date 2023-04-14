@@ -7,7 +7,11 @@
   <div class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.partners.title"]; ?></h1>
 
-    <div class="row gy-4 justify-content-center">
+    <div class="text-center pb-3">
+      <h2><?php echo $lang["lang.common.soon"]; ?></h2>
+    </div>
+
+    <!-- <div class="row gy-4 justify-content-center">
       <div class="col-auto">
         <img class="logo-contributor" src="/images/logos/contributors/Asos/Abaco/LogoAbaco1.jpeg" alt="Abaco" width="auto" height="60px">
       </div>
@@ -107,7 +111,7 @@
       <div class="col-auto">
         <img class="logo-contributor" src="/images/logos/contributors/Restaurantes/Helados Plaza.png" alt="Helados Plaza" width="auto" height="60px">
       </div>
-    </div>
+    </div> -->
   </div>
   <!-- Main End -->
 
