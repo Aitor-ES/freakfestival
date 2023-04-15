@@ -68,7 +68,7 @@
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-info">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="organizadores.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="colaboradores.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
+                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li> -->
               </ul>
             </li>
             <!-- Idioma -->
