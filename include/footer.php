@@ -12,7 +12,7 @@
 
         <div class="col">
           <p><?php echo $lang["lang.footer.organized-by"]; ?></p>
-          <a class="btn btn-lg btn-outline-light btn-outline-b" href="organizadores.php"><?php echo $lang["lang.footer.valinor"]; ?></a>
+          <a class="btn btn-lg btn-outline-light btn-outline-b" href="organizadores"><?php echo $lang["lang.footer.valinor"]; ?></a>
         </div>
       </div>
 
