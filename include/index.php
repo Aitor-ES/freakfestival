@@ -106,49 +106,49 @@
 
       <!-- 1st feature: Board games -->
       <div class="col px-4">
-        <img class="rounded-circle mb-4" src="/images/photos/juegos_de_mesa_blue-min.jpg" alt="" width="200" height="200">
+        <img class="rounded-circle mb-4" src="/images/photos/juegos_de_mesa-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.board-games.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.board-games.description"]; ?></p>
       </div>
 
       <!-- 2nd feature: RPG -->
       <div class="col px-4">
-        <img class="rounded-circle mb-4" src="/images/photos/rol_blue-min.jpg" alt="" width="200" height="200">
+        <img class="rounded-circle mb-4" src="/images/photos/rol-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.rpg.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.rpg.description"]; ?></p>
       </div>
 
       <!-- 3rd feature: Workshops -->
       <div class="col px-4">
-        <img class="rounded-circle mb-4" src="/images/photos/talleres_blue-min.jpg" alt="" width="200" height="200">
+        <img class="rounded-circle mb-4" src="/images/photos/talleres-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.workshops.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.workshops.description"]; ?></p>
       </div>
 
       <!-- 4th feature: Artists -->
       <div class="col px-4">
-        <img class="rounded-circle mb-4" src="/images/photos/tiendas_artistas_y_artesanos_blue-min.jpg" alt="" width="200" height="200">
+        <img class="rounded-circle mb-4" src="/images/photos/tiendas_artistas_y_artesanos-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.shops-artists-artisans.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.shops-artists-artisans.description"]; ?></p>
       </div>
 
       <!-- 5th feature: Talks -->
       <div class="col px-4">
-        <img class="rounded-circle mb-4" src="/images/photos/charlas_blue-min.jpg" alt="" width="200" height="200">
+        <img class="rounded-circle mb-4" src="/images/photos/charlas-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.talks-exhibitions.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.talks-exhibitions.description"]; ?></p>
       </div>
 
       <!-- 6th feature: Tournaments -->
       <div class="col px-4">
-        <img class="rounded-circle mb-4" src="/images/photos/torneos_blue-min.jpg" alt="" width="200" height="200">
+        <img class="rounded-circle mb-4" src="/images/photos/torneos-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.tournaments.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.tournaments.description"]; ?></p>
       </div>
 
       <!-- 7th feature: Contests -->
       <div class="col px-4">
-        <img class="rounded-circle mb-4" src="/images/photos/cosplay_blue-min.jpg" alt="" width="200" height="200">
+        <img class="rounded-circle mb-4" src="/images/photos/concursos-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.contests.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.contests.description"]; ?></p>
       </div>
