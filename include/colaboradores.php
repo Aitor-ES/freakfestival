@@ -7,7 +7,7 @@
   <div class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.partners.title"]; ?></h1>
 
-    <div class="text-center pb-3">
+    <div class="text-center py-5">
       <h2><?php echo $lang["lang.common.soon"]; ?></h2>
     </div>
 
