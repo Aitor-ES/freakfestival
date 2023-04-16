@@ -63,8 +63,8 @@
 }
 
 .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show > .nav-link {
-    background: #36FFFF;
-    background: linear-gradient(to right, #2BB0D4, #36FFFF, #2BB0D4);
+    background: var(--ff-diamond);
+    background: linear-gradient(to right, var(--ff-sea), var(--ff-diamond), var(--ff-sea));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -72,13 +72,13 @@
 
 .navbar .dropdown-item:hover, .navbar .dropdown-item:focus {
     color: #1e2125;
-    background-color: #55d5d73a;
+    background: rgba(var(--ff-diamond-rgb), 0.5);
 }
 
 .navbar .dropdown-item.active, .navbar .dropdown-item:active {
-    color: #fff;
+    color: var(--ff-ocean);
     text-decoration: none;
-    background-color: #55d5d7;
+    background: rgba(var(--ff-sunlight-rgb), 0.75);
 }
 
 .navbar .dropdown-item.disabled, .navbar .dropdown-item:disabled {

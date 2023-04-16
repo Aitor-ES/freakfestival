@@ -1,9 +1,9 @@
 #accordion-activities .accordion-button {
-    background: #55d5d73a;
+    background: rgba(var(--ff-diamond-rgb), 0.5);
 }
 
 #accordion-activities .accordion-button:not(.collapsed) {
-    background: #ffdc523a;
+    background: rgba(var(--ff-sunlight-rgb), 0.75);
     box-shadow: none;
 }
 

@@ -1,6 +1,16 @@
 :root {
     --ff-midnight: #191d38;
     --ff-midnight-rgb: 25, 29, 56;
+    --ff-diamond: #36FFFF;
+    --ff-diamond-rgb: 54, 255, 255;
+    --ff-sea: #2BB0D4;
+    --ff-sea-rgb: 43, 176, 212;
+    --ff-ocean: #0c63e4;
+    --ff-ocean-rgb: 12, 99, 228;
+    --ff-scarlet: #EA2014;
+    --ff-scarlet-rgb: 234, 32, 20;
+    --ff-sunlight: #FFE99C;
+    --ff-sunlight-rgb: 255, 233, 156;
 }
 
 body {
