@@ -3,7 +3,7 @@
     <button id="nav-toggler" class="navbar-toggler p-2 border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvas" aria-controls="navbarOffcanvas" aria-expanded="false" aria-label="Toggle navigation">
       <i class="bi bi-list" style="font-size: 2rem;"></i>
     </button>
-    <a id="nav-logo" class="navbar-brand mx-auto mx-lg-0" href="index.php">
+    <a id="nav-logo" class="navbar-brand mx-auto mx-lg-0" href="index">
       <img src="/images/Letras_dado_tabla2.png" class="navbar-logo" alt="Freak Festival" width="40" height="40">
     </a>
     <div class="offcanvas offcanvas-start bg-ffmidnight d-lg-contents" tabindex="-1" id="navbarOffcanvas" aria-labelledby="offcanvasTitle">
@@ -18,7 +18,7 @@
             <!-- Inicio -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "index.php") echo "active\" aria-current=\"page"; ?>" href="index.php">
+              <?php if ($curPageName == "index.php") echo "active\" aria-current=\"page"; ?>" href="index">
                 <?php echo $lang["lang.header.home"]; ?>
               </a>
             </li>
@@ -30,9 +30,9 @@
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-program">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2023.php"><?php echo $lang["lang.header.activities.2023"]; ?></a></li>
-                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li> -->
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2022.php"><?php echo $lang["lang.header.activities.2022"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2023"><?php echo $lang["lang.header.activities.2023"]; ?></a></li>
+                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario"><?php echo $lang["lang.header.timetable"]; ?></a></li> -->
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2022"><?php echo $lang["lang.header.activities.2022"]; ?></a></li>
               </ul>
             </li>
             <!-- Invitados -->
@@ -43,8 +43,8 @@
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-guests">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2023.php"><?php echo $lang["lang.header.guests.2023"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2022.php"><?php echo $lang["lang.header.guests.2022"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2023"><?php echo $lang["lang.header.guests.2023"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2022"><?php echo $lang["lang.header.guests.2022"]; ?></a></li>
               </ul>
             </li>
           </ul>
@@ -54,7 +54,7 @@
             <!-- Fotos -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "fotos.php") echo "active\" aria-current=\"page"; ?>" href="fotos.php">
+              <?php if ($curPageName == "fotos.php") echo "active\" aria-current=\"page"; ?>" href="fotos">
                 <?php echo $lang["lang.header.photos"]; ?>
               </a>
             </li>
@@ -66,9 +66,9 @@
                 <?php echo $lang["lang.header.info"]; ?>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-info">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="organizadores.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="colaboradores.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
-                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li> -->
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="organizadores"><?php echo $lang["lang.header.organizers"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="colaboradores"><?php echo $lang["lang.header.partners"]; ?></a></li>
+                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li> -->
               </ul>
             </li>
             <!-- Idioma -->
