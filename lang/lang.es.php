@@ -32,7 +32,7 @@ $lang = array(
   "lang.header.lang.es" => "Español",
   "lang.header.lang.eu" => "Euskara",
 
-  "lang.footer.organized-by" => "Organizado por:",
+  "lang.footer.organized-by" => "Organizadores:",
   "lang.footer.valinor" => "Asociación Cultural Valinor",
   "lang.footer.contact" => "Contáctanos:",
 
