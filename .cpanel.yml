@@ -2,7 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/m197082/freakfestival.es/
-    - /bin/cp .htaccess $DEPLOYPATH
     - /bin/cp actividades-2022.php $DEPLOYPATH
     - /bin/cp actividades-2023.php $DEPLOYPATH
     - /bin/cp fotos.php $DEPLOYPATH
