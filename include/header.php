@@ -25,7 +25,7 @@
             <!-- Programa -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "actividades-2023.php" || $curPageName == "actividades-2022.php" || $curPageName == "horario.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "actividades-2023.php" || $curPageName == "actividades-2022.php" || $curPageName == "horario.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
@@ -33,6 +33,8 @@
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2023.php"><?php echo $lang["lang.header.activities.2023"]; ?></a></li>
                 <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li> -->
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2022.php"><?php echo $lang["lang.header.activities.2022"]; ?></a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="inscripciones-candidaturas.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li>
               </ul>
             </li>
             <!-- Invitados -->

@@ -1,0 +1,23 @@
+<body>
+  <!-- Navbar Start -->
+  <?php include("header.php"); ?>
+  <!-- Navbar End -->
+
+  <!-- Main Start -->
+  <div class="container-md ff-main-gutter my-5">
+    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.registrations-applications.title"]; ?></h1>
+
+    <p><?php echo $lang["lang.registrations-applications.description.1"]; ?></p>
+    <p><?php echo $lang["lang.registrations-applications.description.2"]; ?></p>
+
+    <div class="mb-3"><a class="btn btn-lg btn-outline-dark btn-outline-b" href="https://forms.gle/tebtLyCWiHL13an18"><?php echo $lang["lang.registrations-applications.associations"]; ?></a></div>
+    <div class="mb-3"><a class="btn btn-lg btn-outline-dark btn-outline-b" href="https://forms.gle/bXm26z85xWmguWGX6"><?php echo $lang["lang.registrations-applications.activities"]; ?></a></div>
+    <div class="mb-3"><a class="btn btn-lg btn-outline-dark btn-outline-b" href="https://forms.gle/3fM1n3kTpkoU3Jeb8"><?php echo $lang["lang.registrations-applications.artists"]; ?></a></div>
+    <div class="mb-3"><a class="btn btn-lg btn-outline-dark btn-outline-b" href="https://forms.gle/oiEwtGQ9jBdEbJes6"><?php echo $lang["lang.registrations-applications.shops"]; ?></a></div>
+  </div>
+  <!-- Main End -->
+
+  <!-- Footer Start -->
+  <?php include("footer.php"); ?>
+  <!-- Footer End -->
+</body>
