@@ -186,8 +186,8 @@ $lang = array(
   "lang.activities.workshops.literatura-comedia.title" => "«¿Y tú de qué te ríes?»: Cómo hacer comedia en la literatura",
 
   "lang.registrations-applications.title" => "Inscripciones y candidaturas",
-  "lang.registrations-applications.description.1" => "¿Quieres llevar una actividad al Freak Festival? ¿Queréis acudir al evento representando a vuestra asociación? Quizá seas un artista al que le gustaría tener un puesto para exponer sus creaciones, o puede que un comercio que busca acercarse a sus clientes.",
-  "lang.registrations-applications.description.2" => "¡Aquí podéis inscribiros y presentar vuestras candidaturas!",
+  "lang.registrations-applications.description.1" => "¿Quieres llevar una actividad al Freak Festival? ¿Vienes al evento como parte de una asociación? Quizá seas un artista al que le gustaría tener un puesto para exponer sus creaciones, o puede que un comercio que busca acercarse a sus clientes.",
+  "lang.registrations-applications.description.2" => "¡Aquí puedes inscribirte y presentar tu candidatura!",
   "lang.registrations-applications.associations" => "Inscripción de asociaciones",
   "lang.registrations-applications.activities" => "Inscripción de actividades",
   "lang.registrations-applications.artists" => "Candidatura de artistas y artesanos",

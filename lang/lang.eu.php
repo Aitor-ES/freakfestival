@@ -184,8 +184,8 @@ $lang = array(
   "lang.activities.workshops.literatura-comedia.title" => "«Eta zuk zertaz egiten duzu barre?»: Komedia literaturan nola egin",
 
   "lang.registrations-applications.title" => "Izen-emateak eta hautagaitzak",
-  "lang.registrations-applications.description.1" => "Freak Festivalera jarduera bat eraman nahi duzu? Zuen elkartea ordezkatuz joan nahi duzue ekitaldira? Agian bere sorkuntzak erakusteko postu bat izatea gustatuko litzaiokeen artista bat zara, edo beharbada bere bezeroengana hurbildu nahi duen saltoki bat.",
-  "lang.registrations-applications.description.2" => "Hemen eman dezakezue izena eta aurkeztu zuen hautagaitzak!",
+  "lang.registrations-applications.description.1" => "Freak Festivalera jarduera bat eraman nahi duzu? Ekitaldira elkarte bateko kide gisa zatoz? Agian bere sorkuntzak erakusteko postu bat izatea gustatuko litzaiokeen artista bat zara, edo beharbada bere bezeroengana hurbildu nahi duen saltoki bat.",
+  "lang.registrations-applications.description.2" => "Hemen eman dezakezu izena eta zure hautagaitza aurkeztu!",
   "lang.registrations-applications.associations" => "Elkarteen izen-ematea",
   "lang.registrations-applications.activities" => "Jardueren izen-ematea",
   "lang.registrations-applications.artists" => "Artista eta artisauen hautagaitza",
