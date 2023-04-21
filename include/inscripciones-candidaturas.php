@@ -10,10 +10,12 @@
     <p><?php echo $lang["lang.registrations-applications.description.1"]; ?></p>
     <p><?php echo $lang["lang.registrations-applications.description.2"]; ?></p>
 
-    <div class="mb-3"><a class="btn btn-outline-dark btn-outline-b" href="https://forms.gle/tebtLyCWiHL13an18"><?php echo $lang["lang.registrations-applications.associations"]; ?></a></div>
-    <div class="mb-3"><a class="btn btn-outline-dark btn-outline-b" href="https://forms.gle/bXm26z85xWmguWGX6"><?php echo $lang["lang.registrations-applications.activities"]; ?></a></div>
-    <div class="mb-3"><a class="btn btn-outline-dark btn-outline-b" href="https://forms.gle/3fM1n3kTpkoU3Jeb8"><?php echo $lang["lang.registrations-applications.artists"]; ?></a></div>
-    <div class="mb-3"><a class="btn btn-outline-dark btn-outline-b" href="https://forms.gle/oiEwtGQ9jBdEbJes6"><?php echo $lang["lang.registrations-applications.shops"]; ?></a></div>
+    <div class="d-flex flex-column align-items-lg-baseline gap-3">
+      <a class="btn btn-block btn-outline-ffmidnight btn-outline-b" href="https://forms.gle/tebtLyCWiHL13an18"><?php echo $lang["lang.registrations-applications.associations"]; ?></a>
+      <a class="btn btn-block btn-outline-ffmidnight btn-outline-b" href="https://forms.gle/bXm26z85xWmguWGX6"><?php echo $lang["lang.registrations-applications.activities"]; ?></a>
+      <a class="btn btn-block btn-outline-ffmidnight btn-outline-b" href="https://forms.gle/3fM1n3kTpkoU3Jeb8"><?php echo $lang["lang.registrations-applications.artists"]; ?></a>
+      <a class="btn btn-block btn-outline-ffmidnight btn-outline-b" href="https://forms.gle/oiEwtGQ9jBdEbJes6"><?php echo $lang["lang.registrations-applications.shops"]; ?></a>
+    </div>
   </div>
   <!-- Main End -->
 
