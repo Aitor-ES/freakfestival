@@ -8,7 +8,7 @@
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.partners.title"]; ?></h1>
 
     <div class="text-center py-5">
-      <h2><?php echo $lang["lang.common.soon"]; ?></h2>
+      <h2 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h2>
     </div>
 
     <!-- <div class="row gy-4 justify-content-center">

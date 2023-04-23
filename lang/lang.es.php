@@ -34,7 +34,8 @@ $lang = array(
   "lang.header.lang.es" => "Español",
   "lang.header.lang.eu" => "Euskara",
 
-  "lang.footer.organized-by" => "Organizadores:",
+  "lang.footer.organizers" => "Organizadores:",
+  "lang.footer.sponsors" => "Patrocinadores:",
   "lang.footer.valinor" => "Asociación Cultural Valinor",
   "lang.footer.contact" => "Contáctanos:",
 
@@ -258,7 +259,6 @@ $lang = array(
   "lang.timetable.activity.fast-painting" => "Concurso Fast Painting",
   "lang.timetable.activity.fotografia-camara-oscura" => "Construye tu propia cámara oscura (fotografía)",
   "lang.timetable.activity.dibujos-chibi-kawaii" => "Taller de dibujos chibi/kawaii",
-  "lang.timetable.activity.jarras" => "Taller de pintado de jarras",
   "lang.timetable.activity.my-little-pony" => "My Little Pony",
   "lang.timetable.activity.alien" => "Alien",
   "lang.timetable.activity.crazy-rol" => "Crazy Rol",

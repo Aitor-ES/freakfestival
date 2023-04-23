@@ -1,12 +1,23 @@
 .logo-sponsor {
     width: auto;
-    height: 70px;
+    height: 60px;
     max-height: 50px;
+    max-width: 100%;
+}
+
+.logo-vg {
+    width: auto;
+    height: 50px;
+    max-height: 35px;
     max-width: 100%;
 }
 
 @media (min-width: 992px) {
     .logo-sponsor {
-        max-height: 70px;
+        max-height: 60px;
+    }
+
+    .logo-vg {
+        max-height: 50px;
     }
 }

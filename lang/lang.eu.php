@@ -34,7 +34,8 @@ $lang = array(
   "lang.header.lang.es" => "Español",
   "lang.header.lang.eu" => "Euskara",
 
-  "lang.footer.organized-by" => "Antolatzaileak:",
+  "lang.footer.organizers" => "Antolatzaileak:",
+  "lang.footer.sponsors" => "Babesleak:",
   "lang.footer.valinor" => "Valinor Kultura-Elkartea",
   "lang.footer.contact" => "Kontakta gaitzazu:",
 
@@ -256,7 +257,6 @@ $lang = array(
   "lang.timetable.activity.fast-painting" => "Fast Painting lehiaketa",
   "lang.timetable.activity.fotografia-camara-oscura" => "Eraiki zure kamera iluna (argazkilaritza)",
   "lang.timetable.activity.dibujos-chibi-kawaii" => "Chibi/kawaii marrazki tailerra",
-  "lang.timetable.activity.jarras" => "Pitxerren margoketaren tailerra",
   "lang.timetable.activity.my-little-pony" => "My Little Pony",
   "lang.timetable.activity.alien" => "Alien",
   "lang.timetable.activity.crazy-rol" => "Crazy Rol",
