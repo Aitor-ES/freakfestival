@@ -22,15 +22,15 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffcyan btn-outline-0" href="https://www.instagram.com/burningflare" role="button"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/burningflare" role="button"><i class="bi bi-instagram"></i></a>
               </div>
 
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffcyan btn-outline-0" href="https://twitter.com/Burningflaru?t=S_J3unxI9mSwl8ku7wEISw&s=09" role="button"><i class="bi bi-twitter"></i></a>
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://twitter.com/Burningflaru?t=S_J3unxI9mSwl8ku7wEISw&s=09" role="button"><i class="bi bi-twitter"></i></a>
               </div>
 
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffcyan btn-outline-0" href="https://www.twitch.tv/flarur" role="button"><i class="bi bi-twitch"></i></a>
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.twitch.tv/flarur" role="button"><i class="bi bi-twitch"></i></a>
               </div>
             </div>
           </div>
@@ -51,11 +51,11 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-fflime btn-outline-0" href="https://www.instagram.com/pandasticacosplay" role="button"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/pandasticacosplay" role="button"><i class="bi bi-instagram"></i></a>
               </div>
 
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-fflime btn-outline-0" href="https://twitter.com/Ainoabg?t=01xwFi4PchyXVqBrHwBjKw&s=09" role="button"><i class="bi bi-twitter"></i></a>
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://twitter.com/Ainoabg?t=01xwFi4PchyXVqBrHwBjKw&s=09" role="button"><i class="bi bi-twitter"></i></a>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffyellow btn-outline-0" href="https://www.instagram.com/kacedacosplay" role="button"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/kacedacosplay" role="button"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>

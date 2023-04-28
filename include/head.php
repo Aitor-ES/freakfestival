@@ -34,19 +34,17 @@
 <!-- Common CSS -->
 
 <!-- Bootstrap CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 <!-- Bootstrap Icons CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
 <!-- Own Bootstrap colors CSS -->
-<link href="/styles/color/bootstrap-color-ffash.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffmidnight.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffcyan.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffemerald.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffgreen.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-fflime.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffolive.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffyellow.css" rel="stylesheet">
+<link href="/styles/color/bootstrap-color-ffdiamond.css" rel="stylesheet">
+<link href="/styles/color/bootstrap-color-ffsea.css" rel="stylesheet">
+<link href="/styles/color/bootstrap-color-ffocean.css" rel="stylesheet">
+<link href="/styles/color/bootstrap-color-ffscarlet.css" rel="stylesheet">
+<link href="/styles/color/bootstrap-color-ffsunlight.css" rel="stylesheet">
 
 <!-- Own CSS styles -->
 <link href="/styles/main.css" rel="stylesheet">

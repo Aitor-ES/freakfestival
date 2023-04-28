@@ -16,7 +16,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.stage"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -47,7 +47,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.tatami"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -73,7 +73,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.tournaments"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -124,7 +124,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.exhibitions"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -159,7 +159,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.talks"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -200,7 +200,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.photobooth"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -226,7 +226,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.workshops"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -287,7 +287,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.rpg-tabletop"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -343,7 +343,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.rpg-live-action"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -375,7 +375,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.stage"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -396,7 +396,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.tatami"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -417,7 +417,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.tournaments"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -438,7 +438,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.exhibitions"]; ?></h4>
 
-        <table class="table table-ffcyan table-striped align-middle">
+        <table class="table table-ffdiamond-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -468,7 +468,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.talks"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -494,7 +494,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.workshops"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -540,7 +540,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.rpg-tabletop"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
@@ -576,7 +576,7 @@
       <div class="col-12 col-lg-6">
         <h4 class="mb-3"><?php echo $lang["lang.timetable.zone.rpg-live-action"]; ?></h4>
 
-        <table class="table table-ffyellow table-striped align-middle">
+        <table class="table table-ffsunlight-semitransparent table-striped align-middle">
           <thead>
             <tr>
               <th scope="col"><?php echo $lang["lang.timetable.start.title"]; ?></th>
