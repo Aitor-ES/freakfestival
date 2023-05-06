@@ -7,12 +7,12 @@
   <div class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.guests.title.2022"]; ?></h1>
 
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-evenly">
+    <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 justify-content-evenly">
       <div class="col">
         <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
-          <div class="card-header"><?php echo $lang["lang.guests.dedication.cosplayer"]; ?></div>
+          <h6 class="card-header"><?php echo $lang["lang.guests.burning-flare.dedication"]; ?></h6>
 
-          <img src="/images/photos/invitados/Invitada_burning_flare-min.jpg" class="card-img-top rounded-0" alt="Burning Flare">
+          <img src="/images/guests/2022_burning_flare-min.jpg" alt="<?php echo $lang["lang.guests.burning-flare.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.burning-flare.title"]; ?></h5>
@@ -39,9 +39,9 @@
 
       <div class="col">
         <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
-          <div class="card-header"><?php echo $lang["lang.guests.dedication.cosplayer"]; ?></div>
+          <h6 class="card-header"><?php echo $lang["lang.guests.pandastica.dedication"]; ?></h6>
 
-          <img src="/images/photos/invitados/Invitada_pandastica-min.jpg" class="card-img-top rounded-0" alt="Pandastica">
+          <img src="/images/guests/2022_pandastica-min.jpg" alt="<?php echo $lang["lang.guests.pandastica.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.pandastica.title"]; ?></h5>
@@ -64,9 +64,9 @@
 
       <div class="col">
         <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
-          <div class="card-header"><?php echo $lang["lang.guests.dedication.cosplayer"]; ?></div>
+          <h6 class="card-header"><?php echo $lang["lang.guests.kaceda.dedication"]; ?></h6>
 
-          <img src="/images/photos/invitados/Invitada_kaceda-min.jpg" class="card-img-top rounded-0" alt="Kaceda">
+          <img src="/images/guests/2022_kaceda-min.jpg" alt="<?php echo $lang["lang.guests.kaceda.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.kaceda.title"]; ?></h5>
