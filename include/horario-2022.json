@@ -1,0 +1,412 @@
+[
+    {
+        "dayName": "saturday",
+        "rooms": [
+            {
+                "roomName": "olarizu",
+                "zones": [
+                    {
+                        "zoneName": "stage",
+                        "activities": [
+                            {
+                                "activityName": "opening",
+                                "start": "10:00",
+                                "end": "10:15"
+                            },
+                            {
+                                "activityName": "asian-dance-contest",
+                                "start": "15:00",
+                                "end": "17:00"
+                            },
+                            {
+                                "activityName": "cosplay",
+                                "start": "18:00",
+                                "end": "20:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "tatami",
+                        "activities": [
+                            {
+                                "activityName": "random-asian-dance",
+                                "start": "10:30",
+                                "end": "11:30"
+                            },
+                            {
+                                "activityName": "hema",
+                                "start": "11:30",
+                                "end": "12:30"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "tournaments",
+                        "activities": [
+                            {
+                                "activityName": "king-of-tokyo",
+                                "start": "10:30",
+                                "end": "13:30"
+                            },
+                            {
+                                "activityName": "smash",
+                                "start": "11:00",
+                                "end": "19:00"
+                            },
+                            {
+                                "activityName": "infinity",
+                                "start": "10:30",
+                                "end": "18:30"
+                            },
+                            {
+                                "activityName": "monolith-arena",
+                                "start": "15:30",
+                                "end": "19:30"
+                            },
+                            {
+                                "activityName": "magic",
+                                "start": "15:30",
+                                "end": "19:30"
+                            },
+                            {
+                                "activityName": "yu-gi-oh",
+                                "start": "15:30",
+                                "end": "19:30"
+                            },
+                            {
+                                "activityName": "ordered-witch",
+                                "start": "17:00",
+                                "end": "20:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "exhibitions",
+                        "activities": [
+                            {
+                                "activityName": "yu-gi-oh",
+                                "start": "10:30",
+                                "end": "13:30"
+                            },
+                            {
+                                "activityName": "magic",
+                                "start": "10:30",
+                                "end": "20:30"
+                            },
+                            {
+                                "activityName": "ordered-witch",
+                                "start": "11:00",
+                                "end": "20:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "roomName": "estibaliz",
+                "zones": [
+                    {
+                        "zoneName": "talks",
+                        "activities": [
+                            {
+                                "activityName": "rev-que-es",
+                                "start": "10:30",
+                                "end": "11:30"
+                            },
+                            {
+                                "activityName": "armas-ficcion",
+                                "start": "12:30",
+                                "end": "13:30"
+                            },
+                            {
+                                "activityName": "fotografia-fineart",
+                                "start": "15:00",
+                                "end": "16:00"
+                            },
+                            {
+                                "activityName": "rev-atrezzo-vestuario",
+                                "start": "16:30",
+                                "end": "17:30"
+                            },
+                            {
+                                "activityName": "presentaciones-cerbero",
+                                "start": "18:30",
+                                "end": "19:30"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "photobooth",
+                        "activities": [
+                            {
+                                "activityName": "fotografia-retrato-artistico",
+                                "start": "10:00",
+                                "end": "11:30"
+                            },
+                            {
+                                "activityName": "open-photoshoot",
+                                "start": "15:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "workshops",
+                        "activities": [
+                            {
+                                "activityName": "bordado-pokemon",
+                                "start": "10:30",
+                                "end": "12:30"
+                            },
+                            {
+                                "activityName": "fast-fic",
+                                "start": "10:30",
+                                "end": "20:30"
+                            },
+                            {
+                                "activityName": "darumas",
+                                "start": "12:00",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "rev-creacion-pjs",
+                                "start": "12:00",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "ilustracion-comic-creacion-pjs",
+                                "start": "15:00",
+                                "end": "16:00"
+                            },
+                            {
+                                "activityName": "chapas",
+                                "start": "15:30",
+                                "end": "16:30"
+                            },
+                            {
+                                "activityName": "fast-comic",
+                                "start": "16:00",
+                                "end": "20:30"
+                            },
+                            {
+                                "activityName": "literatura-comedia",
+                                "start": "17:00",
+                                "end": "18:00"
+                            },
+                            {
+                                "activityName": "jarras",
+                                "start": "17:30",
+                                "end": "18:30"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "rpg-tabletop",
+                        "activities": [
+                            {
+                                "activityName": "symbaroum",
+                                "start": "11:00",
+                                "end": "13:30"
+                            },
+                            {
+                                "activityName": "cultos-innombrables",
+                                "start": "11:00",
+                                "end": "13:30"
+                            },
+                            {
+                                "activityName": "cthulhu",
+                                "start": "11:00",
+                                "end": "13:30"
+                            },
+                            {
+                                "activityName": "rol-infantil",
+                                "start": "15:00",
+                                "end": "16:30"
+                            },
+                            {
+                                "activityName": "1800",
+                                "start": "15:00",
+                                "end": "18:00"
+                            },
+                            {
+                                "activityName": "rol-ochentero",
+                                "start": "15:30",
+                                "end": "18:30"
+                            },
+                            {
+                                "activityName": "the-witcher",
+                                "start": "16:00",
+                                "end": "19:00"
+                            },
+                            {
+                                "activityName": "d&d",
+                                "start": "17:00",
+                                "end": "19:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "rpg-live-action",
+                        "activities": [
+                            {
+                                "activityName": "viena-1914",
+                                "start": "15:00",
+                                "end": "18:00"
+                            },
+                            {
+                                "activityName": "olimpo",
+                                "start": "18:00",
+                                "end": "20:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "dayName": "sunday",
+        "rooms": [
+            {
+                "roomName": "olarizu",
+                "zones": [
+                    {
+                        "zoneName": "stage",
+                        "activities": [
+                            {
+                                "activityName": "closing",
+                                "start": "13:30",
+                                "end": "14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "tatami",
+                        "activities": [
+                            {
+                                "activityName": "academia-jedi",
+                                "start": "11:30",
+                                "end": "12:30"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "tournaments",
+                        "activities": [
+                            {
+                                "activityName": "catan",
+                                "start": "10:30",
+                                "end": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "exhibitions",
+                        "activities": [
+                            {
+                                "activityName": "magic",
+                                "start": "10:30",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "cuac",
+                                "start": "11:30",
+                                "end": "12:30"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "roomName": "estibaliz",
+                "zones": [
+                    {
+                        "zoneName": "talks",
+                        "activities": [
+                            {
+                                "activityName": "cosplay-maquillaje-caracterizacion",
+                                "start": "10:30",
+                                "end": "11:30"
+                            },
+                            {
+                                "activityName": "cosplay-armadura",
+                                "start": "12:00",
+                                "end": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "workshops",
+                        "activities": [
+                            {
+                                "activityName": "chapas",
+                                "start": "10:30",
+                                "end": "11:30"
+                            },
+                            {
+                                "activityName": "varitas",
+                                "start": "10:30",
+                                "end": "11:30"
+                            },
+                            {
+                                "activityName": "fast-painting",
+                                "start": "10:30",
+                                "end": "11:30"
+                            },
+                            {
+                                "activityName": "fotografia-camara-oscura",
+                                "start": "11:30",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "dibujos-chibi-kawaii",
+                                "start": "12:00",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "jarras",
+                                "start": "12:00",
+                                "end": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "rpg-tabletop",
+                        "activities": [
+                            {
+                                "activityName": "my-little-pony",
+                                "start": "10:30",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "d&d",
+                                "start": "10:30",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "1800",
+                                "start": "10:30",
+                                "end": "13:00"
+                            },
+                            {
+                                "activityName": "alien",
+                                "start": "10:30",
+                                "end": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "zoneName": "rpg-live-action",
+                        "activities": [
+                            {
+                                "activityName": "crazy-rol",
+                                "start": "10:30",
+                                "end": "11:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
