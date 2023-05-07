@@ -28,6 +28,26 @@
         </div>
       </div>
 
+      <div class="col">
+        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+          <img src="/images/guests/2023_destrona2plus-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.destrona2plus.title"]; ?>">
+
+          <div class="card-body">
+            <h5 class="card-title"><?php echo $lang["lang.guests.destrona2plus.title"]; ?></h5>
+            <h6 class="card-subtitle mb-2"><?php echo $lang["lang.guests.destrona2plus.dedication"]; ?></h6>
+            <p class="card-text"><?php echo $lang["lang.guests.destrona2plus.description"]; ?></p>
+          </div>
+
+          <div class="card-footer">
+            <div class="row g-2">
+              <div class="col-auto">
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/destrona2pluscosplay/" role="button"><i class="bi bi-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- <div class="col">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
           <img src="/images/guests/2023_eneko_menica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.eneko-menica.title"]; ?>">
