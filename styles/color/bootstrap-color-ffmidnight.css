@@ -49,6 +49,14 @@
 .bg-ffmidnight-25 {
   background-color: #192c5540 !important; }
 
+.bg-ffmidnight-gradient-top {
+  background-color: transparent;
+  background-image: linear-gradient(to top, rgb(25, 44, 85), rgb(25, 44, 85, 0.75)); }
+
+.bg-ffmidnight-gradient-bottom {
+  background-color: transparent;
+  background-image: linear-gradient(to bottom, rgb(25, 44, 85), rgb(25, 44, 85, 0.75)); }
+
 .text-ffmidnight {
   color: #192c55 !important; }
 

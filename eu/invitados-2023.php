@@ -7,6 +7,9 @@
       $title = $lang["lang.head.title.invitados"];
       require(__DIR__ . "/../include/head.php");
     ?>
+
+    <!-- Page CSS -->
+    <link href="/styles/invitados.css" rel="stylesheet">
   </head>
   <?php require(__DIR__ . "/../include/invitados-2023.php"); ?>
 </html>

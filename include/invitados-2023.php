@@ -9,13 +9,12 @@
 
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 justify-content-evenly">
       <div class="col">
-        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
-          <h6 class="card-header"><?php echo $lang["lang.guests.qrolanp.dedication"]; ?></h6>
-
-          <img src="/images/guests/2023_qrolanp-min.jpg" alt="<?php echo $lang["lang.guests.qrolanp.title"]; ?>">
+        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+          <img src="/images/guests/2023_qrolanp-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.qrolanp.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.qrolanp.title"]; ?></h5>
+            <h6 class="card-subtitle mb-2"><?php echo $lang["lang.guests.qrolanp.dedication"]; ?></h6>
             <p class="card-text"><?php echo $lang["lang.guests.qrolanp.description"]; ?></p>
           </div>
 
@@ -30,13 +29,12 @@
       </div>
 
       <!-- <div class="col">
-        <div class="card h-100 bg-ffmidnight-75 text-white border-0 rounded-4">
-          <h6 class="card-header"><?php echo $lang["lang.guests.eneko-menica.dedication"]; ?></h6>
-
-          <img src="/images/guests/2023_eneko_menica-min.jpg" alt="<?php echo $lang["lang.guests.eneko-menica.title"]; ?>">
+        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+          <img src="/images/guests/2023_eneko_menica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.eneko-menica.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.eneko-menica.title"]; ?></h5>
+            <h6 class="card-subtitle mb-2"><?php echo $lang["lang.guests.eneko-menica.dedication"]; ?></h6>
             <p class="card-text"><?php echo $lang["lang.guests.eneko-menica.description"]; ?></p>
           </div>
 
