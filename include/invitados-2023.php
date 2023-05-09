@@ -48,7 +48,7 @@
         </div>
       </div>
 
-      <!-- <div class="col">
+      <div class="col">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
           <img src="/images/guests/2023_eneko_menica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.eneko-menica.title"]; ?>">
 
@@ -74,7 +74,7 @@
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
     </div>
   </div>
   <!-- Main End -->
