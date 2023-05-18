@@ -25,41 +25,28 @@
             <!-- Programa -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "actividades-2023.php" || $curPageName == "actividades-2022.php" || $curPageName == "horario.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-program">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2023.php"><?php echo $lang["lang.header.activities.2023"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
                 <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li> -->
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades-2022.php"><?php echo $lang["lang.header.activities.2022"]; ?></a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="inscripciones-candidaturas.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li>
               </ul>
             </li>
             <!-- Invitados -->
-            <li class="nav-item dropdown">
-              <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "invitados-2023.php" || $curPageName == "invitados-2022.php") echo "active\" aria-current=\"page"; ?>"
-              href="#" id="navbarDropdown-guests" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <li class="nav-item">
+              <a class="nav-link fw-bold text-uppercase text-lg-center
+              <?php if ($curPageName == "invitados.php") echo "active\" aria-current=\"page"; ?>" href="invitados.php">
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
-              <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-guests">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2023.php"><?php echo $lang["lang.header.guests.2023"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="invitados-2022.php"><?php echo $lang["lang.header.guests.2022"]; ?></a></li>
-              </ul>
             </li>
           </ul>
         </div>
         <div id="nav-links-end" class="navbar-collapse">
           <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
-            <!-- Fotos -->
-            <li class="nav-item">
-              <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "fotos.php") echo "active\" aria-current=\"page"; ?>" href="fotos.php">
-                <?php echo $lang["lang.header.photos"]; ?>
-              </a>
-            </li>
             <!-- Info -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
@@ -71,6 +58,18 @@
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="organizadores.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="colaboradores.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
                 <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li> -->
+              </ul>
+            </li>
+            <!-- Fotos -->
+            <li class="nav-item dropdown">
+              <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
+              <?php if ($curPageName == "edicion-2022.php" || $curPageName == "edicion-2018.php") echo "active\" aria-current=\"page"; ?>"
+              href="#" id="navbarDropdown-editions" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <?php echo $lang["lang.header.editions"]; ?>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-editions">
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="edicion-2022.php"><?php echo $lang["lang.header.editions.2022"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="edicion-2018.php"><?php echo $lang["lang.header.editions.2018"]; ?></a></li>
               </ul>
             </li>
             <!-- Idioma -->

@@ -7,6 +7,8 @@ $lang = array(
   "lang.head.title.actividades" => "Jarduerak · ",
   "lang.head.title.colaboradores" => "Kolaboratzaileak · ",
   "lang.head.title.como-llegar" => "Nola heldu · ",
+  "lang.head.title.edition-2022" => "2022 edizioa · ",
+  "lang.head.title.edition-2018" => "2018 edizioa · ",
   "lang.head.title.fotos" => "Argazkiak · ",
   "lang.head.title.horario" => "Ordutegia · ",
   "lang.head.title.index" => "",
@@ -31,6 +33,9 @@ $lang = array(
   "lang.header.organizers" => "Antolatzaileak",
   "lang.header.partners" => "Kolaboratzaileak",
   "lang.header.maps-of-the-facilities" => "Esparruaren mapak",
+  "lang.header.editions" => "Edizioak",
+  "lang.header.editions.2022" => "2022 edizioa",
+  "lang.header.editions.2018" => "2018 edizioa",
   "lang.header.lang.es" => "Español",
   "lang.header.lang.eu" => "Euskara",
 
@@ -297,12 +302,12 @@ $lang = array(
 
   "lang.partners.title" => "Kolaboratzaileak",
 
-  "lang.gallery.title" => "Aurreko urtetan…",
-  "lang.gallery.2022" => "2022 edizioa",
-  "lang.gallery.2022.artists" => "Artistak",
-  "lang.gallery.2022.partners-workshops" => "Kolaboratzaileak eta tailerrak",
-  "lang.gallery.2022.board-role-games" => "Mahai- eta rol-jokoak",
-  "lang.gallery.2022.video" => "Bideoa",
-  "lang.gallery.2018" => "2018 edizioa",
+  "lang.edition.2022.title" => "2022 edizioa",
+  "lang.edition.2018.title" => "2018 edizioa",
+  "lang.edition.gallery.photos" => "Argazkiak",
+  "lang.edition.gallery.artists" => "Artistak",
+  "lang.edition.gallery.partners-workshops" => "Kolaboratzaileak eta tailerrak",
+  "lang.edition.gallery.board-role-games" => "Mahai- eta rol-jokoak",
+  "lang.edition.gallery.video" => "Bideoa",
 );
 ?>

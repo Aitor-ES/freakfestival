@@ -1,11 +1,11 @@
-<?php require_once("lang/lang.es.php"); ?>
+<?php require_once(__DIR__ . "/../lang/lang.eu.php"); ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang["lang"]; ?>">
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.head.title.fotos"];
-      require("include/head.php");
+      $title = $lang["lang.head.title.edition-2018"];
+      require(__DIR__ . "/../include/head.php");
     ?>
 
     <!-- Lightbox2 library -->
@@ -14,5 +14,5 @@
     <!-- Page CSS -->
     <link href="/styles/fotos.css" rel="stylesheet">
   </head>
-  <?php require("include/fotos.php"); ?>
+  <?php require(__DIR__ . "/../include/edicion-2018.php"); ?>
 </html>

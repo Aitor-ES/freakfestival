@@ -4,12 +4,12 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.head.title.actividades"];
+      $title = $lang["lang.head.title.invitados"];
       require("include/head.php");
     ?>
 
     <!-- Page CSS -->
-    <link href="/styles/actividades.css" rel="stylesheet">
+    <link href="/styles/invitados.css" rel="stylesheet">
   </head>
-  <?php require("include/actividades-2022.php"); ?>
+  <?php require("include/invitados.php"); ?>
 </html>

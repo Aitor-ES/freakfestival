@@ -7,6 +7,8 @@ $lang = array(
   "lang.head.title.actividades" => "Actividades · ",
   "lang.head.title.colaboradores" => "Colaboradores · ",
   "lang.head.title.como-llegar" => "Cómo llegar · ",
+  "lang.head.title.edition-2022" => "Edición 2022 · ",
+  "lang.head.title.edition-2018" => "Edición 2018 · ",
   "lang.head.title.fotos" => "Fotos · ",
   "lang.head.title.horario" => "Horario · ",
   "lang.head.title.index" => "",
@@ -31,6 +33,9 @@ $lang = array(
   "lang.header.organizers" => "Organizadores",
   "lang.header.partners" => "Colaboradores",
   "lang.header.maps-of-the-facilities" => "Mapas del recinto",
+  "lang.header.editions" => "Ediciones",
+  "lang.header.editions.2022" => "Edición 2022",
+  "lang.header.editions.2018" => "Edición 2018",
   "lang.header.lang.es" => "Español",
   "lang.header.lang.eu" => "Euskara",
 
@@ -297,12 +302,12 @@ $lang = array(
 
   "lang.partners.title" => "Colaboradores",
 
-  "lang.gallery.title" => "En años anteriores…",
-  "lang.gallery.2022" => "Edición 2022",
-  "lang.gallery.2022.artists" => "Artistas",
-  "lang.gallery.2022.partners-workshops" => "Colaboradores y talleres",
-  "lang.gallery.2022.board-role-games" => "Juegos de mesa y rol",
-  "lang.gallery.2022.video" => "Vídeo",
-  "lang.gallery.2018" => "Edición 2018",
+  "lang.edition.2022.title" => "Edición 2022",
+  "lang.edition.2018.title" => "Edición 2018",
+  "lang.edition.gallery.title" => "Fotos",
+  "lang.edition.gallery.artists" => "Artistas",
+  "lang.edition.gallery.partners-workshops" => "Colaboradores y talleres",
+  "lang.edition.gallery.board-role-games" => "Juegos de mesa y rol",
+  "lang.edition.gallery.video" => "Vídeo",
 );
 ?>

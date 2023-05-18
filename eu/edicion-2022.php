@@ -4,7 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.head.title.fotos"];
+      $title = $lang["lang.head.title.edition-2022"];
       require(__DIR__ . "/../include/head.php");
     ?>
 
@@ -12,7 +12,9 @@
     <link href="/libraries/lightbox2/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Page CSS -->
+    <link href="/styles/actividades.css" rel="stylesheet">
+    <link href="/styles/invitados.css" rel="stylesheet">
     <link href="/styles/fotos.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/fotos.php"); ?>
+  <?php require(__DIR__ . "/../include/edicion-2022.php"); ?>
 </html>
