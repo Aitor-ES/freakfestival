@@ -2,23 +2,22 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/m197082/freakfestival.es/
-    - /bin/cp actividades-2022.php $DEPLOYPATH
-    - /bin/cp actividades-2023.php $DEPLOYPATH
-    - /bin/cp fotos.php $DEPLOYPATH
+    - /bin/cp actividades.php $DEPLOYPATH
+    - /bin/cp colaboradores.php $DEPLOYPATH
+    - /bin/cp edicion-2018.php $DEPLOYPATH
+    - /bin/cp edicion-2022.php $DEPLOYPATH
     - /bin/cp horario.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp inscripciones-candidaturas.php $DEPLOYPATH
-    - /bin/cp invitados-2022.php $DEPLOYPATH
-    - /bin/cp invitados-2023.php $DEPLOYPATH
-    - /bin/cp organizadores.php $DEPLOYPATH
-    - /bin/cp colaboradores.php $DEPLOYPATH
+    - /bin/cp invitados.php $DEPLOYPATH
     - /bin/cp mapas-recinto.php $DEPLOYPATH
-    - /bin/cp -R include $DEPLOYPATH
+    - /bin/cp organizadores.php $DEPLOYPATH
+    - /bin/cp -R docs $DEPLOYPATH
+    - /bin/cp -R eu $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R include $DEPLOYPATH
     # - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R lang $DEPLOYPATH
     - /bin/cp -R libraries $DEPLOYPATH
     - /bin/cp -R styles $DEPLOYPATH
-    - /bin/cp -R eu $DEPLOYPATH
-    - /bin/cp -R docs $DEPLOYPATH
-    - /bin/cp -R lang $DEPLOYPATH
