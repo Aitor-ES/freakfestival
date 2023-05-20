@@ -52,6 +52,88 @@
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
 
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.title"]; ?></h4>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.valinor"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.description.1"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.description.2"]; ?></p>
+
+                  <!-- <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                    </div>
+                  </div> -->
+                </div>
+              </li>
+            </ul>
+
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.vampiro.monstruo.title"]; ?></h4>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.valinor"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.rpg.vampiro.monstruo.description"]; ?></p>
+
+                  <!-- <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                    </div>
+                  </div> -->
+                </div>
+              </li>
+            </ul>
+
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.title"]; ?></h4>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.klaudia"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.description.1"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.description.2"]; ?></p>
+
+                  <!-- <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                    </div>
+                  </div> -->
+                </div>
+              </li>
+            </ul>
+
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.cultos.corben.title"]; ?></h4>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.klaudia"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.rpg.cultos.corben.description"]; ?></p>
+
+                  <!-- <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                    </div>
+                  </div> -->
+                </div>
+              </li>
+            </ul>
+
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.asfalto.goma.title"]; ?></h4>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.seijo"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.rpg.asfalto.goma.description"]; ?></p>
+
+                  <!-- <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                    </div>
+                  </div> -->
+                </div>
+              </li>
+            </ul>
+
             <div class="text-center">
               <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
             </div>
@@ -102,6 +184,22 @@
         <div id="collapse-talks" class="accordion-collapse collapse" aria-labelledby="heading-talks" data-bs-parent="#accordion-activities">
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
+
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.talks-exhibitions.editar-rol.title"]; ?></h4>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.seijo-ikan"]; ?></p>
+                  <p><?php echo $lang["lang.activities.2023.talks-exhibitions.editar-rol.description"]; ?></p>
+
+                  <!-- <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                    </div>
+                  </div> -->
+                </div>
+              </li>
+            </ul>
 
             <div class="text-center">
               <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
