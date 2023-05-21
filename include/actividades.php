@@ -17,10 +17,6 @@
         <div id="collapse-board-games" class="accordion-collapse collapse" aria-labelledby="heading-board-games" data-bs-parent="#accordion-activities">
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
-
-            <div class="text-center">
-              <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
-            </div>
           </div>
         </div>
       </div>
@@ -195,10 +191,6 @@
         <div id="collapse-stands" class="accordion-collapse collapse" aria-labelledby="heading-stands" data-bs-parent="#accordion-activities">
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.shops-artists-artisans.description"]; ?></p>
-
-            <div class="text-center">
-              <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
-            </div>
           </div>
         </div>
       </div>
