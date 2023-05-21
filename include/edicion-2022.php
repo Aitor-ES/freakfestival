@@ -42,7 +42,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Bases juegos de mesa y cartas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Bases juegos de mesa y cartas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
                     <div class="col-auto">
                       <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
@@ -58,7 +58,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Bases TORNEO FREAK FESTIVAL22 Infinity.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Bases TORNEO FREAK FESTIVAL22 Infinity.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
                     <div class="col-auto">
                       <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
@@ -74,7 +74,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Bases smash bros FF22.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Bases smash bros FF22.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
                     <div class="col-auto">
                       <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
@@ -305,7 +305,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Bases cosplay 22.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Bases cosplay 22.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
                     <div class="col-auto">
@@ -322,7 +322,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Bases KADC FreakFestival 2022.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Bases KADC FreakFestival 2022.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
                     <div class="col-auto">
@@ -339,7 +339,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/FREAK FESTIVAL CONCURSO FAST PAINTING.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/FREAK FESTIVAL CONCURSO FAST PAINTING.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
                     <div class="col-auto">
@@ -356,7 +356,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Bases fast fic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Bases fast fic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
                     <div class="col-auto">
@@ -373,7 +373,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Bases fast comic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Bases fast comic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
                     <div class="col-auto">
@@ -390,7 +390,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Miniaturas, Dioramas (Bases).pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Miniaturas, Dioramas (Bases).pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
                     <div class="col-auto">
@@ -407,7 +407,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Miniaturas, Dioramas (Bases).pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Miniaturas, Dioramas (Bases).pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
 
                     <div class="col-auto">
@@ -619,7 +619,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/Taller de Retrato Artístico.pdf" role="button"><?php echo $lang["lang.activities.btn.dossier"]; ?></a>
+                      <a class="btn btn-ffdiamond" href="/docs/2022/Taller de Retrato Artístico.pdf" role="button"><?php echo $lang["lang.activities.btn.dossier"]; ?></a>
                     </div>
 
                     <div class="col-auto">

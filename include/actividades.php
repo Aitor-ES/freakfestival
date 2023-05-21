@@ -151,6 +151,34 @@
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
 
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.pintado-miniaturas.title"]; ?></h4>
+                  <p><?php echo $lang["lang.activities.2023.contests.pintado-miniaturas.description"]; ?></p>
+
+                  <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases de los concursos de miniaturas y dioramas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.dioramas.title"]; ?></h4>
+                  <p><?php echo $lang["lang.activities.2023.contests.dioramas.description"]; ?></p>
+
+                  <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases de los concursos de miniaturas y dioramas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+
             <div class="text-center">
               <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
             </div>

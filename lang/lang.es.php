@@ -131,6 +131,19 @@ $lang = array(
   "lang.activities.2023.rpg.asfalto.goma.title" => "Rol de mesa de Asfalto: Goma quemada y alpargatas de combate",
   "lang.activities.2023.rpg.asfalto.goma.description" => "Despertáis doloridos, encadenados en el interior de un camión de guerrilleros que definitivamente ha visto tiempos mejores. Los eriales que atravesáis son indistinguibles de cualquier otro, pero las breves conversaciones de los soldados que os escoltan no dejan lugar a dudas: os dirigís hacia las terribles tierras de Bacete, y vuestro destino es convertiros en bolsas de sangre. ¿Seréis capaces de darle la vuelta a la situacion?",
 
+  "lang.activities.2023.contests.cosplay.title" => "Cosplay",
+  "lang.activities.2023.contests.cosplay.description" => "Luce tus mejores galas y da vida a tu personaje favorito en el concurso de cosplay. Nuestro jurado de expertos valorará la confección, fabricación y detalles de los trajes, así como la puesta en escena. ¡Prepárate para deslumbrarlos a todos!",
+  "lang.activities.2023.contests.fast-painting.title" => "Fast Painting",
+  "lang.activities.2023.contests.fast-painting.description" => "¿Te crees capaz de pintar a contrarreloj una miniatura digna del primer puesto? Demuéstranos tu maestría con el pincel en este concurso. Recuerda, ¡el temporizador no se detiene mientras se seca la pintura!",
+  "lang.activities.2023.contests.fast-fic.title" => "Fast Fic",
+  "lang.activities.2023.contests.fast-fic.description" => "Si quieres probar a contrarreloj tu imaginación y habilidad literaria, aquí tienes el reto que buscabas. Crea tu mejor relato durante el evento y conmueve al jurado con tus palabras.",
+  "lang.activities.2023.contests.fast-comic.title" => "Fast Comic",
+  "lang.activities.2023.contests.fast-comic.description" => "¿Te crees capaz de crear en tiempo record una buena historia en formato cómic? ¡Agarra tu material de dibujo y enséñanos de lo que eres capaz!",
+  "lang.activities.2023.contests.pintado-miniaturas.title" => "Pintado de miniaturas",
+  "lang.activities.2023.contests.pintado-miniaturas.description" => "¿Cuánta habilidad tienes con colores acrílicos sobre plástico? ¿O quizás resina? ¿O metal? Da igual el material de la miniatura, lo que nos interesa es lo bien que le hayas dejado la capa de pintura que lleve encima, ¡así que enséñanos tu arte con el pincel y arrasa en este concurso!",
+  "lang.activities.2023.contests.dioramas.title" => "Dioramas",
+  "lang.activities.2023.contests.dioramas.description" => "Si sientes que una miniatura no es un reto suficiente, ¿por qué no subir el listón? ¡Tráenos tu obra maestra en forma de diorama y deja que tu habilidad de pintura y tu arte de crear escenas te lleven al primer puesto!",
+
   "lang.activities.2023.talks-exhibitions.editar-rol.title" => "Cómo autoeditar rol y no morir en el intento",
   "lang.activities.2023.talks-exhibitions.editar-rol.description" => "Una pequeña exposición sobre los pormenores de la publicación independiente en el mundillo rolero, desde las perspectivas de un escritor y un ilustrador.",
 
@@ -175,11 +188,11 @@ $lang = array(
   "lang.activities.2022.rpg.viena-1914.description" => "La acción se sitúa en Viena en 1914, poco antes del inicio de la Gran Guerra. Se celebra una fiesta en la corte de Viena por la onomástica de la duquesa von Hammerschich a la que están invitados personajes muy importantes del Imperio austrohúngaro y sus aliados, incluyendo al emperador Francisco José y el archiduque Francisco Fernando, su sobrino y sucesor al trono. La copiosa cena termina en una reunión privada, que se alargará hasta el filo de la medianoche.",
 
   "lang.activities.2022.contests.cosplay.title" => "Cosplay",
-  "lang.activities.2022.contests.cosplay.description" => "Luce tus mejores galas y da vida a tu personaje favorito en el concurso de Cosplay. Nuestro jurado de expertas valorará la confección, fabricación y detalles de los trajes, así como la puesta en escena. ¡Prepárate para deslumbrarlos a todos!",
+  "lang.activities.2022.contests.cosplay.description" => "Luce tus mejores galas y da vida a tu personaje favorito en el concurso de Cosplay. Nuestro jurado de expertos valorará la confección, fabricación y detalles de los trajes, así como la puesta en escena. ¡Prepárate para deslumbrarlos a todos!",
   "lang.activities.2022.contests.asian-dance-contest.title" => "Asian Dance Contest",
   "lang.activities.2022.contests.asian-dance-contest.description" => "No te pierdas la oportunidad de participar en el concurso de baile de K-pop organizado por el maravilloso grupo Kuàizi. Ya sea en equipo o en solitario, ¡ya puedes bailar al ritmo del estilo coreano más moderno!",
   "lang.activities.2022.contests.fast-painting.title" => "Fast Painting",
-  "lang.activities.2022.contests.fast-painting.description" => "¿Te crees capaz de pintar una miniatura a contrarreloj digna del primer puesto? Demuéstranos tu maestría con el pincel en este concurso. Recuerda, ¡el temporizador no se detiene mientras se seca la pintura!",
+  "lang.activities.2022.contests.fast-painting.description" => "¿Te crees capaz de pintar a contrarreloj una miniatura digna del primer puesto? Demuéstranos tu maestría con el pincel en este concurso. Recuerda, ¡el temporizador no se detiene mientras se seca la pintura!",
   "lang.activities.2022.contests.fast-fic.title" => "Fast Fic",
   "lang.activities.2022.contests.fast-fic.description" => "Si quieres probar tu imaginación y habilidad literaria a contrarreloj, aquí tienes el reto que buscabas. Crea tu mejor relato durante el evento y conmueve al jurado con tus palabras.",
   "lang.activities.2022.contests.fast-comic.title" => "Fast Comic",
