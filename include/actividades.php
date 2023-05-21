@@ -56,7 +56,7 @@
               <li class="list-group-item mb-3">
                 <div>
                   <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.valinor"]; ?></p>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.valinor"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.description.1"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.description.2"]; ?></p>
 
@@ -73,7 +73,7 @@
               <li class="list-group-item mb-3">
                 <div>
                   <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.vampiro.monstruo.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.valinor"]; ?></p>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.valinor"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.rpg.vampiro.monstruo.description"]; ?></p>
 
                   <!-- <div class="row gy-3 mb-3">
@@ -89,7 +89,7 @@
               <li class="list-group-item mb-3">
                 <div>
                   <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.klaudia"]; ?></p>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.klaudia"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.description.1"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.description.2"]; ?></p>
 
@@ -106,7 +106,7 @@
               <li class="list-group-item mb-3">
                 <div>
                   <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.cultos.corben.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.klaudia"]; ?></p>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.klaudia"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.rpg.cultos.corben.description"]; ?></p>
 
                   <!-- <div class="row gy-3 mb-3">
@@ -122,7 +122,7 @@
               <li class="list-group-item mb-3">
                 <div>
                   <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.asfalto.goma.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.seijo"]; ?></p>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.seijo"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.rpg.asfalto.goma.description"]; ?></p>
 
                   <!-- <div class="row gy-3 mb-3">
@@ -189,7 +189,7 @@
               <li class="list-group-item mb-3">
                 <div>
                   <h4 class="mb-3"><?php echo $lang["lang.activities.2023.talks-exhibitions.editar-rol.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"]; ?><?php echo $lang["lang.activities.organizer.seijo-ikan"]; ?></p>
+                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.seijo-ikan"]; ?></p>
                   <p><?php echo $lang["lang.activities.2023.talks-exhibitions.editar-rol.description"]; ?></p>
 
                   <!-- <div class="row gy-3 mb-3">
