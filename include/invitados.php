@@ -49,7 +49,7 @@
       </div>
 
       <!-- Force next columns to break to new line -->
-      <div class="w-100 mt-0"></div>
+      <!-- <div class="w-100 mt-0"></div> -->
 
       <div class="col-12 col-lg-4">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
@@ -98,6 +98,30 @@
 
               <div class="col-auto">
                 <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.facebook.com/Usagitxo/" role="button"><i class="bi bi-facebook"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-lg-4">
+        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+          <img src="/images/guests/2023_mayicosplay-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.mayicosplay.title"]; ?>">
+
+          <div class="card-body">
+            <h5 class="card-title"><?php echo $lang["lang.guests.mayicosplay.title"]; ?></h5>
+            <h6 class="card-subtitle mb-2"><?php echo $lang["lang.guests.mayicosplay.dedication"]; ?></h6>
+            <p class="card-text"><?php echo $lang["lang.guests.mayicosplay.description"]; ?></p>
+          </div>
+
+          <div class="card-footer">
+            <div class="row g-2">
+              <div class="col-auto">
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/mayicosplay/" role="button"><i class="bi bi-instagram"></i></a>
+              </div>
+
+              <div class="col-auto">
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.tiktok.com/@malenmai" role="button"><i class="bi bi-tiktok"></i></a>
               </div>
             </div>
           </div>
