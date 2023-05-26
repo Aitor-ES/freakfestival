@@ -1,0 +1,83 @@
+[
+    {
+        "categoryName": "board-games"
+    },
+    {
+        "categoryName": "tournaments"
+    },
+    {
+        "categoryName": "rpg",
+        "activities": [
+            {
+                "activityName": "aquelarre.abadia",
+                "organizer": "valinor"
+            },
+            {
+                "activityName": "vampiro.monstruo",
+                "organizer": "valinor"
+            },
+            {
+                "activityName": "vampiro.sangre",
+                "organizer": "klaudia"
+            },
+            {
+                "activityName": "cultos.corben",
+                "organizer": "klaudia"
+            },
+            {
+                "activityName": "asfalto.goma",
+                "organizer": "seijo"
+            }
+        ]
+    },
+    {
+        "categoryName": "contests",
+        "activities": [
+            {
+                "activityName": "cosplay",
+                "organizer": "valinor",
+                "rules": "Bases del concurso de cosplay.docx.pdf"
+            },
+            {
+                "activityName": "fast-painting",
+                "organizer": "valinor",
+                "rules": "Bases del concurso de fast painting.pdf"
+            },
+            {
+                "activityName": "fast-fic",
+                "organizer": "valinor",
+                "rules": "Bases del concurso de fast fic.pdf"
+            },
+            {
+                "activityName": "fast-comic",
+                "organizer": "valinor",
+                "rules": "Bases del concurso de fast comic.pdf"
+            },
+            {
+                "activityName": "pintado-miniaturas",
+                "organizer": "valinor",
+                "rules": "Bases de los concursos de miniaturas y dioramas.pdf"
+            },
+            {
+                "activityName": "dioramas",
+                "organizer": "valinor",
+                "rules": "Bases de los concursos de miniaturas y dioramas.pdf"
+            }
+        ]
+    },
+    {
+        "categoryName": "stands"
+    },
+    {
+        "categoryName": "talks-exhibitions",
+        "activities": [
+            {
+                "activityName": "editar-rol",
+                "organizer": "seijo-ikan"
+            }
+        ]
+    },
+    {
+        "categoryName": "workshops"
+    }
+]

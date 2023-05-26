@@ -8,6 +8,8 @@
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.title"]; ?></h1>
 
     <div class="accordion" id="accordion-activities">
+      <?php $activityCategories = json_decode(file_get_contents(__DIR__ . '/actividades-2023.json')); ?>
+
       <!-- Board games -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-board-games">
@@ -52,85 +54,15 @@
             <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
 
             <ul class="list-group list-group-flush">
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.valinor"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.description.1"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.rpg.aquelarre.abadia.description.2"]; ?></p>
-
-                  <!-- <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
-                  </div> -->
-                </div>
-              </li>
-            </ul>
-
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.vampiro.monstruo.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.valinor"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.rpg.vampiro.monstruo.description"]; ?></p>
-
-                  <!-- <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
-                  </div> -->
-                </div>
-              </li>
-            </ul>
-
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.klaudia"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.description.1"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.rpg.vampiro.sangre.description.2"]; ?></p>
-
-                  <!-- <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
-                  </div> -->
-                </div>
-              </li>
-            </ul>
-
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.cultos.corben.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.klaudia"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.rpg.cultos.corben.description"]; ?></p>
-
-                  <!-- <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
-                  </div> -->
-                </div>
-              </li>
-            </ul>
-
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.asfalto.goma.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.seijo"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.rpg.asfalto.goma.description"]; ?></p>
-
-                  <!-- <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
-                  </div> -->
-                </div>
-              </li>
+              <?php foreach ($activityCategories[2]->activities as $activity) { ?>
+                <li class="list-group-item mb-3">
+                  <div>
+                    <h4 class="mb-3"><?php echo $lang["lang.activities.2023.rpg.$activity->activityName.title"]; ?></h4>
+                    <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+                    <p><?php echo $lang["lang.activities.2023.rpg.$activity->activityName.description"]; ?></p>
+                  </div>
+                </li>
+              <?php } ?>
             </ul>
 
             <div class="text-center">
@@ -152,83 +84,21 @@
             <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
 
             <ul class="list-group list-group-flush">
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.cosplay.title"]; ?></h4>
-                  <p><?php echo $lang["lang.activities.2023.contests.cosplay.description"]; ?></p>
+              <?php foreach ($activityCategories[3]->activities as $activity) { ?>
+                <li class="list-group-item mb-3">
+                  <div>
+                    <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.$activity->activityName.title"]; ?></h4>
+                    <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+                    <p><?php echo $lang["lang.activities.2023.contests.$activity->activityName.description"]; ?></p>
 
-                  <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de cosplay.docx.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                    <div class="row gy-3 mb-3">
+                      <div class="col-auto">
+                        <a class="btn btn-ffdiamond" href="<?php echo $activity->rules; ?>" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                      </div>
                     </div>
                   </div>
-                </div>
-              </li>
-
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.fast-painting.title"]; ?></h4>
-                  <p><?php echo $lang["lang.activities.2023.contests.fast-painting.description"]; ?></p>
-
-                  <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de fast painting.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.fast-fic.title"]; ?></h4>
-                  <p><?php echo $lang["lang.activities.2023.contests.fast-fic.description"]; ?></p>
-
-                  <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de fast fic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.fast-comic.title"]; ?></h4>
-                  <p><?php echo $lang["lang.activities.2023.contests.fast-comic.description"]; ?></p>
-
-                  <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de fast comic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.pintado-miniaturas.title"]; ?></h4>
-                  <p><?php echo $lang["lang.activities.2023.contests.pintado-miniaturas.description"]; ?></p>
-
-                  <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases de los concursos de miniaturas y dioramas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
-                    </div>
-                  </div>
-                </div>
-              </li>
-
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.dioramas.title"]; ?></h4>
-                  <p><?php echo $lang["lang.activities.2023.contests.dioramas.description"]; ?></p>
-
-                  <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases de los concursos de miniaturas y dioramas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
-                    </div>
-                  </div>
-                </div>
-              </li>
+                </li>
+              <?php } ?>
             </ul>
           </div>
         </div>
@@ -250,29 +120,25 @@
 
       <!-- Talks -->
       <div class="accordion-item border-0 my-3">
-        <h2 class="accordion-header" id="heading-talks">
-          <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-talks" aria-expanded="false" aria-controls="collapse-talks">
+        <h2 class="accordion-header" id="heading-talks-exhibitions">
+          <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-talks-exhibitions" aria-expanded="false" aria-controls="collapse-talks">
             <?php echo $lang["lang.activities.talks-exhibitions.title"]; ?>
           </button>
         </h2>
-        <div id="collapse-talks" class="accordion-collapse collapse" aria-labelledby="heading-talks" data-bs-parent="#accordion-activities">
+        <div id="collapse-talks-exhibitions" class="accordion-collapse collapse" aria-labelledby="heading-talks-exhibitions" data-bs-parent="#accordion-activities">
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
 
             <ul class="list-group list-group-flush">
-              <li class="list-group-item mb-3">
-                <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.talks-exhibitions.editar-rol.title"]; ?></h4>
-                  <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.seijo-ikan"]; ?></p>
-                  <p><?php echo $lang["lang.activities.2023.talks-exhibitions.editar-rol.description"]; ?></p>
-
-                  <!-- <div class="row gy-3 mb-3">
-                    <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
-                    </div>
-                  </div> -->
-                </div>
-              </li>
+              <?php foreach ($activityCategories[5]->activities as $activity) { ?>
+                <li class="list-group-item mb-3">
+                  <div>
+                    <h4 class="mb-3"><?php echo $lang["lang.activities.2023.talks-exhibitions.$activity->activityName.title"]; ?></h4>
+                    <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+                    <p><?php echo $lang["lang.activities.2023.talks-exhibitions.$activity->activityName.description"]; ?></p>
+                  </div>
+                </li>
+              <?php } ?>
             </ul>
 
             <div class="text-center">
