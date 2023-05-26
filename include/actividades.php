@@ -8,6 +8,7 @@
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.title"]; ?></h1>
 
     <div class="accordion" id="accordion-activities">
+      <!-- Board games -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-board-games">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-board-games" aria-expanded="false" aria-controls="collapse-board-games">
@@ -21,6 +22,7 @@
         </div>
       </div>
 
+      <!-- Tournaments -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-tournaments">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-tournaments" aria-expanded="false" aria-controls="collapse-tournaments">
@@ -38,6 +40,7 @@
         </div>
       </div>
 
+      <!-- RPG -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-rpg">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-rpg" aria-expanded="false" aria-controls="collapse-rpg">
@@ -137,6 +140,7 @@
         </div>
       </div>
 
+      <!-- Contests -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-contests">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-contests" aria-expanded="false" aria-controls="collapse-contests">
@@ -148,6 +152,58 @@
             <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
 
             <ul class="list-group list-group-flush">
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.cosplay.title"]; ?></h4>
+                  <p><?php echo $lang["lang.activities.2023.contests.cosplay.description"]; ?></p>
+
+                  <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de cosplay.docx.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.fast-painting.title"]; ?></h4>
+                  <p><?php echo $lang["lang.activities.2023.contests.fast-painting.description"]; ?></p>
+
+                  <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de fast painting.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.fast-fic.title"]; ?></h4>
+                  <p><?php echo $lang["lang.activities.2023.contests.fast-fic.description"]; ?></p>
+
+                  <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de fast fic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li class="list-group-item mb-3">
+                <div>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.fast-comic.title"]; ?></h4>
+                  <p><?php echo $lang["lang.activities.2023.contests.fast-comic.description"]; ?></p>
+
+                  <div class="row gy-3 mb-3">
+                    <div class="col-auto">
+                      <a class="btn btn-ffdiamond" href="/docs/2023/Bases del concurso de fast comic.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
               <li class="list-group-item mb-3">
                 <div>
                   <h4 class="mb-3"><?php echo $lang["lang.activities.2023.contests.pintado-miniaturas.title"]; ?></h4>
@@ -174,14 +230,11 @@
                 </div>
               </li>
             </ul>
-
-            <div class="text-center">
-              <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
-            </div>
           </div>
         </div>
       </div>
 
+      <!-- Stands -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-stands">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-stands" aria-expanded="false" aria-controls="collapse-stands">
@@ -195,6 +248,7 @@
         </div>
       </div>
 
+      <!-- Talks -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-talks">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-talks" aria-expanded="false" aria-controls="collapse-talks">
@@ -228,6 +282,7 @@
         </div>
       </div>
 
+      <!-- Workshops -->
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-workshops">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-workshops" aria-expanded="false" aria-controls="collapse-workshops">
