@@ -15,7 +15,7 @@
 
       <div class="col-auto">
         <img class="logo-contributor" src="/images/logos/contributors/2023/<?php echo $file->getFilename(); ?>"
-          alt="/images/logos/contributors/2023/<?php echo $file->getFilename(); ?>" width="auto" height="60px">
+          alt="<?php echo $file->getFilename(); ?>" width="auto" height="60px">
       </div>
 
       <?php
