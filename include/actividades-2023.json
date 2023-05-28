@@ -3,6 +3,10 @@
         "categoryName": "board-games",
         "activities": [
             {
+                "activityName": "ludoteca",
+                "organizer": "valinor-alter"
+            },
+            {
                 "activityName": "marvel",
                 "organizer": "alter"
             },
