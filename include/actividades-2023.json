@@ -1,6 +1,36 @@
 [
     {
-        "categoryName": "board-games"
+        "categoryName": "board-games",
+        "activities": [
+            {
+                "activityName": "marvel",
+                "organizer": "alter"
+            },
+            {
+                "activityName": "space-base",
+                "organizer": "alter"
+            },
+            {
+                "activityName": "dice-hospital",
+                "organizer": "alter"
+            },
+            {
+                "activityName": "cubirds",
+                "organizer": "alter"
+            },
+            {
+                "activityName": "jardin-alicia",
+                "organizer": "alter"
+            },
+            {
+                "activityName": "imhre",
+                "organizer": "sugaar"
+            },
+            {
+                "activityName": "wild-pong",
+                "organizer": "sugaar"
+            }
+        ]
     },
     {
         "categoryName": "tournaments"
@@ -27,6 +57,22 @@
             {
                 "activityName": "asfalto.goma",
                 "organizer": "seijo"
+            },
+            {
+                "activityName": "2300.kaefer",
+                "organizer": "sugaar"
+            },
+            {
+                "activityName": "seccion-oculta.sueños",
+                "organizer": "sugaar"
+            },
+            {
+                "activityName": "traveller.botadura",
+                "organizer": "sugaar"
+            },
+            {
+                "activityName": "skolza",
+                "organizer": "conplumaypixel"
             }
         ]
     },
@@ -74,10 +120,40 @@
             {
                 "activityName": "editar-rol",
                 "organizer": "seijo-ikan"
+            },
+            {
+                "activityName": "cosplay-iniciacion",
+                "organizer": "mayicosplay"
+            },
+            {
+                "activityName": "patronaje-maniqui",
+                "organizer": "basquecosplay"
+            },
+            {
+                "activityName": "ser-virtual-streamer",
+                "organizer": "arkenaya"
+            },
+            {
+                "activityName": "cosplay",
+                "organizer": "destrona2plus"
             }
         ]
     },
     {
-        "categoryName": "workshops"
+        "categoryName": "workshops",
+        "activities": [
+            {
+                "activityName": "dibujar-pj-fantasia",
+                "organizer": "qrolanp"
+            },
+            {
+                "activityName": "dibujar-mazmorras",
+                "organizer": "eneko-menica"
+            },
+            {
+                "activityName": "marcapaginas-acuarela",
+                "organizer": "irnielart"
+            }
+        ]
     }
 ]

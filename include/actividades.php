@@ -20,6 +20,18 @@
         <div id="collapse-board-games" class="accordion-collapse collapse" aria-labelledby="heading-board-games" data-bs-parent="#accordion-activities">
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
+
+            <ul class="list-group list-group-flush">
+              <?php foreach ($activityCategories[0]->activities as $activity) { ?>
+                <li class="list-group-item mb-3">
+                  <div>
+                    <h4 class="mb-3"><?php echo $lang["lang.activities.2023.board-games.$activity->activityName.title"]; ?></h4>
+                    <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+                    <p><?php echo $lang["lang.activities.2023.board-games.$activity->activityName.description"]; ?></p>
+                  </div>
+                </li>
+              <?php } ?>
+            </ul>
           </div>
         </div>
       </div>
@@ -158,6 +170,18 @@
         <div id="collapse-workshops" class="accordion-collapse collapse" aria-labelledby="heading-workshops" data-bs-parent="#accordion-activities">
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.workshops.description"]; ?></p>
+
+            <ul class="list-group list-group-flush">
+              <?php foreach ($activityCategories[6]->activities as $activity) { ?>
+                <li class="list-group-item mb-3">
+                  <div>
+                    <h4 class="mb-3"><?php echo $lang["lang.activities.2023.workshops.$activity->activityName.title"]; ?></h4>
+                    <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+                    <p><?php echo $lang["lang.activities.2023.workshops.$activity->activityName.description"]; ?></p>
+                  </div>
+                </li>
+              <?php } ?>
+            </ul>
 
             <div class="text-center">
               <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
