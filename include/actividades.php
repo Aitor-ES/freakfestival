@@ -105,7 +105,7 @@
 
                     <div class="row gy-3 mb-3">
                       <div class="col-auto">
-                        <a class="btn btn-ffdiamond" href="<?php echo $activity->rules; ?>" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
+                        <a class="btn btn-ffdiamond" href="/docs/2023/<?php echo $activity->rules; ?>" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                       </div>
                     </div>
                   </div>
