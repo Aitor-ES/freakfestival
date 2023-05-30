@@ -68,6 +68,8 @@ $lang = array(
   "lang.home.introduction.date.days.2023" => "<strong>17-18 de junio</strong> del 2023",
   "lang.home.introduction.date.days.2022" => "<strong>25-26 de junio</strong> del 2022",
   "lang.home.introduction.date.weekdays" => "Sábado - domingo",
+  "lang.home.introduction.date.weekdays.saturday" => "Sábado: 10:00-21:00",
+  "lang.home.introduction.date.weekdays.sunday" => "Domingo: 10:00-14:30",
   "lang.home.introduction.entrance.title" => "Entrada gratuita",
   "lang.home.introduction.entrance.description" => "La entrada en el evento y la participación en sus actividades son <strong>totalmente gratuitas</strong>, ya que nuestro objetivo es dar a conocer nuestras aficiones sin barreras.",
 

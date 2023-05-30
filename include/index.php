@@ -34,7 +34,9 @@
             <p>
               <?php echo $lang["lang.home.introduction.date.days.2023"]; ?>
               <br>
-              <?php echo $lang["lang.home.introduction.date.weekdays"]; ?>
+              <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?>
+              <br>
+              <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?>
             </p>
           </div>
 

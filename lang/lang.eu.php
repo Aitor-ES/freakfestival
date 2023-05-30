@@ -68,6 +68,8 @@ $lang = array(
   "lang.home.introduction.date.days.2023" => "2023ko <strong>ekainak 17-18</strong>",
   "lang.home.introduction.date.days.2022" => "2022ko <strong>ekainak 25-26</strong>",
   "lang.home.introduction.date.weekdays" => "Larunbata - igandea",
+  "lang.home.introduction.date.weekdays.saturday" => "Larunbata: 10:00-21:00",
+  "lang.home.introduction.date.weekdays.sunday" => "Igandea: 10:00-14:30",
   "lang.home.introduction.entrance.title" => "Dohaineko sarrera",
   "lang.home.introduction.entrance.description" => "Sarrera eta jardueren parte hartzea <strong>guztiz dohainik</strong> izango dira, gure helburua gure zaletasunak oztopo gabe ezagutzera ematea baita.",
 
