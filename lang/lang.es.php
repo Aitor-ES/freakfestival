@@ -126,6 +126,9 @@ $lang = array(
   "lang.activities.organizer.basquecosplay" => "BasqueCosplay",
   "lang.activities.organizer.arkenaya" => "Arkenaya",
   "lang.activities.organizer.destrona2plus" => "Destrona2Plus",
+  "lang.activities.organizer.cerbero" => "Editorial Cerbero",
+  "lang.activities.organizer.atlas" => "Agrupación Atlas",
+  "lang.activities.organizer.tap" => "Cafetería The Tap",
 
   "lang.activities.2023.board-games.ludoteca.title" => "Ludoteca de juegos de mesa",
   "lang.activities.2023.board-games.ludoteca.description" => "Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para descubrir y conocer nuevos juegos con los que divertirte, o para volver una vez más a los clásicos de siempre.",
@@ -146,9 +149,9 @@ $lang = array(
 
   "lang.activities.2023.rpg.aquelarre.abadia.title" => "Rol de mesa de Aquelarre: Una noche en la abadía",
   "lang.activities.2023.rpg.aquelarre.abadia.description" => "En una abadía asolada por el miedo a los hechos sobrenaturales que cada noche tienen lugar entre sus muros se encuentran nuestros personajes, que se verán atrapados en la abadía e implicados en un caso de asesinato, un rito satánico y un pulso entre varios individuos poderosos que bien pueden llevárselos por delante.</p><p>¿Conseguirán salir airosos de los sucesos que amenazan con engullirlos, o serán pasto de las llamas de la Inquisición, el hacha del verdugo o el puñal del asesino?",
-  "lang.activities.2023.rpg.vampiro.monstruo.title" => "Rol de mesa de Vampiro La Mascarada: Monstruo(s)",
+  "lang.activities.2023.rpg.vampiro.monstruo.title" => "Rol de mesa de Vampiro La Mascarada 5ª: Monstruo(s)",
   "lang.activities.2023.rpg.vampiro.monstruo.description" => "En una pequeña ciudad estadounidense se están encontrando cadáveres a los que les han robado la sangre. Si el criminal se trata de un humano, ha llamado la atención de los verdaderos depredadores de la noche; y si es un vampiro, no está escondiendo su existencia. ¿Podrán encontrar y detener los personajes a este monstruo?",
-  "lang.activities.2023.rpg.vampiro.sangre.title" => "Rol de mesa de Vampiro La Mascarada: Sangre nueva",
+  "lang.activities.2023.rpg.vampiro.sangre.title" => "Rol de mesa de Vampiro La Mascarada 5ª: Sangre nueva",
   "lang.activities.2023.rpg.vampiro.sangre.description" => "¿Quién te iba a decir que la primera noche del resto de tu vida empezaría tan desastrosamente? Sabes que va a ser una noche complicada desde el momento en el que despiertas convertido en vampiro y encerrado en una cámara frigorífica…</p><p>En la aventura Sangre nueva aprenderás las bases del mundo y sistema de Vampiro: La Mascarada mientras interpretas los primeros compases de la existencia eterna de una de estas criaturas. ¿Cazarás a tus presas fascinándolas o mediante la fuerza bruta? ¿Mantendrás tu humanidad o te dejarás consumir por la bestia?",
   "lang.activities.2023.rpg.cultos.corben.title" => "Rol de mesa de Cultos Innombrables: Un hechizo por Corben",
   "lang.activities.2023.rpg.cultos.corben.description" => "En Cultos Innombrables no encarnas a un héroe, sino a un ser humano falible y frágil que ha decidido jugar con fuerzas que no comprende. Ambientada en la actualidad, esta aventura te permite ponerte en la piel de personajes que, por interés propio o casualidad, han terminado mirando más allá del velo de la realidad y mirando a los ojos a los horrores cósmicos que esperan ocultos. Grandes poderes cósmicos están a tu disposición, pero ¿estarás preparado para pagar el precio?",
@@ -162,6 +165,8 @@ $lang = array(
   "lang.activities.2023.rpg.traveller.botadura.description" => "Licenciados de sus anteriores carreras, un grupo de Viajeros se une para tripular una nave comercial en busca de fortuna en el creciente sector Urnian. Inician su primer contrato pletóricos de ilusión y ambición. Pero el espacio es el lugar más peligroso que existe.",
   "lang.activities.2023.rpg.skolza.title" => "Rol de mesa de Imperio de Rueda: El Sello de los Skolza",
   "lang.activities.2023.rpg.skolza.description" => "La extinta familia Skolza no fue sólo una Gran Casa nobiliar, sino la anterior dinastía imperial. La princesa Fortunata Tarkova es la heredera legítima de esta familia, y desea exhibir su noble pasado en su ceremonia de entrada formal en el culto de Fortuna.  Por desgracia, la joya familiar, el anillo de su antepasada, se perdió en el subsuelo de la ciudad hace generaciones. Ayúdala a recuperarlo participando en la partida para jornadas de 2023 de <span class=\"fst-italic\">Imperio de Rueda</span>.",
+  "lang.activities.2023.rpg.llamada.necropolis.title" => "Rol de mesa de La Llamada de Cthulhu 7ª: La necrópolis",
+  "lang.activities.2023.rpg.llamada.necropolis.description" => "26 de noviembre, 1924. Habéis trabajado sin descanso con palas, picos y paletas en el Valle de los Reyes egipcio. El sol os golpea mientras, poco a poco, vais despejando la fachada de una antigua estructura encajada en una cara del acantilado, enterrada bajo la arena acumulada durante varios milenios. El equipo de la expedición trabaja como laboriosas hormigas y pronto se revela el umbral. Con orgullo, os plantáis frente a los trece escalones que descienden hasta una entrada cerrada por un bloque de piedra.",
 
   "lang.activities.2023.contests.cosplay.title" => "Cosplay",
   "lang.activities.2023.contests.cosplay.description" => "Luce tus mejores galas y da vida a tu personaje favorito en el concurso de cosplay. Nuestro jurado de expertos valorará la confección, fabricación y detalles de los trajes, así como la puesta en escena. ¡Prepárate para deslumbrarlos a todos!",
@@ -186,6 +191,10 @@ $lang = array(
   "lang.activities.2023.talks-exhibitions.ser-virtual-streamer.description" => "Charla enfocada al mundo del rol online que incluirá ejemplos de vtubers con temática de rol y de su utilidad a la hora de hacer streams de partidas de rol en las que, en vez de las caras de los jugadores, aparecen las de los personajes. La charla tratará qué es un vtuber/virtual streamer y de dónde vienen pero, sobre todo, estará enfocada en cómo hacerte tu propio vtuber, en qué tipos hay y en cómo hacer stream con él.",
   "lang.activities.2023.talks-exhibitions.cosplay.title" => "Charla cosplayer",
   "lang.activities.2023.talks-exhibitions.cosplay.description" => "Pequeña charla enfocada al cosplay.",
+  "lang.activities.2023.talks-exhibitions.cerbero-tras-la-muerte.title" => "Presentación de «Tras la muerte, al fin, paz», de Virginia Orive de la Rosa",
+  "lang.activities.2023.talks-exhibitions.cerbero-tras-la-muerte.description" => "Presentación de la nueva novela corta de la vitoriana Virginia Orive de la Rosa, «Tras la muerte, al fin, paz». Una historia de fantasía oscura donde un héroe de guerra que ha perdido la fe y un sacerdote que ha perdido sus poderes lideran a un grupo de supervivientes tras una batalla en la que, sin importar el alcance de las heridas, nadie muere. Vencidos y humillados, se refugian en una aldea aterrorizada por la amenaza del enemigo que les atacará en 9 días.",
+  "lang.activities.2023.talks-exhibitions.dirigir-rol.title" => "Consejos para dirigir rol de mesa",
+  "lang.activities.2023.talks-exhibitions.dirigir-rol.description" => "Pequeño análisis de los que significa ser un director de rol de mesa: consejos, herramientas y trucos.",
 
   "lang.activities.2023.workshops.dibujar-pj-fantasia.title" => "Dibujar un personaje de fantasía",
   "lang.activities.2023.workshops.dibujar-pj-fantasia.description" => "Aprender técnicas básicas de dibujo y de narrativa visual para crear un personaje de fantasía.",
@@ -193,6 +202,8 @@ $lang = array(
   "lang.activities.2023.workshops.dibujar-mazmorras.description" => "¿Quieres aprender a plasmar en papel esas mazmorras que te rondan por la cabeza? Descubre los secretos para dibujar mazmorras de manos de un profesional. Tus aventuras no volverán a ser iguales, deja alucinados al resto de jugadores o da un toque mas profesional a las aventuras que escribes.",
   "lang.activities.2023.workshops.marcapaginas-acuarela.title" => "Marcapáginas en acuarela",
   "lang.activities.2023.workshops.marcapaginas-acuarela.description" => "Taller para todas las edades de pintura con acuarela en el que realizaremos dos marcapáginas con ellas. No se necesita saber nada de acuarelas para poder participar en el taller. Haremos uno de galaxia y otro con temática marina.",
+  "lang.activities.2023.workshops.cafe.title" => "Cata de café",
+  "lang.activities.2023.workshops.cafe.description" => "5 cafés de orígenes y procesos diferentes. Pruébalos y explóralos mientras te explican de dónde vienen y cómo están hechos. Accesible a todos los públicos: no hace falta saber nada sobre café de antemano.",
 
   "lang.activities.2022.tournaments.board-card-games.title" => "Juegos de mesa y de cartas",
   "lang.activities.2022.tournaments.board-card-games.description.1" => "¿Quieres probar a jugar a tus juegos de mesa y de cartas favoritos contra jugadores competitivos para demostrar quién es el mejor? La primera regla es pasárselo bien, ¡pero el podio pide espectáculo!",

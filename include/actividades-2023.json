@@ -77,6 +77,10 @@
             {
                 "activityName": "skolza",
                 "organizer": "conplumaypixel"
+            },
+            {
+                "activityName": "llamada.necropolis",
+                "organizer": "atlas"
             }
         ]
     },
@@ -140,6 +144,14 @@
             {
                 "activityName": "cosplay",
                 "organizer": "destrona2plus"
+            },
+            {
+                "activityName": "cerbero-tras-la-muerte",
+                "organizer": "cerbero"
+            },
+            {
+                "activityName": "dirigir-rol",
+                "organizer": "atlas"
             }
         ]
     },
@@ -157,6 +169,10 @@
             {
                 "activityName": "marcapaginas-acuarela",
                 "organizer": "irnielart"
+            },
+            {
+                "activityName": "cafe",
+                "organizer": "tap"
             }
         ]
     }
