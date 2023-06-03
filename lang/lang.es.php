@@ -147,6 +147,11 @@ $lang = array(
   "lang.activities.2023.board-games.wild-pong.title" => "Demostración de Wild Pong",
   "lang.activities.2023.board-games.wild-pong.description" => "Juega un trepidante partido de tenis de mesa salvaje. Partidas continuas.",
 
+  "lang.activities.2023.tournaments.cubirds.title" => "Torneo de Cubirds",
+  "lang.activities.2023.tournaments.cubirds.description" => "Cubirds es un juego de cartas ágil y rápido, en el que tendrás que intentar conseguir las mayores bandadas de pájaros que puedas.",
+  "lang.activities.2023.tournaments.virus.title" => "Torneo de Virus",
+  "lang.activities.2023.tournaments.virus.description" => "Enfréntate a la pandemia y compite por ser el primero en erradicar los virus logrando aislar un cuerpo sano. Éticos o no, todos los medios a tu alcance valen para ganar. Usa tu astucia para alzarte con la victoria boicoteando a tus rivales.",
+
   "lang.activities.2023.rpg.aquelarre.abadia.title" => "Rol de mesa de Aquelarre: Una noche en la abadía",
   "lang.activities.2023.rpg.aquelarre.abadia.description" => "En una abadía asolada por el miedo a los hechos sobrenaturales que cada noche tienen lugar entre sus muros se encuentran nuestros personajes, que se verán atrapados en la abadía e implicados en un caso de asesinato, un rito satánico y un pulso entre varios individuos poderosos que bien pueden llevárselos por delante.</p><p>¿Conseguirán salir airosos de los sucesos que amenazan con engullirlos, o serán pasto de las llamas de la Inquisición, el hacha del verdugo o el puñal del asesino?",
   "lang.activities.2023.rpg.vampiro.monstruo.title" => "Rol de mesa de Vampiro La Mascarada 5ª: Monstruo(s)",

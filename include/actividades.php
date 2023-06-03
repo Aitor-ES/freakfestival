@@ -47,6 +47,18 @@
           <div class="accordion-body">
             <p><?php echo $lang["lang.activities.tournaments.description"]; ?></p>
 
+            <ul class="list-group list-group-flush">
+              <?php foreach ($activityCategories[1]->activities as $activity) { ?>
+                <li class="list-group-item mb-3">
+                  <div>
+                    <h4 class="mb-3"><?php echo $lang["lang.activities.2023.tournaments.$activity->activityName.title"]; ?></h4>
+                    <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+                    <p><?php echo $lang["lang.activities.2023.tournaments.$activity->activityName.description"]; ?></p>
+                  </div>
+                </li>
+              <?php } ?>
+            </ul>
+
             <div class="text-center">
               <h3 class="my-5"><?php echo $lang["lang.common.soon"]; ?></h3>
             </div>

@@ -11,14 +11,6 @@
                 "organizer": "alter"
             },
             {
-                "activityName": "space-base",
-                "organizer": "alter"
-            },
-            {
-                "activityName": "dice-hospital",
-                "organizer": "alter"
-            },
-            {
                 "activityName": "cubirds",
                 "organizer": "alter"
             },
@@ -37,7 +29,17 @@
         ]
     },
     {
-        "categoryName": "tournaments"
+        "categoryName": "tournaments",
+        "activities": [
+            {
+                "activityName": "cubirds",
+                "organizer": "alter"
+            },
+            {
+                "activityName": "virus",
+                "organizer": "alter"
+            }
+        ]
     },
     {
         "categoryName": "rpg",

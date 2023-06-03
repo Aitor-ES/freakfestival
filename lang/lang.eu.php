@@ -147,6 +147,11 @@ $lang = array(
   "lang.activities.2023.board-games.wild-pong.title" => "Wild Pong erakustaldia",
   "lang.activities.2023.board-games.wild-pong.description" => "Mahai-tenis partida basatia jokatu. Partida jarraituak.",
 
+  "lang.activities.2023.tournaments.cubirds.title" => "Cubirds txapelketa",
+  "lang.activities.2023.tournaments.cubirds.description" => "Cubirds karta-joko arin eta azkarra da, eta ahalik eta txori gehien lortzen saiatu beharko duzu.",
+  "lang.activities.2023.tournaments.virus.title" => "Virus txapelketa",
+  "lang.activities.2023.tournaments.virus.description" => "Egin aurre pandemiari eta lehiatu birusak erauzten lehena izateko, gorputz osasuntsu bat isolatzea lortuz. Etikoak izan ala ez, eskura dituzun baliabide guztiek irabazteko balio dute. Erabili zure maltzurkeria garaipena lortzeko, zure aurkariei boikotatuz.",
+
   "lang.activities.2023.rpg.aquelarre.abadia.title" => "Aquelarre mahai-rola: Una noche en la abadía",
   "lang.activities.2023.rpg.aquelarre.abadia.description" => "Gauero bere hormen artean gertatzen diren naturaz gaindiko egitateei beldurra dien abadia batean, gure pertsonaiak daude, abadian harrapatuta eta erailketa kasu batean, erritu sataniko batean eta hainbat pertsona boteretsuren artean pultsu batean nahastuta, zeinak aurretik eraman baititzakete.</p><p>Irentsiko dituztela mehatxatzen duten gertaeretatik airoso ateratzea lortuko ote dute, ala Inkisizioaren, borreroaren aizkoraren edo hiltzailearen sastakaiaren atzaparretan eroriko ote dira?",
   "lang.activities.2023.rpg.vampiro.monstruo.title" => "Vampiro La Mascarada 5. mahai-rola: Monstruo(s)",
