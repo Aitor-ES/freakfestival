@@ -19,12 +19,24 @@
                 "organizer": "alter"
             },
             {
+                "activityName": "cascadia",
+                "organizer": "alter"
+            },
+            {
                 "activityName": "imhre",
                 "organizer": "sugaar"
             },
             {
                 "activityName": "wild-pong",
                 "organizer": "sugaar"
+            },
+            {
+                "activityName": "coup-x",
+                "organizer": "omega"
+            },
+            {
+                "activityName": "listillo",
+                "organizer": "omega"
             }
         ]
     },
@@ -83,6 +95,10 @@
             {
                 "activityName": "llamada.necropolis",
                 "organizer": "atlas"
+            },
+            {
+                "activityName": "rev.montsegur",
+                "organizer": "urra"
             }
         ]
     },
