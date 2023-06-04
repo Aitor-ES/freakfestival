@@ -119,6 +119,12 @@
                       <div class="col-auto">
                         <a class="btn btn-ffdiamond" href="/docs/2023/<?php echo $activity->rules; ?>" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                       </div>
+
+                      <?php if (property_exists($activity, 'register')) { ?>
+                        <div class="col-auto">
+                          <a class="btn btn-ffsunlight" href="<?php echo $activity->register; ?>" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
+                        </div>
+                      <?php } ?>
                     </div>
                   </div>
                 </li>

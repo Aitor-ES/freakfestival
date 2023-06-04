@@ -45,7 +45,7 @@
                       <a class="btn btn-ffdiamond" href="/docs/2022/Bases juegos de mesa y cartas.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -61,7 +61,7 @@
                       <a class="btn btn-ffdiamond" href="/docs/2022/Bases TORNEO FREAK FESTIVAL22 Infinity.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -77,7 +77,7 @@
                       <a class="btn btn-ffdiamond" href="/docs/2022/Bases smash bros FF22.pdf" role="button"><?php echo $lang["lang.activities.btn.rules"]; ?></a>
                     </div>
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -105,7 +105,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -118,7 +118,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -131,7 +131,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -144,7 +144,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -157,7 +157,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -171,7 +171,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -185,7 +185,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -198,7 +198,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -211,7 +211,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -224,7 +224,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -237,7 +237,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -250,7 +250,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -264,7 +264,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -277,7 +277,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -309,7 +309,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -326,7 +326,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://forms.gle/P1szQdB9QZfDz1LeA" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://forms.gle/P1szQdB9QZfDz1LeA" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -343,7 +343,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -360,7 +360,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -377,7 +377,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -394,7 +394,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -411,7 +411,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -523,7 +523,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -535,7 +535,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -547,7 +547,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -559,7 +559,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -571,7 +571,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -583,7 +583,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -595,7 +595,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -607,7 +607,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -623,7 +623,7 @@
                     </div>
 
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -635,7 +635,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -647,7 +647,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
@@ -659,7 +659,7 @@
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">
-                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.inscribe"]; ?></a>
+                      <a class="btn btn-ffsunlight" href="https://docs.google.com/forms/d/e/1FAIpQLSegCGpGsfshRXC8Bog50AkWzQ2N0oWHiBFrfvwkngYI0Q0dkA/viewform" role="button"><?php echo $lang["lang.activities.btn.register"]; ?></a>
                     </div>
                   </div>
                 </div>
