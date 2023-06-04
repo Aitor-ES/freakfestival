@@ -424,12 +424,12 @@
       <div class="accordion-item border-0 my-3">
         <h2 class="accordion-header" id="heading-stands">
           <button class="accordion-button rounded-pill collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-stands" aria-expanded="false" aria-controls="collapse-stands">
-            <?php echo $lang["lang.activities.shops-artists-artisans.title"]; ?>
+            <?php echo $lang["lang.activities.stands.title"]; ?>
           </button>
         </h2>
         <div id="collapse-stands" class="accordion-collapse collapse" aria-labelledby="heading-stands" data-bs-parent="#accordion-activities">
           <div class="accordion-body">
-            <p><?php echo $lang["lang.activities.shops-artists-artisans.description"]; ?></p>
+            <p><?php echo $lang["lang.activities.stands.description"]; ?></p>
           </div>
         </div>
       </div>

@@ -130,8 +130,8 @@
       <!-- 4th feature: Artists -->
       <div class="col px-4">
         <img class="rounded-circle mb-4" src="/images/photos/tiendas_artistas_y_artesanos-min.jpg" alt="" width="200" height="200">
-        <h3 class="fw-light"><?php echo $lang["lang.home.features.shops-artists-artisans.title"]; ?></h3>
-        <p><?php echo $lang["lang.home.features.shops-artists-artisans.description"]; ?></p>
+        <h3 class="fw-light"><?php echo $lang["lang.home.features.stands.title"]; ?></h3>
+        <p><?php echo $lang["lang.home.features.stands.description"]; ?></p>
       </div>
 
       <!-- 5th feature: Talks -->

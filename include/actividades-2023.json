@@ -135,7 +135,8 @@
         ]
     },
     {
-        "categoryName": "stands"
+        "categoryName": "stands",
+        "activities": []
     },
     {
         "categoryName": "talks-exhibitions",
