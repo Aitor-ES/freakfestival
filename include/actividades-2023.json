@@ -162,14 +162,26 @@
                 "organizer": "cerbero"
             },
             {
+                "activityName": "editar-publicar-fantasia",
+                "organizer": "uzanza-cerbero"
+            },
+            {
                 "activityName": "dirigir-rol",
                 "organizer": "atlas"
+            },
+            {
+                "activityName": "3d-videojuegos",
+                "organizer": "daniel-gimenez"
             }
         ]
     },
     {
         "categoryName": "workshops",
         "activities": [
+            {
+                "activityName": "jarras",
+                "organizer": "valinor"
+            },
             {
                 "activityName": "dibujar-pj-fantasia",
                 "organizer": "qrolanp"
