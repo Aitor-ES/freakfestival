@@ -125,12 +125,14 @@
             {
                 "activityName": "pintado-miniaturas",
                 "organizer": "valinor",
-                "rules": "Bases de los concursos de miniaturas y dioramas.pdf"
+                "rules": "Bases de los concursos de miniaturas y dioramas.pdf",
+                "register": "https://forms.gle/b7esWYaeuo19RU9k6"
             },
             {
                 "activityName": "dioramas",
                 "organizer": "valinor",
-                "rules": "Bases de los concursos de miniaturas y dioramas.pdf"
+                "rules": "Bases de los concursos de miniaturas y dioramas.pdf",
+                "register": "https://forms.gle/b7esWYaeuo19RU9k6"
             }
         ]
     },
