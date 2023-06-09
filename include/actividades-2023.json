@@ -69,6 +69,18 @@
                 "organizer": "valinor"
             },
             {
+                "activityName": "bloodborne.pesadillas",
+                "organizer": "valinor"
+            },
+            {
+                "activityName": "elite.intenciones",
+                "organizer": "valinor"
+            },
+            {
+                "activityName": "d&d.klausa",
+                "organizer": "tomy"
+            },
+            {
                 "activityName": "vampiro.sangre",
                 "organizer": "klaudia"
             },
@@ -188,6 +200,10 @@
     {
         "categoryName": "workshops",
         "activities": [
+            {
+                "activityName": "miniaturas",
+                "organizer": "valinor"
+            },
             {
                 "activityName": "jarras",
                 "organizer": "valinor"
