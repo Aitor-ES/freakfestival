@@ -41,19 +41,23 @@
         "activities": [
             {
                 "activityName": "cubirds",
-                "organizer": "alter"
+                "organizer": "alter",
+                "register": "https://forms.gle/zq19rHRsrczpqQJP9"
             },
             {
                 "activityName": "virus",
-                "organizer": "alter"
+                "organizer": "alter",
+                "register": "https://forms.gle/zq19rHRsrczpqQJP9"
             },
             {
                 "activityName": "magic",
-                "organizer": "magic-all-goal"
+                "organizer": "magic-all-goal",
+                "register": "https://forms.gle/zq19rHRsrczpqQJP9"
             },
             {
                 "activityName": "yu-gi-oh",
-                "organizer": "magic-all-goal"
+                "organizer": "magic-all-goal",
+                "register": "https://forms.gle/zq19rHRsrczpqQJP9"
             }
         ]
     },
@@ -62,67 +66,83 @@
         "activities": [
             {
                 "activityName": "aquelarre.abadia",
-                "organizer": "valinor"
+                "organizer": "valinor",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "vampiro.monstruo",
-                "organizer": "valinor"
+                "organizer": "valinor",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "bloodborne.pesadillas",
-                "organizer": "valinor"
+                "organizer": "valinor",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "elite.intenciones",
-                "organizer": "valinor"
+                "organizer": "valinor",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "d&d.klausa",
-                "organizer": "tomy"
+                "organizer": "tomy",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "vampiro.sangre",
-                "organizer": "klaudia"
+                "organizer": "klaudia",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "cultos.corben",
-                "organizer": "klaudia"
+                "organizer": "klaudia",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "asfalto.goma",
-                "organizer": "seijo"
+                "organizer": "seijo",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "2300.kaefer",
-                "organizer": "sugaar"
+                "organizer": "sugaar",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "seccion-oculta.sueños",
-                "organizer": "sugaar"
+                "organizer": "sugaar",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "traveller.botadura",
-                "organizer": "sugaar"
+                "organizer": "sugaar",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "skolza",
-                "organizer": "conplumaypixel"
+                "organizer": "conplumaypixel",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "llamada.necropolis",
-                "organizer": "atlas"
+                "organizer": "atlas",
+                "register": "https://forms.gle/R5onKHFKRPQDcomb7"
             },
             {
                 "activityName": "rev.montsegur",
-                "organizer": "urra"
+                "organizer": "urra",
+                "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
             },
             {
                 "activityName": "rev.justa",
-                "organizer": "strongtales"
+                "organizer": "strongtales",
+                "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
             },
             {
                 "activityName": "rev.rosa",
-                "organizer": "strongtales"
+                "organizer": "strongtales",
+                "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
             }
         ]
     },
@@ -138,17 +158,20 @@
             {
                 "activityName": "fast-painting",
                 "organizer": "valinor",
-                "rules": "Bases del concurso de fast painting.pdf"
+                "rules": "Bases del concurso de fast painting.pdf",
+                "register": "https://forms.gle/epkmF3DVbq76awJPA"
             },
             {
                 "activityName": "fast-fic",
                 "organizer": "valinor",
-                "rules": "Bases del concurso de fast fic.pdf"
+                "rules": "Bases del concurso de fast fic.pdf",
+                "register": "https://forms.gle/epkmF3DVbq76awJPA"
             },
             {
                 "activityName": "fast-comic",
                 "organizer": "valinor",
-                "rules": "Bases del concurso de fast comic.pdf"
+                "rules": "Bases del concurso de fast comic.pdf",
+                "register": "https://forms.gle/epkmF3DVbq76awJPA"
             },
             {
                 "activityName": "pintado-miniaturas",
@@ -210,27 +233,33 @@
         "activities": [
             {
                 "activityName": "miniaturas",
-                "organizer": "valinor"
+                "organizer": "valinor",
+                "register": "https://forms.gle/vVhpRys6BywaPgRC8"
             },
             {
                 "activityName": "jarras",
-                "organizer": "valinor"
+                "organizer": "valinor",
+                "register": "https://forms.gle/vVhpRys6BywaPgRC8"
             },
             {
                 "activityName": "dibujar-pj-fantasia",
-                "organizer": "qrolanp"
+                "organizer": "qrolanp",
+                "register": "https://forms.gle/vVhpRys6BywaPgRC8"
             },
             {
                 "activityName": "dibujar-mazmorras",
-                "organizer": "eneko-menica"
+                "organizer": "eneko-menica",
+                "register": "https://forms.gle/vVhpRys6BywaPgRC8"
             },
             {
                 "activityName": "marcapaginas-acuarela",
-                "organizer": "irnielart"
+                "organizer": "irnielart",
+                "register": "https://forms.gle/vVhpRys6BywaPgRC8"
             },
             {
                 "activityName": "cafe",
-                "organizer": "tap"
+                "organizer": "tap",
+                "register": "https://forms.gle/FWgVWNZjqPympJJD7"
             }
         ]
     }
