@@ -133,6 +133,7 @@ $lang = array(
   "lang.activities.organizer.omega" => "Omega Center Vitoria",
   "lang.activities.organizer.urra" => "Luis Urra",
   "lang.activities.organizer.daniel-gimenez" => "Daniel Giménez",
+  "lang.activities.organizer.magic-all-goal" => "Magic All Goal",
 
   "lang.activities.2023.board-games.ludoteca.title" => "Mahai-jokoen ludoteka",
   "lang.activities.2023.board-games.ludoteca.description" => "Gozatu mahai-joko aukera anitzeko ludotekaz, ekitaldi osoan zure eskura egongo dena, ondo pasatzeko joko berriak aurkitu eta ezagutzeko, edo betiko klasikoetara berriro bueltatzeko.",
@@ -161,6 +162,10 @@ $lang = array(
   "lang.activities.2023.tournaments.cubirds.description" => "Cubirds karta-joko arin eta azkarra da, eta ahalik eta txori gehien lortzen saiatu beharko duzu.",
   "lang.activities.2023.tournaments.virus.title" => "Virus txapelketa",
   "lang.activities.2023.tournaments.virus.description" => "Egin aurre pandemiari eta lehiatu birusak erauzten lehena izateko, gorputz osasuntsu bat isolatzea lortuz. Etikoak izan ala ez, eskura dituzun baliabide guztiek irabazteko balio dute. Erabili zure maltzurkeria garaipena lortzeko, zure aurkariei boikotatuz.",
+  "lang.activities.2023.tournaments.magic.title" => "Commander (Magic: The Gathering) txapelketa",
+  "lang.activities.2023.tournaments.magic.description" => "Zuk eta zure komandanteak hitzordu bat duzue <span class=\"fst-italic\">Magic: The Gathering</span> txapelketan. Garbi jokatu eta manak lagun zaitzala.",
+  "lang.activities.2023.tournaments.yu-gi-oh.title" => "Yu-Gi-Oh! txapelketa",
+  "lang.activities.2023.tournaments.yu-gi-oh.description" => "Has dadila duelua! Egin aurre jaialdiko beste aurkari batzuei, duelista onena nor den erakusteko. Prestatu zure piloa, zure fusioak eta izan fedea karten bihotzean!",
 
   "lang.activities.2023.rpg.aquelarre.abadia.title" => "Aquelarre mahai-rola: Una noche en la abadía",
   "lang.activities.2023.rpg.aquelarre.abadia.description" => "Gauero bere hormen artean gertatzen diren naturaz gaindiko egitateei beldurra dien abadia batean, gure pertsonaiak daude, abadian harrapatuta eta erailketa kasu batean, erritu sataniko batean eta hainbat pertsona boteretsuren artean pultsu batean nahastuta, zeinak aurretik eraman baititzakete.</p><p>Irentsiko dituztela mehatxatzen duten gertaeretatik airoso ateratzea lortuko ote dute, ala Inkisizioaren, borreroaren aizkoraren edo hiltzailearen sastakaiaren atzaparretan eroriko ote dira?",

@@ -133,6 +133,7 @@ $lang = array(
   "lang.activities.organizer.omega" => "Omega Center Vitoria",
   "lang.activities.organizer.urra" => "Luis Urra",
   "lang.activities.organizer.daniel-gimenez" => "Daniel Giménez",
+  "lang.activities.organizer.magic-all-goal" => "Magic All Goal",
 
   "lang.activities.2023.board-games.ludoteca.title" => "Ludoteca de juegos de mesa",
   "lang.activities.2023.board-games.ludoteca.description" => "Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para descubrir y conocer nuevos juegos con los que divertirte, o para volver una vez más a los clásicos de siempre.",
@@ -161,6 +162,10 @@ $lang = array(
   "lang.activities.2023.tournaments.cubirds.description" => "Cubirds es un juego de cartas ágil y rápido, en el que tendrás que intentar conseguir las mayores bandadas de pájaros que puedas.",
   "lang.activities.2023.tournaments.virus.title" => "Torneo de Virus",
   "lang.activities.2023.tournaments.virus.description" => "Enfréntate a la pandemia y compite por ser el primero en erradicar los virus logrando aislar un cuerpo sano. Éticos o no, todos los medios a tu alcance valen para ganar. Usa tu astucia para alzarte con la victoria boicoteando a tus rivales.",
+  "lang.activities.2023.tournaments.magic.title" => "Torneo de Commander (Magic: The Gathering)",
+  "lang.activities.2023.tournaments.magic.description" => "Tú y tu comandante tenéis una cita en el torneo de <span class=\"fst-italic\">Magic: The Gathering</span>. Juega limpio y que el maná te acompañe.",
+  "lang.activities.2023.tournaments.yu-gi-oh.title" => "Torneo de Yu-Gi-Oh!",
+  "lang.activities.2023.tournaments.yu-gi-oh.description" => "¡Que comience el duelo! Enfréntate a otros adversarios del festival para demostrar quién es el mejor duelista. ¡Prepara tu mazo, tus fusiones y ten fe en el corazón de las cartas!",
 
   "lang.activities.2023.rpg.aquelarre.abadia.title" => "Rol de mesa de Aquelarre: Una noche en la abadía",
   "lang.activities.2023.rpg.aquelarre.abadia.description" => "En una abadía asolada por el miedo a los hechos sobrenaturales que cada noche tienen lugar entre sus muros se encuentran nuestros personajes, que se verán atrapados en la abadía e implicados en un caso de asesinato, un rito satánico y un pulso entre varios individuos poderosos que bien pueden llevárselos por delante.</p><p>¿Conseguirán salir airosos de los sucesos que amenazan con engullirlos, o serán pasto de las llamas de la Inquisición, el hacha del verdugo o el puñal del asesino?",

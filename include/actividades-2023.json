@@ -46,6 +46,14 @@
             {
                 "activityName": "virus",
                 "organizer": "alter"
+            },
+            {
+                "activityName": "magic",
+                "organizer": "magic-all-goal"
+            },
+            {
+                "activityName": "yu-gi-oh",
+                "organizer": "magic-all-goal"
             }
         ]
     },
