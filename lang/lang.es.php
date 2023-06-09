@@ -135,6 +135,7 @@ $lang = array(
   "lang.activities.organizer.daniel-gimenez" => "Daniel Giménez",
   "lang.activities.organizer.magic-all-goal" => "Magic All Goal",
   "lang.activities.organizer.tomy" => "Tomy",
+  "lang.activities.organizer.strongtales" => "StrongTales Live Action Games",
 
   "lang.activities.2023.board-games.ludoteca.title" => "Ludoteca de juegos de mesa",
   "lang.activities.2023.board-games.ludoteca.description" => "Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para descubrir y conocer nuevos juegos con los que divertirte, o para volver una vez más a los clásicos de siempre.",
@@ -196,6 +197,10 @@ $lang = array(
   "lang.activities.2023.rpg.llamada.necropolis.description" => "26 de noviembre, 1924. Habéis trabajado sin descanso con palas, picos y paletas en el Valle de los Reyes egipcio. El sol os golpea mientras, poco a poco, vais despejando la fachada de una antigua estructura encajada en una cara del acantilado, enterrada bajo la arena acumulada durante varios milenios. El equipo de la expedición trabaja como laboriosas hormigas y pronto se revela el umbral. Con orgullo, os plantáis frente a los trece escalones que descienden hasta una entrada cerrada por un bloque de piedra.",
   "lang.activities.2023.rpg.rev.montsegur.title" => "Rol en vivo Montsegur: Dios elegirá a los suyos",
   "lang.activities.2023.rpg.rev.montsegur.description" => "«Montsegur: Dios elegirá a los suyos» es un rol en vivo ambientado en principios de marzo del año 1244, pocos días antes de la caída de la fortaleza de Montsegur a manos del ejército cristiano. Dentro de Montsegur nos encontramos con un heterogéneo grupo de cátaros, cristianos y paganos, cuyas vidas giran en torno al misterio del Santo Grial. Todos ellos en busca, de una forma u otra, sean plenamente conscientes de ello o no, de la redención de sus almas.",
+  "lang.activities.2023.rpg.rev.justa.title" => "Rol en vivo Justa plebeya",
+  "lang.activities.2023.rpg.rev.justa.description" => "¡No te puedes perder las justas plebeyas, el torneo más ridículo del Medievo! Pon a prueba tus habilidades y destrezas en juegos de patanes, que mostrarán sin tapujos tus capacidades de Personaje No Jugador durante los ratos muertos. Juegos de destreza, tradicionales, peleas de listos…</p><p>La vergüenza aún no se había inventado.",
+  "lang.activities.2023.rpg.rev.rosa.title" => "Rol en vivo El misterio de la rosa",
+  "lang.activities.2023.rpg.rev.rosa.description" => "El monasterio de San Benedicto de la Rosa, aislado del mundanal ruido, amanece un día con las puertas abiertas y completamente abandonado. Asustados, los habitantes del poblado más cercano avisan al Arzobispado, que decide enviar a 8 monjes, de 8 monasterios diferentes, para averiguar qué ha pasado.</p><p>Cuando todos llegan, 9 monjes desconocidos se miran entre sí. En ese momento, las puertas se cierran de forma sobrenatural y todos quedan completamente aislados del exterior, sin que nada de lo que puedan hacer les permita salir del lugar. ¿Conseguiréis resolver el misterio?",
 
   "lang.activities.2023.contests.cosplay.title" => "Cosplay",
   "lang.activities.2023.contests.cosplay.description" => "Luce tus mejores galas y da vida a tu personaje favorito en el concurso de cosplay. Nuestro jurado de expertos valorará la confección, fabricación y detalles de los trajes, así como la puesta en escena. ¡Prepárate para deslumbrarlos a todos!",

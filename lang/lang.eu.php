@@ -135,6 +135,7 @@ $lang = array(
   "lang.activities.organizer.daniel-gimenez" => "Daniel Giménez",
   "lang.activities.organizer.magic-all-goal" => "Magic All Goal",
   "lang.activities.organizer.tomy" => "Tomy",
+  "lang.activities.organizer.strongtales" => "StrongTales Live Action Games",
 
   "lang.activities.2023.board-games.ludoteca.title" => "Mahai-jokoen ludoteka",
   "lang.activities.2023.board-games.ludoteca.description" => "Gozatu mahai-joko aukera anitzeko ludotekaz, ekitaldi osoan zure eskura egongo dena, ondo pasatzeko joko berriak aurkitu eta ezagutzeko, edo betiko klasikoetara berriro bueltatzeko.",
@@ -196,6 +197,10 @@ $lang = array(
   "lang.activities.2023.rpg.llamada.necropolis.description" => "1924ko azaroaren 26a. Egiptoko Erregeen Haranean atsedenik gabe lan egin duzue palekin, pikotxekin eta paletekin. Eguzkipean, pixkanaka-pixkanaka, labarraren alde batean sartutako antzinako egitura baten fatxada argitzen ari zarete, milaka urtetan zehar metatutako harearen azpian lurperatua. Espedizioko taldeak inurri neketsuak bezala lan egiten du eta laster agertzen da atalasea. Harrizko bloke batez itxitako sarrera bateraino jaisten den eskailerako hamahiru mailen aurrean harro jartzen zarete.",
   "lang.activities.2023.rpg.rev.montsegur.title" => "Montsegur: Dios elegirá a los suyos rol bizia",
   "lang.activities.2023.rpg.rev.montsegur.description" => "«Montsegur: Dios elegirá a los suyos» rol bizia da, 1244ko martxoaren hasieran girotua, Montsegurren gotorlekua armada kristauaren eskuetan erori baino egun batzuk lehenago. Montsegurren barruan, kataroen, kristauen eta paganoen talde heterogeneo bat dago, eta horien bizitzak Grial Santuaren misterioaren inguruan daude. Horiek guztiak bilatzen ari dira, modu batera edo bestera, guztiz ohartu ala ez, euren arimen erospena.",
+  "lang.activities.2023.rpg.rev.justa.title" => "Justa plebeya rol bizia",
+  "lang.activities.2023.rpg.rev.justa.description" => "Ezin dituzu galdu plebe-justak, Erdi Aroko txapelketarik barregarriena! Probatu zure trebetasunak baldar-jokoetan, horiek inolako beldurrik gabe erakutsiko dituztenak Pertsonaia Ez Jokalari gisa dituzun gaitasunak. Trebetasun jokoak, tradizionalak, adimentsuen borrokak…</p><p>Lotsa oraindik asmatu gabe zegoen.",
+  "lang.activities.2023.rpg.rev.rosa.title" => "El misterio de la rosa rol bizia",
+  "lang.activities.2023.rpg.rev.rosa.description" => "San Benedicto de la Rosaren monasterioa, munduko zaratatik isolatua, egun batean ateak irekita eta erabat abandonatuta agertu da. Beldurtuta, gertuen dagoen herrixkako biztanleek Artzapezpikutza deitzen dute, eta honek 8 monasteriotako 8 monje bidaltzea erabakitzen du, zer gertatu den jakiteko.</p><p>Denak iristen direnean, 9 monje ezezagunek elkarri begiratzen diote. Une horretan, ateak naturaz gaindiko moduan ixten dira, eta guztiak kanpoaldetik erabat isolatuta geratzen dira, bertatik irteteko ezer egiteko aukerarik gabe. Lortuko al duzue misterioa argitzea?",
 
   "lang.activities.2023.contests.cosplay.title" => "Cosplay",
   "lang.activities.2023.contests.cosplay.description" => "Jantzi zure galarik onenak eta eman bizia zure pertsonaia gogokoenari cosplay lehiaketan. Gure adituen epaimahaiak jantzien jantzigintza, fabrikazioa eta xehetasunak baloratuko ditu, baita eszenaratzea ere. Presta zaitez denak liluratzeko!",
