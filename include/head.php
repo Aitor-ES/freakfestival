@@ -29,7 +29,7 @@
 <title><?php echo $title; ?><?php echo $lang["lang.head.title.name"]; ?></title>
 
 <!-- Favicon -->
-<link rel="icon" href="/images/Letras_dado_tabla2.png">
+<link rel="icon" href="/images/favicon.png">
 
 <!-- Common CSS -->
 
