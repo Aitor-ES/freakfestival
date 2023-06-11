@@ -245,8 +245,8 @@
 
               <li class="list-group-item mb-3">
                 <div>
-                  <h4 class="mb-3"><?php echo $lang["lang.activities.2022.rpg.crazy-rol.title"]; ?></h4>
-                  <p><?php echo $lang["lang.activities.2022.rpg.crazy-rol.description"]; ?></p>
+                  <h4 class="mb-3"><?php echo $lang["lang.activities.2022.rpg.rev.crazy.title"]; ?></h4>
+                  <p><?php echo $lang["lang.activities.2022.rpg.rev.crazy.description"]; ?></p>
 
                   <div class="row gy-3 mb-3">
                     <div class="col-auto">

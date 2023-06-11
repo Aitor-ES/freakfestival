@@ -8,31 +8,43 @@
             },
             {
                 "activityName": "marvel",
-                "organizer": "alter"
+                "organizer": "alter",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
             },
             {
                 "activityName": "jardin-alicia",
-                "organizer": "alter"
+                "organizer": "alter",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
             },
             {
                 "activityName": "cascadia",
-                "organizer": "alter"
+                "organizer": "alter",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
+            },
+            {
+                "activityName": "terraforming-mars",
+                "organizer": "alter",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
             },
             {
                 "activityName": "imhre",
-                "organizer": "sugaar"
+                "organizer": "sugaar",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
             },
             {
                 "activityName": "wild-pong",
-                "organizer": "sugaar"
+                "organizer": "sugaar",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
             },
             {
                 "activityName": "coup-x",
-                "organizer": "omega"
+                "organizer": "omega",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
             },
             {
                 "activityName": "listillo",
-                "organizer": "omega"
+                "organizer": "omega",
+                "register": "https://forms.gle/uZSbafAaqp1DSx637"
             }
         ]
     },
@@ -128,6 +140,11 @@
                 "activityName": "llamada.necropolis",
                 "organizer": "atlas",
                 "register": "https://forms.gle/R5onKHFKRPQDcomb7"
+            },
+            {
+                "activityName": "rev.crazy",
+                "organizer": "valinor",
+                "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
             },
             {
                 "activityName": "rev.montsegur",
