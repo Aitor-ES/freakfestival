@@ -9,11 +9,11 @@
 
     <!-- Horario -->
     <div class="row justify-content-center gy-5">
-      <div class="col-12 col-lg-8">
+      <div class="col-12 col-lg-10">
         <img src="/images/timetables/Horario freak sabado.png" alt="" width="100%" height="auto">
       </div>
 
-      <div class="col-12 col-lg-8">
+      <div class="col-12 col-lg-10">
         <img src="/images/timetables/Horario freak domingo.png" alt="" width="100%" height="auto">
       </div>
     </div>
