@@ -348,6 +348,7 @@ $lang = array(
   "lang.registrations-applications.shops" => "Denda, marka eta argitaletxeen hautagaitza",
 
   "lang.timetable.title" => "Ordutegia",
+  "lang.timetable.download-as-list" => "Ordutegia lista formatuan ikusi",
   "lang.timetable.day.saturday" => "Larunbata",
   "lang.timetable.day.sunday" => "Igandea",
   "lang.timetable.room.olarizu" => "Olarizu aretoa",

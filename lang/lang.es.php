@@ -348,6 +348,7 @@ $lang = array(
   "lang.registrations-applications.shops" => "Candidatura de tiendas, marcas y editoriales",
 
   "lang.timetable.title" => "Horario",
+  "lang.timetable.download-as-list" => "Ver horario en formato lista",
   "lang.timetable.day.saturday" => "Sábado",
   "lang.timetable.day.sunday" => "Domingo",
   "lang.timetable.room.olarizu" => "Sala Olárizu",
