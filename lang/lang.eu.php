@@ -106,7 +106,7 @@ $lang = array(
   "lang.activities.stands.title" => "Dendak, artistak eta artisauak",
   "lang.activities.stands.description" => "Ezagutu gure zaletasunen hedapena ahalbidetzen duten eta beren produktuak munduari ezagutzera eman nahi dizkioten egile eta negozio lokalak.",
   "lang.activities.talks-exhibitions.title" => "Hitzaldi eta ikuskizunak",
-  "lang.activities.talks-exhibitions.description" => "Ikasi zure zaletasun gogokoenei buruz gai ugaritan adituek eskainitako hitzaldi eta ikuskizunekin: literatura, artea, cosplay, arte martzialak, etab.",
+  "lang.activities.talks-exhibitions.description" => "Ikasi zure zaletasun gogokoenei buruz gai ugaritan adituek eskainitako hitzaldi eta ikuskizunekin: literatura, artea, cosplay, arte martzialak, etab.</p><p>Oharra: jarduera hauek ez dute izen-ematerik behar. Hurbiltzen diren guztientzat irekia da.",
   "lang.activities.workshops.title" => "Tailerrak",
   "lang.activities.workshops.description" => "Zure eskuekin sortu oroigarri paregabeak, hala nola katilu pertsonalizatuak, lanpara japoniarrak eta bestelako eskulanak. Askatu zure sormena eta eraman etxera ekitaldiaren oroitzapen polit bat.",
 
@@ -138,7 +138,7 @@ $lang = array(
   "lang.activities.organizer.strongtales" => "StrongTales Live Action Games",
 
   "lang.activities.2023.board-games.ludoteca.title" => "Mahai-jokoen ludoteka",
-  "lang.activities.2023.board-games.ludoteca.description" => "Gozatu mahai-joko aukera anitzeko ludotekaz, ekitaldi osoan zure eskura egongo dena, ondo pasatzeko joko berriak aurkitu eta ezagutzeko, edo betiko klasikoetara berriro bueltatzeko.",
+  "lang.activities.2023.board-games.ludoteca.description" => "Gozatu mahai-joko aukera anitzeko ludotekaz, ekitaldi osoan zure eskura egongo dena, ondo pasatzeko joko berriak aurkitu eta ezagutzeko, edo betiko klasikoetara berriro bueltatzeko.</p><p>Oharra: jarduera honek ez du izen-ematerik behar. Hurbiltzen diren guztientzat irekia da.",
   "lang.activities.2023.board-games.marvel.title" => "Marvel Champions erakustaldia",
   "lang.activities.2023.board-games.marvel.description" => "Marvel Champions proba, Marvelen unibertsoan oinarritutako mazoak eraikitzeko joko kooperatiboa.",
   "lang.activities.2023.board-games.space-base.title" => "Space Base erakustaldia",

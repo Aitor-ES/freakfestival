@@ -106,7 +106,7 @@ $lang = array(
   "lang.activities.stands.title" => "Tiendas, artistas y artesanos",
   "lang.activities.stands.description" => "Descubre a creadores y negocios locales que hacen posible la expansión de nuestras aficiones y que quieren dar a conocer al mundo sus productos.",
   "lang.activities.talks-exhibitions.title" => "Charlas y espectáculos",
-  "lang.activities.talks-exhibitions.description" => "Aprende sobre tus aficiones favoritas con las charlas y espectáculos ofrecidos por expertos en una gran variedad de disciplinas como literatura, arte, cosplay, artes marciales, etc.",
+  "lang.activities.talks-exhibitions.description" => "Aprende sobre tus aficiones favoritas con las charlas y espectáculos ofrecidos por expertos en una gran variedad de disciplinas como literatura, arte, cosplay, artes marciales, etc.</p><p>Nota: estas actividades no requieren de inscripción. Son abiertas a todos los que se acerquen.",
   "lang.activities.workshops.title" => "Talleres",
   "lang.activities.workshops.description" => "Crea con tus propias manos recuerdos únicos como tazas personalizadas, lámparas japonesas y otras manualidades. Da rienda suelta a tu creatividad y llévate a casa un bonito recuerdo del evento.",
 
@@ -138,7 +138,7 @@ $lang = array(
   "lang.activities.organizer.strongtales" => "StrongTales Live Action Games",
 
   "lang.activities.2023.board-games.ludoteca.title" => "Ludoteca de juegos de mesa",
-  "lang.activities.2023.board-games.ludoteca.description" => "Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para descubrir y conocer nuevos juegos con los que divertirte, o para volver una vez más a los clásicos de siempre.",
+  "lang.activities.2023.board-games.ludoteca.description" => "Disfruta de una extensa ludoteca de juegos de mesa que estará a tu disposición durante todo el evento, para descubrir y conocer nuevos juegos con los que divertirte, o para volver una vez más a los clásicos de siempre.</p><p>Nota: esta actividad no requiere de inscripción. Es abierta a todos los que se acerquen.",
   "lang.activities.2023.board-games.marvel.title" => "Demostración de Marvel Champions",
   "lang.activities.2023.board-games.marvel.description" => "Prueba Marvel Champions, un juego cooperativo de construcción de mazos basado en el universo de Marvel.",
   "lang.activities.2023.board-games.space-base.title" => "Demostración de Space Base",
