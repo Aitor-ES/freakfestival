@@ -25,13 +25,14 @@
             <!-- Programa -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php" || $curPageName == "mapas-recinto.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" aria-labelledby="navbarDropdown-program">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
                 <!-- <li><hr class="dropdown-divider"></li> -->
                 <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="inscripciones-candidaturas.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
               </ul>
@@ -50,14 +51,13 @@
             <!-- Info -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "organizadores.php" || $curPageName == "colaboradores.php" || $curPageName == "mapas-recinto.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "organizadores.php" || $curPageName == "colaboradores.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-info" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.info"]; ?>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-info">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="organizadores.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="colaboradores.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
-                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li> -->
               </ul>
             </li>
             <!-- Fotos -->
