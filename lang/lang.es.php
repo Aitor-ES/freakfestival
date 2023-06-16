@@ -112,7 +112,7 @@ $lang = array(
 
   "lang.activities.organizer" => "Organiza: ",
   "lang.activities.organizer.valinor" => "Asociación Cultural Valinor",
-  "lang.activities.organizer.valinor-alter" => "Asociación Cultural Valinor, Asociación Alter Paradox",
+  "lang.activities.organizer.valinor-alter-atlas" => "Asociación Cultural Valinor, Asociación Alter Paradox, Agrupación Atlas",
   "lang.activities.organizer.klaudia" => "Klaudia Ugarte Díez",
   "lang.activities.organizer.seijo" => "Seijo",
   "lang.activities.organizer.seijo-ikan" => "Seijo e Ikan",
