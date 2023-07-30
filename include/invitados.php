@@ -10,7 +10,7 @@
     <div class="row gy-5 justify-content-evenly">
       <div class="col-12 col-lg-4">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2023_qrolanp-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.qrolanp.title"]; ?>">
+          <img src="/images/photos/guests/2023_qrolanp-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.qrolanp.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.qrolanp.title"]; ?></h5>
@@ -30,7 +30,7 @@
 
       <div class="col-12 col-lg-4">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2023_destrona2plus-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.destrona2plus.title"]; ?>">
+          <img src="/images/photos/guests/2023_destrona2plus-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.destrona2plus.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.destrona2plus.title"]; ?></h5>
@@ -53,7 +53,7 @@
 
       <div class="col-12 col-lg-4">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2023_eneko_menica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.eneko-menica.title"]; ?>">
+          <img src="/images/photos/guests/2023_eneko_menica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.eneko-menica.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.eneko-menica.title"]; ?></h5>
@@ -81,7 +81,7 @@
 
       <div class="col-12 col-lg-4">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2023_usagitxo-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.usagitxo.title"]; ?>">
+          <img src="/images/photos/guests/2023_usagitxo-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.usagitxo.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.usagitxo.title"]; ?></h5>
@@ -106,7 +106,7 @@
 
       <div class="col-12 col-lg-4">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2023_mayicosplay-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.mayicosplay.title"]; ?>">
+          <img src="/images/photos/guests/2023_mayicosplay-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.mayicosplay.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.mayicosplay.title"]; ?></h5>

@@ -675,7 +675,7 @@
     <!-- <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 justify-content-evenly mb-5">
       <div class="col">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2022_burning_flare-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.burning-flare.title"]; ?>">
+          <img src="/images/photos/guests/2022_burning_flare-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.burning-flare.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.burning-flare.title"]; ?></h5>
@@ -703,7 +703,7 @@
 
       <div class="col">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2022_pandastica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.pandastica.title"]; ?>">
+          <img src="/images/photos/guests/2022_pandastica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.pandastica.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.pandastica.title"]; ?></h5>
@@ -727,7 +727,7 @@
 
       <div class="col">
         <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
-          <img src="/images/guests/2022_kaceda-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.kaceda.title"]; ?>">
+          <img src="/images/photos/guests/2022_kaceda-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.kaceda.title"]; ?>">
 
           <div class="card-body">
             <h5 class="card-title"><?php echo $lang["lang.guests.kaceda.title"]; ?></h5>
