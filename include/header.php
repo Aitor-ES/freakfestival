@@ -63,11 +63,12 @@
             <!-- Fotos -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "edicion-2022.php" || $curPageName == "edicion-2018.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if (str_contains($curPageName, "edicion")) echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-editions" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.editions"]; ?>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" aria-labelledby="navbarDropdown-editions">
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="edicion-2023.php"><?php echo $lang["lang.header.editions.2023"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="edicion-2022.php"><?php echo $lang["lang.header.editions.2022"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="edicion-2018.php"><?php echo $lang["lang.header.editions.2018"]; ?></a></li>
               </ul>

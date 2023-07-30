@@ -7,6 +7,7 @@ $lang = array(
   "lang.head.title.actividades" => "Jarduerak · ",
   "lang.head.title.colaboradores" => "Laguntzaileak · ",
   "lang.head.title.como-llegar" => "Nola heldu · ",
+  "lang.head.title.edition-2023" => "Freak Festival 2023 · ",
   "lang.head.title.edition-2022" => "Freak Festival 2022 · ",
   "lang.head.title.edition-2018" => "Freak Festival 2018 · ",
   "lang.head.title.fotos" => "Argazkiak · ",
@@ -34,6 +35,7 @@ $lang = array(
   "lang.header.partners" => "Laguntzaileak",
   "lang.header.maps-of-the-facilities" => "Esparruaren mapak",
   "lang.header.editions" => "Edizioak",
+  "lang.header.editions.2023" => "Freak Festival 2023",
   "lang.header.editions.2022" => "Freak Festival 2022",
   "lang.header.editions.2018" => "Freak Festival 2018",
   "lang.header.lang.es" => "Español",
@@ -458,12 +460,16 @@ $lang = array(
 
   "lang.partners.title" => "Laguntzaileak",
 
+  "lang.edition.2023.title" => "Freak Festival 2023",
   "lang.edition.2022.title" => "Freak Festival 2022",
   "lang.edition.2018.title" => "Freak Festival 2018",
   "lang.edition.gallery.title" => "Argazkiak",
+  "lang.edition.gallery.activities" => "Jarduerak",
   "lang.edition.gallery.artists" => "Artistak",
-  "lang.edition.gallery.partners-workshops" => "Laguntzaileak eta tailerrak",
   "lang.edition.gallery.board-role-games" => "Mahai- eta rol-jokoak",
+  "lang.edition.gallery.cosplay" => "Cosplay",
+  "lang.edition.gallery.partners-workshops" => "Laguntzaileak eta tailerrak",
+  "lang.edition.gallery.stands-partners-guests" => "Postuak, laguntzaileak eta gonbidatuak",
   "lang.edition.gallery.video" => "Bideoa",
 );
 ?>

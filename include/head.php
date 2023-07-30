@@ -24,7 +24,7 @@
 <meta property="og:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
 <meta property="og:image:type" content="image/jpg">
 <meta property="og:image:width" content="1000">
-<meta property="og:image:height" content="500">
+<meta property="og:image:height" content="1000">
 
 <title><?php echo $title; ?><?php echo $lang["lang.head.title.name"]; ?></title>
 

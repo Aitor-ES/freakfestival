@@ -746,8 +746,9 @@
       </div>
     </div> -->
 
-    <h2 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.gallery.title"]; ?></h2>
+    <!-- <h2 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.gallery.title"]; ?></h2> -->
 
+    <!-- General -->
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
         foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min") as $file) {
@@ -765,17 +766,18 @@
       ?>
     </div>
 
-    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.artists"]; ?></h3>
+    <!-- Stands, partners and guests -->
+    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.stands-partners-guests"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
-        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Artistas") as $file) {
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Puestos, colaboradores e invitados") as $file) {
           if (!$file->isFile()) continue;
       ?>
 
       <div class="col-auto">
-        <a href="/images/photos/gallery/2022/min/Artistas/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Artistas/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        <a href="/images/photos/gallery/2022/min/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
         </a>
       </div>
 
@@ -784,17 +786,18 @@
       ?>
     </div>
 
-    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.partners-workshops"]; ?></h3>
+    <!-- Activities -->
+    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.activities"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
-        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Colaboradores y talleres") as $file) {
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Actividades") as $file) {
           if (!$file->isFile()) continue;
       ?>
 
       <div class="col-auto">
-        <a href="/images/photos/gallery/2022/min/Colaboradores y talleres/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Colaboradores y talleres/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        <a href="/images/photos/gallery/2022/min/Actividades/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Actividades/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
         </a>
       </div>
 
@@ -803,17 +806,17 @@
       ?>
     </div>
 
-    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.board-role-games"]; ?></h3>
+    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.cosplay"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
-        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Juegos de mesa y rol") as $file) {
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Cosplay") as $file) {
           if (!$file->isFile()) continue;
       ?>
 
       <div class="col-auto">
-        <a href="/images/photos/gallery/2022/min/Juegos de mesa y rol/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Juegos de mesa y rol/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        <a href="/images/photos/gallery/2022/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
         </a>
       </div>
 

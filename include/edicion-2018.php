@@ -7,7 +7,7 @@
   <div class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.2018.title"]; ?></h1>
 
-    <h2 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.gallery.title"]; ?></h2>
+    <!-- <h2 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.gallery.title"]; ?></h2> -->
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
