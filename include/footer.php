@@ -18,18 +18,18 @@
         <div class="col-12 col-lg-4">
           <p><?php echo $lang["lang.footer.sponsors"]; ?></p>
           <a href="https://www.fundacionvital.eus/">
-            <img class="logo-sponsor" src="/images/logos/fvital-min.png" alt="" width="auto" height="60">
+            <img class="logo-sponsor" src="/images/logos/sponsors/fvital-min.png" alt="" width="auto" height="60">
           </a>
         </div>
 
         <hr class="d-lg-none mb-0">
 
         <div class="col-4 col-lg-2">
-          <img class="logo-vg" src="/images/logos/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="50">
+          <img class="logo-vg" src="/images/logos/sponsors/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="50">
         </div>
 
         <div class="col-4 col-lg-2">
-          <img class="logo-vg" src="/images/logos/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="50">
+          <img class="logo-vg" src="/images/logos/sponsors/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="50">
         </div>
       </div>
     </div>
