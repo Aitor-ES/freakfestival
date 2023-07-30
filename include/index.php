@@ -7,7 +7,7 @@
   <div class="container-fluid ff-main-gutter text-center text-white mb-4 py-5" id="banner">
     <div class="row">
       <div class="col">
-        <h1><img src="/images/Letras_dado_tabla.png" class="img-fluid" alt="Freak Festival" width="375" height="375"></h1>
+        <h1><img src="/images/logos/Letras_dado_tabla.png" class="img-fluid" alt="Freak Festival" width="375" height="375"></h1>
       </div>
     </div>
   </div>
