@@ -806,6 +806,7 @@
       ?>
     </div>
 
+    <!-- Cosplay -->
     <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.cosplay"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
@@ -825,6 +826,7 @@
       ?>
     </div>
 
+    <!-- Video -->
     <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.video"]; ?></h3>
 
     <div class="text-center">

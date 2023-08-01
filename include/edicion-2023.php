@@ -48,6 +48,26 @@
         }
       ?>
     </div>
+
+    <!-- Cosplay -->
+    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.cosplay"]; ?></h3>
+
+    <div class="row gy-4 mb-5 justify-content-center">
+      <?php
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2023/min/Cosplay") as $file) {
+          if (!$file->isFile()) continue;
+      ?>
+
+      <div class="col-auto">
+        <a href="/images/photos/gallery/2023/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/gallery/2023/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        </a>
+      </div>
+
+      <?php
+        }
+      ?>
+    </div>
   </div>
   <!-- Main End -->
 
