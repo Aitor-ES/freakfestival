@@ -51,7 +51,7 @@
               <br>
               <?php echo $lang["lang.home.introduction.location.town"]; ?>
               <br>
-              <a href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
+              <a class="link-ffmidnight" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
             </p>
           </div>
 

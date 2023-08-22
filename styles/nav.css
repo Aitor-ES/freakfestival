@@ -62,7 +62,7 @@
     }
 }
 
-.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show > .nav-link {
+.navbar .navbar-nav .nav-link.active, .navbar .navbar-nav .show > .nav-link {
     background: var(--ff-diamond);
     background: linear-gradient(to right, var(--ff-sea), var(--ff-diamond), var(--ff-sea));
     background-clip: text;
@@ -87,10 +87,10 @@
     background-color: transparent;
 }
 
-.navbar-dark .navbar-nav .nav-link.nav-link-lang {
+.navbar .navbar-nav .nav-link.nav-link-lang {
     color: rgba(255,255,255,.35);
 }
 
-.navbar-dark .navbar-nav .nav-link.nav-link-lang:focus, .navbar-dark .navbar-nav .nav-link.nav-link-lang:hover {
+.navbar .navbar-nav .nav-link.nav-link-lang:focus, .navbar .navbar-nav .nav-link.nav-link-lang:hover {
     color: rgba(255,255,255,.55);
 }

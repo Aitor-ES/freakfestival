@@ -10,7 +10,7 @@
     <!-- <h2 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.gallery.title"]; ?></h2> -->
 
     <!-- Stands, partners and guests -->
-    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.stands-partners-guests"]; ?></h3>
+    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.stands-partners-guests"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
@@ -30,7 +30,7 @@
     </div>
 
     <!-- Activities -->
-    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.activities"]; ?></h3>
+    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.activities"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
@@ -50,7 +50,7 @@
     </div>
 
     <!-- Cosplay -->
-    <h3 class="mb-4"><?php echo $lang["lang.edition.gallery.cosplay"]; ?></h3>
+    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.cosplay"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php

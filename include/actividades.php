@@ -30,7 +30,7 @@
                   <li class="list-group-item mb-3">
                     <div>
                       <h4 class="mb-3"><?php echo $lang["lang.activities.2023.$categoryName.$activity->activityName.title"]; ?></h4>
-                      <p class="text-muted"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+                      <p class="text-body-secondary"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
                       <p><?php echo $lang["lang.activities.2023.$categoryName.$activity->activityName.description"]; ?></p>
 
                       <div class="row gy-3 mb-3">
