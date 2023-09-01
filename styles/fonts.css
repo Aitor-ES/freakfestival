@@ -4,135 +4,21 @@
     font-display: swap;
 }
 
-/* @font-face {
-    font-family: "InknutLight";
-    src: url('../fonts/InknutAntiqua-Light.ttf');
-    font-display: swap;
-} */
-
 @font-face {
-    font-family: "InknutRegular";
-    src: url('../fonts/InknutAntiqua-Regular.ttf');
+    font-family: "Quicksand";
+    src: url('../fonts/Quicksand-VariableFont_wght.ttf');
+    font-weight: 300 700;
     font-display: swap;
 }
-
-/* @font-face {
-    font-family: "InknutMedium";
-    src: url('../fonts/InknutAntiqua-Medium.ttf');
-    font-display: swap;
-} */
-
-/* @font-face {
-    font-family: "InknutSemiBold";
-    src: url('../fonts/InknutAntiqua-SemiBold.ttf');
-    font-display: swap;
-} */
-
-/* @font-face {
-    font-family: "InknutBold";
-    src: url('../fonts/InknutAntiqua-Bold.ttf');
-    font-display: swap;
-} */
-
-/* @font-face {
-    font-family: "InknutExtraBold";
-    src: url('../fonts/InknutAntiqua-ExtraBold.ttf');
-    font-display: swap;
-} */
-
-/* @font-face {
-    font-family: "InknutBlack";
-    src: url('../fonts/InknutAntiqua-Black.ttf');
-    font-display: swap;
-} */
-
-/* @font-face {
-    font-family: "FrutigerLight";
-    src: url('../fonts/Frutiger-LT-Std-45-Light.otf');
-    font-display: swap;
-} */
-
-/* @font-face {
-    font-family: "FrutigerRegular";
-    src: url('../fonts/Frutiger-LT-Std-55-Roman-Regular.otf');
-    font-display: swap;
-} */
-
-/* @font-face {
-    font-family: "FrutigerBold";
-    src: url('../fonts/Frutiger-LT-Std-55-Roman-Bold.otf');
-    font-display: swap;
-} */
-
-@font-face {
-    font-family: "Raleway";
-    src: url('../fonts/Raleway-VariableFont_wght.ttf');
-    font-weight: 100 900;
-    font-display: swap;
-}
-
-/* @font-face {
-    font-family: "Raleway Italic";
-    src: url('../fonts/Raleway-Italic-VariableFont_wght.ttf');
-    font-weight: 100 900;
-    font-display: swap;
-} */
 
 :root {
-    --body-font-family: "Raleway";
+    --body-font-family: "Quicksand", "Helvetica", "Arial", sans-serif;
+    font-kerning: normal;
 }
 
 .f-uncial-r {
     font-family: "Uncial Antiqua";
 }
-
-/* .f-inknut-light {
-    font-family: "InknutLight";
-} */
-
-.f-inknut-regular {
-    font-family: "InknutRegular";
-}
-
-/* .f-inknut-medium {
-    font-family: "InknutMedium";
-} */
-
-/* .f-inknut-semibold {
-    font-family: "InknutSemiBold";
-} */
-
-/* .f-inknut-bold {
-    font-family: "InknutBold";
-} */
-
-/* .f-inknut-extrabold {
-    font-family: "InknutExtraBold";
-} */
-
-/* .f-inknut-black {
-    font-family: "InknutBlack";
-} */
-
-/* .f-frutiger-l {
-    font-family: "FrutigerLight";
-} */
-
-/* .f-frutiger-r {
-    font-family: "FrutigerRegular";
-} */
-
-/* .f-frutiger-b {
-    font-family: "FrutigerBold";
-} */
-
-.f-raleway {
-    font-family: "Raleway";
-}
-
-/* .f-raleway-i {
-    font-family: "Raleway Italic";
-} */
 
 .f-gradient-ff {
     background: #36FFFF;
