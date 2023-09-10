@@ -10,9 +10,6 @@
 
     <!-- Lightbox2 library -->
     <link href="/libraries/lightbox2/css/lightbox.min.css" rel="stylesheet">
-
-    <!-- Page CSS -->
-    <link href="/styles/actividades.css" rel="stylesheet">
     <link href="/styles/invitados.css" rel="stylesheet">
     <link href="/styles/fotos.css" rel="stylesheet">
   </head>

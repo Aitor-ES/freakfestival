@@ -25,18 +25,44 @@
             <!-- Programa -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "actividades.php" || $curPageName == "horario.php" || $curPageName == "mapas-recinto.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "horario.php" || $curPageName == "mapas-recinto.php") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-program">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="actividades.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="horario.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="mapas-recinto.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
+              </ul>
+            </li>
+            <!-- Actividades -->
+            <li class="nav-item dropdown">
+              <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
+              <?php if ($curPageName == "actividades.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
+              href="#" id="navbarDropdown-activities" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <?php echo $lang["lang.header.activities"]; ?>
+              </a>
+              <ul class="dropdown-menu rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-activities">
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="juegos-de-mesa.php"><?php echo $lang["lang.activities.board-games.title"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="torneos.php"><?php echo $lang["lang.activities.tournaments.title"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="rol-de-mesa.php"><?php echo $lang["lang.activities.rpg.title"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="rol-en-vivo.php"><?php echo $lang["lang.activities.larp.title"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="charlas.php"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="talleres.php"><?php echo $lang["lang.activities.workshops.title"]; ?></a></li>
                 <!-- <li><hr class="dropdown-divider"></li> -->
                 <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="inscripciones-candidaturas.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
               </ul>
             </li>
+            <!-- Concursos -->
+            <li class="nav-item">
+              <a class="nav-link fw-bold text-uppercase text-lg-center
+              <?php if ($curPageName == "concursos.php") echo "active\" aria-current=\"page"; ?>" href="concursos.php">
+                <?php echo $lang["lang.activities.contests.title"]; ?>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="nav-links-end" class="navbar-collapse">
+          <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
             <!-- Invitados -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
@@ -44,10 +70,6 @@
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
             </li>
-          </ul>
-        </div>
-        <div id="nav-links-end" class="navbar-collapse">
-          <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
             <!-- Info -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle

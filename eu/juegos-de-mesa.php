@@ -4,12 +4,9 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.head.title.actividades"];
+      $title = $lang["lang.activities.board-games.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
-
-    <!-- Page CSS -->
-    <link href="/styles/actividades.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/actividades.php"); ?>
+  <?php require(__DIR__ . "/../include/juegos-de-mesa.php"); ?>
 </html>

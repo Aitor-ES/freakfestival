@@ -1,4 +1,5 @@
 <?php $curPageName = basename($_SERVER['PHP_SELF']); ?>
+<?php $subPath = substr(parse_url($_SERVER['PHP_SELF'], PHP_URL_PATH), 1); ?>
 
 <!-- Required meta tags -->
 <meta charset="utf-8">
@@ -11,13 +12,13 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@AsoValinor">
 <meta name="twitter:creator" content="@AsoValinor">
-<meta name="twitter:title" content="<?php echo $title; ?><?php echo $lang["lang.head.title.name"]; ?>">
+<meta name="twitter:title" content="<?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?>">
 <meta name="twitter:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta name="twitter:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
 
 <!-- Facebook -->
 <meta property="og:url" content="https://freakfestival.es/<?php echo $curPageName; ?>">
-<meta property="og:title" content="<?php echo $title; ?><?php echo $lang["lang.head.title.name"]; ?>">
+<meta property="og:title" content="<?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?>">
 <meta property="og:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta property='og:site_name' content='Freak Festival'>
 <meta property="og:type" content="article">
@@ -26,7 +27,7 @@
 <meta property="og:image:width" content="1000">
 <meta property="og:image:height" content="1000">
 
-<title><?php echo $title; ?><?php echo $lang["lang.head.title.name"]; ?></title>
+<title><?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?></title>
 
 <!-- Favicon -->
 <link rel="icon" href="/images/logos/favicon.png">

@@ -145,7 +145,12 @@
                 "activityName": "llamada.necropolis",
                 "organizer": "atlas",
                 "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-            },
+            }
+        ]
+    },
+    {
+        "categoryName": "larp",
+        "activities": [
             {
                 "activityName": "rev.montsegur",
                 "organizer": "urra",
