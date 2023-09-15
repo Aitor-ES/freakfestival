@@ -1,0 +1,25 @@
+{
+  "categoryName": "tournaments",
+  "activities": [
+    {
+      "activityName": "cubirds",
+      "organizer": "alter",
+      "register": "https://forms.gle/zq19rHRsrczpqQJP9"
+    },
+    {
+      "activityName": "virus",
+      "organizer": "alter",
+      "register": "https://forms.gle/zq19rHRsrczpqQJP9"
+    },
+    {
+      "activityName": "magic",
+      "organizer": "magic-all-goal",
+      "register": "https://forms.gle/zq19rHRsrczpqQJP9"
+    },
+    {
+      "activityName": "yu-gi-oh",
+      "organizer": "magic-all-goal",
+      "register": "https://forms.gle/zq19rHRsrczpqQJP9"
+    }
+  ]
+}

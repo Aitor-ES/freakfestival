@@ -4,12 +4,12 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.activities.talks-exhibitions.title"];
+      $title = $lang["lang.activities.book-releases.title"];
       require("include/head.php");
     ?>
 
     <!-- Page CSS -->
     <link href="/styles/callout.css" rel="stylesheet">
   </head>
-  <?php require("include/charlas.php"); ?>
+  <?php require("include/presentaciones-de-libros.php"); ?>
 </html>

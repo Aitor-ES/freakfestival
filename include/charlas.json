@@ -1,0 +1,33 @@
+{
+  "categoryName": "talks-exhibitions",
+  "activities": [
+    {
+      "activityName": "editar-rol",
+      "organizer": "seijo-ikan"
+    },
+    {
+      "activityName": "cosplay-iniciacion",
+      "organizer": "mayicosplay"
+    },
+    {
+      "activityName": "ser-virtual-streamer",
+      "organizer": "arkenaya"
+    },
+    {
+      "activityName": "cosplay-personaje-escenarios",
+      "organizer": "usagitxo-destrona2plus"
+    },
+    {
+      "activityName": "editar-publicar-fantasia",
+      "organizer": "uzanza-cerbero"
+    },
+    {
+      "activityName": "dirigir-rol",
+      "organizer": "atlas"
+    },
+    {
+      "activityName": "3d-videojuegos",
+      "organizer": "daniel-gimenez"
+    }
+  ]
+}

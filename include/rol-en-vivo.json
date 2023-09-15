@@ -1,0 +1,20 @@
+{
+  "categoryName": "larp",
+  "activities": [
+    {
+      "activityName": "montsegur",
+      "organizer": "urra",
+      "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
+    },
+    {
+      "activityName": "justa",
+      "organizer": "strongtales",
+      "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
+    },
+    {
+      "activityName": "rosa",
+      "organizer": "strongtales",
+      "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
+    }
+  ]
+}

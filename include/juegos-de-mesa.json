@@ -1,0 +1,54 @@
+{
+  "categoryName": "board-games",
+  "activities": [
+    {
+      "activityName": "ludoteca",
+      "organizer": "valinor-alter-atlas"
+    },
+    {
+      "activityName": "marvel",
+      "organizer": "alter",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "jardin-alicia",
+      "organizer": "alter",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "cascadia",
+      "organizer": "alter",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "terraforming-mars",
+      "organizer": "alter",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "warcrow",
+      "organizer": "alter",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "imhre",
+      "organizer": "sugaar",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "wild-pong",
+      "organizer": "sugaar",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "coup-x",
+      "organizer": "omega",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    },
+    {
+      "activityName": "listillo",
+      "organizer": "omega",
+      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+    }
+  ]
+}

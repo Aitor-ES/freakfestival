@@ -5,12 +5,14 @@
 
   <!-- Main Start -->
   <div class="container-md ff-main-gutter my-5">
-    <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/rol-en-vivo.json'));
+    <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/presentaciones-de-libros.json'));
           $categoryName = $activityCategory->categoryName; ?>
 
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
 
     <p class="lead mb-4"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+
+    <div class="callout callout-info"><?php echo $lang["lang.activities.$categoryName.callout"]; ?></div>
 
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>

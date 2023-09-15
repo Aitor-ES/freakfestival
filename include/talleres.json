@@ -1,0 +1,40 @@
+{
+  "categoryName": "workshops",
+  "activities": [
+    {
+      "activityName": "miniaturas",
+      "organizer": "valinor",
+      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+    },
+    {
+      "activityName": "jarras",
+      "organizer": "valinor",
+      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+    },
+    {
+      "activityName": "dibujar-pj-fantasia",
+      "organizer": "qrolanp",
+      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+    },
+    {
+      "activityName": "dibujar-mazmorras",
+      "organizer": "eneko-menica",
+      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+    },
+    {
+      "activityName": "dibujar-exteriores",
+      "organizer": "eneko-menica",
+      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+    },
+    {
+      "activityName": "marcapaginas-acuarela",
+      "organizer": "irnielart",
+      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+    },
+    {
+      "activityName": "cafe",
+      "organizer": "tap",
+      "register": "https://forms.gle/FWgVWNZjqPympJJD7"
+    }
+  ]
+}
