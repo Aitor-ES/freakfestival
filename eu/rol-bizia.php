@@ -4,9 +4,10 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.activities.contests.title"];
+      $curPageName = "rol-en-vivo";
+      $title = $lang["lang.activities.larp.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>
-  <?php require(__DIR__ . "/../include/concursos.php"); ?>
+  <?php require(__DIR__ . "/../include/rol-en-vivo.php"); ?>
 </html>

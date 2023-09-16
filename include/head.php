@@ -1,5 +1,4 @@
-<?php $curPageName = basename($_SERVER['PHP_SELF']); ?>
-<?php $subPath = substr(parse_url($_SERVER['PHP_SELF'], PHP_URL_PATH), 1); ?>
+<?php require_once("links.php"); ?>
 
 <!-- Required meta tags -->
 <meta charset="utf-8">
@@ -17,7 +16,7 @@
 <meta name="twitter:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
 
 <!-- Facebook -->
-<meta property="og:url" content="https://freakfestival.es/<?php echo $curPageName; ?>">
+<meta property="og:url" content="https://freakfestival.es/<?php if ($lang["lang"] == "eu") echo "eu/"; ?><?php echo $links[$lang["lang"] . "." . $curPageName]; ?>.php">
 <meta property="og:title" content="<?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?>">
 <meta property="og:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta property='og:site_name' content='Freak Festival'>

@@ -4,9 +4,10 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.activities.board-games.title"];
+      $curPageName = "organizadores";
+      $title = $lang["lang.head.title.organizadores"];
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>
-  <?php require(__DIR__ . "/../include/juegos-de-mesa.php"); ?>
+  <?php require(__DIR__ . "/../include/organizadores.php"); ?>
 </html>

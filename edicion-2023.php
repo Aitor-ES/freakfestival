@@ -4,6 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
+      $curPageName = "edicion-2023";
       $title = $lang["lang.head.title.edition-2023"];
       require("include/head.php");
     ?>

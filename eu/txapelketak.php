@@ -4,12 +4,10 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.head.title.colaboradores"];
+      $curPageName = "torneos";
+      $title = $lang["lang.activities.tournaments.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
-
-    <!-- Page CSS -->
-    <link href="/styles/colaboradores.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/colaboradores.php"); ?>
+  <?php require(__DIR__ . "/../include/torneos.php"); ?>
 </html>

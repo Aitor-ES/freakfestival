@@ -58,7 +58,7 @@ $lang = array(
 
   "lang.home.introduction.title" => "Freak Festival…",
   "lang.home.introduction.paragraph.1" => "Freak Festival Euskadiko <strong>aisialdi alternatiboko dohaineko</strong> ekitaldi handiena da.",
-  "lang.home.introduction.paragraph.2" => "<strong>Valinor Kultura-Elkarteak</strong> antolatuta, festibal honek <strong>publiko guztientzat</strong> jarduera eskaintza zabala eskaintzen du: <strong>mahai-jokoak, rola, tailerrak, artisautza postuak</strong>, hitzaldiak, ikuskizunak, txapelketak, leihaketak eta askoz gehiago. Asteburu oso batean, kultura- eta aisialdi-eskaintza onenarekin gozatu ahal izango duzu, bai lagunekin, familiarekin, edo zure kabuz.",
+  "lang.home.introduction.paragraph.2" => "<strong>Valinor Kultura-Elkarteak</strong> antolatuta, festibal honek <strong>publiko guztientzat</strong> jarduera eskaintza zabala eskaintzen du: <strong>mahai-jokoak, rola, tailerrak, artisautza postuak</strong>, hitzaldiak, ikuskizunak, txapelketak, lehiaketak eta askoz gehiago. Asteburu oso batean, kultura- eta aisialdi-eskaintza onenarekin gozatu ahal izango duzu, bai lagunekin, familiarekin, edo zure kabuz.",
   "lang.home.introduction.paragraph.3" => "Ez ezazu alde batera utzi Freak Festivalaren parte izateko aukera.",
   "lang.home.introduction.paragraph.4" => "<strong>Jolastu, Aurkitu, Sortu</strong>",
   "lang.home.introduction.location.title" => "Kokapena",

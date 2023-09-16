@@ -4,6 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
+      $curPageName = "rol-de-mesa";
       $title = $lang["lang.activities.rpg.title"];
       require("include/head.php");
     ?>

@@ -4,15 +4,15 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.head.title.edition-2018"];
+      $curPageName = "edicion-2022";
+      $title = $lang["lang.head.title.edition-2022"];
       require(__DIR__ . "/../include/head.php");
     ?>
 
     <!-- Lightbox2 library -->
     <link href="/libraries/lightbox2/css/lightbox.min.css" rel="stylesheet">
-
-    <!-- Page CSS -->
+    <link href="/styles/invitados.css" rel="stylesheet">
     <link href="/styles/fotos.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/edicion-2018.php"); ?>
+  <?php require(__DIR__ . "/../include/edicion-2022.php"); ?>
 </html>

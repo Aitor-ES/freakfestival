@@ -4,9 +4,10 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.activities.workshops.title"];
+      $curPageName = "inscripciones-candidaturas";
+      $title = $lang["lang.head.title.registrations-applications"];
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>
-  <?php require(__DIR__ . "/../include/talleres.php"); ?>
+  <?php require(__DIR__ . "/../include/inscripciones-candidaturas.php"); ?>
 </html>

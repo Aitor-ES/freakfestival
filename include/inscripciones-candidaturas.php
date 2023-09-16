@@ -7,8 +7,8 @@
   <div class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.registrations-applications.title"]; ?></h1>
 
-    <p><?php echo $lang["lang.registrations-applications.description.1"]; ?></p>
-    <p><?php echo $lang["lang.registrations-applications.description.2"]; ?></p>
+    <p class="lead"><?php echo $lang["lang.registrations-applications.description.1"]; ?></p>
+    <p class="lead"><?php echo $lang["lang.registrations-applications.description.2"]; ?></p>
 
     <div class="d-flex flex-column align-items-lg-baseline gap-3">
       <a class="btn btn-block btn-outline-ffmidnight btn-outline-b" href="https://forms.gle/tebtLyCWiHL13an18"><?php echo $lang["lang.registrations-applications.associations"]; ?></a>

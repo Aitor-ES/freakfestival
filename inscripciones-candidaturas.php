@@ -4,6 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
+      $curPageName = "inscripciones-candidaturas";
       $title = $lang["lang.head.title.registrations-applications"];
       require("include/head.php");
     ?>

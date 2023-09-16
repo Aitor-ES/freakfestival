@@ -4,6 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
+      $curPageName = "presentaciones-de-libros";
       $title = $lang["lang.activities.book-releases.title"];
       require("include/head.php");
     ?>

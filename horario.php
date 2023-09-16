@@ -4,6 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
+      $curPageName = "horario";
       $title = $lang["lang.head.title.horario"];
       require("include/head.php");
     ?>

@@ -4,9 +4,13 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $title = $lang["lang.activities.larp.title"];
+      $curPageName = "charlas";
+      $title = $lang["lang.activities.talks-exhibitions.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
+
+    <!-- Page CSS -->
+    <link href="/styles/callout.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/rol-en-vivo.php"); ?>
+  <?php require(__DIR__ . "/../include/charlas.php"); ?>
 </html>
