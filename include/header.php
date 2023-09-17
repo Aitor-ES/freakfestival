@@ -18,14 +18,14 @@
             <!-- Inicio -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "index.php") echo "active\" aria-current=\"page"; ?>" href="index.php">
+              <?php if ($curPageName == "index") echo "active\" aria-current=\"page"; ?>" href="index.php">
                 <?php echo $lang["lang.header.home"]; ?>
               </a>
             </li>
             <!-- Programa -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "horario.php" || $curPageName == "mapas-recinto.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "horario" || $curPageName == "mapas-recinto") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
@@ -37,7 +37,7 @@
             <!-- Actividades -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "actividades.php" || $curPageName == "inscripciones-candidaturas.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if (in_array($curPageName, ["juegos-de-mesa", "torneos", "rol-de-mesa", "rol-en-vivo", "charlas", "presentaciones-de-libros", "talleres", "inscripciones-candidaturas"])) echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-activities" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.activities"]; ?>
               </a>
@@ -56,7 +56,7 @@
             <!-- Concursos -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "concursos.php") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".concursos"]; ?>.php">
+              <?php if ($curPageName == "concursos") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".concursos"]; ?>.php">
                 <?php echo $lang["lang.activities.contests.title"]; ?>
               </a>
             </li>
@@ -67,14 +67,14 @@
             <!-- Invitados -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
-              <?php if ($curPageName == "invitados.php") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".invitados"]; ?>.php">
+              <?php if ($curPageName == "invitados") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".invitados"]; ?>.php">
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
             </li>
             <!-- Info -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "organizadores.php" || $curPageName == "colaboradores.php") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "organizadores" || $curPageName == "colaboradores") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-info" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.info"]; ?>
               </a>
