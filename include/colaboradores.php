@@ -7,13 +7,13 @@
   <div class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.partners.title"]; ?></h1>
 
-    <div class="row g-5 mb-5 justify-content-center">
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-lg-4 row-cols-xl-5 g-5 mb-5 justify-content-evenly">
       <?php
         foreach (new DirectoryIterator(__DIR__ . "/../images/logos/contributors/2023") as $file) {
           if ($file->isDot()) continue;
       ?>
 
-      <div class="col-auto">
+      <div class="col d-flex justify-content-center align-items-center">
         <img class="logo-contributor" src="/images/logos/contributors/2023/<?php echo $file->getFilename(); ?>"
           alt="<?php echo $file->getFilename(); ?>" width="auto" height="60px">
       </div>
