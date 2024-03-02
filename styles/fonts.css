@@ -1,23 +1,23 @@
-@font-face {
-    font-family: "Uncial Antiqua";
-    src: url('../fonts/UncialAntiqua-Regular.ttf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Quicksand";
-    src: url('../fonts/Quicksand-VariableFont_wght.ttf');
-    font-weight: 300 700;
-    font-display: swap;
-}
-
 :root {
-    --body-font-family: "Quicksand", "Helvetica", "Arial", sans-serif;
+    --body-font-family: Inter, "Helvetica", "Arial", sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+
+    font-size: 1rem;
+    line-height: 1.57143;
+    font-weight: 400;
+    letter-spacing: 0.01071em;
     font-kerning: normal;
+}
+@supports (font-variation-settings: normal) {
+    :root { --body-font-family: InterVariable, "Helvetica", "Arial", sans-serif; }
 }
 
 .f-uncial-r {
-    font-family: "Uncial Antiqua";
+    font-family: "Uncial Antiqua", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+    letter-spacing: normal;
 }
 
 .f-gradient-ff {
