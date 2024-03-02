@@ -1,5 +1,5 @@
 :root {
-    --body-font-family: Inter, "Helvetica", "Arial", sans-serif;
+    --bs-body-font-family: Inter, "Helvetica", "Arial", sans-serif;
     font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
 
     font-size: 1rem;
@@ -9,7 +9,7 @@
     font-kerning: normal;
 }
 @supports (font-variation-settings: normal) {
-    :root { --body-font-family: InterVariable, "Helvetica", "Arial", sans-serif; }
+    :root { --bs-body-font-family: InterVariable, "Helvetica", "Arial", sans-serif; }
 }
 
 .f-uncial-r {

@@ -13,10 +13,6 @@
     --ff-sunlight-rgb: 255, 233, 156;
 }
 
-body {
-    font-family: var(--body-font-family);
-}
-
 .ff-main-gutter {
     --bs-gutter-x: 3rem;
 }
