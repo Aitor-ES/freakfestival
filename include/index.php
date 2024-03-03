@@ -29,7 +29,7 @@
         <div class="row gy-4 text-center text-sm-start">
           <!-- Date -->
           <div class="col-12 col-sm-4 px-3">
-            <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffmidnight"></i></div>
+            <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
             <h3 class="fw-light"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
             <p>
               <?php echo $lang["lang.home.introduction.date.days.2023"]; ?>
@@ -42,7 +42,7 @@
 
           <!-- Location -->
           <div class="col-12 col-sm-4 px-3">
-            <div class="mb-2"><i class="bi bi-geo fs-1 text-ffmidnight"></i></div>
+            <div class="mb-2"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
             <h3 class="fw-light"><?php echo $lang["lang.home.introduction.location.title"]; ?></h3>
             <p>
               <?php echo $lang["lang.home.introduction.location.building"]; ?>
@@ -51,13 +51,13 @@
               <br>
               <?php echo $lang["lang.home.introduction.location.town"]; ?>
               <br>
-              <a class="link-ffmidnight" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
+              <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
             </p>
           </div>
 
           <!-- Entrance -->
           <div class="col-12 col-sm-4 px-3">
-            <div class="mb-2"><i class="bi bi-box-arrow-in-right fs-1 text-ffmidnight"></i></div>
+            <div class="mb-2"><i class="bi bi-box-arrow-in-right fs-1 text-ffscarlet"></i></div>
             <h3 class="fw-light"><?php echo $lang["lang.home.introduction.entrance.title"]; ?></h3>
             <p><?php echo $lang["lang.home.introduction.entrance.description"]; ?></p>
           </div>

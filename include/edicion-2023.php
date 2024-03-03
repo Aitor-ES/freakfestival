@@ -7,8 +7,6 @@
   <div class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.2023.title"]; ?></h1>
 
-    <!-- <h2 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.gallery.title"]; ?></h2> -->
-
     <!-- Stands, partners and guests -->
     <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.stands-partners-guests"]; ?></h3>
 

@@ -9,7 +9,7 @@
 
     <div class="row gy-5 justify-content-evenly">
       <div class="col-12 col-lg-4">
-        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+        <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2023_qrolanp-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.qrolanp.title"]; ?>">
 
           <div class="card-body">
@@ -29,7 +29,7 @@
       </div>
 
       <div class="col-12 col-lg-4">
-        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+        <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2023_destrona2plus-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.destrona2plus.title"]; ?>">
 
           <div class="card-body">
@@ -52,7 +52,7 @@
       <!-- <div class="w-100 mt-0"></div> -->
 
       <div class="col-12 col-lg-4">
-        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+        <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2023_eneko_menica-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.eneko-menica.title"]; ?>">
 
           <div class="card-body">
@@ -80,7 +80,7 @@
       </div>
 
       <div class="col-12 col-lg-4">
-        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+        <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2023_usagitxo-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.usagitxo.title"]; ?>">
 
           <div class="card-body">
@@ -105,7 +105,7 @@
       </div>
 
       <div class="col-12 col-lg-4">
-        <div class="card h-100 bg-ffmidnight-gradient-top text-white border-0 rounded-4">
+        <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2023_mayicosplay-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.mayicosplay.title"]; ?>">
 
           <div class="card-body">

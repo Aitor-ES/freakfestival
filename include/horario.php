@@ -11,7 +11,7 @@
       </div>
 
       <div class="col-12 col-lg-auto">
-        <a class="btn btn-outline-ffmidnight w-100" href="/docs/2023/Horario de actividades - Freak Festival 2023.pdf" role="button">
+        <a class="btn btn-outline-ffscarlet w-100" href="/docs/2023/Horario de actividades - Freak Festival 2023.pdf" role="button">
         <?php echo $lang["lang.timetable.download-as-list"]; ?>
         </a>
       </div>

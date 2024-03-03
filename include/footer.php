@@ -1,4 +1,4 @@
-<footer class="offcanvas-lg offcanvas-end bg-ffmidnight text-white text-center mt-lg-5 py-4 py-lg-5" data-bs-theme="dark" tabindex="-1" id="footerOffcanvas">
+<footer class="offcanvas-lg offcanvas-end bg-ffscarlet-gradient-top-90 text-white text-center mt-lg-5 py-4 py-lg-5" data-bs-theme="dark" tabindex="-1" id="footerOffcanvas">
   <div class="offcanvas-header text-light px-4">
     <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" data-bs-target="#footerOffcanvas" aria-label="Close"></button>
   </div>

@@ -47,11 +47,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
 <!-- Own Bootstrap colors CSS -->
+<link href="/styles/color/bootstrap-color-ffscarlet.css" rel="stylesheet">
+<link href="/styles/color/bootstrap-color-ffglacier.css" rel="stylesheet">
+
 <link href="/styles/color/bootstrap-color-ffmidnight.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffdiamond.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffsea.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffocean.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffscarlet.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffsunlight.css" rel="stylesheet">
 
 <!-- Own CSS styles -->

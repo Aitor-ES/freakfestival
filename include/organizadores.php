@@ -17,11 +17,11 @@
         <p class="text-center text-lg-start"><?php echo $lang["lang.organizers.valinor.description.2"]; ?></p>
 
         <ul class="list-inline d-flex justify-content-center justify-content-lg-start pt-3">
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffmidnight btn-outline-b" href="https://www.facebook.com/asociacionvalinor"><i class="bi bi-facebook"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffmidnight btn-outline-b" href="https://www.instagram.com/asovalinor"><i class="bi bi-instagram"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffmidnight btn-outline-b" href="mailto:asociacionvalinor@gmail.com"><i class="bi bi-envelope-fill"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffmidnight btn-outline-b" href="https://www.discord.com/invite/w4DQ2kZ9TV"><i class="bi bi-discord"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffmidnight btn-outline-b" href="https://twitter.com/AsoValinor"><i class="bi bi-twitter"></i></a></li>
+          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://www.facebook.com/asociacionvalinor"><i class="bi bi-facebook"></i></a></li>
+          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://www.instagram.com/asovalinor"><i class="bi bi-instagram"></i></a></li>
+          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="mailto:asociacionvalinor@gmail.com"><i class="bi bi-envelope-fill"></i></a></li>
+          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://www.discord.com/invite/w4DQ2kZ9TV"><i class="bi bi-discord"></i></a></li>
+          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://twitter.com/AsoValinor"><i class="bi bi-twitter"></i></a></li>
         </ul>
       </div>
     </div>
