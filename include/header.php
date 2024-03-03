@@ -53,6 +53,10 @@
                 <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".inscripciones-candidaturas"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
               </ul>
             </li>
+          </ul>
+        </div>
+        <div id="nav-links-end" class="navbar-collapse">
+          <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
             <!-- Concursos -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
@@ -60,10 +64,6 @@
                 <?php echo $lang["lang.activities.contests.title"]; ?>
               </a>
             </li>
-          </ul>
-        </div>
-        <div id="nav-links-end" class="navbar-collapse">
-          <ul class="navbar-nav justify-content-lg-evenly align-items-lg-center w-100">
             <!-- Invitados -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
@@ -71,26 +71,19 @@
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
             </li>
-            <!-- Info -->
+            <!-- Más -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "organizadores" || $curPageName == "colaboradores") echo "active\" aria-current=\"page"; ?>"
-              href="#" id="navbarDropdown-info" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <?php echo $lang["lang.header.info"]; ?>
+              <?php if ($curPageName == "organizadores" || $curPageName == "colaboradores" || str_contains($curPageName, "edicion")) echo "active\" aria-current=\"page"; ?>"
+              href="#" id="navbarDropdown-more" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <?php echo $lang["lang.header.more"]; ?>
               </a>
-              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-info">
+              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-more">
+                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.info"]; ?></h6></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".colaboradores"]; ?>.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
-              </ul>
-            </li>
-            <!-- Fotos -->
-            <li class="nav-item dropdown">
-              <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if (str_contains($curPageName, "edicion")) echo "active\" aria-current=\"page"; ?>"
-              href="#" id="navbarDropdown-editions" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <?php echo $lang["lang.header.editions"]; ?>
-              </a>
-              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-editions">
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.editions"]; ?></h6></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2023"]; ?>.php"><?php echo $lang["lang.header.editions.2023"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2022"]; ?>.php"><?php echo $lang["lang.header.editions.2022"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2018"]; ?>.php"><?php echo $lang["lang.header.editions.2018"]; ?></a></li>
