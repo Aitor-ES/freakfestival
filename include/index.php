@@ -141,14 +141,21 @@
         <p><?php echo $lang["lang.home.features.talks-exhibitions.description"]; ?></p>
       </div>
 
-      <!-- 6th feature: Tournaments -->
+      <!-- 6th feature: Book releases -->
+      <div class="col px-4">
+        <img class="rounded-circle mb-4" src="/images/photos/presentaciones_de_libros-min.jpg" alt="" width="200" height="200">
+        <h3 class="fw-light"><?php echo $lang["lang.home.features.book-releases.title"]; ?></h3>
+        <p><?php echo $lang["lang.home.features.book-releases.description"]; ?></p>
+      </div>
+
+      <!-- 7th feature: Tournaments -->
       <div class="col px-4">
         <img class="rounded-circle mb-4" src="/images/photos/torneos-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.tournaments.title"]; ?></h3>
         <p><?php echo $lang["lang.home.features.tournaments.description"]; ?></p>
       </div>
 
-      <!-- 7th feature: Contests -->
+      <!-- 8th feature: Contests -->
       <div class="col px-4">
         <img class="rounded-circle mb-4" src="/images/photos/concursos-min.jpg" alt="" width="200" height="200">
         <h3 class="fw-light"><?php echo $lang["lang.home.features.contests.title"]; ?></h3>

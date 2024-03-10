@@ -96,6 +96,8 @@ $lang = array(
   "lang.home.features.stands.description" => "Descubre a creadores y negocios locales que hacen posible la expansión de nuestras aficiones y que quieren dar a conocer al mundo sus productos.",
   "lang.home.features.talks-exhibitions.title" => "Charlas y espectáculos",
   "lang.home.features.talks-exhibitions.description" => "Aprende sobre tus aficiones favoritas con las charlas y espectáculos ofrecidos por expertos en una gran variedad de disciplinas como literatura, arte, cosplay, artes marciales, etc.",
+  "lang.home.features.book-releases.title" => "Presentaciones de libros",
+  "lang.home.features.book-releases.description" => "Descubre las últimas obras publicadas por nuestras editoriales colaboradoras y conoce a sus autores de primera mano.",
   "lang.home.features.workshops.title" => "Talleres",
   "lang.home.features.workshops.description" => "Crea con tus propias manos recuerdos únicos como tazas personalizadas, lámparas japonesas y otras manualidades. Da rienda suelta a tu creatividad y llévate a casa un bonito recuerdo del evento.",
 

@@ -96,6 +96,8 @@ $lang = array(
   "lang.home.features.stands.description" => "Ezagutu gure zaletasunen hedapena ahalbidetzen duten eta beren produktuak munduari ezagutzera eman nahi dizkioten egile eta negozio lokalak.",
   "lang.home.features.talks-exhibitions.title" => "Hitzaldi eta ikuskizunak",
   "lang.home.features.talks-exhibitions.description" => "Ikasi zure zaletasun gogokoenei buruz gai ugaritan adituek eskainitako hitzaldi eta ikuskizunekin: literatura, artea, cosplay, arte martzialak, etab.",
+  "lang.home.features.book-releases.title" => "Liburu aurkezpenak",
+  "lang.home.features.book-releases.description" => "Ikusi gure argitaletxe kolaboratzaileek argitaratutako azken lanak eta ezagutu egileak bertatik bertara.",
   "lang.home.features.workshops.title" => "Tailerrak",
   "lang.home.features.workshops.description" => "Zure eskuekin sortu oroigarri paregabeak, hala nola katilu pertsonalizatuak, lanpara japoniarrak eta bestelako eskulanak. Askatu zure sormena eta eraman etxera ekitaldiaren oroitzapen polit bat.",
 
