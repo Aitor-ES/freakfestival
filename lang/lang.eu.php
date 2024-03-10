@@ -59,6 +59,7 @@ $lang = array(
   "lang.home.banner.location.town" => "Vitoria-Gasteiz",
   "lang.home.banner.location.building" => "Europa Biltzar Jauregia",
   "lang.home.banner.entrance" => "Dohaineko sarrera",
+  "lang.home.banner.date.2024" => "2024ko ekainak 28-30",
   "lang.home.banner.date.2023" => "2023ko ekainak 17-18",
   "lang.home.banner.date.2022" => "2022ko ekainak 25-26",
 
@@ -73,6 +74,7 @@ $lang = array(
   "lang.home.introduction.location.town" => "Vitoria-Gasteiz, Araba",
   "lang.home.introduction.location.map" => "Mapa",
   "lang.home.introduction.date.title" => "Data",
+  "lang.home.introduction.date.days.2024" => "2024ko <strong>ekainak 28-30</strong>",
   "lang.home.introduction.date.days.2023" => "2023ko <strong>ekainak 17-18</strong>",
   "lang.home.introduction.date.days.2022" => "2022ko <strong>ekainak 25-26</strong>",
   "lang.home.introduction.date.weekdays" => "Larunbata - igandea",

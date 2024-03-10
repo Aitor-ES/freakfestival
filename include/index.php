@@ -7,7 +7,7 @@
   <div class="container-fluid ff-main-gutter text-center text-white mb-4 py-5" id="banner">
     <div class="row">
       <div class="col">
-        <h1><img src="/images/logos/Letras_dado_tabla.png" class="img-fluid" alt="Freak Festival" width="375" height="375"></h1>
+        <h1><img src="/images/logos/Letras_dado_tabla2.png" class="img-fluid" alt="Freak Festival" width="375" height="375"></h1>
       </div>
     </div>
   </div>
@@ -32,11 +32,11 @@
             <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
             <h3 class="fw-light"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
             <p>
-              <?php echo $lang["lang.home.introduction.date.days.2023"]; ?>
-              <br>
-              <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?>
-              <br>
-              <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?>
+              <?php echo $lang["lang.home.introduction.date.days.2024"]; ?>
+              <!-- <br> -->
+              <!-- <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?> -->
+              <!-- <br> -->
+              <!-- <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?> -->
             </p>
           </div>
 

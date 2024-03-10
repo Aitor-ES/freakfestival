@@ -59,6 +59,7 @@ $lang = array(
   "lang.home.banner.location.town" => "Vitoria-Gasteiz",
   "lang.home.banner.location.building" => "Palacio de Congresos Europa",
   "lang.home.banner.entrance" => "Entrada gratuita",
+  "lang.home.banner.date.2024" => "28-30 de junio de 2024",
   "lang.home.banner.date.2023" => "17-18 de junio de 2023",
   "lang.home.banner.date.2022" => "25-26 de junio de 2022",
 
@@ -73,6 +74,7 @@ $lang = array(
   "lang.home.introduction.location.town" => "Vitoria-Gasteiz, Álava",
   "lang.home.introduction.location.map" => "Mapa",
   "lang.home.introduction.date.title" => "Fecha",
+  "lang.home.introduction.date.days.2024" => "<strong>28-30 de junio</strong> del 2024",
   "lang.home.introduction.date.days.2023" => "<strong>17-18 de junio</strong> del 2023",
   "lang.home.introduction.date.days.2022" => "<strong>25-26 de junio</strong> del 2022",
   "lang.home.introduction.date.weekdays" => "Sábado - domingo",
