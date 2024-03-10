@@ -61,7 +61,7 @@
 }
 
 .navbar .dropdown-item:hover, .navbar .dropdown-item:focus {
-    background: rgba(var(--ff-glacier-rgb), 0.75);
+    background: rgba(var(--ff-glacier-rgb), 0.5);
 }
 
 .navbar .dropdown-item.active, .navbar .dropdown-item:active {
