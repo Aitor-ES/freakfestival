@@ -27,7 +27,7 @@
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
               <?php if ($curPageName == "horario" || $curPageName == "mapas-recinto") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <?php echo $lang["lang.header.program"]; ?>
+                <?php echo $lang["lang.header.program.2023"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-program">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".horario"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
@@ -39,7 +39,7 @@
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
               <?php if (in_array($curPageName, ["juegos-de-mesa", "torneos", "rol-de-mesa", "rol-en-vivo", "charlas", "presentaciones-de-libros", "talleres"])) echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-activities" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <?php echo $lang["lang.header.activities"]; ?>
+                <?php echo $lang["lang.header.activities.2023"]; ?>
               </a>
               <ul class="dropdown-menu rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-activities">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".juegos-de-mesa"]; ?>.php"><?php echo $lang["lang.activities.board-games.title"]; ?></a></li>
@@ -59,14 +59,14 @@
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
               <?php if ($curPageName == "concursos") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".concursos"]; ?>.php">
-                <?php echo $lang["lang.activities.contests.title"]; ?>
+                <?php echo $lang["lang.header.contests.2023"]; ?>
               </a>
             </li>
             <!-- Invitados -->
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
               <?php if ($curPageName == "invitados") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".invitados"]; ?>.php">
-                <?php echo $lang["lang.header.guests"]; ?>
+                <?php echo $lang["lang.header.guests.2023"]; ?>
               </a>
             </li>
             <!-- Más -->
@@ -84,7 +84,7 @@
                 <li><h6 class="dropdown-header"><?php echo $lang["lang.header.editions.2024"]; ?></h6></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".inscripciones-candidaturas"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li>
                 <li><hr class="dropdown-divider"></li>
-                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.editions"]; ?></h6></li>
+                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.photos"]; ?></h6></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2023"]; ?>.php"><?php echo $lang["lang.header.editions.2023"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2022"]; ?>.php"><?php echo $lang["lang.header.editions.2022"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2018"]; ?>.php"><?php echo $lang["lang.header.editions.2018"]; ?></a></li>
