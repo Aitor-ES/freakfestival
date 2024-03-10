@@ -126,7 +126,7 @@ $lang = array(
   "lang.activities.workshops.title" => "Talleres",
   "lang.activities.workshops.description" => "Crea con tus propias manos recuerdos únicos como tazas personalizadas, lámparas japonesas y otras manualidades. Da rienda suelta a tu creatividad y llévate a casa un bonito recuerdo del evento.",
 
-  "lang.activities.organizer" => "Organiza: ",
+  "lang.activities.organizer" => "Organizado por: ",
   "lang.activities.organizer.valinor" => "Asociación Cultural Valinor",
   "lang.activities.organizer.valinor-alter-atlas" => "Asociación Cultural Valinor, Asociación Alter Paradox, Agrupación Atlas",
   "lang.activities.organizer.klaudia" => "Klaudia Ugarte Díez",

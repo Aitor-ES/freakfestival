@@ -126,7 +126,7 @@ $lang = array(
   "lang.activities.workshops.title" => "Tailerrak",
   "lang.activities.workshops.description" => "Zure eskuekin sortu oroigarri paregabeak, hala nola katilu pertsonalizatuak, lanpara japoniarrak eta bestelako eskulanak. Askatu zure sormena eta eraman etxera ekitaldiaren oroitzapen polit bat.",
 
-  "lang.activities.organizer" => "Antolatzen du: ",
+  "lang.activities.organizer" => "Antolatzailea(k): ",
   "lang.activities.organizer.valinor" => "Valinor Kultura-Elkartea",
   "lang.activities.organizer.valinor-alter-atlas" => "Valinor Kultura-Elkartea, Alter Paradox Elkartea, Atlas Elkartea",
   "lang.activities.organizer.klaudia" => "Klaudia Ugarte Díez",
