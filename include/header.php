@@ -37,7 +37,7 @@
             <!-- Actividades -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if (in_array($curPageName, ["juegos-de-mesa", "torneos", "rol-de-mesa", "rol-en-vivo", "charlas", "presentaciones-de-libros", "talleres", "inscripciones-candidaturas"])) echo "active\" aria-current=\"page"; ?>"
+              <?php if (in_array($curPageName, ["juegos-de-mesa", "torneos", "rol-de-mesa", "rol-en-vivo", "charlas", "presentaciones-de-libros", "talleres"])) echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-activities" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.activities"]; ?>
               </a>
@@ -49,8 +49,6 @@
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".charlas"]; ?>.php"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".presentaciones-de-libros"]; ?>.php"><?php echo $lang["lang.activities.book-releases.title"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".talleres"]; ?>.php"><?php echo $lang["lang.activities.workshops.title"]; ?></a></li>
-                <!-- <li><hr class="dropdown-divider"></li> -->
-                <!-- <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".inscripciones-candidaturas"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
               </ul>
             </li>
           </ul>
@@ -74,14 +72,17 @@
             <!-- Más -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "organizadores" || $curPageName == "colaboradores" || str_contains($curPageName, "edicion")) echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "organizadores" || $curPageName == "colaboradores" || $curPageName == "inscripciones-candidaturas" || str_contains($curPageName, "edicion")) echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-more" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.more"]; ?>
               </a>
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-more">
-                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.info"]; ?></h6></li>
+                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.about-us"]; ?></h6></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".colaboradores"]; ?>.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.editions.2024"]; ?></h6></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".inscripciones-candidaturas"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><h6 class="dropdown-header"><?php echo $lang["lang.header.editions"]; ?></h6></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2023"]; ?>.php"><?php echo $lang["lang.header.editions.2023"]; ?></a></li>
