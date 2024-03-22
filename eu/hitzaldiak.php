@@ -12,5 +12,7 @@
     <!-- Page CSS -->
     <link href="/styles/callout.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/charlas.php"); ?>
+  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/../include/charlas.json'));
+        $categoryName = $activityCategory->categoryName;
+        require(__DIR__ . "/../include/actividades.php"); ?>
 </html>

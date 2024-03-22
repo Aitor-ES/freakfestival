@@ -9,5 +9,7 @@
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>
-  <?php require(__DIR__ . "/../include/rol-en-vivo.php"); ?>
+  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/../include/rol-en-vivo.json'));
+        $categoryName = $activityCategory->categoryName;
+        require(__DIR__ . "/../include/actividades.php"); ?>
 </html>

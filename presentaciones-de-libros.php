@@ -12,5 +12,7 @@
     <!-- Page CSS -->
     <link href="/styles/callout.css" rel="stylesheet">
   </head>
-  <?php require("include/presentaciones-de-libros.php"); ?>
+  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/include/presentaciones-de-libros.json'));
+        $categoryName = $activityCategory->categoryName;
+        require("include/actividades.php"); ?>
 </html>

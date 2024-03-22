@@ -9,5 +9,7 @@
       require("include/head.php");
     ?>
   </head>
-  <?php require("include/rol-de-mesa.php"); ?>
+  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/include/rol-de-mesa.json'));
+        $categoryName = $activityCategory->categoryName;
+        require("include/actividades.php"); ?>
 </html>

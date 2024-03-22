@@ -490,4 +490,3 @@ $lang = array(
   "lang.edition.gallery.stands-partners-guests" => "Puestos, colaboradores e invitados",
   "lang.edition.gallery.video" => "Vídeo",
 );
-?>
