@@ -4,12 +4,7 @@
   </div>
   <div class="offcanvas-body px-4 px-lg-0">
     <div class="container">
-      <div class="row">
-        <div class="col-12 col-lg-3 d-flex flex-column row-gap-5">
-            <img class="logo-vg" src="/images/logos/sponsors/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="50">
-            <img class="logo-vg" src="/images/logos/sponsors/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="50">
-        </div>
-
+      <div class="row gy-5">
         <div class="col-12 col-lg-6">
           <div class="mb-4">
             <p><?php echo $lang["lang.footer.description"]; ?></p>
@@ -23,7 +18,7 @@
             </a>
           </div>
 
-          <ul class="list-inline d-flex justify-content-center column-gap-3">
+          <ul class="list-inline d-flex justify-content-center column-gap-1 column-gap-lg-3 mb-0">
             <li class="list-inline-item">
               <a class="btn btn-lg btn-outline-light btn-outline-b" href="https://www.facebook.com/asociacionvalinor"><i class="bi bi-facebook"></i></a>
             </li>
@@ -47,6 +42,20 @@
           <a href="https://www.fundacionvital.eus/">
             <img class="logo-sponsor" src="/images/logos/sponsors/fvital-min.png" alt="" width="auto" height="60">
           </a>
+        </div>
+
+        <hr class="d-lg-none mb-0">
+
+        <div class="col-12 col-lg-3 order-lg-first">
+          <div class="row gy-5">
+            <div class="col-4 col-lg-12">
+              <img class="logo-vg" src="/images/logos/sponsors/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="45">
+            </div>
+
+            <div class="col-4 col-lg-12">
+              <img class="logo-vg" src="/images/logos/sponsors/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="45">
+            </div>
+          </div>
         </div>
       </div>
     </div>
