@@ -47,6 +47,8 @@ $lang = array(
   "lang.header.lang.es" => "Español",
   "lang.header.lang.eu" => "Euskara",
 
+  "lang.footer.description" => "Juegos de mesa, rol, talleres, puestos de artesanía, charlas, espectáculos, torneos, concursos y mucho más.",
+  "lang.footer.organized-by" => "Organizado por la Asociación Cultural Valinor.",
   "lang.footer.organizers" => "Organizadores:",
   "lang.footer.sponsors" => "Patrocinadores:",
   "lang.footer.valinor" => "Asociación Cultural Valinor",

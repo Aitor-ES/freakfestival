@@ -47,6 +47,8 @@ $lang = array(
   "lang.header.lang.es" => "Español",
   "lang.header.lang.eu" => "Euskara",
 
+  "lang.footer.description" => "Mahai-jokoak, rola, tailerrak, artisautza postuak, hitzaldiak, ikuskizunak, txapelketak, lehiaketak eta askoz gehiago.",
+  "lang.footer.organized-by" => "Valinor Kultura-Elkarteak antolatuta.",
   "lang.footer.organizers" => "Antolatzaileak:",
   "lang.footer.sponsors" => "Babesleak:",
   "lang.footer.valinor" => "Valinor Kultura-Elkartea",
