@@ -13,7 +13,7 @@
           </div>
 
           <div class="mb-4">
-            <a href="organizadores.php">
+            <a href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php">
               <img class="logo-valinor" src="/images/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto" height="100">
             </a>
           </div>
