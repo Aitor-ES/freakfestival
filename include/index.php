@@ -4,16 +4,52 @@
   <!-- Navbar End -->
 
   <!-- Banner Start -->
-  <div class="container-fluid ff-main-gutter text-center text-white mb-4 py-5" id="banner">
-    <div class="row">
-      <div class="col">
-        <h1><img src="/images/logos/Letras_dado_tabla2.png" class="img-fluid" alt="Freak Festival" width="375" height="375"></h1>
+  <div class="container-fluid ff-main-gutter d-flex flex-column align-items-center text-center mb-5 py-5" id="banner">
+    <h1 class="mb-5">
+      <img class="banner-logo" src="/images/logos/Letras_dado_tabla2.png" alt="Freak Festival" width="auto" height="300">
+    </h1>
+
+    <div class="banner-box row row-cols-1 row-cols-md-4">
+      <!-- Date -->
+      <div class="banner-box-item col d-flex flex-row flex-lg-column pt-5 pb-4 py-lg-4 bg-light">
+        <div class="mx-4 mb-md-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
+        <div class="flex-fill d-flex flex-column justify-content-center">
+          <strong><?php echo $lang["lang.home.banner.date.2024"]; ?></strong>
+          <br>
+          <?php echo $lang["lang.home.banner.year.2024"]; ?>
+        </div>
+      </div>
+
+      <!-- Location -->
+      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 py-lg-4 bg-light">
+        <div class="mx-4 mb-md-2"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
+        <div class="flex-fill d-flex flex-column justify-content-center">
+          <strong><?php echo $lang["lang.home.banner.location.building"]; ?></strong>
+          <br>
+          <?php echo $lang["lang.home.banner.location.town"]; ?>
+        </div>
+      </div>
+
+      <!-- Activities -->
+      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 py-lg-4 bg-light">
+        <div class="mx-4 mb-md-2"><i class="bi bi-dice-6 fs-1 text-ffscarlet"></i></div>
+        <div class="flex-fill d-flex flex-column justify-content-center">
+          <?php echo $lang["lang.home.banner.activities"]; ?>
+        </div>
+      </div>
+
+      <!-- Entrance -->
+      <div class="banner-box-item col d-flex flex-row flex-lg-column pt-4 pb-5 py-lg-4 bg-ffscarlet text-light">
+        <div class="mx-4 mb-md-2"><i class="bi bi-ticket-perforated fs-1"></i></div>
+        <div class="flex-fill d-flex flex-column justify-content-center">
+          <span class="fs-4"><?php echo $lang["lang.home.banner.entrance"]; ?></span>
+        </div>
       </div>
     </div>
   </div>
   <!-- Banner End -->
 
-  <div class="container-md ff-main-gutter my-5">
+  <div class="container-md ff-main-gutter mb-5">
     <!-- Introduction Start -->
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
 
