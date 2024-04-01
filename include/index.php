@@ -11,7 +11,7 @@
 
     <div class="banner-box row row-cols-1 row-cols-md-4">
       <!-- Date -->
-      <div class="banner-box-item col d-flex flex-row flex-lg-column pt-5 pb-4 py-lg-4 bg-light">
+      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 bg-light">
         <div class="mx-4 mb-md-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
         <div class="flex-fill d-flex flex-column justify-content-center">
           <strong><?php echo $lang["lang.home.banner.date.2024"]; ?></strong>
@@ -21,7 +21,7 @@
       </div>
 
       <!-- Location -->
-      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 py-lg-4 bg-light">
+      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 bg-light">
         <div class="mx-4 mb-md-2"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
         <div class="flex-fill d-flex flex-column justify-content-center">
           <strong><?php echo $lang["lang.home.banner.location.building"]; ?></strong>
@@ -31,7 +31,7 @@
       </div>
 
       <!-- Activities -->
-      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 py-lg-4 bg-light">
+      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 bg-light">
         <div class="mx-4 mb-md-2"><i class="bi bi-dice-6 fs-1 text-ffscarlet"></i></div>
         <div class="flex-fill d-flex flex-column justify-content-center">
           <?php echo $lang["lang.home.banner.activities"]; ?>
@@ -39,7 +39,7 @@
       </div>
 
       <!-- Entrance -->
-      <div class="banner-box-item col d-flex flex-row flex-lg-column pt-4 pb-5 py-lg-4 bg-ffscarlet text-light">
+      <div class="banner-box-item col d-flex flex-row flex-lg-column py-4 bg-ffscarlet text-light">
         <div class="mx-4 mb-md-2"><i class="bi bi-ticket-perforated fs-1"></i></div>
         <div class="flex-fill d-flex flex-column justify-content-center">
           <span class="fs-4"><?php echo $lang["lang.home.banner.entrance"]; ?></span>
