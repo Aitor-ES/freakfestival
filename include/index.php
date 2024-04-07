@@ -6,7 +6,7 @@
   <!-- Banner Start -->
   <div class="container-fluid ff-main-gutter d-flex flex-column align-items-center text-center mb-5 py-5" id="banner">
     <h1 class="mb-5">
-      <img class="banner-logo" src="/images/logos/Letras_dado_tabla2.png" alt="Freak Festival" width="auto" height="300">
+      <img class="banner-logo" src="/images/logos/Letras_dado2.png" alt="Freak Festival" width="auto" height="300">
     </h1>
 
     <div class="banner-box row row-cols-1 row-cols-md-4">

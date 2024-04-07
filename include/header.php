@@ -4,11 +4,11 @@
       <i class="bi bi-list" style="font-size: 2rem;"></i>
     </button>
     <a id="nav-logo" class="navbar-brand mx-auto mx-lg-0" href="index.php">
-      <img src="/images/logos/Letras_dado_tabla2.png" class="navbar-logo" alt="Freak Festival" width="40" height="40">
+      <img src="/images/logos/Letras_dado2.png" class="navbar-logo" alt="Freak Festival" width="40" height="40">
     </a>
     <div class="offcanvas offcanvas-start bg-ffscarlet d-lg-contents" tabindex="-1" id="navbarOffcanvas" aria-labelledby="offcanvasTitle">
       <div class="offcanvas-header text-light px-4 pb-0">
-        <img src="/images/logos/Letras_dado_tabla2.png" id="offcanvasTitle" alt="Freak Festival" width="60" height="60">
+        <img src="/images/logos/Letras_dado2.png" id="offcanvasTitle" alt="Freak Festival" width="60" height="60">
         <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" data-bs-target="#navbarOffcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body d-lg-contents p-4 pt-0 p-lg-0">
