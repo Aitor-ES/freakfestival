@@ -1,29 +1,39 @@
 :root {
-    --bs-body-font-family: Inter, "Helvetica", "Arial", sans-serif;
-    font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+  --bs-body-font-family: Inter, "Helvetica", "Arial", sans-serif;
+  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
 
-    font-size: 1rem;
-    line-height: 1.57143;
-    font-weight: 400;
-    letter-spacing: 0.01071em;
-    font-kerning: normal;
+  font-size: 1rem;
+  line-height: 1.57143;
+  font-weight: 400;
+  letter-spacing: 0.01071em;
+  font-kerning: normal;
 }
 @supports (font-variation-settings: normal) {
-    :root { --bs-body-font-family: InterVariable, "Helvetica", "Arial", sans-serif; }
+  :root { --bs-body-font-family: InterVariable, "Helvetica", "Arial", sans-serif; }
 }
 
 .f-uncial-r {
-    font-family: "Uncial Antiqua", system-ui;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Uncial Antiqua", system-ui;
+  font-weight: 400;
+  font-style: normal;
 
-    letter-spacing: normal;
+  letter-spacing: normal;
 }
 
 .f-gradient-ff {
-    background: #36FFFF;
-    background: linear-gradient(to right, #2BB0D4, #36FFFF, #2BB0D4);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  background: #36FFFF;
+  background: linear-gradient(to right, #2BB0D4, #36FFFF, #2BB0D4);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fs-0 {
+  font-size: calc(1.525rem + 3.3vw) !important;
+}
+
+@media (min-width: 1200px) {
+  .fs-0 {
+    font-size: 4rem !important;
+  }
 }
