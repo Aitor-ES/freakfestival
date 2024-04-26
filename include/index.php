@@ -15,7 +15,6 @@
         <div class="mx-4 mb-md-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
         <div class="flex-fill d-flex flex-column justify-content-center">
           <strong><?php echo $lang["lang.home.banner.date.2024"]; ?></strong>
-          <br>
           <?php echo $lang["lang.home.banner.year.2024"]; ?>
         </div>
       </div>
@@ -25,7 +24,6 @@
         <div class="mx-4 mb-md-2"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
         <div class="flex-fill d-flex flex-column justify-content-center">
           <strong><?php echo $lang["lang.home.banner.location.building"]; ?></strong>
-          <br>
           <?php echo $lang["lang.home.banner.location.town"]; ?>
         </div>
       </div>
