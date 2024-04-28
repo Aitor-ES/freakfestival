@@ -70,8 +70,8 @@ $lang = array(
 
   "lang.home.introduction.title" => "¡Vuelve el Freak Festival!",
   "lang.home.introduction.paragraph.1" => "El Freak Festival es el evento <strong>gratuito</strong> de <strong>ocio alternativo y cultural</strong> más grande del País Vasco, organizado por la <strong>Asociación Cultural Valinor</strong>.",
-  "lang.home.introduction.paragraph.2" => "<strong>Juegos de mesa, rol, talleres, puestos de artesanía</strong>, charlas, espectáculos, torneos, concursos y mucho más vuelven a reunirse en el Freak Festival. Durante un fin de semana entero, podrás disfrutar con la mejor oferta cultural y de entretenimiento <strong>para todos los públicos</strong>, ya sea con amigos, familia, o por tu cuenta.",
-  "lang.home.introduction.paragraph.3" => "¡Te esperamos en el Freak Festival!",
+  "lang.home.introduction.paragraph.2" => "<strong>Juegos de mesa, rol, talleres, puestos de artesanía</strong> y mucho más vuelven a reunirse en el Freak Festival. Durante un fin de semana entero, podréis disfrutar con la mejor oferta cultural y de entretenimiento <strong>para todos los públicos</strong>, ya sea con amigos, familia, o por vuestra cuenta.",
+  "lang.home.introduction.paragraph.3" => "¡Os esperamos en el Freak Festival!",
   "lang.home.introduction.paragraph.4" => "<strong>Juega, Descubre, Crea</strong>",
   "lang.home.introduction.location.title" => "Localización",
   "lang.home.introduction.location.building" => "<strong>Palacio de Congresos Europa</strong>",

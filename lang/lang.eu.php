@@ -70,8 +70,8 @@ $lang = array(
 
   "lang.home.introduction.title" => "Itzuli da Freak Festival!",
   "lang.home.introduction.paragraph.1" => "Freak Festival Euskadiko <strong>aisialdi alternatibo eta kulturaleko dohaineko</strong> ekitaldirik handiena da, <strong>Valinor Kultura-Elkarteak</strong> antolatuta.",
-  "lang.home.introduction.paragraph.2" => "<strong>Mahai-jokoak, rola, tailerrak, artisautza postuak</strong>, hitzaldiak, ikuskizunak, txapelketak, lehiaketak eta askoz gehiago berriz elkartzen dira Freak Festival-ean. Asteburu oso batean zehar, <strong>publiko guztientzako</strong> kultura- eta aisialdi-eskaintzarik onenarekin gozatu ahal izango duzu, bai lagunekin, familiarekin, edo zure kabuz.",
-  "lang.home.introduction.paragraph.3" => "Zure zain gaude Freak Festival-ean!",
+  "lang.home.introduction.paragraph.2" => "<strong>Mahai-jokoak, rola, tailerrak, artisautza postuak</strong> eta askoz gehiago berriz elkartzen dira Freak Festival-ean. Asteburu oso batean zehar, <strong>publiko guztientzako</strong> kultura- eta aisialdi-eskaintzarik onenarekin gozatu ahal izango duzue, bai lagunekin, familiarekin, edo zuen kabuz.",
+  "lang.home.introduction.paragraph.3" => "Zuen zain gaude Freak Festival-ean!",
   "lang.home.introduction.paragraph.4" => "<strong>Jolastu, Aurkitu, Sortu</strong>",
   "lang.home.introduction.location.title" => "Kokapena",
   "lang.home.introduction.location.building" => "<strong>Europa Biltzar Jauregia</strong>",
