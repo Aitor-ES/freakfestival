@@ -29,13 +29,13 @@
                 </div>
               <?php } ?>
 
-              <!-- <?php if (property_exists($activity, 'register')) { ?>
+              <?php if (property_exists($activity, 'register')) { ?>
                 <div class="col-auto">
                   <a class="btn btn-ffsunlight" href="<?php echo $activity->register; ?>" role="button">
                     <?php echo $lang["lang.activities.btn.register"]; ?>
                   </a>
                 </div>
-              <?php } ?> -->
+              <?php } ?>
             </div>
           </div>
         </li>
