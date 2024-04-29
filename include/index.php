@@ -88,10 +88,12 @@
         <h3 class="mb-3"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
         <p>
           <?php echo $lang["lang.home.introduction.date.days.2024"]; ?>
-          <!-- <br> -->
-          <!-- <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?> -->
-          <!-- <br> -->
-          <!-- <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?> -->
+          <br>
+          <?php echo $lang["lang.home.introduction.date.weekdays.friday"]; ?>
+          <br>
+          <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?>
+          <br>
+          <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?>
         </p>
       </div>
 
