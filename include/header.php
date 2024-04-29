@@ -59,7 +59,7 @@
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
               <?php if ($curPageName == "concursos") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".concursos"]; ?>.php">
-                <?php echo $lang["lang.header.contests.2023"]; ?>
+                <?php echo $lang["lang.header.contests"]; ?>
               </a>
             </li>
             <!-- Invitados -->
