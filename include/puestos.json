@@ -1,0 +1,124 @@
+{
+  "categoryName": "stands",
+  "activities": [
+    {
+      "activityName": "akaricraft",
+      "logo": "akaricraft-min.jpg",
+      "instagram": ["https://www.instagram.com/akaricrafter"],
+      "tiktok": "https://www.tiktok.com/@akaricraft"
+    },
+    {
+      "activityName": "arkenaya",
+      "logo": "arkenaya-min.jpg",
+      "instagram": ["https://www.instagram.com/arkenayaworkshop"]
+    },
+    {
+      "activityName": "bjorntall",
+      "logo": "bjorntall-min.png",
+      "web": "https://bjorntall.etsy.com",
+      "instagram": ["https://www.instagram.com/bjorntallcrafts"]
+    },
+    {
+      "activityName": "clancraft",
+      "logo": "clancraft-min.jpeg",
+      "instagram": ["https://www.instagram.com/clancraftlarp"]
+    },
+    {
+      "activityName": "conplumaypixel",
+      "logo": "conplumaypixel-min.jpg",
+      "web": "https://conplumaypixel.com/",
+      "instagram": ["https://www.instagram.com/conplumaypixel"],
+      "facebook": "https://www.facebook.com/conplumaypixel",
+      "x": "https://twitter.com/Conplumaypixel/"
+    },
+    {
+      "activityName": "doublecastle",
+      "logo": "doublecastle-min.jpg",
+      "web": "https://doublecastle.com/",
+      "instagram": ["https://www.instagram.com/double.castle"]
+    },
+    {
+      "activityName": "evoletle",
+      "logo": "evoletle-min.jpg",
+      "instagram": ["https://www.instagram.com/evoletle_crochet"]
+    },
+    {
+      "activityName": "hipsteria",
+      "logo": "hipsteria-min.jpg",
+      "instagram": ["https://www.instagram.com/hipsteria_vitoria"],
+      "facebook": "https://www.facebook.com/chicohipsterico"
+    },
+    {
+      "activityName": "hohi",
+      "logo": "hohi-min.jpg",
+      "instagram": ["https://www.instagram.com/hohishop"]
+    },
+    {
+      "activityName": "ivecrochett",
+      "logo": "ivecrochett-min.png",
+      "web": "https://bjorntall.etsy.com",
+      "instagram": ["https://www.instagram.com/ive.crochett"]
+    },
+    {
+      "activityName": "kuraicreativestudio",
+      "logo": "kuraicreativestudio-min.png",
+      "instagram": ["https://www.instagram.com/kurai.creativestudio"]
+    },
+    {
+      "activityName": "laurablue",
+      "logo": "laurablue-min.jpg",
+      "web": "https://www.behance.net/laurablue1",
+      "instagram": ["https://www.instagram.com/imlaurablue"],
+      "tiktok": "https://www.tiktok.com/@imlaurablue_"
+    },
+    {
+      "activityName": "lykostherium",
+      "logo": "lykostherium-min.png",
+      "instagram": ["https://www.instagram.com/lykostherium/"],
+      "tiktok": "https://www.tiktok.com/@lykostherium3.0",
+      "x": "https://twitter.com/lykostherium/"
+    },
+    {
+      "activityName": "magicallgoal",
+      "logo": "magicallgoal-min.PNG",
+      "web": "https://magicallgoal.ekarri.es",
+      "instagram": ["https://www.instagram.com/magicallgoal"],
+      "facebook": "https://www.facebook.com/magicallgoal.yugioh.vitoria"
+    },
+    {
+      "activityName": "nomara",
+      "logo": "nomara-min.jpeg",
+      "web": "https://nomara.es/",
+      "instagram": ["https://www.instagram.com/nomaralab"]
+    },
+    {
+      "activityName": "omega",
+      "logo": "omega-min.jpg",
+      "instagram": ["https://www.instagram.com/omegavitoria"]
+    },
+    {
+      "activityName": "salienart",
+      "logo": "salienart-min.jpg",
+      "instagram": ["https://www.instagram.com/sal_ien"]
+    },
+    {
+      "activityName": "theartcorner",
+      "logo": "theartcorner-min.jpg",
+      "instagram": [
+        "https://www.instagram.com/tac.colectivo",
+        "https://www.instagram.com/amaia.korapilo",
+        "https://www.instagram.com/tunimamicrafter",
+        "https://www.instagram.com/itzaguado"]
+    },
+    {
+      "activityName": "thegingercrocodile",
+      "logo": "thegingercrocodile-min.jpg",
+      "instagram": ["https://www.instagram.com/thegingercrocodile"]
+    },
+    {
+      "activityName": "vilnieblasimaga",
+      "logo": "vilnieblasimaga-min.jpg",
+      "instagram": ["https://www.instagram.com/vilniebla", "https://www.instagram.com/simagafake"]
+    }
+  ]
+}

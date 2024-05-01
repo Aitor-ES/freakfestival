@@ -16,6 +16,7 @@ deployment:
     - /bin/cp mapas-recinto.php $DEPLOYPATH
     - /bin/cp organizadores.php $DEPLOYPATH
     - /bin/cp presentaciones-de-libros.php $DEPLOYPATH
+    - /bin/cp puestos.php $DEPLOYPATH
     - /bin/cp rol-de-mesa.php $DEPLOYPATH
     - /bin/cp rol-en-vivo.php $DEPLOYPATH
     - /bin/cp talleres.php $DEPLOYPATH
