@@ -1,16 +1,16 @@
 <header class="navbar navbar-expand-lg sticky-top flex-wrap ff-navbar bg-ffscarlet-gradient-bottom-90" data-bs-theme="dark">
   <nav class="container-xxl">
     <button id="nav-toggler" class="navbar-toggler p-2 border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvas" aria-controls="navbarOffcanvas" aria-expanded="false" aria-label="Toggle navigation">
-      <i class="bi bi-list" style="font-size: 2rem;"></i>
+      <i class="bi bi-list" style="font-size: 1.5rem;"></i>
     </button>
 
-    <a id="nav-logo" class="navbar-brand mx-auto mx-lg-0" href="index.php">
-      <img src="/images/logos/Letras_dado2.png" class="navbar-logo" alt="Freak Festival" width="40" height="40">
+    <a id="nav-logo" class="navbar-brand p-0 mx-auto mx-lg-2" href="index.php">
+      <img src="/images/logos/Letras_dado.png" class="navbar-logo my-1" alt="Freak Festival" width="40" height="40">
     </a>
 
     <div class="offcanvas offcanvas-start bg-ffscarlet d-lg-contents" tabindex="-1" id="navbarOffcanvas" aria-labelledby="offcanvasTitle">
       <div class="offcanvas-header text-light px-4 pb-0">
-        <img src="/images/logos/Letras_dado2.png" id="offcanvasTitle" alt="Freak Festival" width="60" height="60">
+        <img src="/images/logos/Letras_dado.png" id="offcanvasTitle" class="offcanvas-logo" alt="Freak Festival" width="60" height="60">
         <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" data-bs-target="#navbarOffcanvas" aria-label="Close"></button>
       </div>
 
@@ -132,7 +132,7 @@
     </div>
 
     <button id="footer-toggler" class="navbar-toggler d-lg-none p-2 border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#footerOffcanvas" aria-controls="footerOffcanvas" aria-expanded="false" aria-label="Toggle footer">
-      <i class="bi bi-three-dots-vertical" style="font-size: 1.5rem;"></i>
+      <i class="bi bi-three-dots" style="font-size: 1.5rem;"></i>
     </button>
   </nav>
 </header>

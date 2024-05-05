@@ -14,14 +14,14 @@
 
 .banner-logo {
   width: auto;
-  height: 300px;
-  max-height: 250px;
+  height: 240px;
+  max-height: 200px;
   max-width: 100%;
 }
 
 @media (min-width: 768px) {
   .banner-logo {
-    max-height: 300px;
+    max-height: 240px;
   }
 }
 
