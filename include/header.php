@@ -84,7 +84,7 @@
             <li class="nav-item">
               <a class="nav-link fw-bold text-uppercase text-lg-center
               <?php if ($curPageName == "invitados") echo "active\" aria-current=\"page"; ?>" href="<?php echo $links[$lang["lang"] . ".invitados"]; ?>.php">
-                <?php echo $lang["lang.header.guests.2023"]; ?>
+                <?php echo $lang["lang.header.guests"]; ?>
               </a>
             </li>
 
