@@ -8,6 +8,12 @@
       "tiktok": "https://www.tiktok.com/@akaricraft"
     },
     {
+      "activityName": "aliciadelrey",
+      "logo": "aliciadelrey-min.jpg",
+      "web": "https://www.valhallaediciones.com/producto/trazos-en-el-tiempo/",
+      "instagram": ["https://www.instagram.com/lallavedeavril"]
+    },
+    {
       "activityName": "arkenaya",
       "logo": "arkenaya-min.jpg",
       "instagram": ["https://www.instagram.com/arkenayaworkshop"]
@@ -33,6 +39,11 @@
       "x": "https://twitter.com/Conplumaypixel/"
     },
     {
+      "activityName": "costurerorolero",
+      "logo": "costurerorolero-min.jpg",
+      "instagram": ["https://www.instagram.com/costurerorolero"]
+    },
+    {
       "activityName": "doublecastle",
       "logo": "doublecastle-min.jpg",
       "web": "https://doublecastle.com/",
@@ -55,15 +66,34 @@
       "instagram": ["https://www.instagram.com/hohishop"]
     },
     {
+      "activityName": "ireneagorricho",
+      "logo": "ireneagorricho-min.jpg",
+      "web": "https://ireneagorricho.my.canva.site/",
+      "instagram": ["https://www.instagram.com/monstruo_devoralibros"]
+    },
+    {
       "activityName": "ivecrochett",
       "logo": "ivecrochett-min.png",
       "web": "https://bjorntall.etsy.com",
       "instagram": ["https://www.instagram.com/ive.crochett"]
     },
     {
+      "activityName": "juliosanromancazorla",
+      "logo": "juliosanromancazorla-min.jpeg",
+      "instagram": ["https://www.instagram.com/juliosrc_escritor"]
+    },
+    {
       "activityName": "kuraicreativestudio",
       "logo": "kuraicreativestudio-min.png",
       "instagram": ["https://www.instagram.com/kurai.creativestudio"]
+    },
+    {
+      "activityName": "laurablancovillalba",
+      "logo": "laurablancovillalba-min.png",
+      "web": "https://laurablancovillalba.es/",
+      "instagram": ["https://www.instagram.com/piradaperdida"],
+      "tiktok": "https://www.tiktok.com/@laurablancovillalba",
+      "x": "https://twitter.com/piradaperdida/"
     },
     {
       "activityName": "laurablue",
