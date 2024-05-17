@@ -109,11 +109,22 @@
           <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
         </p>
       </div>
+
+      <!-- Hotels -->
+      <div class="col">
+        <div class="mb-2"><i class="bi bi-moon-stars fs-1 text-ffscarlet"></i></div>
+        <h3 class="mb-3"><?php echo $lang["lang.home.introduction.hotels.title"]; ?></h3>
+        <p>
+          <?php echo $lang["lang.home.introduction.hotels.description"]; ?>
+          <br>
+          <a class="link-ffscarlet" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.home.introduction.hotels.link"]; ?></a>
+        </p>
+      </div>
     </div>
     <!-- Introduction End -->
 
     <!-- Features Start -->
-    <h1 class="f-uncial-r text-start text-lg-center mb-5"><?php echo $lang["lang.home.features.title"]; ?></h1>
+    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.home.features.title"]; ?></h1>
 
     <div class="row row-cols-1 row-cols-lg-2 justify-content-center g-5">
       <!-- 1st feature: Board games -->

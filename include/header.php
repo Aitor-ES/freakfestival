@@ -97,6 +97,11 @@
               </a>
 
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-more">
+                <li><h6 class="dropdown-header"><?php echo $lang["lang.header.info"]; ?></h6></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.header.hotels"]; ?></a></li>
+
+                <li><hr class="dropdown-divider"></li>
+
                 <li><h6 class="dropdown-header"><?php echo $lang["lang.header.about-us"]; ?></h6></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".colaboradores"]; ?>.php"><?php echo $lang["lang.header.partners"]; ?></a></li>

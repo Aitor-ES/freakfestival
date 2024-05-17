@@ -5,6 +5,7 @@ deployment:
     - /bin/cp charlas.php $DEPLOYPATH
     - /bin/cp colaboradores.php $DEPLOYPATH
     - /bin/cp concursos.php $DEPLOYPATH
+    - /bin/cp donde-dormir.php $DEPLOYPATH
     - /bin/cp edicion-2018.php $DEPLOYPATH
     - /bin/cp edicion-2022.php $DEPLOYPATH
     - /bin/cp edicion-2023.php $DEPLOYPATH
