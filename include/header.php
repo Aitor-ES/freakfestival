@@ -91,7 +91,7 @@
             <!-- Más -->
             <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "organizadores" || $curPageName == "colaboradores" || $curPageName == "inscripciones-candidaturas" || str_contains($curPageName, "edicion")) echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "donde-dormir" || $curPageName == "organizadores" || $curPageName == "colaboradores" || $curPageName == "inscripciones-candidaturas" || str_contains($curPageName, "edicion")) echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-more" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.more"]; ?>
               </a>
