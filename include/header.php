@@ -122,13 +122,13 @@
 
             <!-- Idioma -->
             <li class="nav-item dropdown">
-              <a class="nav-link fw-bold text-lowercase nav-link-lang dropdown-toggle" href="#" id="navbarDropdown-lang" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Idioma seleccionado: español">
-                <?php echo $lang["lang.header.lang." . $lang["lang"]]; ?>
+              <a class="nav-link fw-bold nav-link-lang dropdown-toggle" href="#" id="navbarDropdown-lang" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Idioma seleccionado: español">
+                <?php echo $lang["lang.header.lang." . $lang["lang"] . ".code"]; ?>
               </a>
 
               <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-lang">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="/<?php echo $links["es." . $curPageName]; ?>.php"><?php echo $lang["lang.header.lang.es"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="/eu/<?php echo $links["eu." . $curPageName]; ?>.php"><?php echo $lang["lang.header.lang.eu"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="/<?php echo $links["es." . $curPageName]; ?>.php"><?php echo $lang["lang.header.lang.es.name"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="/eu/<?php echo $links["eu." . $curPageName]; ?>.php"><?php echo $lang["lang.header.lang.eu.name"]; ?></a></li>
               </ul>
             </li>
           </ul>
