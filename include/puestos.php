@@ -12,10 +12,10 @@
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
         <li id="<?php echo $activity->activityName; ?>" class="list-group-item pb-5 mb-5">
-          <div class="row justify-content-center gy-5">
+          <div class="row justify-content-center g-5">
             <!-- Activity image -->
-            <div class="col-12 col-lg-3 d-flex justify-content-center">
-              <img class="stand-logo" src="/images/logos/stands/<?php echo $activity->logo; ?>" alt="" width="200" height="200">
+            <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
+              <img class="stand-logo" src="/images/logos/stands/<?php echo $activity->logo; ?>" alt="<?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>" width="200" height="200">
             </div>
 
             <!-- Activity main content -->
