@@ -55,6 +55,11 @@
       "web": "https://ellaberintodeljueg.wixsite.com/inicio"
     },
     {
+      "activityName": "euneiz",
+      "logo": "euneiz.svg",
+      "web": "https://www.euneiz.com/"
+    },
+    {
       "activityName": "evoletle",
       "logo": "evoletle-min.jpg",
       "instagram": ["https://www.instagram.com/evoletle_crochet"]
@@ -150,11 +155,6 @@
       "activityName": "thegingercrocodile",
       "logo": "thegingercrocodile-min.jpg",
       "instagram": ["https://www.instagram.com/thegingercrocodile"]
-    },
-    {
-      "activityName": "euneiz",
-      "logo": "euneiz.svg",
-      "web": "https://www.euneiz.com/"
     },
     {
       "activityName": "vilnieblasimaga",
