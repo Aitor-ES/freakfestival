@@ -9,7 +9,7 @@
 
     <div class="row">
       <div class="col-12 col-lg-5 text-center mb-5 mb-lg-0">
-        <img src="/images/logos/logo_valinor.svg" alt="..." width="300px" height="300px">
+        <img src="/images/logos/logo_valinor.svg" alt="Valinor" width="300" height="300">
       </div>
 
       <div class="col-12 col-lg-7 d-flex flex-column justify-content-center">
