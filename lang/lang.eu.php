@@ -375,8 +375,7 @@ $lang = array(
   "lang.guests.mayicosplay.title" => "Mayi",
   "lang.guests.mayicosplay.dedication" => "Cosplayer",
   "lang.guests.mayicosplay.description.1" => "Freak Festival 2024-ko lehenengo gonbidatua aurkezten dizuegu!",
-  "lang.guests.mayicosplay.description.2" => "Gasteizko erreferentziazko cosplayer-a. Hiru urte daramatza modu formalean cosplay-aren mundu zoragarrian. Gutxinaka, makillajearen eta ileordeen estilizazioan espezializatzen.",
-  "lang.guests.mayicosplay.description.3" => "Osasun mentaleko erizaina izanik, cosplay-a norberaren osasun mentala zaintzeko era zoragarri bezala lantzea gustatzen zaio.",
+  "lang.guests.mayicosplay.description.2" => "Gasteizko erreferentziazko cosplayer-a. Hiru urte daramatza modu formalean cosplay-aren mundu zoragarrian. Gutxinaka, makillajearen eta ileordeen estilizazioan espezializatzen. Osasun mentaleko erizaina izanik, cosplay-a norberaren osasun mentala zaintzeko era zoragarri bezala lantzea gustatzen zaio.",
   "lang.guests.pixsebas.title" => "Pixsebas",
   "lang.guests.pixsebas.dedication" => "Metakrilato margolaria",
   "lang.guests.pixsebas.description.1" => "Pixsebas aurkezten dizuegu, gure bigarren gonbidatua!",
@@ -386,6 +385,10 @@ $lang = array(
   "lang.guests.cristinasalaslopez.description.1" => "Hurrengo gonbidatua aurkezten dizuegu, Cristinasalaslopez!",
   "lang.guests.cristinasalaslopez.description.2" => "Cristina Cantabriatik dator eta gutxi gorabehera hiru urte zituenetik mozorratzen da, 2015ean cosplay-aren munduan hasi zen. Ordutik ez du cosplay-a egiteari utzi primeran sentiarazten duelako. Bere cosplay-rik ezagunenak Arielena eta Cyberpunk-eko Rebecca dira.
   Baina oraindik proiektu asko geratzen zaizkio aurretik!",
+  "lang.guests.cosdaimon.title" => "Cosdaimon",
+  "lang.guests.cosdaimon.dedication" => "Cosplayer",
+  "lang.guests.cosdaimon.description.1" => "Cosdaimon gonbidatuen zerrendara batu da!",
+  "lang.guests.cosdaimon.description.2" => "Cosplay da bere pasioa. Horregatik sartzen da mundu honetan joskintzarekin. Gaur egun, benetan betetzen duena ikasten du, eta, horren bidez, hainbat lehiaketatara aurkeztu ahal izan da. Pixkanaka-pixkanaka, makillaje-teknikak beste maila batera eramaten ari da, eta asko gustatzen zaio bere sare sozialetan urratsak irakastea.",
 
   "lang.guests.qrolanp.title" => "qrolanp",
   "lang.guests.qrolanp.dedication" => "Artista",
