@@ -388,6 +388,10 @@ $lang = array(
   "lang.guests.cosdaimon.dedication" => "Cosplayer",
   "lang.guests.cosdaimon.description.1" => "¡Cosdaimon se une al elenco de invitados!",
   "lang.guests.cosdaimon.description.2" => "El cosplay es su pasión. Por ello se adentró en este mundo con la costura. Hoy en día estudia lo que realmente le llena y a través de ello ha podido presentarse a distintos concursos. Poco a poco, está llevando sus técnicas de maquillaje a otro nivel, y le gusta mucho enseñar los pasos en sus redes sociales.",
+  "lang.guests.creandoinfinito.title" => "Creandoinfinito",
+  "lang.guests.creandoinfinito.dedication" => "Ilustradora",
+  "lang.guests.creandoinfinito.description.1" => "¡Zune es nuestra quinta invitada!",
+  "lang.guests.creandoinfinito.description.2" => "Conocida en redes como Creandoinfinito, recorre cada año distintas ciudades y pueblos exponiendo sus trabajos. Con un estilo súper colorido, expresa su entusiasmo por los gatos, el espacio y personajes ficticios de series o juegos.",
 
   "lang.guests.qrolanp.title" => "qrolanp",
   "lang.guests.qrolanp.dedication" => "Artista",
