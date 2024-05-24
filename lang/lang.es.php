@@ -392,6 +392,10 @@ $lang = array(
   "lang.guests.creandoinfinito.dedication" => "Ilustradora",
   "lang.guests.creandoinfinito.description.1" => "¡Zune es nuestra quinta invitada!",
   "lang.guests.creandoinfinito.description.2" => "Conocida en redes como Creandoinfinito, recorre cada año distintas ciudades y pueblos exponiendo sus trabajos. Con un estilo súper colorido, expresa su entusiasmo por los gatos, el espacio y personajes ficticios de series o juegos.",
+  "lang.guests.yumi.title" => "Yumi",
+  "lang.guests.yumi.dedication" => "Cosplayer",
+  "lang.guests.yumi.description.1" => "¡La última invitada del Freak Festival es Yumi, cosplayer de anime y videojuegos desde 2017!",
+  "lang.guests.yumi.description.2" => "Nunca imaginó que a la gente le gustaría tanto su trabajo, así que decidió ayudar a los demás dando sus mejores consejos sobre el cosplay, sobre todo para principiantes, en YouTube. También pasan ratos muy divertidos todos juntos hablando y jugando en directo en Twitch.",
 
   "lang.guests.qrolanp.title" => "qrolanp",
   "lang.guests.qrolanp.dedication" => "Artista",

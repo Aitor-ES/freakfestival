@@ -393,6 +393,10 @@ $lang = array(
   "lang.guests.creandoinfinito.dedication" => "Ilustratzailea",
   "lang.guests.creandoinfinito.description.1" => "Zune gure bosgarren gonbidatua da!",
   "lang.guests.creandoinfinito.description.2" => "Creandoinfinito izenez ezaguna da sareetan, eta urtero hiri eta herri ezberdinetan ibiltzen da bere lanak erakusten. Oso estilo koloretsuarekin, katuekiko, espazioarekiko eta telesail edo jolasetako fikziozko pertsonaiekiko duen gogoa adierazten du.",
+  "lang.guests.yumi.title" => "Yumi",
+  "lang.guests.yumi.dedication" => "Cosplayer",
+  "lang.guests.yumi.description.1" => "Azken gonbidatua Yumi da, 2017tik anime eta bideo-jokoen cosplayer bat!",
+  "lang.guests.yumi.description.2" => "Inoiz ez zuen imajinatu jendeari bere lana hainbeste gustatuko litzaiokeenik, horregatik besteei laguntzea erabaki zuen YouTube-n cosplay-ari buruz bere aholku onenak emanez, batez ere hasiberrientzat. Oso ondo pasatzen dute elkarrekin Twitch-en zuzenean hitz egiten eta jotzen.",
 
   "lang.guests.qrolanp.title" => "qrolanp",
   "lang.guests.qrolanp.dedication" => "Artista",

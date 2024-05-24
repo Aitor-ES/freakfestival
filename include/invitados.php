@@ -116,6 +116,27 @@
           </div>
         </div>
       </div>
+
+      <div class="col-12 col-lg-4">
+        <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
+          <img src="/images/photos/guests/2024_yumi-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.yumi.title"]; ?>">
+
+          <div class="card-body">
+            <h5 class="card-title"><?php echo $lang["lang.guests.yumi.title"]; ?></h5>
+            <h6 class="card-subtitle mb-2"><?php echo $lang["lang.guests.yumi.dedication"]; ?></h6>
+            <p class="card-text"><?php echo $lang["lang.guests.yumi.description.1"]; ?></p>
+            <p class="card-text"><?php echo $lang["lang.guests.yumi.description.2"]; ?></p>
+          </div>
+
+          <div class="card-footer">
+            <div class="row g-2">
+              <div class="col-auto">
+                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/yumi_waifu/" role="button"><i class="bi bi-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <!-- Main End -->
