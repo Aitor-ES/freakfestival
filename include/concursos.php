@@ -23,7 +23,7 @@
             <div class="row gy-3 mb-3">
               <?php if (property_exists($activity, 'rules')) { ?>
                 <div class="col-auto">
-                  <a class="btn btn-ffdiamond" href="/docs/<?php echo $activity->rules; ?>" role="button">
+                  <a class="btn btn-ffdiamond" href="/docs/<?php echo $activity->rules; ?>" target="_blank">
                     <?php echo $lang["lang.activities.btn.rules"]; ?>
                   </a>
                 </div>
@@ -31,7 +31,7 @@
 
               <?php if (property_exists($activity, 'register')) { ?>
                 <div class="col-auto">
-                  <a class="btn btn-ffsunlight" href="<?php echo $activity->register; ?>" role="button">
+                  <a class="btn btn-ffsunlight" href="<?php echo $activity->register; ?>" target="_blank">
                     <?php echo $lang["lang.activities.btn.register"]; ?>
                   </a>
                 </div>

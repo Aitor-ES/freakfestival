@@ -106,7 +106,7 @@
           <br>
           <?php echo $lang["lang.home.introduction.location.town"]; ?>
           <br>
-          <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
+          <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
         </p>
       </div>
 

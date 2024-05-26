@@ -36,28 +36,28 @@
               <!-- Hotel links -->
               <ul class="list-inline">
                 <?php if (property_exists($activity, 'maps')) { ?>
-                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->maps; ?>"><i class="bi bi-geo-alt"></i></a></li>
+                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->maps; ?>" target="_blank"><i class="bi bi-geo-alt"></i></a></li>
                 <?php } ?>
 
                 <?php if (property_exists($activity, 'web')) { ?>
-                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->web; ?>"><i class="bi bi-globe"></i></a></li>
+                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->web; ?>" target="_blank"><i class="bi bi-globe"></i></a></li>
                 <?php } ?>
 
                 <?php if (property_exists($activity, 'instagram')) {
                   foreach ($activity->instagram as $instagram) { ?>
-                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $instagram; ?>"><i class="bi bi-instagram"></i></a></li>
+                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $instagram; ?>" target="_blank"><i class="bi bi-instagram"></i></a></li>
                 <?php } } ?>
 
                 <?php if (property_exists($activity, 'facebook')) { ?>
-                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->facebook; ?>"><i class="bi bi-facebook"></i></a></li>
+                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->facebook; ?>" target="_blank"><i class="bi bi-facebook"></i></a></li>
                 <?php } ?>
 
                 <?php if (property_exists($activity, 'tiktok')) { ?>
-                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->tiktok; ?>"><i class="bi bi-tiktok"></i></a></li>
+                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->tiktok; ?>" target="_blank"><i class="bi bi-tiktok"></i></a></li>
                 <?php } ?>
 
                 <?php if (property_exists($activity, 'x')) { ?>
-                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->x; ?>"><i class="bi bi-twitter-x"></i></a></li>
+                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->x; ?>" target="_blank"><i class="bi bi-twitter-x"></i></a></li>
                 <?php } ?>
               </ul>
             </div>
