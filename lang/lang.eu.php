@@ -527,7 +527,10 @@ $lang = array(
   "lang.organizers.valinor.description.1" => "Kaixo! Valinor Elkartea gara eta mahai eta rol joko, eskulan eta mundu frikiko hobby askotara dedikatzen dugu gure denbora. Vitoria-Gasteizen 15 urte baino gehiago daramatzagu, gure familia gutxinaka handituz eta hobetuz.",
   "lang.organizers.valinor.description.2" => "Gure interesak aditzera emateaz poz-pozik gaude, eta beso irekiez jasotzen dugu gu ezagutzera animatzen den edonor. Ez zalantzatu gurekin kontaktuan jartzeaz gehiago jakin nahi baduzu!",
 
-  "lang.partners.title" => "Laguntzaileak",
+  "lang.contributors.title" => "Laguntzaileak",
+  "lang.contributors.associations" => "Elkarteak",
+  "lang.contributors.brands" => "Dendak, markak eta argitaletxeak",
+  "lang.contributors.photography" => "Fotografia",
 
   "lang.edition.2023.title" => "Freak Festival 2023",
   "lang.edition.2022.title" => "Freak Festival 2022",
@@ -537,8 +540,8 @@ $lang = array(
   "lang.edition.gallery.artists" => "Artistak",
   "lang.edition.gallery.board-role-games" => "Mahai- eta rol-jokoak",
   "lang.edition.gallery.cosplay" => "Cosplay",
-  "lang.edition.gallery.partners-workshops" => "Laguntzaileak eta tailerrak",
-  "lang.edition.gallery.stands-partners-guests" => "Postuak, laguntzaileak eta gonbidatuak",
+  "lang.edition.gallery.contributors-workshops" => "Laguntzaileak eta tailerrak",
+  "lang.edition.gallery.stands-contributors-guests" => "Postuak, laguntzaileak eta gonbidatuak",
   "lang.edition.gallery.video" => "Bideoa",
 );
 ?>

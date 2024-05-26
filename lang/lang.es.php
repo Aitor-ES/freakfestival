@@ -523,7 +523,10 @@ $lang = array(
   "lang.organizers.valinor.description.1" => "¡Hola! Somos la Asociación Valinor y nos dedicamos a los juegos de mesa, el rol, las manualidades, y todo el abanico de hobbies del mundo friki. Estamos establecidos en Vitoria-Gasteiz desde hace más de 15 años, durante los que hemos ido ampliando la familia y mejorando poco a poco.",
   "lang.organizers.valinor.description.2" => "Estamos encantados de dar a conocer nuestros intereses y recibimos con los brazos abiertos a todo aquel que quiera saber más sobre nosotros. ¡No dudes en contactarnos si quieres saber más!",
 
-  "lang.partners.title" => "Colaboradores",
+  "lang.contributors.title" => "Colaboradores",
+  "lang.contributors.associations" => "Asociaciones",
+  "lang.contributors.brands" => "Tiendas, marcas y editoriales",
+  "lang.contributors.photography" => "Fotografía",
 
   "lang.edition.2023.title" => "Freak Festival 2023",
   "lang.edition.2022.title" => "Freak Festival 2022",
@@ -533,8 +536,8 @@ $lang = array(
   "lang.edition.gallery.artists" => "Artistas",
   "lang.edition.gallery.cosplay" => "Cosplay",
   "lang.edition.gallery.board-role-games" => "Juegos de mesa y rol",
-  "lang.edition.gallery.partners-workshops" => "Colaboradores y talleres",
-  "lang.edition.gallery.stands-partners-guests" => "Puestos, colaboradores e invitados",
+  "lang.edition.gallery.contributors-workshops" => "Colaboradores y talleres",
+  "lang.edition.gallery.stands-contributors-guests" => "Puestos, colaboradores e invitados",
   "lang.edition.gallery.video" => "Vídeo",
 );
 ?>

@@ -8,7 +8,7 @@
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.2023.title"]; ?></h1>
 
     <!-- Stands, partners and guests -->
-    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.stands-partners-guests"]; ?></h3>
+    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.stands-contributors-guests"]; ?></h3>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
