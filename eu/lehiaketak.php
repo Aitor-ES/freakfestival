@@ -9,7 +9,5 @@
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>
-  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/../include/concursos.json'));
-        $categoryName = $activityCategory->categoryName;
-        require(__DIR__ . "/../include/actividades.php"); ?>
+  <?php require(__DIR__ . "/../include/concursos.php"); ?>
 </html>

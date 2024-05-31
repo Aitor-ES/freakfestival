@@ -4,38 +4,29 @@
     {
       "activityName": "cosplay",
       "organizer": "valinor",
-      "rules": "Bases del concurso de cosplay.docx.pdf",
-      "register": "https://forms.gle/gJv8g1dKbdjMpgqx9"
-    },
-    {
-      "activityName": "fast-painting",
-      "organizer": "valinor",
-      "rules": "Bases del concurso de fast painting.pdf",
-      "register": "https://forms.gle/epkmF3DVbq76awJPA"
-    },
-    {
-      "activityName": "fast-fic",
-      "organizer": "valinor",
-      "rules": "Bases del concurso de fast fic.pdf",
-      "register": "https://forms.gle/epkmF3DVbq76awJPA"
-    },
-    {
-      "activityName": "fast-comic",
-      "organizer": "valinor",
-      "rules": "Bases del concurso de fast comic.pdf",
-      "register": "https://forms.gle/epkmF3DVbq76awJPA"
+      "rules": "2024/Bases del concurso de cosplay.pdf",
+      "register": "https://forms.gle/sNPQpQEp7ha1ZRtR7"
     },
     {
       "activityName": "pintado-miniaturas",
       "organizer": "valinor",
-      "rules": "Bases de los concursos de miniaturas y dioramas.pdf",
-      "register": "https://forms.gle/b7esWYaeuo19RU9k6"
+      "rules": "2024/Bases del concurso de miniaturas y dioramas.pdf",
+      "register": "https://forms.gle/PYVhBGFikhfsBeTC6"
     },
     {
-      "activityName": "dioramas",
+      "activityName": "fast-painting",
       "organizer": "valinor",
-      "rules": "Bases de los concursos de miniaturas y dioramas.pdf",
-      "register": "https://forms.gle/b7esWYaeuo19RU9k6"
+      "rules": "2024/Bases del concurso de fast painting.pdf"
+    },
+    {
+      "activityName": "fast-fic",
+      "organizer": "valinor",
+      "rules": "2024/Bases del concurso de fast fic.pdf"
+    },
+    {
+      "activityName": "fast-comic",
+      "organizer": "valinor",
+      "rules": "2024/Bases del concurso de fast comic.pdf"
     }
   ]
 }
