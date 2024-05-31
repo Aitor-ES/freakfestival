@@ -124,9 +124,9 @@
     <!-- Introduction End -->
 
     <!-- Features Start -->
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.home.features.title"]; ?></h1>
+    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.title"]; ?></h1>
 
-    <div class="row row-cols-1 row-cols-lg-2 justify-content-center g-5">
+    <div class="row row-cols-1 row-cols-lg-2 g-5">
       <!-- 1st feature: Board games -->
       <div class="col">
         <div class="row gy-4 gx-5">
@@ -135,8 +135,8 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.board-games.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.board-games.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.board-games.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
           </div>
         </div>
       </div>
@@ -149,13 +149,27 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.rpg.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.rpg.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.rpg.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
           </div>
         </div>
       </div>
 
-      <!-- 3rd feature: Workshops -->
+      <!-- 3rd feature: LARP -->
+      <div class="col">
+        <div class="row gy-4 gx-5">
+          <div class="col-12 col-sm-auto d-flex justify-content-center">
+            <img class="rounded-circle" src="/images/photos/larp-min.jpg" alt="" width="200" height="200">
+          </div>
+
+          <div class="col">
+            <h3 class="mb-3"><?php echo $lang["lang.activities.larp.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.larp.description"]; ?></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 4th feature: Workshops -->
       <div class="col">
         <div class="row gy-4 gx-5">
           <div class="col-12 col-sm-auto d-flex justify-content-center">
@@ -163,13 +177,13 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.workshops.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.workshops.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.workshops.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.workshops.description"]; ?></p>
           </div>
         </div>
       </div>
 
-      <!-- 4th feature: Artists -->
+      <!-- 5th feature: Artists -->
       <div class="col">
         <div class="row gy-4 gx-5">
           <div class="col-12 col-sm-auto d-flex justify-content-center">
@@ -177,13 +191,13 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.stands.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.stands.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.stands.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.stands.description"]; ?></p>
           </div>
         </div>
       </div>
 
-      <!-- 5th feature: Talks -->
+      <!-- 6th feature: Talks -->
       <div class="col">
         <div class="row gy-4 gx-5">
           <div class="col-12 col-sm-auto d-flex justify-content-center">
@@ -191,13 +205,13 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.talks-exhibitions.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.talks-exhibitions.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
           </div>
         </div>
       </div>
 
-      <!-- 6th feature: Book releases -->
+      <!-- 7th feature: Book releases -->
       <div class="col">
         <div class="row gy-4 gx-5">
           <div class="col-12 col-sm-auto d-flex justify-content-center">
@@ -205,13 +219,13 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.book-releases.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.book-releases.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.book-releases.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.book-releases.description"]; ?></p>
           </div>
         </div>
       </div>
 
-      <!-- 7th feature: Tournaments -->
+      <!-- 8th feature: Tournaments -->
       <div class="col">
         <div class="row gy-4 gx-5">
           <div class="col-12 col-sm-auto d-flex justify-content-center">
@@ -219,13 +233,13 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.tournaments.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.tournaments.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.tournaments.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.tournaments.description"]; ?></p>
           </div>
         </div>
       </div>
 
-      <!-- 8th feature: Contests -->
+      <!-- 9th feature: Contests -->
       <div class="col">
         <div class="row gy-4 gx-5">
           <div class="col-12 col-sm-auto d-flex justify-content-center">
@@ -233,8 +247,8 @@
           </div>
 
           <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.home.features.contests.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.features.contests.description"]; ?></p>
+            <h3 class="mb-3"><?php echo $lang["lang.activities.contests.title"]; ?></h3>
+            <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
           </div>
         </div>
       </div>
