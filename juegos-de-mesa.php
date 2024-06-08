@@ -8,6 +8,9 @@
       $title = $lang["lang.activities.board-games.title"];
       require("include/head.php");
     ?>
+
+    <!-- Page CSS -->
+    <link href="/styles/actividades.css" rel="stylesheet">
   </head>
   <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/include/juegos-de-mesa.json'));
         $categoryName = $activityCategory->categoryName;

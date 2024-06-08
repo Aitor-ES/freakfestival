@@ -1,0 +1,53 @@
+{
+  "categoryName": "others",
+  "activities": [
+    {
+      "activityName": "disparo-stormtrooper",
+      "activityImage": "disparo-stormtrooper.jpg",
+      "organizer": "ordenderevan",
+      "organizerImage": "ordenderevan-min.png",
+      "day": "",
+      "time": "",
+      "duration": "continuous",
+      "participants": "no-limit",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "photocall-star-wars",
+      "activityImage": "photocall-star-wars.jpg",
+      "organizer": "ordenderevan",
+      "organizerImage": "ordenderevan-min.png",
+      "day": "",
+      "time": "",
+      "duration": "continuous",
+      "participants": "no-limit",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "caza-tesoro",
+      "activityImage": "caza-tesoro.png",
+      "organizer": "valhalla",
+      "organizerImage": "valhalla-min.png",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "no-limit",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "quiz-videojuegos",
+      "activityImage": "quiz-videojuegos.jpg",
+      "organizer": "mayi",
+      "organizerImage": "mayi-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "30 min",
+      "participants": "no-limit",
+      "age": "all",
+      "lang": "es"
+    }
+  ]
+}

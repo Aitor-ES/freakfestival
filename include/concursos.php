@@ -16,9 +16,9 @@
       <?php foreach ($activityCategory->activities as $activity) { ?>
         <li class="list-group-item mb-3">
           <div>
-            <h4 class="mb-3"><?php echo $lang["lang.activities.2024.$categoryName.$activity->activityName.title"]; ?></h4>
+            <h4 class="mb-3"><?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?></h4>
             <p class="text-body-secondary"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
-            <p><?php echo $lang["lang.activities.2024.$categoryName.$activity->activityName.description"]; ?></p>
+            <p><?php echo $lang["lang.activities.$categoryName.$activity->activityName.description"]; ?></p>
 
             <div class="row gy-3 mb-3">
               <?php if (property_exists($activity, 'rules')) { ?>

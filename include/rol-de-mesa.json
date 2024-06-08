@@ -2,69 +2,88 @@
   "categoryName": "rpg",
   "activities": [
     {
-      "activityName": "aquelarre.abadia",
+      "activityName": "d&d-devorador-esperanza",
+      "activityImage": "d&d-devorador-esperanza.png",
       "organizer": "valinor",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
+      "organizerImage": "valinor.svg",
+      "day": "",
+      "time": "",
+      "duration": "5 h",
+      "participants": "4",
+      "age": "16",
+      "lang": "es"
     },
     {
-      "activityName": "vampiro.monstruo",
-      "organizer": "valinor",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
+      "activityName": "errege-herdoilduaren-dorrea",
+      "activityImage": "errege-herdoilduaren-dorrea.png",
+      "organizer": "rolariak",
+      "organizerImage": "rolariak-min.png",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "6",
+      "age": "10",
+      "lang": "eu"
     },
     {
-      "activityName": "bloodborne.pesadillas",
-      "organizer": "valinor",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
+      "activityName": "helmuga",
+      "activityImage": "helmuga.jpg",
+      "organizer": "rolariak",
+      "organizerImage": "rolariak-min.png",
+      "day": "",
+      "time": "",
+      "duration": "2 h 30 min",
+      "participants": "4",
+      "age": "8",
+      "lang": "eu"
     },
     {
-      "activityName": "elite.intenciones",
-      "organizer": "valinor",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
+      "activityName": "valhalla",
+      "activityImage": "valhalla.png",
+      "organizer": "valhalla",
+      "organizerImage": "valhalla-min.png",
+      "day": "",
+      "time": "",
+      "duration": "2 h",
+      "participants": "7",
+      "age": "all",
+      "lang": "es"
     },
     {
-      "activityName": "d&d.klausa",
-      "organizer": "tomy",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "vampiro.sangre",
-      "organizer": "klaudia",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "cultos.corben",
-      "organizer": "klaudia",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "asfalto.goma",
-      "organizer": "seijo",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "2300.kaefer",
-      "organizer": "sugaar",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "seccion-oculta.sueños",
-      "organizer": "sugaar",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "traveller.botadura",
-      "organizer": "sugaar",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "skolza",
-      "organizer": "conplumaypixel",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
-    },
-    {
-      "activityName": "llamada.necropolis",
+      "activityName": "cthulhu-margen-tinieblas",
+      "activityImage": "cthulhu-margen-tinieblas.png",
       "organizer": "atlas",
-      "register": "https://forms.gle/R5onKHFKRPQDcomb7"
+      "organizerImage": "atlas-min.png",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "5",
+      "age": "16",
+      "lang": "both"
+    },
+    {
+      "activityName": "dune-agentes-imperio",
+      "activityImage": "dune-agentes-imperio.png",
+      "organizer": "atlas",
+      "organizerImage": "atlas-min.png",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "5",
+      "age": "16",
+      "lang": "es"
+    },
+    {
+      "activityName": "l5a-introductoria",
+      "activityImage": "l5a-introductoria.PNG",
+      "organizer": "alter-paradox",
+      "organizerImage": "alterparadox.svg",
+      "day": "",
+      "time": "",
+      "duration": "3 h 30 min",
+      "participants": "5",
+      "age": "all",
+      "lang": "free"
     }
   ]
 }

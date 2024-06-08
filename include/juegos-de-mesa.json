@@ -3,52 +3,145 @@
   "activities": [
     {
       "activityName": "ludoteca",
-      "organizer": "valinor-alter-atlas"
+      "activityImage": "ludoteca-min.jpg",
+      "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "day": "",
+      "time": "",
+      "duration": "continuous",
+      "participants": "no-limit",
+      "age": "all",
+      "lang": "free"
     },
     {
-      "activityName": "marvel",
-      "organizer": "alter",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "mesozoico",
+      "activityImage": "mesozoico.jpg",
+      "organizer": "mesozoico",
+      "organizerImage": "mesozoico.jpg",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "4",
+      "age": "12",
+      "lang": "both"
     },
     {
-      "activityName": "jardin-alicia",
-      "organizer": "alter",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "pole-position",
+      "activityImage": "pole-position.jpg",
+      "organizer": "alter-paradox",
+      "organizerImage": "alterparadox.svg",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "5",
+      "age": "14",
+      "lang": "es"
     },
     {
-      "activityName": "cascadia",
-      "organizer": "alter",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "ierusalem-anno-domini",
+      "activityImage": "ierusalem-anno-domini.jpg",
+      "organizer": "atlas",
+      "organizerImage": "atlas-min.png",
+      "day": "",
+      "time": "",
+      "duration": "2 h",
+      "participants": "4",
+      "age": "14",
+      "lang": "es"
     },
     {
-      "activityName": "terraforming-mars",
-      "organizer": "alter",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "zombicide",
+      "activityImage": "zombicide.jpg",
+      "organizer": "alter-paradox",
+      "organizerImage": "alterparadox.svg",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "6",
+      "age": "14",
+      "lang": "es"
     },
     {
-      "activityName": "warcrow",
-      "organizer": "alter",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "euneiz",
+      "activityImage": "euneiz.svg",
+      "organizer": "euneiz",
+      "day": "",
+      "time": "",
+      "duration": "continuous",
+      "participants": "10",
+      "age": "all",
+      "lang": "es"
     },
     {
-      "activityName": "imhre",
-      "organizer": "sugaar",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "wargames-done-right",
+      "activityImage": "wargames-done-right.jpg",
+      "organizer": "kimera",
+      "organizerImage": "kimera-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "4",
+      "age": "all",
+      "lang": "es"
     },
     {
-      "activityName": "wild-pong",
-      "organizer": "sugaar",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "flamecraft",
+      "activityImage": "flamecraft.jpg",
+      "organizer": "alter-paradox",
+      "organizerImage": "alterparadox.svg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "5",
+      "age": "all",
+      "lang": "es"
     },
     {
-      "activityName": "coup-x",
-      "organizer": "omega",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "meepleland",
+      "activityImage": "meepleland.jpg",
+      "organizer": "alter-paradox",
+      "organizerImage": "alterparadox.svg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "4",
+      "age": "10",
+      "lang": "es"
     },
     {
-      "activityName": "listillo",
-      "organizer": "omega",
-      "register": "https://forms.gle/uZSbafAaqp1DSx637"
+      "activityName": "terraforming-mars-dados",
+      "activityImage": "terraforming-mars-dados.jpg",
+      "organizer": "alter-paradox",
+      "organizerImage": "alterparadox.svg",
+      "day": "",
+      "time": "",
+      "duration": "45 min",
+      "participants": "4",
+      "age": "14",
+      "lang": "es"
+    },
+    {
+      "activityName": "monstruitos",
+      "activityImage": "monstruitos.png",
+      "organizer": "borja",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "4",
+      "age": "8",
+      "lang": "es"
+    },
+    {
+      "activityName": "cartas",
+      "activityImage": "cartas.jpg",
+      "organizer": "magic-all-goal",
+      "organizerImage": "magicallgoal-min.PNG",
+      "day": "",
+      "time": "",
+      "duration": "continuous",
+      "participants": "no-limit",
+      "age": "all",
+      "lang": "free"
     }
   ]
 }

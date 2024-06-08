@@ -2,39 +2,124 @@
   "categoryName": "workshops",
   "activities": [
     {
-      "activityName": "miniaturas",
+      "activityName": "chapas",
+      "activityImage": "chapas.jpg",
+      "organizer": "ordenderevan",
+      "organizerImage": "ordenderevan-min.png",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "no-limit",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "escritura",
+      "activityImage": "escritura.png",
+      "organizer": "valhalla",
+      "organizerImage": "valhalla-min.png",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "4",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "glasspainting",
+      "activityImage": "glasspainting.jpeg",
+      "organizer": "pixsebas",
+      "organizerImage": "pixsebas-min.jpeg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "6",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "conejos-lana",
+      "activityImage": "conejos-lana.jpg",
+      "organizer": "yumi",
+      "organizerImage": "2024_yumi-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "10",
+      "age": "all",
+      "lang": "both"
+    },
+    {
+      "activityName": "miniaturas-basico",
+      "activityImage": "miniaturas-basico.JPG",
       "organizer": "valinor",
-      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+      "organizerImage": "valinor.svg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "10",
+      "age": "12",
+      "lang": "es"
     },
     {
-      "activityName": "jarras",
+      "activityName": "miniaturas-avanzado",
+      "activityImage": "miniaturas-avanzado.JPG",
       "organizer": "valinor",
-      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+      "organizerImage": "valinor.svg",
+      "day": "",
+      "time": "",
+      "duration": "1 h 30 min",
+      "participants": "10",
+      "age": "12",
+      "lang": "es"
     },
     {
-      "activityName": "dibujar-pj-fantasia",
-      "organizer": "qrolanp",
-      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+      "activityName": "acrilicos",
+      "activityImage": "acrilicos.png",
+      "organizer": "creandoinfinito",
+      "organizerImage": "2024_creandoinfinito-min.png",
+      "day": "",
+      "time": "",
+      "duration": "1 h 30 min",
+      "participants": "16",
+      "age": "10",
+      "lang": "es"
     },
     {
-      "activityName": "dibujar-mazmorras",
-      "organizer": "eneko-menica",
-      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+      "activityName": "duendes-polvo",
+      "activityImage": "duendes-polvo.jpg",
+      "organizer": "salienart",
+      "organizerImage": "salienart-min.png",
+      "day": "",
+      "time": "",
+      "duration": "40 min",
+      "participants": "15",
+      "age": "10",
+      "lang": "es"
     },
     {
-      "activityName": "dibujar-exteriores",
-      "organizer": "eneko-menica",
-      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
+      "activityName": "huevo-dragon",
+      "activityImage": "huevo-dragon.jpg",
+      "organizer": "ellaberintodeljuego",
+      "organizerImage": "ellaberintodeljuego-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "6",
+      "age": "6",
+      "lang": "es"
     },
     {
-      "activityName": "marcapaginas-acuarela",
-      "organizer": "irnielart",
-      "register": "https://forms.gle/vVhpRys6BywaPgRC8"
-    },
-    {
-      "activityName": "cafe",
-      "organizer": "tap",
-      "register": "https://forms.gle/FWgVWNZjqPympJJD7"
+      "activityName": "varita",
+      "activityImage": "varita.jpg",
+      "organizer": "ellaberintodeljuego",
+      "organizerImage": "ellaberintodeljuego-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "10",
+      "age": "6",
+      "lang": "es"
     }
   ]
 }

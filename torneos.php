@@ -8,6 +8,9 @@
       $title = $lang["lang.activities.tournaments.title"];
       require("include/head.php");
     ?>
+
+    <!-- Page CSS -->
+    <link href="/styles/actividades.css" rel="stylesheet">
   </head>
   <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/include/torneos.json'));
         $categoryName = $activityCategory->categoryName;

@@ -2,19 +2,40 @@
   "categoryName": "larp",
   "activities": [
     {
-      "activityName": "montsegur",
+      "activityName": "reclutamiento-van-hoff",
+      "activityImage": "reclutamiento-van-hoff.jpg",
+      "organizer": "van-hoff",
+      "organizerImage": "van-hoff-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "16",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "telaraña-mentiras",
+      "activityImage": "telaraña-mentiras.jpg",
+      "organizer": "hipsteria",
+      "organizerImage": "hipsteria.svg",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "21",
+      "age": "18",
+      "lang": "es"
+    },
+    {
+      "activityName": "anima-imperatoris",
+      "activityImage": "anima-imperatoris.jpg",
       "organizer": "urra",
-      "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
-    },
-    {
-      "activityName": "justa",
-      "organizer": "strongtales",
-      "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
-    },
-    {
-      "activityName": "rosa",
-      "organizer": "strongtales",
-      "register": "https://forms.gle/FNLJMJAdmSZXDVQW7"
+      "organizerImage": "urra-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "2 h 30 min",
+      "participants": "12",
+      "age": "14",
+      "lang": "es"
     }
   ]
 }

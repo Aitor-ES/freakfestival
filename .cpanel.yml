@@ -16,6 +16,7 @@ deployment:
     - /bin/cp juegos-de-mesa.php $DEPLOYPATH
     - /bin/cp mapas-recinto.php $DEPLOYPATH
     - /bin/cp organizadores.php $DEPLOYPATH
+    - /bin/cp otras-actividades.php $DEPLOYPATH
     - /bin/cp presentaciones-de-libros.php $DEPLOYPATH
     - /bin/cp puestos.php $DEPLOYPATH
     - /bin/cp rol-de-mesa.php $DEPLOYPATH

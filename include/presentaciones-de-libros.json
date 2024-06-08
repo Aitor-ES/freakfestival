@@ -2,8 +2,28 @@
   "categoryName": "book-releases",
   "activities": [
     {
-      "activityName": "cerbero-tras-la-muerte",
-      "organizer": "cerbero"
+      "activityName": "guerra-autores",
+      "activityImage": "guerra-autores.png",
+      "organizer": "valhalla",
+      "organizerImage": "valhalla-min.png",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "7",
+      "age": "all",
+      "lang": "es"
+    },
+    {
+      "activityName": "noche-purpura",
+      "activityImage": "noche-purpura.jpg",
+      "organizer": "uzanza",
+      "organizerImage": "uzanza-min.png",
+      "day": "",
+      "time": "",
+      "duration": "1 h",
+      "participants": "no-limit",
+      "age": "14",
+      "lang": "es"
     }
   ]
 }
