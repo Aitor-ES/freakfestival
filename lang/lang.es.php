@@ -173,6 +173,7 @@ $lang = array(
   "lang.activities.organizer.valhalla" => "Valhalla Ediciones",
   "lang.activities.organizer.valinor" => "Asociación Cultural Valinor",
   "lang.activities.organizer.valinor-alter-atlas" => "Asociación Cultural Valinor<br>Alter Paradox<br>Agrupación Atlas",
+  "lang.activities.organizer.van-hoff" => "Compañía Van Hoff",
   "lang.activities.organizer.van-hoff-navalarp" => "Compañía Van Hoff y NavaLarp",
   "lang.activities.organizer.yumi" => "Yumi",
 
