@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.registrations-applications.title"]; ?></h1>
 
     <p class="lead"><?php echo $lang["lang.registrations-applications.description.1"]; ?></p>
@@ -16,7 +16,7 @@
       <a class="btn btn-outline-ffscarlet btn-outline-b" href="https://forms.gle/Ebk5qwjpoPxk5yE67"><?php echo $lang["lang.registrations-applications.artists"]; ?></a>
       <a class="btn btn-outline-ffscarlet btn-outline-b" href="https://forms.gle/7KcUNHTS2eWFgPzG9"><?php echo $lang["lang.registrations-applications.shops"]; ?></a>
     </div>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

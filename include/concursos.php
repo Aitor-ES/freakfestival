@@ -4,22 +4,31 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/concursos.json'));
           $categoryName = $activityCategory->categoryName; ?>
 
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
 
-    <p class="lead mb-4"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+    <p class="lead mb-5"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
 
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
-        <li class="list-group-item mb-3">
+        <li class="list-group-item pb-5 mb-5">
           <div>
-            <h4 class="mb-3"><?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?></h4>
+            <!-- Activity title -->
+            <h2 id="<?php echo $activity->activityName; ?>">
+              <?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>
+              <a class="anchor-link" href="#<?php echo $activity->activityName; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>"></a>
+            </h2>
+
+            <!-- Activity organizer -->
             <p class="text-body-secondary"><?php echo $lang["lang.activities.organizer"] . $lang["lang.activities.organizer.$activity->organizer"]; ?></p>
+
+            <!-- Activity description -->
             <p><?php echo $lang["lang.activities.$categoryName.$activity->activityName.description"]; ?></p>
 
+            <!-- Activity links -->
             <div class="row gy-3 mb-3">
               <?php if (property_exists($activity, 'rules')) { ?>
                 <div class="col-auto">
@@ -41,7 +50,7 @@
         </li>
       <?php } ?>
     </ul>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

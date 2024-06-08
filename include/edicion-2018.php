@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.2018.title"]; ?></h1>
 
     <div class="row gy-4 mb-5 justify-content-center">
@@ -23,7 +23,7 @@
         }
       ?>
     </div>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

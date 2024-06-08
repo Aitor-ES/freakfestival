@@ -19,3 +19,33 @@
 .ff-main-gutter {
     --bs-gutter-x: 3rem;
 }
+
+main a, main button, main input, main select, main textarea, main h2, main h3, main h4, main [tabindex="0"] {
+    scroll-margin-top: 80px;
+    scroll-margin-bottom: 100px;
+}
+
+.anchor-link {
+    padding: 0 .175rem;
+    font-weight: 400;
+    color: rgba(var(--ff-scarlet-rgb), 0.5);
+    text-decoration: none;
+    opacity: 0;
+    transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .anchor-link {
+        transition: none
+    }
+}
+
+.anchor-link::after {
+    content: "#"
+}
+
+.anchor-link:focus, .anchor-link:hover, :hover>.anchor-link, :target>.anchor-link {
+    color: var(--ff-scarlet);
+    text-decoration: none;
+    opacity: 1
+}

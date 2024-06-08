@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.maps-of-the-facilities.title"]; ?></h1>
 
     <div class="row justify-content-center gy-5">
@@ -20,7 +20,7 @@
         <img src="/images/maps/2023/Mapa Estibaliz-min.png" alt="" width="100%" height="auto">
       </div>
     </div>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

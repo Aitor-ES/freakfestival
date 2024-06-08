@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.organizers.valinor.title"]; ?></h1>
 
     <div class="row">
@@ -25,7 +25,7 @@
         </ul>
       </div>
     </div>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

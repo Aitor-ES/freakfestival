@@ -4,14 +4,14 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
 
     <p class="lead mb-5"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
 
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
-        <li id="<?php echo $activity->activityName; ?>" class="list-group-item pb-5 mb-5">
+        <li class="list-group-item pb-5 mb-5">
           <div class="row justify-content-center g-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
@@ -21,7 +21,10 @@
             <!-- Activity main content -->
             <div class="col-12 col-lg-6">
               <!-- Activity title -->
-              <h2><?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?></h2>
+              <h2 id="<?php echo $activity->activityName; ?>">
+                <?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>
+                <a class="anchor-link" href="#<?php echo $activity->activityName; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>"></a>
+              </h2>
 
               <!-- Activity type -->
               <p class="lead"><?php echo $lang["lang.activities.$categoryName.$activity->activityName.type"]; ?></p>
@@ -57,7 +60,7 @@
         </li>
       <?php } ?>
     </ul>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

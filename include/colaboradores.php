@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <?php $contributors = json_decode(file_get_contents(__DIR__ . '/colaboradores.json')); ?>
 
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.contributors.title"]; ?></h1>
@@ -50,7 +50,7 @@
         </div>
       <?php } ?>
     </div>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

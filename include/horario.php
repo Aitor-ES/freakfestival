@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <div class="row justify-content-between gy-4 mb-5">
       <div class="col-12 col-lg-auto">
         <h1 class="f-uncial-r mb-0"><?php echo $lang["lang.timetable.title"]; ?></h1>
@@ -27,7 +27,7 @@
         <img src="/images/timetables/Horario freak domingo.png" alt="" width="100%" height="auto">
       </div>
     </div>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->

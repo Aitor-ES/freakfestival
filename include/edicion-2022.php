@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <div class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-5">
     <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.2022.title"]; ?></h1>
 
     <!-- General -->
@@ -91,7 +91,7 @@
     <div class="text-center">
       <iframe id="gallery-video" class="mb-5" src="https://drive.google.com/file/d/1J2vmd-zc02kKfumchDEKKgDNB6eJCGWu/preview" width="640" height="360"></iframe>
     </div>
-  </div>
+  </main>
   <!-- Main End -->
 
   <!-- Footer Start -->
