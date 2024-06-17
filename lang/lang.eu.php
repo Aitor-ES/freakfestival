@@ -156,6 +156,7 @@ $lang = array(
   "lang.activities.organizer.ellaberintodeljuego" => "El laberinto del juego 2.0",
   "lang.activities.organizer.euneiz" => "EUNEIZ Unibertsitea",
   "lang.activities.organizer.hipsteria" => "Hipsteria",
+  "lang.activities.organizer.jose-luis-pastor-diez" => "José Luis Pastor Díez",
   "lang.activities.organizer.kimera" => "Kimera Elkartea",
   "lang.activities.organizer.laura-blanco-villalba-julio-san-roman-cazorla" => "Laura Blanco Villalba, Julio San Román Cazorla",
   "lang.activities.organizer.magic-all-goal" => "Magic All Goal",
@@ -217,6 +218,8 @@ $lang = array(
   "lang.activities.rpg.dune-agentes-imperio.description" => "Etxe bateko agenteak zarete eta Arrakis basamortuko zuen esleipenean espezie gutxi zergatik dagoen ikertu behar duzue. Ordea, Arrakiseko hondarretan barrena egingo duzuen bidaiak era guztietako arriskuak ekarriko dizkizue, Fremen beldurgarrietatik hasi eta hareazko har hilgarrietaraino.",
   "lang.activities.rpg.l5a-introductoria.title" => "La Leyenda de los Cinco Anillos 5.: Sarrerako partida",
   "lang.activities.rpg.l5a-introductoria.description" => "Erdi Aroko Asian girotutako rola, elementu fantastikoekin. Klan nagusietako bost mutil gorte batera joango dira adin-nagusitasuna lortu eta eskubide osoko samurai bihurtzeko. Txapelketa batean trebatzen emandako urteetan lortutako trebetasunak erakutsi beharko dituzte. Txapeldunak ohorea eta aintza lortuko ditu bere klanarentzat, Esmeralda Txapeldun bihurtuz.",
+  "lang.activities.rpg.imperio-rueda.title" => "Imperio de Rueda",
+  "lang.activities.rpg.imperio-rueda.description" => "Imperio de Rueda rol-jokoan hasteko partida.",
 
   "lang.activities.larp.reclutamiento-van-hoff.title" => "Van Hoff konpainiako erreklutamendu postua",
   "lang.activities.larp.reclutamiento-van-hoff.description" => "Van Hoff konpainia handiak errekluta berriak behar ditu bere hurrengo kanpainarako; horregatik, konpainiako kapitainak berak plazak ireki ditu errekluta berrientzat. Hauek entrenamendu martzial eta etiketa entrenamendu bat jasoko dute ikusteko ea beraien bizitza miserableek baliorik duten.",
@@ -245,6 +248,8 @@ $lang = array(
   "lang.activities.workshops.huevo-dragon.description" => "Dragoi-arrautza bat sortu! Tailer ezin hobea familian egiteko.",
   "lang.activities.workshops.varita.title" => "Hagaxka magikoa",
   "lang.activities.workshops.varita.description" => "Sortu zure gustuko hagaxka magikoa!",
+  "lang.activities.workshops.cuernitos.title" => "Cosplay-ean edo rol-jokoan erabiltzeko adartxoak egiteko lantegia",
+  "lang.activities.workshops.cuernitos.description" => "Zenbait materialez osaturiko bi adartxo txiki egiteko lantegia. Sortu, margotu eta bi pintza edo diadema batean jarri, ileari euts diezaioten.",
 
   "lang.activities.tournaments.virus.title" => "Virus-en txapelketa",
   "lang.activities.tournaments.virus.description" => "Karta-joko bat da, eta organo guztiak osasuntsu izatea lortu behar da partida irabazteko.",
@@ -285,8 +290,8 @@ $lang = array(
 
   "lang.activities.book-releases.guerra-autores.title" => "Idazleen gerra!",
   "lang.activities.book-releases.guerra-autores.description" => "Irabazi liburu bat! Proba, galdera eta erokerien lehiaketa honetan, idazleek elkarren aurka lehiatuko dira. Bat egin eta zozketatutako liburuetako bat irabazi ahal izango duzu. Edo, begiratu besterik nahi ez baduzu, gozatu barreekin.",
-  "lang.activities.book-releases.noche-purpura.title" => "Ander Pérezen <cite>La noche púrpura</cite>ren aurkezpena",
-  "lang.activities.book-releases.noche-purpura.description" => "Eleberriaren aurkezpena eta egilearekin solasaldia.",
+  "lang.activities.book-releases.noche-purpura.title" => "Ander Pérezen <cite>La noche púrpura</cite> izeneko beldurrezko eleberriaren aurkezpena",
+  "lang.activities.book-releases.noche-purpura.description" => "Emakume batek bere aita galdu berri du. Hauek izan ziren bere azken hitzak: «zaindu medailoia». Medium batek erantzunak bilatzen dabilen gizon baten bisita jasotzen du. Etxe-andereño berriaren eta  etxezainaren arteko harremana ez da erraza izango. Gure errealitatea beste aldetik bereizten duen errezela urratu egin da. Deskribaezina, ezkutukoa den izua, pitzaduretan zehar zabaltzen ari da. Eta gaueko zerua purpuraz tindatu da.",
 
   "lang.activities.others.disparo-stormtrooper.title" => "Tiroa Stormtrooper-ari",
   "lang.activities.others.disparo-stormtrooper.description" => "Denek, txikiek zein helduek, zorte ona probatu nahi dute pistolekin (Nerf jostailu-marka) gaiztoen irudiei tiro eginez, haiek eraisteko. Beti dago saria. Prezioa euro solidario bat da sei tiroko erronda baterako.",

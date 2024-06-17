@@ -120,6 +120,18 @@
       "participants": "10",
       "age": "6",
       "lang": "es"
+    },
+    {
+      "activityName": "cuernitos",
+      "activityImage": "cuernitos-min.jpg",
+      "organizer": "arkenaya",
+      "organizerImage": "arkenaya-min.jpg",
+      "day": "",
+      "time": "",
+      "duration": "2 h",
+      "participants": "10",
+      "age": "all",
+      "lang": "es"
     }
   ]
 }

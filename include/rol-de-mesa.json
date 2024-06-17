@@ -84,6 +84,17 @@
       "participants": "5",
       "age": "all",
       "lang": "free"
+    },
+    {
+      "activityName": "imperio-rueda",
+      "activityImage": "imperio-rueda-min.jpeg",
+      "organizer": "jose-luis-pastor-diez",
+      "day": "",
+      "time": "",
+      "duration": "2 h",
+      "participants": "6",
+      "age": "all",
+      "lang": "es"
     }
   ]
 }

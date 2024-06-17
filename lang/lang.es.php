@@ -156,6 +156,7 @@ $lang = array(
   "lang.activities.organizer.ellaberintodeljuego" => "El laberinto del juego 2.0",
   "lang.activities.organizer.euneiz" => "Universidad EUNEIZ",
   "lang.activities.organizer.hipsteria" => "Hipsteria",
+  "lang.activities.organizer.jose-luis-pastor-diez" => "José Luis Pastor Díez",
   "lang.activities.organizer.kimera" => "Asociación Kimera",
   "lang.activities.organizer.laura-blanco-villalba-julio-san-roman-cazorla" => "Laura Blanco Villalba, Julio San Román Cazorla",
   "lang.activities.organizer.magic-all-goal" => "Magic All Goal",
@@ -216,6 +217,8 @@ $lang = array(
   "lang.activities.rpg.dune-agentes-imperio.description" => "Sois agentes de una Casa y debéis investigar la escasez de especia en vuestra asignación en el desierto de Arrakis. Sin embargo, el viaje por las arenas de Arrakis os expondrá a todo tipo de peligros, desde los temibles Fremen hasta los letales gusanos de arena.",
   "lang.activities.rpg.l5a-introductoria.title" => "La Leyenda de los Cinco Anillos 5º: Partida introductoria",
   "lang.activities.rpg.l5a-introductoria.description" => "Rol ambientado en una Asia medieval con elementos fantásticos. Cinco chicos de clanes mayores irán a una corte para poder obtener su mayoría de edad y convertirse en samuráis de pleno derecho. Tendrán que demostrar las habilidades obtenidas durante sus años de adiestramiento en un torneo. El campeón obtendrá honor y gloria para su clan, convirtiéndose en el Campeón Esmeralda.",
+  "lang.activities.rpg.imperio-rueda.title" => "Imperio de Rueda",
+  "lang.activities.rpg.imperio-rueda.description" => "Partida de iniciación al juego de rol Imperio de Rueda.",
 
   "lang.activities.larp.reclutamiento-van-hoff.title" => "Puesto de reclutamiento de la compañía Van Hoff",
   "lang.activities.larp.reclutamiento-van-hoff.description" => "La gran compañía Van Hoff necesita nuevos reclutas para su próxima campaña; por ello, el mismísimo capitán de la compañía ha abierto plazas para sus nuevos reclutas. Estos recibirán un entrenamiento marcial y de etiqueta para ver si sus miserables vidas tienen algún valor.",
@@ -244,6 +247,8 @@ $lang = array(
   "lang.activities.workshops.huevo-dragon.description" => "¡Crea un huevo de dragón! Un taller ideal para realizar en familia.",
   "lang.activities.workshops.varita.title" => "Varita mágica",
   "lang.activities.workshops.varita.description" => "¡Crea una varita mágica a tu gusto!",
+  "lang.activities.workshops.cuernitos.title" => "Taller de cuernitos para cosplay o rol en vivo",
+  "lang.activities.workshops.cuernitos.description" => "Taller para hacer dos pequeños cuernitos de varios materiales. Desde crearlos hasta pintarlos y ponerlos en dos pinzas o una diadema para que se sujeten en el pelo.",
 
   "lang.activities.tournaments.virus.title" => "Torneo de Virus",
   "lang.activities.tournaments.virus.description" => "Es un juego de cartas donde se tiene que conseguir tener todos los órganos sanos para ganar la partida.",
@@ -284,8 +289,8 @@ $lang = array(
 
   "lang.activities.book-releases.guerra-autores.title" => "¡Guerra de autores!",
   "lang.activities.book-releases.guerra-autores.description" => "¡Gana un libro! En este concurso de pruebas, preguntas y locuras, los autores se enfrentarán entre ellos. Únete y podrás ganar uno de los libros sorteados. O, si sólo quieres mirar, disfruta de las risas.",
-  "lang.activities.book-releases.noche-purpura.title" => "Presentación de <cite>La noche púrpura</cite> de Ander Pérez",
-  "lang.activities.book-releases.noche-purpura.description" => "Presentación de la novela y charla con el autor.",
+  "lang.activities.book-releases.noche-purpura.title" => "Presentación de la novela de terror <cite>La noche púrpura</cite> de Ander Pérez",
+  "lang.activities.book-releases.noche-purpura.description" => "Una mujer acaba de perder a su padre. Sus últimas palabras: «Protege el medallón». Una médium recibe a un hombre que busca respuestas. La relación de la nueva institutriz con el ama de llaves no será fácil. El velo que separa nuestra realidad del otro lado se ha rasgado. Un horror indescriptible, oculto, acecha a través de las grietas. Y el cielo de la noche se ha teñido de púrpura.",
 
   "lang.activities.others.disparo-stormtrooper.title" => "Disparo al Stormtrooper",
   "lang.activities.others.disparo-stormtrooper.description" => "Todos, tanto pequeños como mayores, quieren probar suerte disparando con pistolas (marca de juguetes Nerf) a figuras de los malos para derribarlos. Siempre hay premio. El precio es un euro solidario para una ronda de seis tiros.",
