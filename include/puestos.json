@@ -31,6 +31,14 @@
       "instagram": ["https://www.instagram.com/bjorntallcrafts"]
     },
     {
+      "activityName": "cerbero",
+      "logo": "cerbero-min.png",
+      "web": "https://www.editorialcerbero.com/",
+      "instagram": ["https://www.instagram.com/editorialcerbero"],
+      "facebook": "https://www.facebook.com/editorialcerbero",
+      "x": "https://twitter.com/edcerbero/"
+    },
+    {
       "activityName": "conplumaypixel",
       "logo": "conplumaypixel-min.jpg",
       "web": "https://conplumaypixel.com/",
@@ -155,6 +163,13 @@
       "activityName": "thegingercrocodile",
       "logo": "thegingercrocodile-min.jpg",
       "instagram": ["https://www.instagram.com/thegingercrocodile"]
+    },
+    {
+      "activityName": "uzanza",
+      "logo": "uzanza-min.png",
+      "web": "https://uzanzaeditorial.com/",
+      "instagram": ["https://www.instagram.com/uzanzaeditorial"],
+      "x": "https://twitter.com/uzanzaeditorial/"
     },
     {
       "activityName": "vilnieblasimaga",
