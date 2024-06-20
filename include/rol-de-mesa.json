@@ -50,6 +50,18 @@
       "lang": "es"
     },
     {
+      "activityName": "alien-diluvio-dioses",
+      "activityImage": "alien-diluvio-dioses-min.jpeg",
+      "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "5",
+      "age": "all",
+      "lang": "es"
+    },
+    {
       "activityName": "cthulhu-margen-tinieblas",
       "activityImage": "cthulhu-margen-tinieblas.png",
       "organizer": "atlas",
@@ -71,6 +83,18 @@
       "duration": "3 h",
       "participants": "5",
       "age": "16",
+      "lang": "es"
+    },
+    {
+      "activityName": "witcher-bestia-villaverde",
+      "activityImage": "witcher-bestia-villaverde-min.jpeg",
+      "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "day": "",
+      "time": "",
+      "duration": "3 h",
+      "participants": "5",
+      "age": "18",
       "lang": "es"
     },
     {
