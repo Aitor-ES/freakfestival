@@ -420,7 +420,7 @@ $lang = array(
   "lang.activities.stands.laurablue.description" => "Laura Blue euskal artista eta ilustratzailea da eta, besteak beste, mundu naturalaren aniztasuna aztertzen du bere ilustrazioen bidez. Aldi berean, ezaugarri eta istorio propioak dituzten izaki originalak sortzen ditu. Ezagutu Lauraren sorkuntzak kalitate handiko inpresioetan edo, nahi baduzu, pegatina artistiko desberdinen bidez.",
   "lang.activities.stands.lykostherium.title" => "Lykostherium",
   "lang.activities.stands.lykostherium.type" => "Marrazkien inprimaketak, giltzatakoak, txapak, pegatinak",
-  "lang.activities.stands.lykostherium.description" => "Nire dendan bideojokoen, fantasiaren, mitologiaren eta serie eta rolen irudi digitalak aurkituko dituzu. Gai bereko beste mota bateko artikuluez gain (giltzatakoak, pegatinak eta txapak).",
+  "lang.activities.stands.lykostherium.description" => "Nire dendan bideojokoen, fantasiaren, mitologiaren, serien eta rolaren irudi digitalak aurkituko dituzu. Gai bereko beste mota bateko artikuluez gain (giltzatakoak, pegatinak eta txapak).",
   "lang.activities.stands.magicallgoal.title" => "Magic All Goal",
   "lang.activities.stands.magicallgoal.type" => "Mahai-jokoak, rol-jokoak, estrategia-jokoak eta jolasetarako osagarriak",
   "lang.activities.stands.magicallgoal.description" => "Magic All Goal Vitoria-Gasteizko Fermin Lasuen kalean dagoen eta estrategia jokoetan berezita den denda da. Gainera, txapelketa mordo eta garrantzitsuak maiz ospatzen ditu. Joku edo osagarriren bat behar baduzue, laguntzen saiatuko gara. Baita, edozein joku probatu nahi baduzue, Magic All Goal-eko jolas egiteko aretoan partidak egin ditzakezue!",
@@ -443,7 +443,7 @@ $lang = array(
   "lang.activities.stands.uzanza.type" => "Liburuak, pegatinak eta giltzatakoak",
   "lang.activities.stands.uzanza.description" => "Fantasiazko, beldurrezko eta misteriozko liburuen argitaletxe arabarra, Ander Pérez idazle bilbotarraren azken beldurrezko eleberriarekin, <cite>La noche púrpura</cite>.",
   "lang.activities.stands.vilnieblasimaga.title" => "Vilniebla y Simaga",
-  "lang.activities.stands.vilnieblasimaga.type" => "<cite>El aquelarre de Celia</cite> idatzi duten bi neba-arrebak.",
+  "lang.activities.stands.vilnieblasimaga.type" => "<cite>El aquelarre de Celia</cite> idatzi duten bi neba-arrebak",
   "lang.activities.stands.vilnieblasimaga.description" => "Zoritxarrean eroritako aktore bat Galiziako kostaldeko etxe batean sartu da bere hurrengo paperaren azalean sartzeko: Morgana sorgina.",
 
   "lang.activities.hotels.title" => "Non lo egin",
