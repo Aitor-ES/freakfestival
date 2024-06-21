@@ -129,7 +129,7 @@ $lang = array(
   "lang.activities.others.title" => "Beste jarduerak",
   "lang.activities.others.description" => "Beste zerbaiten bila? Hemen dituzu gure jarduerak osatzeko proposamen gehiago.",
 
-  "lang.activities.callout.registration.details" => "Jardueretarako izen-emateak aurrez aurrekoak izango dira, antolatzaileen informazio-postuan Almudena Cid aretoan edo, mahai-joko eta txapelketetarako, ludotekaren postuan Green Capital aretoan. Izen-emate bakoitza jarduera egingo den goiz edo arratsalde berean irekiko da, ordutegi hauen arabera:",
+  "lang.activities.callout.registration.details" => "Jardueretarako izen-emateak aurrez aurrekoak izango dira, antolatzaileen informazio-postuan Almudena Cid aretoan edo, mahai-joko eta txapelketen kasuan, ludotekaren postuan Green Capital aretoan. Izen-emate bakoitza jarduera egingo den goiz edo arratsalde berean irekiko da, ordutegi hauen arabera:",
   "lang.activities.callout.registration.details.list.friday" => "Ostiralean: 17:30etik aurrera",
   "lang.activities.callout.registration.details.list.saturday.morning" => "Larunbat goizean: 10:00etatik aurrera",
   "lang.activities.callout.registration.details.list.saturday.afternoon" => "Larunbat arratsaldean: 15:00etatik aurrera",
