@@ -10,7 +10,17 @@
     <p class="lead mb-5"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
 
     <?php if (in_array($categoryName, ["talks-exhibitions", "book-releases"])) { ?>
-      <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.$categoryName.callout"]; ?></div>
+      <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.callout.registration.open"]; ?></div>
+    <?php } else { ?>
+      <div class="callout callout-info mb-5">
+        <p><?php echo $lang["lang.activities.callout.registration.details"]; ?></p>
+        <ul>
+          <li><?php echo $lang["lang.activities.callout.registration.details.list.friday"]; ?></li>
+          <li><?php echo $lang["lang.activities.callout.registration.details.list.saturday.morning"]; ?></li>
+          <li><?php echo $lang["lang.activities.callout.registration.details.list.saturday.afternoon"]; ?></li>
+          <li><?php echo $lang["lang.activities.callout.registration.details.list.sunday"]; ?></li>
+        </ul>
+      </div>
     <?php } ?>
 
     <ul class="list-group list-group-flush">
