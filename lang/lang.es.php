@@ -129,7 +129,7 @@ $lang = array(
   "lang.activities.others.title" => "Otras actividades",
   "lang.activities.others.description" => "¿Buscas algo diferente? Aquí tienes aún más propuestas para completar nuestra variedad de actividades.",
 
-  "lang.activities.callout.registration.details" => "Las inscripciones a las actividades serán presenciales, y cada una se abrirá la misma mañana o tarde en la que vaya a tener lugar la actividad, según estos horarios:",
+  "lang.activities.callout.registration.details" => "Las inscripciones a las actividades serán presenciales, en el puesto de información de la organización en la sala Almudena Cid o, para los juegos de mesa y los torneos, en el puesto de la ludoteca en la sala Green Capital. Cada inscripción se abrirá en la misma mañana o tarde en la que vaya a tener lugar la actividad, según estos horarios:",
   "lang.activities.callout.registration.details.list.friday" => "Viernes: desde las 17:30",
   "lang.activities.callout.registration.details.list.saturday.morning" => "Sábado por la mañana: desde las 10:00",
   "lang.activities.callout.registration.details.list.saturday.afternoon" => "Sábado por la tarde: desde las 15:00",

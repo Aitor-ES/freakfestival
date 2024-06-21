@@ -9,7 +9,7 @@
 
     <p class="lead mb-5"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
 
-    <?php if (in_array($categoryName, ["talks-exhibitions", "book-releases"])) { ?>
+    <?php if (in_array($categoryName, ["talks-exhibitions", "book-releases", "others"])) { ?>
       <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.callout.registration.open"]; ?></div>
     <?php } else { ?>
       <div class="callout callout-info mb-5">
