@@ -6,8 +6,6 @@
       "activityImage": "ludoteca-min.jpg",
       "organizer": "valinor",
       "organizerImage": "valinor.svg",
-      "day": "",
-      "time": "",
       "duration": "continuous",
       "participants": "no-limit",
       "age": "all",
@@ -18,8 +16,12 @@
       "activityImage": "mesozoico.jpg",
       "organizer": "mesozoico",
       "organizerImage": "mesozoico.jpg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "18:00 - 21:00"
+        }
+      ],
       "duration": "3 h",
       "participants": "4",
       "age": "12",
@@ -30,8 +32,12 @@
       "activityImage": "pole-position.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:30 - 18:00"
+        }
+      ],
       "duration": "3 h",
       "participants": "5",
       "age": "14",
@@ -42,8 +48,12 @@
       "activityImage": "ierusalem-anno-domini.jpg",
       "organizer": "atlas",
       "organizerImage": "atlas-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "10:30 - 13:30"
+        }
+      ],
       "duration": "2 h",
       "participants": "4",
       "age": "14",
@@ -54,8 +64,12 @@
       "activityImage": "zombicide.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:00 - 18:00"
+        }
+      ],
       "duration": "3 h",
       "participants": "6",
       "age": "14",
@@ -65,9 +79,16 @@
       "activityName": "euneiz",
       "activityImage": "euneiz.svg",
       "organizer": "euneiz",
-      "day": "",
-      "time": "",
-      "duration": "continuous",
+      "timetable": [
+        {
+          "day": "friday",
+          "time": "18:00 - 21:00"
+        },
+        {
+          "day": "saturday",
+          "time": "18:00 - 21:00"
+        }
+      ],
       "participants": "10",
       "age": "all",
       "lang": "es"
@@ -77,8 +98,12 @@
       "activityImage": "wargames-done-right.jpg",
       "organizer": "kimera",
       "organizerImage": "kimera-min.jpg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:00 - 18:00"
+        }
+      ],
       "duration": "3 h",
       "participants": "4",
       "age": "all",
@@ -89,8 +114,12 @@
       "activityImage": "flamecraft.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "sunday",
+          "time": "10:30 - 11:30"
+        }
+      ],
       "duration": "1 h",
       "participants": "5",
       "age": "all",
@@ -101,8 +130,12 @@
       "activityImage": "meepleland.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "friday",
+          "time": "19:30 - 20:30"
+        }
+      ],
       "duration": "1 h",
       "participants": "4",
       "age": "10",
@@ -113,8 +146,12 @@
       "activityImage": "terraforming-mars-dados.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "friday",
+          "time": "18:00 - 19:00"
+        }
+      ],
       "duration": "45 min",
       "participants": "4",
       "age": "14",
@@ -124,8 +161,16 @@
       "activityName": "monstruitos",
       "activityImage": "monstruitos.png",
       "organizer": "borja",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "18:00 - 21:00"
+        },
+        {
+          "day": "sunday",
+          "time": "10:30 - 13:30"
+        }
+      ],
       "duration": "3 h",
       "participants": "4",
       "age": "8",
@@ -136,8 +181,12 @@
       "activityImage": "cartas.jpg",
       "organizer": "magic-all-goal",
       "organizerImage": "magicallgoal-min.PNG",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "friday",
+          "time": "18:00 - 21:00"
+        }
+      ],
       "duration": "continuous",
       "participants": "no-limit",
       "age": "all",

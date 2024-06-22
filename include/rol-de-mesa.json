@@ -6,8 +6,12 @@
       "activityImage": "d&d-devorador-esperanza.png",
       "organizer": "valinor",
       "organizerImage": "valinor.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:30 - 20:30"
+        }
+      ],
       "duration": "5 h",
       "participants": "4",
       "age": "16",
@@ -18,8 +22,12 @@
       "activityImage": "errege-herdoilduaren-dorrea.png",
       "organizer": "rolariak",
       "organizerImage": "rolariak-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "sunday",
+          "time": "10:30 - 13:30"
+        }
+      ],
       "duration": "3 h",
       "participants": "6",
       "age": "10",
@@ -30,8 +38,12 @@
       "activityImage": "helmuga.jpg",
       "organizer": "rolariak",
       "organizerImage": "rolariak-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:30 - 18:00"
+        }
+      ],
       "duration": "2 h 30 min",
       "participants": "4",
       "age": "8",
@@ -42,8 +54,12 @@
       "activityImage": "valhalla.png",
       "organizer": "valhalla",
       "organizerImage": "valhalla-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "12:00 - 14:00"
+        }
+      ],
       "duration": "2 h",
       "participants": "7",
       "age": "all",
@@ -54,8 +70,12 @@
       "activityImage": "alien-diluvio-dioses-min.jpeg",
       "organizer": "valinor",
       "organizerImage": "valinor.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "10:30 - 13:30"
+        }
+      ],
       "duration": "3 h",
       "participants": "5",
       "age": "all",
@@ -66,8 +86,12 @@
       "activityImage": "cthulhu-margen-tinieblas.png",
       "organizer": "atlas",
       "organizerImage": "atlas-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "18:00 - 21:00"
+        }
+      ],
       "duration": "3 h",
       "participants": "5",
       "age": "16",
@@ -78,8 +102,12 @@
       "activityImage": "dune-agentes-imperio.png",
       "organizer": "atlas",
       "organizerImage": "atlas-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "sunday",
+          "time": "10:30 - 13:30"
+        }
+      ],
       "duration": "3 h",
       "participants": "5",
       "age": "16",
@@ -90,8 +118,12 @@
       "activityImage": "witcher-bestia-villaverde-min.jpeg",
       "organizer": "valinor",
       "organizerImage": "valinor.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:30 - 18:30"
+        }
+      ],
       "duration": "3 h",
       "participants": "5",
       "age": "18",
@@ -102,8 +134,12 @@
       "activityImage": "l5a-introductoria.PNG",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "friday",
+          "time": "18:00 - 21:00"
+        }
+      ],
       "duration": "3 h 30 min",
       "participants": "5",
       "age": "all",
@@ -113,8 +149,12 @@
       "activityName": "imperio-rueda",
       "activityImage": "imperio-rueda-min.jpeg",
       "organizer": "jose-luis-pastor-diez",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "friday",
+          "time": "18:30 - 20:30"
+        }
+      ],
       "duration": "2 h",
       "participants": "6",
       "age": "all",

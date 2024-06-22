@@ -6,8 +6,12 @@
       "activityImage": "dados-tinta.png",
       "organizer": "laura-blanco-villalba-julio-san-roman-cazorla",
       "organizerImage": "valhalla-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:30 - 16:30"
+        }
+      ],
       "duration": "1 h",
       "participants": "no-limit",
       "age": "all",
@@ -18,8 +22,12 @@
       "activityImage": "cosplayer.JPG",
       "organizer": "cosdaimon",
       "organizerImage": "cosdaimon-min.jpg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "11:30 - 12:00"
+        }
+      ],
       "duration": "30 min",
       "participants": "no-limit",
       "age": "all",
@@ -29,8 +37,12 @@
       "activityName": "torneo-softcombat",
       "activityImage": "torneo-softcombat.png",
       "organizer": "van-hoff-navalarp",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "sunday",
+          "time": "12:30 - 13:30"
+        }
+      ],
       "duration": "1 h",
       "participants": "16",
       "age": "all",
@@ -40,8 +52,12 @@
       "activityName": "actuar-concurso-cosplay",
       "activityImage": "actuar-concurso-cosplay.jpeg",
       "organizer": "cristinasalaslopez",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "12:00 - 13:00"
+        }
+      ],
       "duration": "40 min",
       "participants": "no-limit",
       "age": "all",

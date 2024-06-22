@@ -136,6 +136,11 @@ $lang = array(
   "lang.activities.callout.registration.details.list.sunday" => "Igandean: 10:00etatik aurrera",
   "lang.activities.callout.registration.open" => "Jarduera hauek ez dute aurretiko izen-ematerik behar. Bertaratzen diren guztientzat irekia da.",
 
+  "lang.activities.timetable.day.friday" => "Ostirala, 28",
+  "lang.activities.timetable.day.saturday" => "Larunbata, 29",
+  "lang.activities.timetable.day.sunday" => "Igandea, 30",
+  "lang.activities.timetable.continuous" => "Jarraitua",
+
   "lang.activities.participants" => "parte-hartzaile",
   "lang.activities.participants.no-limit" => "Mugarik ez",
 

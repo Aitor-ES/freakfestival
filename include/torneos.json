@@ -6,8 +6,12 @@
       "activityImage": "virus.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "20:00 - 21:00"
+        }
+      ],
       "duration": "1 h",
       "participants": "18",
       "age": "all",
@@ -17,8 +21,12 @@
       "activityName": "killteam",
       "activityImage": "killteam.png",
       "organizer": "nexo",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:00 - 21:00"
+        }
+      ],
       "duration": "6 h",
       "participants": "12",
       "age": "all",
@@ -29,8 +37,12 @@
       "activityImage": "catan.jpg",
       "organizer": "aventum",
       "organizerImage": "aventum-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "10:30 - 13:30"
+        }
+      ],
       "duration": "3 h",
       "participants": "16",
       "age": "all",
@@ -41,8 +53,12 @@
       "activityImage": "carcassonne.jpg",
       "organizer": "aventum",
       "organizerImage": "aventum-min.png",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "sunday",
+          "time": "10:30 - 13:30"
+        }
+      ],
       "duration": "3 h",
       "participants": "16",
       "age": "all",
@@ -53,8 +69,12 @@
       "activityImage": "tuki.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:00 - 16:00"
+        }
+      ],
       "duration": "1 h",
       "participants": "9",
       "age": "all",
@@ -65,8 +85,12 @@
       "activityImage": "lorcana.jpg",
       "organizer": "omega",
       "organizerImage": "omega-min.jpg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "15:00 - 19:00"
+        }
+      ],
       "duration": "4 h",
       "participants": "16",
       "age": "all",
@@ -77,8 +101,12 @@
       "activityImage": "codigo-secreto.jpg",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "sunday",
+          "time": "12:00 - 13:30"
+        }
+      ],
       "duration": "1 h 15 min",
       "participants": "16",
       "age": "all",
@@ -89,8 +117,12 @@
       "activityImage": "star-wars-unlimited.jpg",
       "organizer": "hipsteria",
       "organizerImage": "hipsteria.svg",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "10:00 - 14:30"
+        }
+      ],
       "duration": "5 h",
       "participants": "16",
       "age": "14",
@@ -101,8 +133,12 @@
       "activityImage": "magic.JPG",
       "organizer": "magic-all-goal",
       "organizerImage": "magicallgoal-min.PNG",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "sunday",
+          "time": "10:00 - 14:00"
+        }
+      ],
       "duration": "5 h",
       "participants": "16",
       "age": "all",
@@ -113,8 +149,12 @@
       "activityImage": "yugioh.jpg",
       "organizer": "magic-all-goal",
       "organizerImage": "magicallgoal-min.PNG",
-      "day": "",
-      "time": "",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "10:00 - 15:00"
+        }
+      ],
       "duration": "5 h",
       "participants": "16",
       "age": "all",

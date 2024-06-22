@@ -136,6 +136,11 @@ $lang = array(
   "lang.activities.callout.registration.details.list.sunday" => "Domingo: desde las 10:00",
   "lang.activities.callout.registration.open" => "Estas actividades no requieren de inscripción previa. Son abiertas a todos los asistentes que se acerquen.",
 
+  "lang.activities.timetable.day.friday" => "Viernes, 28",
+  "lang.activities.timetable.day.saturday" => "Sábado, 29",
+  "lang.activities.timetable.day.sunday" => "Domingo, 30",
+  "lang.activities.timetable.continuous" => "Continua",
+
   "lang.activities.participants" => "participantes",
   "lang.activities.participants.no-limit" => "Sin límite",
 

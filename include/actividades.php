@@ -41,14 +41,25 @@
               </h2>
 
               <!-- Activity info -->
-              <div class="row row-cols-3 text-center gy-4 mb-4">
+              <div class="row row-cols-2 row-cols-xl-4 text-center gy-4 mb-4">
                 <!-- Activity date -->
-                <!-- <div class="col d-flex flex-column align-items-center">
-                  <i class="bi bi-calendar-event fs-1 text-ffscarlet"></i>
-                  <?php echo $activity->day ?>
-                  <br>
-                  <?php echo $activity->time ?>
-                </div> -->
+                <div class="col d-flex flex-column align-items-center">
+                  <i class="bi bi-clock fs-1 text-ffscarlet"></i>
+                  <?php
+                    if (property_exists($activity, 'timetable')) {
+                      foreach ($activity->timetable as $dayTime) { ?>
+                    <div>
+                      <?php echo $lang["lang.activities.timetable.day.$dayTime->day"]; ?>
+                      <br>
+                      <?php echo "$dayTime->time"; ?>
+                    </div>
+                  <?php
+                      }
+                    } else {
+                      echo $lang["lang.activities.timetable.continuous"];
+                    }
+                  ?>
+                </div>
 
                 <!-- Activity seats -->
                 <div class="col d-flex flex-column align-items-center">
