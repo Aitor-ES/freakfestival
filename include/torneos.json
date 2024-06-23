@@ -15,7 +15,8 @@
       "duration": "1 h",
       "participants": "18",
       "age": "all",
-      "lang": "es"
+      "lang": "es",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "killteam",
@@ -30,7 +31,8 @@
       "duration": "6 h",
       "participants": "12",
       "age": "all",
-      "lang": "es"
+      "lang": "es",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "catan",
@@ -46,7 +48,8 @@
       "duration": "3 h",
       "participants": "16",
       "age": "all",
-      "lang": "es"
+      "lang": "es",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "carcassonne",
@@ -62,7 +65,8 @@
       "duration": "3 h",
       "participants": "16",
       "age": "all",
-      "lang": "es"
+      "lang": "es",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "tuki",
@@ -78,7 +82,8 @@
       "duration": "1 h",
       "participants": "9",
       "age": "all",
-      "lang": "es"
+      "lang": "es",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "lorcana",
@@ -94,7 +99,8 @@
       "duration": "4 h",
       "participants": "16",
       "age": "all",
-      "lang": "both"
+      "lang": "both",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "codigo-secreto",
@@ -110,7 +116,8 @@
       "duration": "1 h 15 min",
       "participants": "16",
       "age": "all",
-      "lang": "es"
+      "lang": "es",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "star-wars-unlimited",
@@ -126,7 +133,8 @@
       "duration": "5 h",
       "participants": "16",
       "age": "14",
-      "lang": "both"
+      "lang": "both",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "magic",
@@ -142,7 +150,8 @@
       "duration": "5 h",
       "participants": "16",
       "age": "all",
-      "lang": "free"
+      "lang": "free",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     },
     {
       "activityName": "yugioh",
@@ -158,7 +167,8 @@
       "duration": "5 h",
       "participants": "16",
       "age": "all",
-      "lang": "free"
+      "lang": "free",
+      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
     }
   ]
 }
