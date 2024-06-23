@@ -262,7 +262,7 @@ $lang = array(
   "lang.activities.workshops.huevo-dragon.description" => "Dragoi-arrautza bat sortu! Tailer ezin hobea familian egiteko.",
   "lang.activities.workshops.varita.title" => "Hagaxka magikoa",
   "lang.activities.workshops.varita.description" => "Sortu zure gustuko hagaxka magikoa!",
-  "lang.activities.workshops.cuernitos.title" => "Cosplay-ean edo rol-jokoan erabiltzeko adartxoak egiteko lantegia",
+  "lang.activities.workshops.cuernitos.title" => "Cosplay-ean edo rol-jokoan erabiltzeko adartxoak",
   "lang.activities.workshops.cuernitos.description" => "Zenbait materialez osaturiko bi adartxo txiki egiteko lantegia. Sortu, margotu eta bi pintza edo diadema batean jarri, ileari euts diezaioten.",
 
   "lang.activities.tournaments.virus.title" => "Virus-en txapelketa",
