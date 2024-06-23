@@ -54,6 +54,10 @@
                 <?php if (property_exists($activity, 'x')) { ?>
                   <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->x; ?>" target="_blank"><i class="bi bi-twitter-x"></i></a></li>
                 <?php } ?>
+
+                <?php if (property_exists($activity, 'discord')) { ?>
+                  <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="<?php echo $activity->x; ?>" target="_blank"><i class="bi bi-discord"></i></a></li>
+                <?php } ?>
               </ul>
             </div>
           </div>
