@@ -6,7 +6,6 @@
       "activityImage": "disparo-stormtrooper.jpg",
       "organizer": "ordenderevan",
       "organizerImage": "ordenderevan-min.png",
-      "duration": "continuous",
       "participants": "no-limit",
       "age": "all",
       "lang": "es"
@@ -26,7 +25,12 @@
       "activityImage": "caza-tesoro.png",
       "organizer": "valhalla",
       "organizerImage": "valhalla-min.png",
-      "duration": "1 h",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "17:30"
+        }
+      ],
       "participants": "no-limit",
       "age": "all",
       "lang": "es"
@@ -42,7 +46,6 @@
           "time": "11:30 - 12:00"
         }
       ],
-      "duration": "30 min",
       "participants": "no-limit",
       "age": "all",
       "lang": "es"
