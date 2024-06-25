@@ -23,6 +23,8 @@
       </div>
     <?php } ?>
 
+    <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.callout.children"]; ?></div>
+
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
         <li class="list-group-item pb-5 mb-5">

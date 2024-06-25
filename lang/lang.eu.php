@@ -135,6 +135,7 @@ $lang = array(
   "lang.activities.callout.registration.details.list.saturday.afternoon" => "Larunbat arratsaldean: 15:00etatik aurrera",
   "lang.activities.callout.registration.details.list.sunday" => "Igandean: 10:00etatik aurrera",
   "lang.activities.callout.registration.open" => "Jarduera hauek ez dute aurretiko izen-ematerik behar. Bertaratzen diren guztientzat irekia da.",
+  "lang.activities.callout.children" => "Kontrakoa adierazten ez bada, jardueretan parte hartzen duten 12 urtetik beherako guztiek heldu arduradun batek lagunduta egin behar dute.",
 
   "lang.activities.timetable.day.friday" => "Ostirala, 28",
   "lang.activities.timetable.day.saturday" => "Larunbata, 29",
