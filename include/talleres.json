@@ -176,6 +176,26 @@
       "participants": "10",
       "age": "all",
       "lang": "es"
+    },
+    {
+      "activityName": "vasos",
+      "activityImage": "vasos.webp",
+      "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "17:00 - 19:00"
+        },
+        {
+          "day": "sunday",
+          "time": "10:00 - 12:00"
+        }
+      ],
+      "duration": "2 h",
+      "participants": "24",
+      "age": "all",
+      "lang": "es"
     }
   ]
 }

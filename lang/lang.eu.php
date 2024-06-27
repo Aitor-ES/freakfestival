@@ -265,6 +265,8 @@ $lang = array(
   "lang.activities.workshops.varita.description" => "Sortu zure gustuko hagaxka magikoa!",
   "lang.activities.workshops.cuernitos.title" => "Cosplay-ean edo rol-jokoan erabiltzeko adartxoak",
   "lang.activities.workshops.cuernitos.description" => "Zenbait materialez osaturiko bi adartxo txiki egiteko lantegia. Sortu, margotu eta bi pintza edo diadema batean jarri, ileari euts diezaioten.",
+  "lang.activities.workshops.vasos.title" => "Edalontziak margotzea",
+  "lang.activities.workshops.vasos.description" => "Edalontzi bat apaindu zure diseinu gogokoenekin eta eraman ezazu Freak Festivalaren oroitzapen iraunkor bat: beti eduki edo oparitu nahi izan duzun katilu edo edalontzi hori. Askatu zure irudimena eta sormena gure tailer ezagunenetako batean!",
 
   "lang.activities.tournaments.virus.title" => "Virus-en txapelketa",
   "lang.activities.tournaments.virus.description" => "Karta-joko bat da, eta organo guztiak osasuntsu izatea lortu behar da partida irabazteko.",

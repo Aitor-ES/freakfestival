@@ -264,6 +264,8 @@ $lang = array(
   "lang.activities.workshops.varita.description" => "¡Crea una varita mágica a tu gusto!",
   "lang.activities.workshops.cuernitos.title" => "Cuernitos para cosplay o rol en vivo",
   "lang.activities.workshops.cuernitos.description" => "Taller para hacer dos pequeños cuernitos de varios materiales. Desde crearlos hasta pintarlos y ponerlos en dos pinzas o una diadema para que se sujeten en el pelo.",
+  "lang.activities.workshops.vasos.title" => "Pintura de vasos",
+  "lang.activities.workshops.vasos.description" => "Decora un vaso con tus diseños favoritos y llévate un recuerdo permanente del Freak Festival: esa taza o vaso que siempre quisiste tener o regalar. ¡Libera tu imaginación y tu creatividad en uno de nuestros talleres más populares!",
 
   "lang.activities.tournaments.virus.title" => "Torneo de Virus",
   "lang.activities.tournaments.virus.description" => "Es un juego de cartas donde se tiene que conseguir tener todos los órganos sanos para ganar la partida.",
