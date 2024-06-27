@@ -4,10 +4,10 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "mapas-recinto";
-      $title = $lang["lang.head.title.mapas-recinto"];
+      $curPageName = "salas";
+      $title = $lang["lang.head.title.salas"];
       require("include/head.php");
     ?>
   </head>
-  <?php require("include/mapas-recinto.php"); ?>
+  <?php require("include/salas.php"); ?>
 </html>

@@ -28,18 +28,18 @@
             </li>
 
             <!-- Programa -->
-            <!-- <li class="nav-item dropdown">
+            <li class="nav-item dropdown">
               <a class="nav-link fw-bold text-uppercase text-lg-center dropdown-toggle
-              <?php if ($curPageName == "horario" || $curPageName == "mapas-recinto") echo "active\" aria-current=\"page"; ?>"
+              <?php if ($curPageName == "horario" || $curPageName == "salas") echo "active\" aria-current=\"page"; ?>"
               href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <?php echo $lang["lang.header.program.2023"]; ?>
+                <?php echo $lang["lang.header.program"]; ?>
               </a>
 
               <ul class="dropdown-menu rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-program">
                 <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".horario"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".mapas-recinto"]; ?>.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
+                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".salas"]; ?>.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
               </ul>
-            </li> -->
+            </li>
 
             <!-- Actividades -->
             <li class="nav-item dropdown">

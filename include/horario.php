@@ -10,9 +10,15 @@
         <h1 class="f-uncial-r mb-0"><?php echo $lang["lang.timetable.title"]; ?></h1>
       </div>
 
+      <div class="col-12 col-lg-auto ms-auto">
+        <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="/docs/Horarios.pdf" role="button">
+          <?php echo $lang["lang.timetable.download-timetable"]; ?>
+        </a>
+      </div>
+
       <div class="col-12 col-lg-auto">
-        <a class="btn btn-outline-ffscarlet w-100" href="/docs/2023/Horario de actividades - Freak Festival 2023.pdf" role="button">
-        <?php echo $lang["lang.timetable.download-as-list"]; ?>
+        <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="https://drive.google.com/drive/folders/1YTU8JnlwXyX6uIaIsA5PFKwOoXLbZ2E5?usp=drive_link" role="button">
+          <?php echo $lang["lang.timetable.download-list"]; ?>
         </a>
       </div>
     </div>
@@ -20,11 +26,15 @@
     <!-- Horario -->
     <div class="row justify-content-center gy-5">
       <div class="col-12 col-lg-10">
-        <img src="/images/timetables/Horario freak sabado.png" alt="" width="100%" height="auto">
+        <img src="/images/timetables/Horarios-min.png" alt="" width="100%" height="auto">
       </div>
 
       <div class="col-12 col-lg-10">
-        <img src="/images/timetables/Horario freak domingo.png" alt="" width="100%" height="auto">
+        <img src="/images/timetables/Horarios2-min.png" alt="" width="100%" height="auto">
+      </div>
+
+      <div class="col-12 col-lg-10">
+        <img src="/images/timetables/Horarios3-min.png" alt="" width="100%" height="auto">
       </div>
     </div>
   </main>

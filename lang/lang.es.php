@@ -15,7 +15,7 @@ $lang = array(
   "lang.head.title.index" => "Inicio",
   "lang.head.title.registrations-applications" => "Inscripciones y candidaturas",
   "lang.head.title.invitados" => "Invitados",
-  "lang.head.title.mapas-recinto" => "Mapas del recinto",
+  "lang.head.title.salas" => "Salas",
   "lang.head.title.organizadores" => "Organizadores",
   "lang.head.title.name" => "Freak Festival: Juegos de mesa, Rol, Talleres y Artesanía en Vitoria-Gasteiz",
 
@@ -40,7 +40,7 @@ $lang = array(
   "lang.header.about-us" => "Sobre nosotros",
   "lang.header.organizers" => "Organizadores",
   "lang.header.partners" => "Colaboradores",
-  "lang.header.maps-of-the-facilities" => "Mapas del recinto",
+  "lang.header.maps-of-the-facilities" => "Salas",
   "lang.header.editions" => "Ediciones anteriores",
   "lang.header.editions.2024" => "Freak Festival 2024",
   "lang.header.editions.2023" => "Freak Festival 2023",
@@ -335,6 +335,10 @@ $lang = array(
   "lang.registrations-applications.artists" => "Candidatura de artistas y artesanos",
   "lang.registrations-applications.shops" => "Candidatura de tiendas, marcas y editoriales",
 
+  "lang.timetable.title" => "Horario",
+  "lang.timetable.download-timetable" => "Descargar horario en PDF",
+  "lang.timetable.download-list" => "Descargar lista de actividades en PDF",
+
   "lang.guests.title" => "Invitados",
   "lang.guests.title.2022" => "Invitados 2022",
   "lang.guests.title.2023" => "Invitados 2023",
@@ -471,9 +475,7 @@ $lang = array(
   "lang.activities.hotels.ibisbudget.title" => "Ibis Budget",
   "lang.activities.hotels.ibisbudget.address" => "Calle Martín de Saracíbar, 2, 01010 Vitoria-Gasteiz, Álava",
 
-  "lang.maps-of-the-facilities.title" => "Mapas del recinto",
-  "lang.maps-of-the-facilities.room.olarizu" => "Sala Olárizu",
-  "lang.maps-of-the-facilities.room.estibaliz" => "Sala Estíbaliz",
+  "lang.maps-of-the-facilities.title" => "Salas",
 
   "lang.organizers.valinor.title" => "Asociación Cultural Valinor",
   "lang.organizers.valinor.description.1" => "¡Hola! Somos la Asociación Valinor y nos dedicamos a los juegos de mesa, el rol, las manualidades, y todo el abanico de hobbies del mundo friki. Estamos establecidos en Vitoria-Gasteiz desde hace más de 15 años, durante los que hemos ido ampliando la familia y mejorando poco a poco.",

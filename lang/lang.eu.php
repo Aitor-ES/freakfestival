@@ -15,7 +15,7 @@ $lang = array(
   "lang.head.title.index" => "Hasiera",
   "lang.head.title.registrations-applications" => "Izen-emateak eta hautagaitzak",
   "lang.head.title.invitados" => "Gonbidatuak",
-  "lang.head.title.mapas-recinto" => "Esparruaren mapak",
+  "lang.head.title.salas" => "Aretoak",
   "lang.head.title.organizadores" => "Antolatzaileak",
   "lang.head.title.name" => "Freak Festival: Mahai-jokoak, Rola, Tailerrak eta Artisautza Vitoria-Gasteizen",
 
@@ -40,7 +40,7 @@ $lang = array(
   "lang.header.about-us" => "Guri buruz",
   "lang.header.organizers" => "Antolatzaileak",
   "lang.header.partners" => "Laguntzaileak",
-  "lang.header.maps-of-the-facilities" => "Esparruaren mapak",
+  "lang.header.maps-of-the-facilities" => "Aretoak",
   "lang.header.editions" => "Aurreko edizioak",
   "lang.header.editions.2024" => "Freak Festival 2024",
   "lang.header.editions.2023" => "Freak Festival 2023",
@@ -336,6 +336,10 @@ $lang = array(
   "lang.registrations-applications.artists" => "Artista eta artisauen hautagaitza",
   "lang.registrations-applications.shops" => "Denda, marka eta argitaletxeen hautagaitza",
 
+  "lang.timetable.title" => "Ordutegia",
+  "lang.timetable.download-timetable" => "Deskargatu PDF ordutegiarekin",
+  "lang.timetable.download-list" => "Deskargatu PDF jardueren listarekin",
+
   "lang.guests.title" => "Gonbidatuak",
   "lang.guests.title.2022" => "Gonbidatuak 2022",
   "lang.guests.title.2023" => "Gonbidatuak 2023",
@@ -476,9 +480,7 @@ $lang = array(
   "lang.activities.hotels.ibisbudget.title" => "Ibis Budget",
   "lang.activities.hotels.ibisbudget.address" => "Martin de Saracibar Kalea, 2, 01010 Vitoria-Gasteiz, Araba",
 
-  "lang.maps-of-the-facilities.title" => "Esparruaren mapak",
-  "lang.maps-of-the-facilities.room.olarizu" => "Olarizu aretoa",
-  "lang.maps-of-the-facilities.room.estibaliz" => "Estibaliz aretoa",
+  "lang.maps-of-the-facilities.title" => "Aretoak",
 
   "lang.organizers.valinor.title" => "Valinor Kultura-Elkartea",
   "lang.organizers.valinor.description.1" => "Kaixo! Valinor Elkartea gara eta mahai eta rol joko, eskulan eta mundu frikiko hobby askotara dedikatzen dugu gure denbora. Vitoria-Gasteizen 15 urte baino gehiago daramatzagu, gure familia gutxinaka handituz eta hobetuz.",

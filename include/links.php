@@ -2,7 +2,7 @@
 $links = array(
   "es.index" => "index",
   "es.horario" => "horario",
-  "es.mapas-recinto" => "mapas-recinto",
+  "es.salas" => "salas",
   "es.juegos-de-mesa" => "juegos-de-mesa",
   "es.torneos" => "torneos",
   "es.rol-de-mesa" => "rol-de-mesa",
@@ -24,7 +24,7 @@ $links = array(
 
   "eu.index" => "index",
   "eu.horario" => "ordutegia",
-  "eu.mapas-recinto" => "esparruaren-mapak",
+  "eu.salas" => "aretoak",
   "eu.juegos-de-mesa" => "mahai-jokoak",
   "eu.torneos" => "txapelketak",
   "eu.rol-de-mesa" => "mahai-rola",

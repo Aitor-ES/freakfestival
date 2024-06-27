@@ -9,15 +9,15 @@
 
     <div class="row justify-content-center gy-5">
       <div class="col-12 col-lg-10">
-        <img src="/images/maps/2023/Mapa Olarizu-min.png" alt="" width="100%" height="auto">
+        <img src="/images/maps/2024/Mapa Almudena Cid-min.png" alt="" width="100%" height="auto">
       </div>
 
       <div class="col-12 col-lg-10">
-        <img src="/images/maps/2023/Mapa green capital-min.png" alt="" width="100%" height="auto">
+        <img src="/images/maps/2024/Mapa Green Capital-min.png" alt="" width="100%" height="auto">
       </div>
 
       <div class="col-12 col-lg-10">
-        <img src="/images/maps/2023/Mapa Estibaliz-min.png" alt="" width="100%" height="auto">
+        <img src="/images/maps/2024/Mapa Estíbaliz-min.png" alt="" width="100%" height="auto">
       </div>
     </div>
   </main>
