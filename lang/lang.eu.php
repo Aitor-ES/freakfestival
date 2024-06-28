@@ -484,9 +484,15 @@ $lang = array(
 
   "lang.maps-of-the-facilities.title" => "Aretoak",
 
-  "lang.organizers.valinor.title" => "Valinor Kultura-Elkartea",
-  "lang.organizers.valinor.description.1" => "Kaixo! Valinor Elkartea gara eta mahai eta rol joko, eskulan eta mundu frikiko hobby askotara dedikatzen dugu gure denbora. Vitoria-Gasteizen 15 urte baino gehiago daramatzagu, gure familia gutxinaka handituz eta hobetuz.",
-  "lang.organizers.valinor.description.2" => "Gure interesak aditzera emateaz poz-pozik gaude, eta beso irekiez jasotzen dugu gu ezagutzera animatzen den edonor. Ez zalantzatu gurekin kontaktuan jartzeaz gehiago jakin nahi baduzu!",
+  "lang.organizers.valinor.title" => "Antolatzaileak",
+  "lang.organizers.valinor.hello.title" => "Kaixo! Valinor Elkartea gara",
+  "lang.organizers.valinor.hello.description" => "Gure zaletasunak mahai-jokoak, rola, wargameak eta modelismoa dira. 2006. urtetik gaude Vitoria-Gasteizen, gure familia handitzen eta pixkanaka hobetzen. Aisialdi mota hauek sustatu nahi ditugu, betiere hurbiltasunarekin eta giro onean.",
+  "lang.organizers.valinor.freakfestival.title" => "Freak Festival",
+  "lang.organizers.valinor.freakfestival.description" => "Ekainero, Freak Festival antolatzen dugu, gure urteko ekitaldi nagusia, borondatez eta irabazi asmorik gabe. Plan eta interes ezberdin hauek ezagutzeko eta gozatzeko esperientziarik onena eskaintzen dugu, bai bakarka, lagunekin edo familian. Gure goiburua, zaletasun hauek nola ulertzen ditugun adierazten duena, honako hau da: Jolastu, Aurkitu, Sortu.",
+  "lang.organizers.valinor.meet.title" => "Ezagutu nahi gaituzu?",
+  "lang.organizers.valinor.meet.description" => "Egin klik beheko esteketan egiten ditugun jarduerak gure sareetan ikusteko eta, ezagutu nahi bagaituzu, sartu gure Discord komunitatean gure egutegia begiratzeko eta hurrengo jarduera irekietan parte hartzeko. Zure zain gaude!",
+  "lang.organizers.valinor.join.title" => "Parte izan nahi duzu?",
+  "lang.organizers.valinor.join.description" => "Hitz egin gurekin eta online formulario bat emango dizugu. Besoak zabalik hartuko zaituen jende talde baten parte izango zara, gure lokalera sartzea izango duzu eta gurekin elkartu eta jarduera guztietan parte hartu ahal izango duzu.",
 
   "lang.contributors.title" => "Laguntzaileak",
   "lang.contributors.associations" => "Elkarteak",

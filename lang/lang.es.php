@@ -479,9 +479,15 @@ $lang = array(
 
   "lang.maps-of-the-facilities.title" => "Salas",
 
-  "lang.organizers.valinor.title" => "Asociación Cultural Valinor",
-  "lang.organizers.valinor.description.1" => "¡Hola! Somos la Asociación Valinor y nos dedicamos a los juegos de mesa, el rol, las manualidades, y todo el abanico de hobbies del mundo friki. Estamos establecidos en Vitoria-Gasteiz desde hace más de 15 años, durante los que hemos ido ampliando la familia y mejorando poco a poco.",
-  "lang.organizers.valinor.description.2" => "Estamos encantados de dar a conocer nuestros intereses y recibimos con los brazos abiertos a todo aquel que quiera saber más sobre nosotros. ¡No dudes en contactarnos si quieres saber más!",
+  "lang.organizers.valinor.title" => "Organizadores",
+  "lang.organizers.valinor.hello.title" => "¡Hola! Somos la Asociación Valinor",
+  "lang.organizers.valinor.hello.description" => "Nuestras aficiones son los juegos de mesa, el rol, los wargames y el modelismo. Estamos en Vitoria-Gasteiz desde el año 2006, ampliando nuestra familia y mejorando poco a poco. Queremos fomentar este tipo de ocio, siempre con cercanía y buen rollo.",
+  "lang.organizers.valinor.freakfestival.title" => "Freak Festival",
+  "lang.organizers.valinor.freakfestival.description" => "Cada mes de junio, organizamos el Freak Festival, nuestro gran evento del año, de forma voluntaria y sin ánimo de lucro. Ofrecemos la mejor experiencia para conocer y disfrutar de estos planes e intereses diferentes, ya sea en solitario, con amigos o en familia. Nuestro lema, que representa cómo entendemos estas aficiones, es: Juega, Descubre, Crea.",
+  "lang.organizers.valinor.meet.title" => "¿Quieres conocernos?",
+  "lang.organizers.valinor.meet.description" => "Haz clic en los enlaces debajo para ver en nuestras redes las actividades que hacemos y, si quieres conocernos, entra en nuestra comunidad de Discord para mirar nuestro calendario y participar en las próximas actividades abiertas. ¡Te esperamos!",
+  "lang.organizers.valinor.join.title" => "¿Quieres formar parte?",
+  "lang.organizers.valinor.join.description" => "Habla con nosotros y te facilitaremos un formulario online. Serás parte de un grupo de gente que te recibirá con los brazos abiertos, tendrás acceso a nuestro local y podrás participar en todas nuestras quedadas y actividades.",
 
   "lang.contributors.title" => "Colaboradores",
   "lang.contributors.associations" => "Asociaciones",
