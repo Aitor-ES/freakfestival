@@ -61,5 +61,5 @@
 <link href="/styles/fonts.css" rel="stylesheet">
 <link href="/styles/layout.css" rel="stylesheet">
 <link href="/styles/btn.css" rel="stylesheet">
-<link href="/styles/nav.css" rel="stylesheet">
+<link href="/styles/header.css" rel="stylesheet">
 <link href="/styles/footer.css" rel="stylesheet">

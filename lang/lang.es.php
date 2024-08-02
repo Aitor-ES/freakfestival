@@ -46,10 +46,7 @@ $lang = array(
   "lang.header.editions.2023" => "Freak Festival 2023",
   "lang.header.editions.2022" => "Freak Festival 2022",
   "lang.header.editions.2018" => "Freak Festival 2018",
-  "lang.header.lang.es.code" => "ES",
-  "lang.header.lang.es.name" => "Español",
-  "lang.header.lang.eu.code" => "EU",
-  "lang.header.lang.eu.name" => "Euskera",
+  "lang.header.social.mail" => "Correo",
 
   "lang.footer.description" => "Juegos de mesa, rol, talleres, puestos de artesanía, charlas, espectáculos, torneos, concursos y mucho más.",
   "lang.footer.organized-by" => "Organizado por la Asociación Cultural Valinor.",
