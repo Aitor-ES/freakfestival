@@ -25,6 +25,12 @@ main a, main button, main input, main select, main textarea, main h2, main h3, m
     scroll-margin-bottom: 100px;
 }
 
+@media (min-width: 992px) {
+    main a, main button, main input, main select, main textarea, main h2, main h3, main h4, main [tabindex="0"] {
+        scroll-margin-top: 140px;
+    }
+}
+
 .anchor-link {
     padding: 0 .175rem;
     font-weight: 400;
@@ -41,7 +47,10 @@ main a, main button, main input, main select, main textarea, main h2, main h3, m
 }
 
 .anchor-link::after {
-    content: "#"
+    font-family: bootstrap-icons !important;
+    content: "\f471";
+    line-height: 1;
+    vertical-align: -.125em;
 }
 
 .anchor-link:focus, .anchor-link:hover, :hover>.anchor-link, :target>.anchor-link {
