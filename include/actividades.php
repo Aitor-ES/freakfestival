@@ -4,10 +4,11 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-5">
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
-
-    <p class="lead mb-5"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+  <main class="container-md ff-main-gutter my-4 my-md-5">
+    <div class="mb-5">
+      <h1 class="f-uncial-r mb-4"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
+      <p class="lead"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+    </div>
 
     <?php if (in_array($categoryName, ["talks-exhibitions", "book-releases", "others"])) { ?>
       <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.callout.registration.open"]; ?></div>

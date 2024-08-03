@@ -4,8 +4,10 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-5">
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.edition.2022.title"]; ?></h1>
+  <main class="container-md ff-main-gutter my-4 my-md-5">
+    <div class="mb-5">
+      <h1 class="f-uncial-r"><?php echo $lang["lang.edition.2022.title"]; ?></h1>
+    </div>
 
     <!-- General -->
     <div class="row gy-4 mb-5 justify-content-center">

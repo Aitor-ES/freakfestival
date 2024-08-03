@@ -4,22 +4,20 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-5">
-    <div class="row justify-content-between gy-4 mb-5">
-      <div class="col-12 col-lg-auto">
+  <main class="container-md ff-main-gutter my-4 my-md-5">
+    <div class="mb-5">
+      <div class="d-lg-flex flex-lg-row align-items-center justify-content-between">
         <h1 class="f-uncial-r mb-0"><?php echo $lang["lang.timetable.title"]; ?></h1>
-      </div>
 
-      <div class="col-12 col-lg-auto ms-auto">
-        <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="/docs/Horarios.pdf" role="button">
-          <?php echo $lang["lang.timetable.download-timetable"]; ?>
-        </a>
-      </div>
+        <div class="d-flex flex-column flex-lg-row gap-4 text-nowrap">
+          <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="/docs/Horarios.pdf" role="button">
+            <?php echo $lang["lang.timetable.download-timetable"]; ?>
+          </a>
 
-      <div class="col-12 col-lg-auto">
-        <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="https://drive.google.com/drive/folders/1YTU8JnlwXyX6uIaIsA5PFKwOoXLbZ2E5?usp=drive_link" role="button">
-          <?php echo $lang["lang.timetable.download-list"]; ?>
-        </a>
+          <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="https://drive.google.com/drive/folders/1YTU8JnlwXyX6uIaIsA5PFKwOoXLbZ2E5?usp=drive_link" role="button">
+            <?php echo $lang["lang.timetable.download-list"]; ?>
+          </a>
+        </div>
       </div>
     </div>
 

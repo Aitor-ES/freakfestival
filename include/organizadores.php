@@ -4,8 +4,10 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-5">
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.organizers.valinor.title"]; ?></h1>
+  <main class="container-md ff-main-gutter my-4 my-md-5">
+    <div class="mb-5">
+      <h1 class="f-uncial-r"><?php echo $lang["lang.organizers.valinor.title"]; ?></h1>
+    </div>
 
     <div class="row gy-5">
       <div class="col-12 col-lg-5 text-center">

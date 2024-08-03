@@ -4,11 +4,12 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-5">
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.registrations-applications.title"]; ?></h1>
-
-    <p class="lead"><?php echo $lang["lang.registrations-applications.description.1"]; ?></p>
-    <p class="lead"><?php echo $lang["lang.registrations-applications.description.2"]; ?></p>
+  <main class="container-md ff-main-gutter my-4 my-md-5">
+    <div class="mb-5">
+      <h1 class="f-uncial-r mb-4"><?php echo $lang["lang.registrations-applications.title"]; ?></h1>
+      <p class="lead"><?php echo $lang["lang.registrations-applications.description.1"]; ?></p>
+      <p class="lead"><?php echo $lang["lang.registrations-applications.description.2"]; ?></p>
+    </div>
 
     <div class="d-flex flex-column align-items-lg-baseline gap-3">
       <a class="btn btn-outline-ffscarlet btn-outline-b" href="https://forms.gle/uBpSYT3TvpxTj9An8"><?php echo $lang["lang.registrations-applications.associations"]; ?></a>

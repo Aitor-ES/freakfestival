@@ -4,13 +4,14 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-5">
+  <main class="container-md ff-main-gutter my-4 my-md-5">
     <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/concursos.json'));
           $categoryName = $activityCategory->categoryName; ?>
 
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
-
-    <p class="lead mb-5"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+    <div class="mb-5">
+      <h1 class="f-uncial-r mb-4"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
+      <p class="lead"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+    </div>
 
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>

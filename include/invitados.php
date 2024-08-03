@@ -4,11 +4,13 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-5">
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.guests.title"]; ?></h1>
+  <main class="container-md ff-main-gutter my-4 my-md-5">
+    <div class="mb-5">
+      <h1 class="f-uncial-r"><?php echo $lang["lang.guests.title"]; ?></h1>
+    </div>
 
     <div class="row gy-5 justify-content-evenly">
-      <div class="col-12 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2024_mayicosplay-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.mayicosplay.title"]; ?>">
 
@@ -29,7 +31,7 @@
         </div>
       </div>
 
-      <div class="col-12 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2024_pixsebas-min.jpeg" class="card-img-top" alt="<?php echo $lang["lang.guests.pixsebas.title"]; ?>">
 
@@ -54,7 +56,7 @@
         </div>
       </div>
 
-      <div class="col-12 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2024_cristinasalaslopez-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.cristinasalaslopez.title"]; ?>">
 
@@ -75,7 +77,7 @@
         </div>
       </div>
 
-      <div class="col-12 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2024_cosdaimon-min.jpeg" class="card-img-top" alt="<?php echo $lang["lang.guests.cosdaimon.title"]; ?>">
 
@@ -96,7 +98,7 @@
         </div>
       </div>
 
-      <div class="col-12 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2024_creandoinfinito-min.png" class="card-img-top" alt="<?php echo $lang["lang.guests.creandoinfinito.title"]; ?>">
 
@@ -117,7 +119,7 @@
         </div>
       </div>
 
-      <div class="col-12 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="card h-100 bg-ffscarlet-gradient-top-75 text-white border-0 rounded-4">
           <img src="/images/photos/guests/2024_yumi-min.jpg" class="card-img-top" alt="<?php echo $lang["lang.guests.yumi.title"]; ?>">
 
