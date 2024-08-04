@@ -6,7 +6,7 @@
   <!-- Main Start -->
   <main class="container-md ff-main-gutter my-4 my-md-5">
     <div class="mb-5">
-      <h1 class="f-uncial-r"><?php echo $lang["lang.edition.2018.title"]; ?></h1>
+      <h1 class="ff-title"><?php echo $lang["lang.edition.2018.title"]; ?></h1>
     </div>
 
     <div class="row gy-4 mb-5 justify-content-center">

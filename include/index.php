@@ -46,11 +46,11 @@
   <!-- Banner End -->
 
   <div class="container-md ff-main-gutter mb-5">
-    <h1 class="f-uncial-r fs-0 text-center mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
-
     <!-- Introduction Start -->
+    <h1 class="f-uncial-r ff-intro-title text-center mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
+
     <div class="row justify-content-center text-center mb-5">
-      <div class="col-12 col-lg-8">
+      <div class="col-12 col-md-8">
         <p><?php echo $lang["lang.home.introduction.paragraph.1"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.2"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.3"]; ?></p>
@@ -124,7 +124,9 @@
     <!-- Introduction End -->
 
     <!-- Features Start -->
-    <h1 class="f-uncial-r mb-5"><?php echo $lang["lang.activities.title"]; ?></h1>
+    <div class="mb-5">
+      <h2 class="ff-title"><?php echo $lang["lang.activities.title"]; ?></h2>
+    </div>
 
     <div class="row row-cols-1 row-cols-lg-2 g-5">
       <!-- 1st feature: Board games -->
@@ -253,8 +255,8 @@
         </div>
       </div>
     </div>
+    <!-- Features End -->
   </div>
-  <!-- Features End -->
 
   <!-- Footer Start -->
   <?php include("footer.php"); ?>

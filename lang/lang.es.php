@@ -327,8 +327,7 @@ $lang = array(
   "lang.activities.contests.pintado-miniaturas.description" => "¿Qué habilidad tienes con colores acrílicos? No importa el material de la miniatura, nos interesa lo bien que le hayas dejado la capa de pintura. Y, si una miniatura no es un reto suficiente, ¿por qué no subir el listón? Tráenos tu obra maestra en forma de diorama. ¡Enséñanos tu arte con el pincel y la creación de escenas y arrasa en este concurso!",
 
   "lang.registrations-applications.title" => "Inscripciones y candidaturas",
-  "lang.registrations-applications.description.1" => "¿Quieres llevar una actividad al Freak Festival? ¿Vienes al evento como parte de una asociación? Quizá seas un artista al que le gustaría tener un puesto para exponer sus creaciones, o puede que un comercio que busca acercarse a sus clientes.",
-  "lang.registrations-applications.description.2" => "¡Aquí puedes inscribirte y presentar tu candidatura!",
+  "lang.registrations-applications.description" => "¿Quieres llevar una actividad al Freak Festival? ¿Vienes al evento como parte de una asociación? Quizá seas un artista al que le gustaría tener un puesto para exponer sus creaciones, o puede que un comercio que busca acercarse a sus clientes. ¡Aquí puedes inscribirte y presentar tu candidatura!",
   "lang.registrations-applications.associations" => "Inscripción de asociaciones",
   "lang.registrations-applications.activities" => "Inscripción de actividades",
   "lang.registrations-applications.artists" => "Candidatura de artistas y artesanos",

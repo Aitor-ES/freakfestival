@@ -8,7 +8,7 @@
     <?php $contributors = json_decode(file_get_contents(__DIR__ . '/colaboradores.json')); ?>
 
     <div class="mb-5">
-      <h1 class="f-uncial-r"><?php echo $lang["lang.contributors.title"]; ?></h1>
+      <h1 class="ff-title"><?php echo $lang["lang.contributors.title"]; ?></h1>
     </div>
 
     <!-- Associations -->

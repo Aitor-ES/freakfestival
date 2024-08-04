@@ -328,8 +328,7 @@ $lang = array(
   "lang.activities.contests.pintado-miniaturas.description" => "Zer trebetasun duzu kolore akrilikoekin? Berdin dio miniaturaren materialak, interesatzen zaigu zein ondo utzi diozun pintura-geruza. Eta miniatura bat erronka nahikoa ez bada, zergatik ez igo muga? Ekarri zure maisulana diorama eran. Erakuts iezaguzu zure artea pintzelarekin eta eszenen sorkuntzarekin eta irabazi lehiaketa honetan!",
 
   "lang.registrations-applications.title" => "Izen-emateak eta hautagaitzak",
-  "lang.registrations-applications.description.1" => "Freak Festivalera jarduera bat eraman nahi duzu? Ekitaldira elkarte bateko kide gisa zatoz? Agian bere sorkuntzak erakusteko postu bat izatea gustatuko litzaiokeen artista bat zara, edo beharbada bere bezeroengana hurbildu nahi duen saltoki bat.",
-  "lang.registrations-applications.description.2" => "Hemen eman dezakezu izena eta zure hautagaitza aurkeztu!",
+  "lang.registrations-applications.description" => "Freak Festivalera jarduera bat eraman nahi duzu? Ekitaldira elkarte bateko kide gisa zatoz? Agian bere sorkuntzak erakusteko postu bat izatea gustatuko litzaiokeen artista bat zara, edo beharbada bere bezeroengana hurbildu nahi duen saltoki bat. Hemen eman dezakezu izena eta zure hautagaitza aurkeztu!",
   "lang.registrations-applications.associations" => "Elkarteen izen-ematea",
   "lang.registrations-applications.activities" => "Jardueren izen-ematea",
   "lang.registrations-applications.artists" => "Artista eta artisauen hautagaitza",

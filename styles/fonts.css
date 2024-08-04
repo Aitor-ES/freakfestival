@@ -20,20 +20,33 @@
   letter-spacing: normal;
 }
 
-.f-gradient-ff {
-  background: #36FFFF;
-  background: linear-gradient(to right, #2BB0D4, #36FFFF, #2BB0D4);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.fs-0 {
-  font-size: calc(1.525rem + 3.3vw) !important;
+.ff-intro-title {
+  font-size: calc(1.525rem + 3.3vw);
 }
 
 @media (min-width: 1200px) {
-  .fs-0 {
-    font-size: 4rem !important;
+  .ff-intro-title {
+    font-size: 4rem;
+  }
+}
+
+.ff-title {
+  font-size: calc(1.425rem + 2.1vw);
+}
+
+@media (min-width: 1200px) {
+  .ff-title {
+    font-size: 3rem;
+  }
+}
+
+.ff-lead {
+  font-size: calc(1.275rem + .3vw);
+  font-weight: 300;
+}
+
+@media (min-width: 1200px) {
+  .ff-lead {
+    font-size: 1.5rem;
   }
 }

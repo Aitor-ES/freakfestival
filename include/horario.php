@@ -7,7 +7,7 @@
   <main class="container-md ff-main-gutter my-4 my-md-5">
     <div class="mb-5">
       <div class="d-lg-flex flex-lg-row align-items-center justify-content-between">
-        <h1 class="f-uncial-r mb-0"><?php echo $lang["lang.timetable.title"]; ?></h1>
+        <h1 class="ff-title mb-0"><?php echo $lang["lang.timetable.title"]; ?></h1>
 
         <div class="d-flex flex-column flex-lg-row gap-4 text-nowrap">
           <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="/docs/Horarios.pdf" role="button">
