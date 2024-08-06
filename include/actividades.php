@@ -44,9 +44,9 @@
               </h2>
 
               <!-- Activity info -->
-              <div class="row row-cols-2 row-cols-xl-4 text-center gy-4 mb-4">
+              <div class="row row-cols-2 row-cols-sm-4 text-center gy-4 mb-4">
                 <!-- Activity date -->
-                <div class="col d-flex flex-column align-items-center">
+                <div class="col d-flex flex-column align-items-center row-gap-1">
                   <i class="bi bi-clock fs-1 text-ffscarlet"></i>
                   <?php
                     if (property_exists($activity, 'timetable')) {
@@ -65,7 +65,7 @@
                 </div>
 
                 <!-- Activity seats -->
-                <div class="col d-flex flex-column align-items-center">
+                <div class="col d-flex flex-column align-items-center row-gap-1">
                   <i class="bi bi-people fs-1 text-ffscarlet"></i>
                   <?php
                     $participants = $activity->participants;
@@ -75,7 +75,7 @@
                 </div>
 
                 <!-- Activity age -->
-                <div class="col d-flex flex-column align-items-center">
+                <div class="col d-flex flex-column align-items-center row-gap-1">
                   <i class="bi bi-person-exclamation fs-1 text-ffscarlet"></i>
                   <?php
                     $age = $activity->age;
@@ -85,7 +85,7 @@
                 </div>
 
                 <!-- Activity language -->
-                <div class="col d-flex flex-column align-items-center">
+                <div class="col d-flex flex-column align-items-center row-gap-1">
                   <i class="bi bi-translate fs-1 text-ffscarlet"></i>
                   <?php echo $lang["lang.activities.lang.$activity->lang"]; ?>
                 </div>
