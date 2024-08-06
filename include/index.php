@@ -3,260 +3,270 @@
   <?php include("header.php"); ?>
   <!-- Navbar End -->
 
-  <!-- Banner Start -->
-  <div class="container-fluid ff-main-gutter d-flex flex-column align-items-center text-center mb-5 py-5 row-gap-5" id="banner">
-    <img class="banner-logo" src="/images/logos/Letras_dado_fecha.png" alt="Freak Festival" width="250" height="200">
+  <!-- Main Start -->
+  <main>
+    <!-- Banner Start -->
+    <div class="mb-5 py-5" id="banner">
+      <div class="container-xxl ff-gutter d-flex flex-column align-items-center text-center row-gap-5">
+        <img class="banner-logo" src="/images/logos/Letras_dado_fecha.png" alt="Freak Festival" width="250" height="200">
 
-    <div class="banner-box row row-cols-1 row-cols-md-4">
-      <!-- Date -->
-      <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-light">
-        <div class="mx-4"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
-        <div class="flex-fill d-flex flex-column justify-content-center">
-          <strong><?php echo $lang["lang.home.banner.date.2024"]; ?></strong>
-          <?php echo $lang["lang.home.banner.year.2024"]; ?>
-        </div>
-      </div>
+        <div class="banner-box row row-cols-1 row-cols-md-4">
+          <!-- Date -->
+          <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-light">
+            <div class="mx-4"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
+            <div class="flex-fill d-flex flex-column justify-content-center">
+              <strong><?php echo $lang["lang.home.banner.date.2024"]; ?></strong>
+              <?php echo $lang["lang.home.banner.year.2024"]; ?>
+            </div>
+          </div>
 
-      <!-- Location -->
-      <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-light">
-        <div class="mx-4"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
-        <div class="flex-fill d-flex flex-column justify-content-center">
-          <strong><?php echo $lang["lang.home.banner.location.building"]; ?></strong>
-          <?php echo $lang["lang.home.banner.location.town"]; ?>
-        </div>
-      </div>
+          <!-- Location -->
+          <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-light">
+            <div class="mx-4"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
+            <div class="flex-fill d-flex flex-column justify-content-center">
+              <strong><?php echo $lang["lang.home.banner.location.building"]; ?></strong>
+              <?php echo $lang["lang.home.banner.location.town"]; ?>
+            </div>
+          </div>
 
-      <!-- Activities -->
-      <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-light">
-        <div class="mx-4"><i class="bi bi-dice-6 fs-1 text-ffscarlet"></i></div>
-        <div class="flex-fill d-flex flex-column justify-content-center">
-          <?php echo $lang["lang.home.banner.activities"]; ?>
-        </div>
-      </div>
+          <!-- Activities -->
+          <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-light">
+            <div class="mx-4"><i class="bi bi-dice-6 fs-1 text-ffscarlet"></i></div>
+            <div class="flex-fill d-flex flex-column justify-content-center">
+              <?php echo $lang["lang.home.banner.activities"]; ?>
+            </div>
+          </div>
 
-      <!-- Entrance -->
-      <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-ffscarlet text-light">
-        <div class="mx-4"><i class="bi bi-ticket-perforated fs-1"></i></div>
-        <div class="flex-fill d-flex flex-column justify-content-center">
-          <span class="fs-4"><?php echo $lang["lang.home.banner.entrance"]; ?></span>
+          <!-- Entrance -->
+          <div class="banner-box-item col d-flex flex-row flex-md-column align-items-center py-4 row-gap-2 bg-ffscarlet text-light">
+            <div class="mx-4"><i class="bi bi-ticket-perforated fs-1"></i></div>
+            <div class="flex-fill d-flex flex-column justify-content-center">
+              <span class="fs-4"><?php echo $lang["lang.home.banner.entrance"]; ?></span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <!-- Banner End -->
+    <!-- Banner End -->
 
-  <div class="container-md ff-main-gutter mb-5">
     <!-- Introduction Start -->
-    <h1 class="f-uncial-r ff-intro-title text-center mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
+    <div class="container-xxl ff-gutter mb-5">
+      <div class="col-md-8 mx-auto text-center">
+        <h1 class="f-uncial-r ff-intro-title mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
 
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-12 col-md-8">
         <p><?php echo $lang["lang.home.introduction.paragraph.1"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.2"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.3"]; ?></p>
         <p class="text-uppercase"><?php echo $lang["lang.home.introduction.paragraph.4"]; ?></p>
       </div>
     </div>
-
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-5 mb-5">
-      <!-- Public -->
-      <div class="col">
-        <div class="mb-2"><i class="bi bi-people fs-1 text-ffscarlet"></i></div>
-        <h3 class="mb-4"><?php echo $lang["lang.home.introduction.public.title"]; ?></h3>
-        <p><?php echo $lang["lang.home.introduction.public.description"]; ?></p>
-      </div>
-
-      <!-- Local -->
-      <div class="col">
-        <div class="mb-2"><i class="bi bi-bag-heart fs-1 text-ffscarlet"></i></div>
-        <h3 class="mb-4"><?php echo $lang["lang.home.introduction.local.title"]; ?></h3>
-        <p><?php echo $lang["lang.home.introduction.local.description"]; ?></p>
-      </div>
-
-      <!-- Entrance -->
-      <div class="col">
-        <div class="mb-2"><i class="bi bi-ticket-perforated fs-1 text-ffscarlet"></i></div>
-        <h3 class="mb-4"><?php echo $lang["lang.home.introduction.entrance.title"]; ?></h3>
-        <p><?php echo $lang["lang.home.introduction.entrance.description"]; ?></p>
-      </div>
-
-      <!-- Date -->
-      <div class="col">
-        <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
-        <h3 class="mb-3"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
-        <p>
-          <?php echo $lang["lang.home.introduction.date.days.2024"]; ?>
-          <br>
-          <?php echo $lang["lang.home.introduction.date.weekdays.friday"]; ?>
-          <br>
-          <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?>
-          <br>
-          <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?>
-        </p>
-      </div>
-
-      <!-- Location -->
-      <div class="col">
-        <div class="mb-2"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
-        <h3 class="mb-3"><?php echo $lang["lang.home.introduction.location.title"]; ?></h3>
-        <p>
-          <?php echo $lang["lang.home.introduction.location.building"]; ?>
-          <br>
-          <?php echo $lang["lang.home.introduction.location.address"]; ?>
-          <br>
-          <?php echo $lang["lang.home.introduction.location.town"]; ?>
-          <br>
-          <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
-        </p>
-      </div>
-
-      <!-- Hotels -->
-      <div class="col">
-        <div class="mb-2"><i class="bi bi-moon-stars fs-1 text-ffscarlet"></i></div>
-        <h3 class="mb-3"><?php echo $lang["lang.home.introduction.hotels.title"]; ?></h3>
-        <p>
-          <?php echo $lang["lang.home.introduction.hotels.description"]; ?>
-          <br>
-          <a class="link-ffscarlet" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.home.introduction.hotels.link"]; ?></a>
-        </p>
-      </div>
-    </div>
     <!-- Introduction End -->
 
-    <!-- Features Start -->
-    <div class="mb-5">
-      <h2 class="ff-title"><?php echo $lang["lang.activities.title"]; ?></h2>
+    <!-- Info Start -->
+    <div class="container-md ff-gutter mb-5">
+      <!-- Features Start -->
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-5 mb-5">
+        <!-- Public -->
+        <div class="col">
+          <div class="mb-2"><i class="bi bi-people fs-1 text-ffscarlet"></i></div>
+          <h3 class="mb-4"><?php echo $lang["lang.home.introduction.public.title"]; ?></h3>
+          <p><?php echo $lang["lang.home.introduction.public.description"]; ?></p>
+        </div>
+
+        <!-- Local -->
+        <div class="col">
+          <div class="mb-2"><i class="bi bi-bag-heart fs-1 text-ffscarlet"></i></div>
+          <h3 class="mb-4"><?php echo $lang["lang.home.introduction.local.title"]; ?></h3>
+          <p><?php echo $lang["lang.home.introduction.local.description"]; ?></p>
+        </div>
+
+        <!-- Entrance -->
+        <div class="col">
+          <div class="mb-2"><i class="bi bi-ticket-perforated fs-1 text-ffscarlet"></i></div>
+          <h3 class="mb-4"><?php echo $lang["lang.home.introduction.entrance.title"]; ?></h3>
+          <p><?php echo $lang["lang.home.introduction.entrance.description"]; ?></p>
+        </div>
+
+        <!-- Date -->
+        <div class="col">
+          <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
+          <h3 class="mb-3"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
+          <p>
+            <?php echo $lang["lang.home.introduction.date.days.2024"]; ?>
+            <br>
+            <?php echo $lang["lang.home.introduction.date.weekdays.friday"]; ?>
+            <br>
+            <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?>
+            <br>
+            <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?>
+          </p>
+        </div>
+
+        <!-- Location -->
+        <div class="col">
+          <div class="mb-2"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
+          <h3 class="mb-3"><?php echo $lang["lang.home.introduction.location.title"]; ?></h3>
+          <p>
+            <?php echo $lang["lang.home.introduction.location.building"]; ?>
+            <br>
+            <?php echo $lang["lang.home.introduction.location.address"]; ?>
+            <br>
+            <?php echo $lang["lang.home.introduction.location.town"]; ?>
+            <br>
+            <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
+          </p>
+        </div>
+
+        <!-- Hotels -->
+        <div class="col">
+          <div class="mb-2"><i class="bi bi-moon-stars fs-1 text-ffscarlet"></i></div>
+          <h3 class="mb-3"><?php echo $lang["lang.home.introduction.hotels.title"]; ?></h3>
+          <p>
+            <?php echo $lang["lang.home.introduction.hotels.description"]; ?>
+            <br>
+            <a class="link-ffscarlet" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.home.introduction.hotels.link"]; ?></a>
+          </p>
+        </div>
+      </div>
+      <!-- Features End -->
+
+      <!-- Activities Start -->
+      <div class="mb-5">
+        <h2 class="ff-title"><?php echo $lang["lang.activities.title"]; ?></h2>
+      </div>
+
+      <div class="row row-cols-1 row-cols-lg-2 g-5">
+        <!-- 1st activity: Board games -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/juegos_de_mesa-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.board-games.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2nd activity: RPG -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/rol-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.rpg.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3rd activity: LARP -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/larp-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.larp.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.larp.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 4th activity: Workshops -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/talleres-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.workshops.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.workshops.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 5th activity: Artists -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/tiendas_artistas_y_artesanos-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.stands.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.stands.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 6th activity: Talks -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/charlas-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 7th activity: Book releases -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/presentaciones_de_libros-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.book-releases.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.book-releases.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 8th activity: Tournaments -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/torneos-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.tournaments.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.tournaments.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 9th activity: Contests -->
+        <div class="col">
+          <div class="row gy-4 gx-5">
+            <div class="col-12 col-sm-auto d-flex justify-content-center">
+              <img class="rounded-circle" src="/images/photos/concursos-min.jpg" alt="" width="200" height="200">
+            </div>
+
+            <div class="col">
+              <h3 class="mb-3"><?php echo $lang["lang.activities.contests.title"]; ?></h3>
+              <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Activities End -->
     </div>
-
-    <div class="row row-cols-1 row-cols-lg-2 g-5">
-      <!-- 1st feature: Board games -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/juegos_de_mesa-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.board-games.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 2nd feature: RPG -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/rol-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.rpg.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 3rd feature: LARP -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/larp-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.larp.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.larp.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 4th feature: Workshops -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/talleres-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.workshops.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.workshops.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 5th feature: Artists -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/tiendas_artistas_y_artesanos-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.stands.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.stands.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 6th feature: Talks -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/charlas-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 7th feature: Book releases -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/presentaciones_de_libros-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.book-releases.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.book-releases.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 8th feature: Tournaments -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/torneos-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.tournaments.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.tournaments.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- 9th feature: Contests -->
-      <div class="col">
-        <div class="row gy-4 gx-5">
-          <div class="col-12 col-sm-auto d-flex justify-content-center">
-            <img class="rounded-circle" src="/images/photos/concursos-min.jpg" alt="" width="200" height="200">
-          </div>
-
-          <div class="col">
-            <h3 class="mb-3"><?php echo $lang["lang.activities.contests.title"]; ?></h3>
-            <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Features End -->
-  </div>
+    <!-- Info End -->
+  </main>
+  <!-- Main End -->
 
   <!-- Footer Start -->
   <?php include("footer.php"); ?>

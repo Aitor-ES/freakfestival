@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-4 my-md-5">
+  <main class="container-md ff-gutter my-4 my-md-5">
     <div class="mb-5">
       <div class="d-lg-flex flex-lg-row align-items-center justify-content-between">
         <h1 class="ff-title mb-0"><?php echo $lang["lang.timetable.title"]; ?></h1>

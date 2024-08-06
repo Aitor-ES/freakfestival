@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-4 my-md-5">
+  <main class="container-md ff-gutter my-4 my-md-5">
     <?php $contributors = json_decode(file_get_contents(__DIR__ . '/colaboradores.json')); ?>
 
     <div class="mb-5">

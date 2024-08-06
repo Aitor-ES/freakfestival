@@ -4,7 +4,7 @@
   <!-- Navbar End -->
 
   <!-- Main Start -->
-  <main class="container-md ff-main-gutter my-4 my-md-5">
+  <main class="container-md ff-gutter my-4 my-md-5">
     <div class="mb-5">
       <h1 class="ff-title"><?php echo $lang["lang.edition.2022.title"]; ?></h1>
     </div>

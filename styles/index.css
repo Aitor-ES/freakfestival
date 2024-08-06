@@ -25,10 +25,6 @@
   }
 }
 
-.banner-box {
-  max-width: 992px !important;
-}
-
 .banner-box-item:first-child {
   border-top-left-radius: var(--bs-border-radius-xxl) !important;
   border-top-right-radius: var(--bs-border-radius-xxl) !important;
