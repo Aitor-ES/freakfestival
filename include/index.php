@@ -57,7 +57,6 @@
         <p><?php echo $lang["lang.home.introduction.paragraph.1"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.2"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.3"]; ?></p>
-        <p class="text-uppercase"><?php echo $lang["lang.home.introduction.paragraph.4"]; ?></p>
       </div>
     </div>
     <!-- Introduction End -->
@@ -65,66 +64,82 @@
     <!-- Info Start -->
     <div class="container-md ff-gutter mb-5">
       <!-- Features Start -->
+      <div class="mb-5">
+        <h2 class="ff-title"><?php echo $lang["lang.home.features.title"]; ?></h2>
+      </div>
+
       <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-5 mb-5">
         <!-- Public -->
         <div class="col">
-          <div class="mb-2"><i class="bi bi-people fs-1 text-ffscarlet"></i></div>
-          <h3 class="mb-4"><?php echo $lang["lang.home.introduction.public.title"]; ?></h3>
-          <p><?php echo $lang["lang.home.introduction.public.description"]; ?></p>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+            <i class="bi bi-people"></i>
+          </div>
+          <h3 class="mb-4"><?php echo $lang["lang.home.features.public.title"]; ?></h3>
+          <p><?php echo $lang["lang.home.features.public.description"]; ?></p>
         </div>
 
         <!-- Local -->
         <div class="col">
-          <div class="mb-2"><i class="bi bi-bag-heart fs-1 text-ffscarlet"></i></div>
-          <h3 class="mb-4"><?php echo $lang["lang.home.introduction.local.title"]; ?></h3>
-          <p><?php echo $lang["lang.home.introduction.local.description"]; ?></p>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+            <i class="bi bi-bag-heart"></i>
+          </div>
+          <h3 class="mb-4"><?php echo $lang["lang.home.features.local.title"]; ?></h3>
+          <p><?php echo $lang["lang.home.features.local.description"]; ?></p>
         </div>
 
         <!-- Entrance -->
         <div class="col">
-          <div class="mb-2"><i class="bi bi-ticket-perforated fs-1 text-ffscarlet"></i></div>
-          <h3 class="mb-4"><?php echo $lang["lang.home.introduction.entrance.title"]; ?></h3>
-          <p><?php echo $lang["lang.home.introduction.entrance.description"]; ?></p>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+            <i class="bi bi-ticket-perforated"></i>
+          </div>
+          <h3 class="mb-4"><?php echo $lang["lang.home.features.entrance.title"]; ?></h3>
+          <p><?php echo $lang["lang.home.features.entrance.description"]; ?></p>
         </div>
 
         <!-- Date -->
         <div class="col">
-          <div class="mb-2"><i class="bi bi-calendar-event fs-1 text-ffscarlet"></i></div>
-          <h3 class="mb-3"><?php echo $lang["lang.home.introduction.date.title"]; ?></h3>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+            <i class="bi bi-calendar-event"></i>
+          </div>
+          <h3 class="mb-3"><?php echo $lang["lang.home.features.date.title"]; ?></h3>
           <p>
-            <?php echo $lang["lang.home.introduction.date.days.2024"]; ?>
+            <?php echo $lang["lang.home.features.date.days.2024"]; ?>
             <br>
-            <?php echo $lang["lang.home.introduction.date.weekdays.friday"]; ?>
+            <?php echo $lang["lang.home.features.date.weekdays.friday"]; ?>
             <br>
-            <?php echo $lang["lang.home.introduction.date.weekdays.saturday"]; ?>
+            <?php echo $lang["lang.home.features.date.weekdays.saturday"]; ?>
             <br>
-            <?php echo $lang["lang.home.introduction.date.weekdays.sunday"]; ?>
+            <?php echo $lang["lang.home.features.date.weekdays.sunday"]; ?>
           </p>
         </div>
 
         <!-- Location -->
         <div class="col">
-          <div class="mb-2"><i class="bi bi-geo fs-1 text-ffscarlet"></i></div>
-          <h3 class="mb-3"><?php echo $lang["lang.home.introduction.location.title"]; ?></h3>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+            <i class="bi bi-geo"></i>
+          </div>
+          <h3 class="mb-3"><?php echo $lang["lang.home.features.location.title"]; ?></h3>
           <p>
-            <?php echo $lang["lang.home.introduction.location.building"]; ?>
+            <?php echo $lang["lang.home.features.location.building"]; ?>
             <br>
-            <?php echo $lang["lang.home.introduction.location.address"]; ?>
+            <?php echo $lang["lang.home.features.location.address"]; ?>
             <br>
-            <?php echo $lang["lang.home.introduction.location.town"]; ?>
+            <?php echo $lang["lang.home.features.location.town"]; ?>
             <br>
-            <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank"><?php echo $lang["lang.home.introduction.location.map"]; ?></a>
+            <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank"><?php echo $lang["lang.home.features.location.map"]; ?></a>
           </p>
         </div>
 
         <!-- Hotels -->
         <div class="col">
-          <div class="mb-2"><i class="bi bi-moon-stars fs-1 text-ffscarlet"></i></div>
-          <h3 class="mb-3"><?php echo $lang["lang.home.introduction.hotels.title"]; ?></h3>
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+            <i class="bi bi-moon-stars"></i>
+          </div>
+          <h3 class="mb-3"><?php echo $lang["lang.home.features.hotels.title"]; ?></h3>
           <p>
-            <?php echo $lang["lang.home.introduction.hotels.description"]; ?>
+            <?php echo $lang["lang.home.features.hotels.description"]; ?>
             <br>
-            <a class="link-ffscarlet" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.home.introduction.hotels.link"]; ?></a>
+            <a class="link-ffscarlet" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.home.features.hotels.link"]; ?></a>
           </p>
         </div>
       </div>
@@ -132,7 +147,7 @@
 
       <!-- Activities Start -->
       <div class="mb-5">
-        <h2 class="ff-title"><?php echo $lang["lang.activities.title"]; ?></h2>
+        <h2 class="ff-title"><?php echo $lang["lang.home.activities.title"]; ?></h2>
       </div>
 
       <div class="row row-cols-1 row-cols-lg-2 g-5">
