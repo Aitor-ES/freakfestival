@@ -15,7 +15,7 @@
 
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
-        <li class="list-group-item pb-5 mb-5">
+        <li class="list-group-item">
           <div>
             <!-- Activity title -->
             <h2 id="<?php echo $activity->activityName; ?>">

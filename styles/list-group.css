@@ -1,0 +1,12 @@
+.list-group-flush>.list-group-item {
+    --bs-list-group-item-padding-y: 3rem;
+    --bs-list-group-item-padding-x: 0;
+}
+
+.list-group-flush>.list-group-item:first-child {
+    padding-top: 0;
+}
+
+.list-group-flush>.list-group-item:last-child {
+    padding-bottom: 0;
+}

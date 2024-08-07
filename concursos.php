@@ -8,6 +8,9 @@
       $title = $lang["lang.activities.contests.title"];
       require("include/head.php");
     ?>
+
+    <!-- Page CSS -->
+    <link href="/styles/list-group.css" rel="stylesheet">
   </head>
   <?php require("include/concursos.php"); ?>
 </html>
