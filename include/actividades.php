@@ -29,7 +29,7 @@
     <ul class="list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
         <li class="list-group-item pb-5 mb-5">
-          <div class="row justify-content-center g-5">
+          <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
               <img class="activity-img" src="/images/activities/<?php echo $activity->activityImage ?>" alt="<?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>" width="200" height="200">
@@ -115,14 +115,15 @@
             </div>
 
             <!-- Activity organizer -->
-            <div class="col-12 col-lg-3 d-flex flex-column align-items-center row-gap-5 text-center">
-              <span class="text-body-secondary"><?php echo $lang["lang.activities.organizer"]; ?></span>
-
+            <div class="col-12 col-lg-3 d-flex flex-column align-items-center row-gap-4">
               <?php if (property_exists($activity, 'organizerImage')) { ?>
                 <img class="organizer-img" src="/images/organizers/<?php echo $activity->organizerImage ?>" alt="<?php echo $lang["lang.activities.organizer.$activity->organizer"]; ?>" width="200" height="200">
               <?php } ?>
 
-              <h3><?php echo $lang["lang.activities.organizer.$activity->organizer"]; ?></h3>
+              <div class="d-flex flex-column row-gap-3 text-center">
+                <small class="text-body-secondary"><?php echo $lang["lang.activities.organizer"]; ?></small>
+                <span class="fs-3 fw-medium"><?php echo $lang["lang.activities.organizer.$activity->organizer"]; ?></span>
+              </div>
             </div>
           </div>
         </li>
