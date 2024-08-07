@@ -11,7 +11,7 @@ $lang = array(
   "lang.head.title.edition-2022" => "Freak Festival 2022",
   "lang.head.title.edition-2018" => "Freak Festival 2018",
   "lang.head.title.fotos" => "Fotos",
-  "lang.head.title.horario" => "Horario",
+  "lang.head.title.horario-de-actividades" => "Horario de actividades",
   "lang.head.title.index" => "Inicio",
   "lang.head.title.registrations-applications" => "Inscripciones y candidaturas",
   "lang.head.title.invitados" => "Invitados",
@@ -26,7 +26,7 @@ $lang = array(
   "lang.header.activities.2022" => "Actividades 2022",
   "lang.header.activities.2023" => "Actividades 2023",
   "lang.header.activities.registrations-applications" => "Inscripciones y candidaturas",
-  "lang.header.timetable" => "Horario",
+  "lang.header.timetable" => "Horario de actividades",
   "lang.header.contests" => "Concursos",
   "lang.header.contests.2023" => "Concursos 2023",
   "lang.header.stands" => "Puestos",
@@ -333,7 +333,7 @@ $lang = array(
   "lang.registrations-applications.artists" => "Candidatura de artistas y artesanos",
   "lang.registrations-applications.shops" => "Candidatura de tiendas, marcas y editoriales",
 
-  "lang.timetable.title" => "Horario",
+  "lang.timetable.title" => "Horario de actividades",
   "lang.timetable.download-timetable" => "Descargar horario en PDF",
   "lang.timetable.download-list" => "Descargar lista de actividades en PDF",
 

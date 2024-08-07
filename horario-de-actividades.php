@@ -4,10 +4,10 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "horario";
-      $title = $lang["lang.head.title.horario"];
+      $curPageName = "horario-de-actividades";
+      $title = $lang["lang.head.title.horario-de-actividades"];
       require("include/head.php");
     ?>
   </head>
-  <?php require("include/horario.php"); ?>
+  <?php require("include/horario-de-actividades.php"); ?>
 </html>

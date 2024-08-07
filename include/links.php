@@ -1,7 +1,7 @@
 <?php
 $links = array(
   "es.index" => "index",
-  "es.horario" => "horario",
+  "es.horario-de-actividades" => "horario-de-actividades",
   "es.salas" => "salas",
   "es.juegos-de-mesa" => "juegos-de-mesa",
   "es.torneos" => "torneos",
@@ -23,7 +23,7 @@ $links = array(
   "es.edicion-2018" => "edicion-2018",
 
   "eu.index" => "index",
-  "eu.horario" => "ordutegia",
+  "eu.horario-de-actividades" => "jardueren-ordutegia",
   "eu.salas" => "aretoak",
   "eu.juegos-de-mesa" => "mahai-jokoak",
   "eu.torneos" => "txapelketak",

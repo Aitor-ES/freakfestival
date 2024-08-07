@@ -11,7 +11,7 @@ $lang = array(
   "lang.head.title.edition-2022" => "Freak Festival 2022",
   "lang.head.title.edition-2018" => "Freak Festival 2018",
   "lang.head.title.fotos" => "Argazkiak",
-  "lang.head.title.horario" => "Ordutegia",
+  "lang.head.title.horario-de-actividades" => "Jardueren ordutegia",
   "lang.head.title.index" => "Hasiera",
   "lang.head.title.registrations-applications" => "Izen-emateak eta hautagaitzak",
   "lang.head.title.invitados" => "Gonbidatuak",
@@ -26,7 +26,7 @@ $lang = array(
   "lang.header.activities.2022" => "Jarduerak 2022",
   "lang.header.activities.2023" => "Jarduerak 2023",
   "lang.header.activities.registrations-applications" => "Izen-emateak eta hautagaitzak",
-  "lang.header.timetable" => "Ordutegia",
+  "lang.header.timetable" => "Jardueren ordutegia",
   "lang.header.contests" => "Lehiaketak",
   "lang.header.contests.2023" => "Lehiaketak 2023",
   "lang.header.stands" => "Postuak",
@@ -334,7 +334,7 @@ $lang = array(
   "lang.registrations-applications.artists" => "Artista eta artisauen hautagaitza",
   "lang.registrations-applications.shops" => "Denda, marka eta argitaletxeen hautagaitza",
 
-  "lang.timetable.title" => "Ordutegia",
+  "lang.timetable.title" => "Jardueren ordutegia",
   "lang.timetable.download-timetable" => "Deskargatu PDF ordutegiarekin",
   "lang.timetable.download-list" => "Deskargatu PDF jardueren listarekin",
 
