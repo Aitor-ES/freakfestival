@@ -36,6 +36,11 @@
 <link rel="preconnect" href="https://rsms.me/">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 
+<!-- Outfit font CSS -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+
 <!-- Uncial Antiqua font CSS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -49,11 +54,6 @@
 <!-- Own Bootstrap colors CSS -->
 <link href="/styles/color/bootstrap-color-ffscarlet.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffglacier.css" rel="stylesheet">
-
-<link href="/styles/color/bootstrap-color-ffmidnight.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffdiamond.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffsea.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffocean.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffsunlight.css" rel="stylesheet">
 
 <!-- Own CSS styles -->

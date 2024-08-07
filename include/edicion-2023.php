@@ -10,7 +10,7 @@
     </div>
 
     <!-- Stands, partners and guests -->
-    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.stands-contributors-guests"]; ?></h3>
+    <h2 class="mb-4"><?php echo $lang["lang.edition.gallery.stands-contributors-guests"]; ?></h2>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
@@ -30,7 +30,7 @@
     </div>
 
     <!-- Activities -->
-    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.activities"]; ?></h3>
+    <h2 class="mb-4"><?php echo $lang["lang.edition.gallery.activities"]; ?></h2>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
@@ -50,7 +50,7 @@
     </div>
 
     <!-- Cosplay -->
-    <h3 class="fw-light mb-4"><?php echo $lang["lang.edition.gallery.cosplay"]; ?></h3>
+    <h2 class="mb-4"><?php echo $lang["lang.edition.gallery.cosplay"]; ?></h2>
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php

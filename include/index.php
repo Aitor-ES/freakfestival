@@ -52,7 +52,7 @@
     <!-- Introduction Start -->
     <div class="container-xxl ff-gutter mb-5">
       <div class="col-md-8 mx-auto text-center">
-        <h1 class="f-uncial-r ff-intro-title mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
+        <h1 class="f-uncial-antiqua ff-intro-title mb-5"><?php echo $lang["lang.home.introduction.title"]; ?></h1>
 
         <p><?php echo $lang["lang.home.introduction.paragraph.1"]; ?></p>
         <p><?php echo $lang["lang.home.introduction.paragraph.2"]; ?></p>

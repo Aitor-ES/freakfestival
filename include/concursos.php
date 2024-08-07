@@ -33,7 +33,7 @@
             <div class="row gy-3 mb-3">
               <?php if (property_exists($activity, 'rules')) { ?>
                 <div class="col-auto">
-                  <a class="btn btn-ffdiamond" href="/docs/<?php echo $activity->rules; ?>" target="_blank">
+                  <a class="btn btn-ffglacier" href="/docs/<?php echo $activity->rules; ?>" target="_blank">
                     <?php echo $lang["lang.activities.btn.rules"]; ?>
                   </a>
                 </div>
