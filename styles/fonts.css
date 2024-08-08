@@ -1,13 +1,13 @@
 :root {
-  --bs-body-font-family: Inter, "Helvetica", "Arial", sans-serif;
+  --bs-body-font-family: Inter, system-ui;
   font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
 }
 @supports (font-variation-settings: normal) {
-  :root { --bs-body-font-family: InterVariable, "Helvetica", "Arial", sans-serif; }
+  :root { --bs-body-font-family: InterVariable, system-ui; }
 }
 
 .f-outfit {
-  font-family: "Outfit", sans-serif;
+  font-family: "Outfit", system-ui;
 }
 
 .f-uncial-antiqua {
@@ -15,7 +15,7 @@
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  font-family: "Outfit", sans-serif;
+  font-family: "Outfit", system-ui;
 }
 
 .ff-intro-title {
