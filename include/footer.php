@@ -5,18 +5,16 @@
   <div class="offcanvas-body px-4 px-lg-0">
     <div class="container">
       <div class="row gy-5">
-        <div class="col-12 col-lg-6">
-          <div class="mb-4">
+        <div class="col-12 col-lg-6 d-flex flex-column row-gap-4">
+          <div>
             <p><?php echo $lang["lang.footer.description"]; ?></p>
             <p><?php echo $lang["lang.footer.organized-by"]; ?></p>
-            <p class="text-uppercase"><?php echo $lang["lang.home.introduction.paragraph.4"]; ?></p>
+            <strong class="f-outfit text-uppercase"><?php echo $lang["lang.home.features.title"]; ?></strong>
           </div>
 
-          <div class="mb-4">
-            <a href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php">
-              <img class="logo-valinor" src="/images/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto" height="100">
-            </a>
-          </div>
+          <a href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php">
+            <img class="logo-valinor" src="/images/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto" height="100">
+          </a>
 
           <ul class="list-inline d-flex justify-content-center column-gap-1 column-gap-lg-3 mb-0">
             <li class="list-inline-item">
