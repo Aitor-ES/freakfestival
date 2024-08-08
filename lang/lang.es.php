@@ -100,6 +100,16 @@ $lang = array(
   "lang.home.features.hotels.link" => "Ver hoteles y descuentos",
 
   "lang.home.activities.title" => "¿Qué hacer en el Freak Festival?",
+  "lang.home.activities.board-games.link" => "Ver juegos de mesa",
+  "lang.home.activities.tournaments.link" => "Ver torneos",
+  "lang.home.activities.rpg.link" => "Ver rol de mesa",
+  "lang.home.activities.larp.link" => "Ver rol en vivo",
+  "lang.home.activities.contests.link" => "Ver concursos",
+  "lang.home.activities.stands.link" => "Ver tiendas, artistas y artesanos",
+  "lang.home.activities.talks-exhibitions.link" => "Ver charlas",
+  "lang.home.activities.book-releases.link" => "Ver presentaciones de libros",
+  "lang.home.activities.workshops.link" => "Ver talleres",
+  "lang.home.activities.others.link" => "Ver otras actividades",
 
   "lang.activities.title" => "Actividades",
   "lang.activities.title.2022" => "Actividades 2022",

@@ -167,6 +167,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.board-games.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".juegos-de-mesa"]; ?>.php">
+                <?php echo $lang["lang.home.activities.board-games.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -181,6 +185,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.rpg.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".rol-de-mesa"]; ?>.php">
+                <?php echo $lang["lang.home.activities.rpg.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -195,6 +203,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.larp.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.larp.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".rol-en-vivo"]; ?>.php">
+                <?php echo $lang["lang.home.activities.larp.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -209,6 +221,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.workshops.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.workshops.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".talleres"]; ?>.php">
+                <?php echo $lang["lang.home.activities.workshops.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -223,6 +239,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.stands.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.stands.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".puestos"]; ?>.php">
+                <?php echo $lang["lang.home.activities.stands.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -237,6 +257,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".charlas"]; ?>.php">
+                <?php echo $lang["lang.home.activities.talks-exhibitions.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -251,6 +275,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.book-releases.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.book-releases.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".presentaciones-de-libros"]; ?>.php">
+                <?php echo $lang["lang.home.activities.book-releases.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -265,6 +293,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.tournaments.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.tournaments.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".torneos"]; ?>.php">
+                <?php echo $lang["lang.home.activities.tournaments.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -279,6 +311,10 @@
             <div class="col">
               <h3 class="mb-3"><?php echo $lang["lang.activities.contests.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
+              <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".concursos"]; ?>.php">
+                <?php echo $lang["lang.home.activities.contests.link"]; ?>
+                <i class="bi bi-chevron-right"></i>
+              </a>
             </div>
           </div>
         </div>

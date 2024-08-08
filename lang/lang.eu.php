@@ -100,6 +100,16 @@ $lang = array(
   "lang.home.features.hotels.link" => "Hotelak eta deskontuak ikusi",
 
   "lang.home.activities.title" => "Zer egin Freak Festival-ean?",
+  "lang.home.activities.board-games.link" => "Mahai-jokoak ikusi",
+  "lang.home.activities.tournaments.link" => "Txapelketak ikusi",
+  "lang.home.activities.rpg.link" => "Mahaiko rola ikusi",
+  "lang.home.activities.larp.link" => "Zuzeneko rola ikusi",
+  "lang.home.activities.contests.link" => "Lehiaketak ikusi",
+  "lang.home.activities.stands.link" => "Dendak, artistak eta artisauak ikusi",
+  "lang.home.activities.talks-exhibitions.link" => "Hitzaldiak ikusi",
+  "lang.home.activities.book-releases.link" => "Liburu aurkezpenak ikusi",
+  "lang.home.activities.workshops.link" => "Tailerrak ikusi",
+  "lang.home.activities.others.link" => "Beste jarduerak ikusi",
 
   "lang.activities.title" => "Jarduerak",
   "lang.activities.title.2022" => "Jarduerak 2022",
