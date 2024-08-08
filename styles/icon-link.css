@@ -1,0 +1,11 @@
+.icon-link {
+  --bs-link-color-rgb: var(--ff-scarlet-rgb);
+}
+
+.icon-link:hover {
+  --bs-link-color-rgb: var(--ff-scarlet-hover-rgb);
+}
+
+.icon-link>.bi::before, .icon-link>[class*=" bi-"]::before, .icon-link>[class^=bi-]::before {
+  vertical-align: 0;
+}

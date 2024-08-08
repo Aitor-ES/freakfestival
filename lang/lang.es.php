@@ -79,7 +79,7 @@ $lang = array(
   "lang.home.features.location.building" => "<strong>Palacio de Congresos Europa</strong>",
   "lang.home.features.location.address" => "Av. Gasteiz, 85, 01009",
   "lang.home.features.location.town" => "Vitoria-Gasteiz, Álava",
-  "lang.home.features.location.map" => "Mapa",
+  "lang.home.features.location.map" => "Ver mapa",
   "lang.home.features.date.title" => "Fecha y horario",
   "lang.home.features.date.days.2024" => "<strong>28-30 de junio</strong> del 2024",
   "lang.home.features.date.days.2023" => "<strong>17-18 de junio</strong> del 2023",
@@ -88,6 +88,7 @@ $lang = array(
   "lang.home.features.date.weekdays.friday" => "<strong>Viernes</strong>: 17:30-21:00",
   "lang.home.features.date.weekdays.saturday" => "<strong>Sábado</strong>: 10:00-21:00",
   "lang.home.features.date.weekdays.sunday" => "<strong>Domingo</strong>: 10:00-14:00",
+  "lang.home.features.date.timetable" => "Ver horario de actividades",
   "lang.home.features.public.title" => "Para todos los públicos",
   "lang.home.features.public.description" => "Creemos que este ocio es para todo el mundo, sea cual sea su grupo o edad. Por ello, trabajamos para que cualquier persona se encuentre <strong>cómoda y bienvenida</strong> en todo el festival.",
   "lang.home.features.local.title" => "Apuesta por lo local",
@@ -96,7 +97,7 @@ $lang = array(
   "lang.home.features.entrance.description" => "La entrada en el evento y la participación en sus actividades son <strong>totalmente gratuitas</strong>, ya que nuestro objetivo es dar a conocer nuestras aficiones sin barreras.",
   "lang.home.features.hotels.title" => "Dónde dormir",
   "lang.home.features.hotels.description" => "¿Necesitas un lugar donde dormir? ¡Aprovecha los descuentos de nuestros hoteles colaboradores!",
-  "lang.home.features.hotels.link" => "Ver hoteles y ofertas",
+  "lang.home.features.hotels.link" => "Ver hoteles y descuentos",
 
   "lang.home.activities.title" => "¿Qué hacer en el Freak Festival?",
 

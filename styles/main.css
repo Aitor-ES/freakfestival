@@ -1,19 +1,18 @@
 :root {
     --ff-scarlet: #b92014;
     --ff-scarlet-rgb: 185, 32, 20;
+    --ff-scarlet-hover: #941a10;
+    --ff-scarlet-hover-rgb: 148, 26, 16;
+
     --ff-glacier: #7fcde2;
     --ff-glacier-rgb: 127, 205, 226;
+    --ff-glacier-hover: #99d7e8;
+    --ff-glacier-hover-rgb: 153, 215, 232;
 
-    --ff-midnight: #192c55;
-    --ff-midnight-rgb: 25, 44, 85;
-    --ff-diamond: #36FFFF;
-    --ff-diamond-rgb: 54, 255, 255;
-    --ff-sea: #2aabcf;
-    --ff-sea-rgb: 42, 171, 207;
-    --ff-ocean: #0c63e4;
-    --ff-ocean-rgb: 12, 99, 228;
-    --ff-sunlight: #FFE99C;
+    --ff-sunlight: #ffe99c;
     --ff-sunlight-rgb: 255, 233, 156;
+    --ff-sunlight-hover: #ffedb0;
+    --ff-sunlight-hover-rgb: 255, 237, 176;
 }
 
 .ff-gutter {

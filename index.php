@@ -11,6 +11,7 @@
 
     <!-- Page CSS -->
     <link href="/styles/index.css" rel="stylesheet">
+    <link href="/styles/icon-link.css" rel="stylesheet">
   </head>
   <?php require("include/index.php"); ?>
 </html>

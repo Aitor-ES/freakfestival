@@ -111,6 +111,10 @@
             <br>
             <?php echo $lang["lang.home.features.date.weekdays.sunday"]; ?>
           </p>
+          <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".horario-de-actividades"]; ?>.php">
+            <?php echo $lang["lang.home.features.date.timetable"]; ?>
+            <i class="bi bi-chevron-right"></i>
+          </a>
         </div>
 
         <!-- Location -->
@@ -125,9 +129,11 @@
             <?php echo $lang["lang.home.features.location.address"]; ?>
             <br>
             <?php echo $lang["lang.home.features.location.town"]; ?>
-            <br>
-            <a class="link-ffscarlet" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank"><?php echo $lang["lang.home.features.location.map"]; ?></a>
           </p>
+          <a class="icon-link icon-link-hover" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank">
+            <?php echo $lang["lang.home.features.location.map"]; ?>
+            <i class="bi bi-chevron-right"></i>
+          </a>
         </div>
 
         <!-- Hotels -->
@@ -136,11 +142,11 @@
             <i class="bi bi-moon-stars"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.hotels.title"]; ?></h3>
-          <p>
-            <?php echo $lang["lang.home.features.hotels.description"]; ?>
-            <br>
-            <a class="link-ffscarlet" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.home.features.hotels.link"]; ?></a>
-          </p>
+          <p><?php echo $lang["lang.home.features.hotels.description"]; ?></p>
+          <a class="icon-link icon-link-hover" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php">
+            <?php echo $lang["lang.home.features.hotels.link"]; ?>
+            <i class="bi bi-chevron-right"></i>
+          </a>
         </div>
       </div>
       <!-- Features End -->

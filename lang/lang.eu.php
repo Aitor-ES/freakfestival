@@ -79,7 +79,7 @@ $lang = array(
   "lang.home.features.location.building" => "<strong>Europa Biltzar Jauregia</strong>",
   "lang.home.features.location.address" => "Gasteiz Hiribidea, 85, 01009",
   "lang.home.features.location.town" => "Vitoria-Gasteiz, Araba",
-  "lang.home.features.location.map" => "Mapa",
+  "lang.home.features.location.map" => "Mapa ikusi",
   "lang.home.features.date.title" => "Data eta ordutegia",
   "lang.home.features.date.days.2024" => "2024ko <strong>ekainak 28-30</strong>",
   "lang.home.features.date.days.2023" => "2023ko <strong>ekainak 17-18</strong>",
@@ -88,6 +88,7 @@ $lang = array(
   "lang.home.features.date.weekdays.friday" => "<strong>Ostirala</strong>: 17:30-21:00",
   "lang.home.features.date.weekdays.saturday" => "<strong>Larunbata</strong>: 10:00-21:00",
   "lang.home.features.date.weekdays.sunday" => "<strong>Igandea</strong>: 10:00-14:00",
+  "lang.home.features.date.timetable" => "Jardueren ordutegia ikusi",
   "lang.home.features.public.title" => "Publiko guztientzat",
   "lang.home.features.public.description" => "Aisialdi mota hau mundu guztiarentzat dela uste dugu, bere talde edo adina edozein izanda ere. Horregatik, festibal osoan zehar edozein pertsona <strong>eroso eta ongi etorria</strong> izateko lan egiten dugu.",
   "lang.home.features.local.title" => "Tokikoaren aldeko apustua",
@@ -96,7 +97,7 @@ $lang = array(
   "lang.home.features.entrance.description" => "Sarrera eta jardueren parte hartzea <strong>guztiz dohainik</strong> izango dira, gure helburua gure zaletasunak oztopo gabe ezagutzera ematea baita.",
   "lang.home.features.hotels.title" => "Non lo egin",
   "lang.home.features.hotels.description" => "Lo egiteko leku bat behar al duzu? Erabili gure hotel laguntzaileen deskontuak!",
-  "lang.home.features.hotels.link" => "Hotelak eta eskaintzak ikusi",
+  "lang.home.features.hotels.link" => "Hotelak eta deskontuak ikusi",
 
   "lang.home.activities.title" => "Zer egin Freak Festival-ean?",
 
