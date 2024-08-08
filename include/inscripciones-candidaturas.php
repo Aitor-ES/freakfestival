@@ -7,7 +7,7 @@
   <main class="container-md ff-gutter my-4 my-md-5">
     <div class="mb-5">
       <h1 class="ff-title mb-4"><?php echo $lang["lang.registrations-applications.title"]; ?></h1>
-      <p class="ff-lead"><?php echo $lang["lang.registrations-applications.description"]; ?></p>
+      <p class="ff-lead text-ffscarlet"><?php echo $lang["lang.registrations-applications.description"]; ?></p>
     </div>
 
     <div class="d-flex flex-column align-items-lg-baseline gap-3">

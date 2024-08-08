@@ -10,7 +10,7 @@
 
     <div class="mb-5">
       <h1 class="ff-title mb-4"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
-      <p class="ff-lead"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+      <p class="ff-lead text-ffscarlet"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
     </div>
 
     <ul class="list-group list-group-flush">
