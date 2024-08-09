@@ -54,7 +54,6 @@
 <!-- Own Bootstrap colors CSS -->
 <link href="/styles/color/bootstrap-color-ffscarlet.css" rel="stylesheet">
 <link href="/styles/color/bootstrap-color-ffglacier.css" rel="stylesheet">
-<link href="/styles/color/bootstrap-color-ffsunlight.css" rel="stylesheet">
 
 <!-- Own CSS styles -->
 <link href="/styles/main.css" rel="stylesheet">

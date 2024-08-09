@@ -24,7 +24,7 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/mayicosplay/" target="_blank"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-outline-0" href="https://www.instagram.com/mayicosplay/" target="_blank"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -45,11 +45,11 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/pixsebasglasspainting/" target="_blank"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-outline-0" href="https://www.instagram.com/pixsebasglasspainting/" target="_blank"><i class="bi bi-instagram"></i></a>
               </div>
 
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.tiktok.com/@pixsebasglassart/" target="_blank"><i class="bi bi-tiktok"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-outline-0" href="https://www.tiktok.com/@pixsebasglassart/" target="_blank"><i class="bi bi-tiktok"></i></a>
               </div>
             </div>
           </div>
@@ -70,7 +70,7 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/cristinasalaslopez/" target="_blank"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-outline-0" href="https://www.instagram.com/cristinasalaslopez/" target="_blank"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/cos.daimon/" target="_blank"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-outline-0" href="https://www.instagram.com/cos.daimon/" target="_blank"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -112,7 +112,7 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/creandoinfinito/" target="_blank"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-outline-0" href="https://www.instagram.com/creandoinfinito/" target="_blank"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -133,7 +133,7 @@
           <div class="card-footer">
             <div class="row g-2">
               <div class="col-auto">
-                <a class="btn btn-lg btn-outline-ffsunlight btn-outline-0" href="https://www.instagram.com/yumi_waifu/" target="_blank"><i class="bi bi-instagram"></i></a>
+                <a class="btn btn-lg btn-outline-light btn-outline-0" href="https://www.instagram.com/yumi_waifu/" target="_blank"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>

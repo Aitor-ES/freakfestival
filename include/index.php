@@ -113,7 +113,7 @@
           </p>
           <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".horario-de-actividades"]; ?>.php">
             <?php echo $lang["lang.home.features.date.timetable"]; ?>
-            <i class="bi bi-chevron-right"></i>
+            <i class="bi bi-chevron-right ms-1"></i>
           </a>
         </div>
 
@@ -132,7 +132,7 @@
           </p>
           <a class="btn btn-outline-ffscarlet rounded-pill" href="https://goo.gl/maps/KvYQ6pMJYgf7cYjq5" target="_blank">
             <?php echo $lang["lang.home.features.location.map"]; ?>
-            <i class="bi bi-chevron-right"></i>
+            <i class="bi bi-chevron-right ms-1"></i>
           </a>
         </div>
 
@@ -145,7 +145,7 @@
           <p><?php echo $lang["lang.home.features.hotels.description"]; ?></p>
           <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php">
             <?php echo $lang["lang.home.features.hotels.link"]; ?>
-            <i class="bi bi-chevron-right"></i>
+            <i class="bi bi-chevron-right ms-1"></i>
           </a>
         </div>
       </div>
@@ -169,7 +169,7 @@
               <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".juegos-de-mesa"]; ?>.php">
                 <?php echo $lang["lang.home.activities.board-games.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -187,7 +187,7 @@
               <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".rol-de-mesa"]; ?>.php">
                 <?php echo $lang["lang.home.activities.rpg.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -205,7 +205,7 @@
               <p><?php echo $lang["lang.activities.larp.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".rol-en-vivo"]; ?>.php">
                 <?php echo $lang["lang.home.activities.larp.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -223,7 +223,7 @@
               <p><?php echo $lang["lang.activities.workshops.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".talleres"]; ?>.php">
                 <?php echo $lang["lang.home.activities.workshops.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -241,7 +241,7 @@
               <p><?php echo $lang["lang.activities.stands.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".puestos"]; ?>.php">
                 <?php echo $lang["lang.home.activities.stands.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -259,7 +259,7 @@
               <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".charlas"]; ?>.php">
                 <?php echo $lang["lang.home.activities.talks-exhibitions.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -277,7 +277,7 @@
               <p><?php echo $lang["lang.activities.book-releases.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".presentaciones-de-libros"]; ?>.php">
                 <?php echo $lang["lang.home.activities.book-releases.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -295,7 +295,7 @@
               <p><?php echo $lang["lang.activities.tournaments.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".torneos"]; ?>.php">
                 <?php echo $lang["lang.home.activities.tournaments.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
@@ -313,7 +313,7 @@
               <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
               <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".concursos"]; ?>.php">
                 <?php echo $lang["lang.home.activities.contests.link"]; ?>
-                <i class="bi bi-chevron-right"></i>
+                <i class="bi bi-chevron-right ms-1"></i>
               </a>
             </div>
           </div>
