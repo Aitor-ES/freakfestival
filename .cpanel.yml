@@ -9,6 +9,7 @@ deployment:
     - /bin/cp edicion-2018.php $DEPLOYPATH
     - /bin/cp edicion-2022.php $DEPLOYPATH
     - /bin/cp edicion-2023.php $DEPLOYPATH
+    - /bin/cp edicion-2024.php $DEPLOYPATH
     - /bin/cp horario-de-actividades.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp inscripciones-candidaturas.php $DEPLOYPATH
