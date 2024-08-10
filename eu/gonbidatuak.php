@@ -11,6 +11,9 @@
 
     <!-- Page CSS -->
     <link href="/styles/invitados.css" rel="stylesheet">
+    <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/invitados.php"); ?>
+  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/../include/invitados.json'));
+        $categoryName = $activityCategory->categoryName;
+        require(__DIR__ . "/../include/invitados.php"); ?>
 </html>

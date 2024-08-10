@@ -1,4 +1,6 @@
-.card-img-top {
-    border-top-left-radius: var(--bs-border-radius-xl);
-    border-top-right-radius: var(--bs-border-radius-xl);
+.guest-logo {
+  width: auto;
+  height: auto;
+  max-height: 400px;
+  max-width: 100%;
 }
