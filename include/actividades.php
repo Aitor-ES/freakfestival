@@ -31,9 +31,11 @@
         <li class="list-group-item">
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
-            <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
-              <img class="activity-img" src="/images/activities/<?php echo $activity->activityImage ?>" alt="<?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>" width="200" height="200">
-            </div>
+            <?php if (property_exists($activity, 'activityImage')) { ?>
+              <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
+                <img class="activity-img" src="/images/activities/<?php echo $activity->activityImage ?>" alt="<?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>" width="200" height="200">
+              </div>
+            <?php } ?>
 
             <!-- Activity main content -->
             <div class="col-12 col-lg-6">
@@ -95,7 +97,7 @@
               <p><?php echo $lang["lang.activities.$categoryName.$activity->activityName.description"]; ?></p>
 
               <!-- Activity links -->
-              <div class="row gy-3 mb-3">
+              <div class="row gy-3">
                 <?php if (property_exists($activity, 'rules')) { ?>
                   <div class="col-auto">
                     <a class="btn btn-outline-ffscarlet rounded-pill" href="/docs/<?php echo $activity->rules; ?>" role="button">

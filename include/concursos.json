@@ -3,34 +3,77 @@
   "activities": [
     {
       "activityName": "cosplay",
-      "activityImage": "",
       "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "18:00 - 20:00"
+        }
+      ],
+      "duration": "2 h",
+      "participants": "20",
+      "age": "all",
+      "lang": "free",
       "rules": "Bases del concurso de cosplay.pdf",
       "register": "https://forms.gle/sNPQpQEp7ha1ZRtR7"
     },
     {
       "activityName": "pintado-miniaturas",
-      "activityImage": "",
       "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "participants": "36",
+      "age": "all",
+      "lang": "free",
       "rules": "Bases del concurso de miniaturas y dioramas.pdf",
       "register": "https://forms.gle/PYVhBGFikhfsBeTC6"
     },
     {
       "activityName": "fast-painting",
-      "activityImage": "",
       "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "18:00 - 20:00"
+        }
+      ],
+      "duration": "2 h",
+      "participants": "12",
+      "age": "all",
+      "lang": "free",
       "rules": "Bases del concurso de fast painting.pdf"
     },
     {
       "activityName": "fast-fic",
-      "activityImage": "",
       "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "11:00 - 21:00"
+        }
+      ],
+      "duration": "10 h",
+      "participants": "15",
+      "age": "all",
+      "lang": "free",
       "rules": "Bases del concurso de fast fic.pdf"
     },
     {
       "activityName": "fast-comic",
-      "activityImage": "",
       "organizer": "valinor",
+      "organizerImage": "valinor.svg",
+      "timetable": [
+        {
+          "day": "saturday",
+          "time": "10:30 - 14:00"
+        }
+      ],
+      "duration": "3 h 30 min",
+      "participants": "15",
+      "age": "all",
+      "lang": "free",
       "rules": "Bases del concurso de fast comic.pdf"
     }
   ]
