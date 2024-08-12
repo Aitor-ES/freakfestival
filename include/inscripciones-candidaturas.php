@@ -11,10 +11,25 @@
     </div>
 
     <div class="d-flex flex-column align-items-lg-baseline gap-3">
-      <a class="btn btn-outline-ffscarlet btn-outline-b" href="https://forms.gle/uBpSYT3TvpxTj9An8"><?php echo $lang["lang.registrations-applications.associations"]; ?></a>
-      <a class="btn btn-outline-ffscarlet btn-outline-b" href="https://forms.gle/FvvvDUNfzQ8GZ5uS9"><?php echo $lang["lang.registrations-applications.activities"]; ?></a>
-      <a class="btn btn-outline-ffscarlet btn-outline-b" href="https://forms.gle/Ebk5qwjpoPxk5yE67"><?php echo $lang["lang.registrations-applications.artists"]; ?></a>
-      <a class="btn btn-outline-ffscarlet btn-outline-b" href="https://forms.gle/7KcUNHTS2eWFgPzG9"><?php echo $lang["lang.registrations-applications.shops"]; ?></a>
+      <a class="btn btn-outline-ffscarlet rounded-pill" href="https://forms.gle/uBpSYT3TvpxTj9An8">
+        <?php echo $lang["lang.registrations-applications.associations"]; ?>
+        <i class="bi bi-chevron-right ms-1"></i>
+      </a>
+
+      <a class="btn btn-outline-ffscarlet rounded-pill" href="https://forms.gle/FvvvDUNfzQ8GZ5uS9">
+        <?php echo $lang["lang.registrations-applications.activities"]; ?>
+        <i class="bi bi-chevron-right ms-1"></i>
+      </a>
+
+      <a class="btn btn-outline-ffscarlet rounded-pill" href="https://forms.gle/Ebk5qwjpoPxk5yE67">
+        <?php echo $lang["lang.registrations-applications.artists"]; ?>
+        <i class="bi bi-chevron-right ms-1"></i>
+      </a>
+
+      <a class="btn btn-outline-ffscarlet rounded-pill" href="https://forms.gle/7KcUNHTS2eWFgPzG9">
+        <?php echo $lang["lang.registrations-applications.shops"]; ?>
+        <i class="bi bi-chevron-right ms-1"></i>
+      </a>
     </div>
   </main>
   <!-- Main End -->
