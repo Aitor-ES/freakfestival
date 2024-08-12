@@ -71,7 +71,7 @@
       <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-5 mb-5">
         <!-- Public -->
         <div class="col">
-          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+          <div class="feature-icon text-white bg-ffscarlet bg-gradient fs-2 mb-3">
             <i class="bi bi-people"></i>
           </div>
           <h3 class="mb-4"><?php echo $lang["lang.home.features.public.title"]; ?></h3>
@@ -80,7 +80,7 @@
 
         <!-- Local -->
         <div class="col">
-          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+          <div class="feature-icon text-white bg-ffscarlet bg-gradient fs-2 mb-3">
             <i class="bi bi-bag-heart"></i>
           </div>
           <h3 class="mb-4"><?php echo $lang["lang.home.features.local.title"]; ?></h3>
@@ -89,7 +89,7 @@
 
         <!-- Entrance -->
         <div class="col">
-          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+          <div class="feature-icon text-white bg-ffscarlet bg-gradient fs-2 mb-3">
             <i class="bi bi-ticket-perforated"></i>
           </div>
           <h3 class="mb-4"><?php echo $lang["lang.home.features.entrance.title"]; ?></h3>
@@ -98,7 +98,7 @@
 
         <!-- Date -->
         <div class="col">
-          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+          <div class="feature-icon text-white bg-ffscarlet bg-gradient fs-2 mb-3">
             <i class="bi bi-calendar-event"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.date.title"]; ?></h3>
@@ -119,7 +119,7 @@
 
         <!-- Location -->
         <div class="col">
-          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+          <div class="feature-icon text-white bg-ffscarlet bg-gradient fs-2 mb-3">
             <i class="bi bi-geo"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.location.title"]; ?></h3>
@@ -138,7 +138,7 @@
 
         <!-- Hotels -->
         <div class="col">
-          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-white bg-ffscarlet bg-gradient fs-2 mb-3">
+          <div class="feature-icon text-white bg-ffscarlet bg-gradient fs-2 mb-3">
             <i class="bi bi-moon-stars"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.hotels.title"]; ?></h3>

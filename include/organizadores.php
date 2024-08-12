@@ -45,12 +45,12 @@
         <h2 class="mb-3"><?php echo $lang["lang.organizers.valinor.join.title"]; ?></h2>
         <p><?php echo $lang["lang.organizers.valinor.join.description"]; ?></p>
 
-        <ul class="list-inline d-flex justify-content-center justify-content-lg-start pt-3">
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="mailto:asociacionvalinor@gmail.com" target="_blank"><i class="bi bi-envelope-fill"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://www.instagram.com/asovalinor" target="_blank"><i class="bi bi-instagram"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://www.facebook.com/asociacionvalinor" target="_blank"><i class="bi bi-facebook"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://twitter.com/AsoValinor" target="_blank"><i class="bi bi-twitter-x"></i></a></li>
-          <li class="list-inline-item"><a class="btn btn-lg btn-outline-ffscarlet btn-outline-b" href="https://www.discord.com/invite/w4DQ2kZ9TV" target="_blank"><i class="bi bi-discord"></i></a></li>
+        <ul class="list-inline">
+          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="mailto:asociacionvalinor@gmail.com" target="_blank"><i class="bi bi-envelope-fill"></i></a></li>
+          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/asovalinor" target="_blank"><i class="bi bi-instagram"></i></a></li>
+          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.facebook.com/asociacionvalinor" target="_blank"><i class="bi bi-facebook"></i></a></li>
+          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://twitter.com/AsoValinor" target="_blank"><i class="bi bi-twitter-x"></i></a></li>
+          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.discord.com/invite/w4DQ2kZ9TV" target="_blank"><i class="bi bi-discord"></i></a></li>
         </ul>
       </div>
 
