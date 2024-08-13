@@ -42,9 +42,9 @@
                 <?php echo $lang["lang.header.program"]; ?>
               </a>
 
-              <ul class="dropdown-menu rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-program">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".horario-de-actividades"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".salas"]; ?>.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
+              <ul class="dropdown-menu" data-bs-theme="light" aria-labelledby="navbarDropdown-program">
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".horario-de-actividades"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".salas"]; ?>.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
               </ul>
             </li>
 
@@ -56,15 +56,15 @@
                 <?php echo $lang["lang.header.activities"]; ?>
               </a>
 
-              <ul class="dropdown-menu rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-activities">
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".juegos-de-mesa"]; ?>.php"><?php echo $lang["lang.activities.board-games.title"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".torneos"]; ?>.php"><?php echo $lang["lang.activities.tournaments.title"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".rol-de-mesa"]; ?>.php"><?php echo $lang["lang.activities.rpg.title"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".rol-en-vivo"]; ?>.php"><?php echo $lang["lang.activities.larp.title"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".charlas"]; ?>.php"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".presentaciones-de-libros"]; ?>.php"><?php echo $lang["lang.activities.book-releases.title"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".talleres"]; ?>.php"><?php echo $lang["lang.activities.workshops.title"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".otras-actividades"]; ?>.php"><?php echo $lang["lang.activities.others.title"]; ?></a></li>
+              <ul class="dropdown-menu" data-bs-theme="light" aria-labelledby="navbarDropdown-activities">
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".juegos-de-mesa"]; ?>.php"><?php echo $lang["lang.activities.board-games.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".torneos"]; ?>.php"><?php echo $lang["lang.activities.tournaments.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".rol-de-mesa"]; ?>.php"><?php echo $lang["lang.activities.rpg.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".rol-en-vivo"]; ?>.php"><?php echo $lang["lang.activities.larp.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".charlas"]; ?>.php"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".presentaciones-de-libros"]; ?>.php"><?php echo $lang["lang.activities.book-releases.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".talleres"]; ?>.php"><?php echo $lang["lang.activities.workshops.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".otras-actividades"]; ?>.php"><?php echo $lang["lang.activities.others.title"]; ?></a></li>
               </ul>
             </li>
 
@@ -100,28 +100,28 @@
                 <?php echo $lang["lang.header.more"]; ?>
               </a>
 
-              <ul class="dropdown-menu dropdown-menu-lg-end rounded-4 p-1" data-bs-theme="light" aria-labelledby="navbarDropdown-more">
+              <ul class="dropdown-menu dropdown-menu-end" data-bs-theme="light" aria-labelledby="navbarDropdown-more">
                 <li><h6 class="dropdown-header"><?php echo $lang["lang.header.info"]; ?></h6></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.header.hotels"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php"><?php echo $lang["lang.header.hotels"]; ?></a></li>
 
                 <li><hr class="dropdown-divider"></li>
 
                 <li><h6 class="dropdown-header"><?php echo $lang["lang.header.about-us"]; ?></h6></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".colaboradores"]; ?>.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".colaboradores"]; ?>.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
 
                 <!-- <li><hr class="dropdown-divider"></li> -->
 
                 <!-- <li><h6 class="dropdown-header"><?php echo $lang["lang.header.editions.2024"]; ?></h6></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".inscripciones-candidaturas"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".inscripciones-candidaturas"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
 
                 <li><hr class="dropdown-divider"></li>
 
                 <li><h6 class="dropdown-header"><?php echo $lang["lang.header.photos"]; ?></h6></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2024"]; ?>.php"><?php echo $lang["lang.header.editions.2024"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2023"]; ?>.php"><?php echo $lang["lang.header.editions.2023"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2022"]; ?>.php"><?php echo $lang["lang.header.editions.2022"]; ?></a></li>
-                <li class="p-1"><a class="dropdown-item rounded-3 py-2 px-3" href="<?php echo $links[$lang["lang"] . ".edicion-2018"]; ?>.php"><?php echo $lang["lang.header.editions.2018"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".edicion-2024"]; ?>.php"><?php echo $lang["lang.header.editions.2024"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".edicion-2023"]; ?>.php"><?php echo $lang["lang.header.editions.2023"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".edicion-2022"]; ?>.php"><?php echo $lang["lang.header.editions.2022"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".edicion-2018"]; ?>.php"><?php echo $lang["lang.header.editions.2018"]; ?></a></li>
               </ul>
             </li>
           </ul>
