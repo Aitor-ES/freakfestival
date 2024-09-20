@@ -1,23 +1,5 @@
-.btn-outline-0 {
-    border-bottom: 0px;
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-}
-
-.btn-outline-b {
-    border-bottom: solid 3px;
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-}
-
 .icon-btn {
-    width: 3rem;
-    height: 3rem;
+    line-height: 1rem;
+    padding: 1rem;
     border-radius: 50%;
-
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
 }
