@@ -1,4 +1,4 @@
-<header class="navbar navbar-expand-lg sticky-top ff-navbar bg-ffscarlet-gradient-bottom-90" data-bs-theme="dark">
+<header class="navbar navbar-expand-lg sticky-top ff-navbar" data-bs-theme="dark">
   <nav id="header-nav" class="container-xxl">
     <button id="navbar-toggler-header" class="navbar-toggler p-2 border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#header-offcanvas" aria-controls="header-offcanvas" aria-expanded="false" aria-label="Toggle navigation">
       <i class="bi bi-list" style="font-size: 1.5rem;"></i>
@@ -12,7 +12,7 @@
       <i class="bi bi-three-dots" style="font-size: 1.5rem;"></i>
     </button>
 
-    <div class="offcanvas offcanvas-start bg-ffscarlet d-lg-contents flex-grow-1" tabindex="-1" id="header-offcanvas" aria-labelledby="offcanvas-logo">
+    <div class="offcanvas offcanvas-start bg-ffscarlet bg-gradient d-lg-contents flex-grow-1" tabindex="-1" id="header-offcanvas" aria-labelledby="offcanvas-logo">
       <div class="offcanvas-header text-light px-4 pb-0">
         <a href="index.php">
           <img src="/images/logos/Letras_dado.png" id="offcanvas-logo" alt="Freak Festival" width="60" height="60">
