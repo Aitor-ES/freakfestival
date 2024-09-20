@@ -56,10 +56,8 @@
 }
 
 .feature-icon {
+  line-height: 1rem;
   padding: 1rem;
   border-radius: 50%;
-
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  display: inline-block;
 }

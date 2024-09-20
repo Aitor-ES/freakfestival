@@ -72,7 +72,7 @@
         <!-- Public -->
         <div class="col">
           <div class="feature-icon text-ffscarlet bg-ffscarlet-10 bg-gradient mb-4">
-            <i class="bi bi-people fs-2 lh-1"></i>
+            <i class="bi bi-people fs-2"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.public.title"]; ?></h3>
           <p><?php echo $lang["lang.home.features.public.description"]; ?></p>
@@ -81,7 +81,7 @@
         <!-- Local -->
         <div class="col">
           <div class="feature-icon text-ffscarlet bg-ffscarlet-10 bg-gradient mb-4">
-            <i class="bi bi-bag-heart fs-2 lh-1"></i>
+            <i class="bi bi-bag-heart fs-2"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.local.title"]; ?></h3>
           <p><?php echo $lang["lang.home.features.local.description"]; ?></p>
@@ -90,7 +90,7 @@
         <!-- Entrance -->
         <div class="col">
           <div class="feature-icon text-ffscarlet bg-ffscarlet-10 bg-gradient mb-4">
-            <i class="bi bi-ticket-perforated fs-2 lh-1"></i>
+            <i class="bi bi-ticket-perforated fs-2"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.entrance.title"]; ?></h3>
           <p><?php echo $lang["lang.home.features.entrance.description"]; ?></p>
@@ -99,7 +99,7 @@
         <!-- Date -->
         <div class="col">
           <div class="feature-icon text-ffscarlet bg-ffscarlet-10 bg-gradient mb-4">
-            <i class="bi bi-calendar-event fs-2 lh-1"></i>
+            <i class="bi bi-calendar-event fs-2"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.date.title"]; ?></h3>
           <p>
@@ -120,7 +120,7 @@
         <!-- Location -->
         <div class="col">
           <div class="feature-icon text-ffscarlet bg-ffscarlet-10 bg-gradient mb-4">
-            <i class="bi bi-geo fs-2 lh-1"></i>
+            <i class="bi bi-geo fs-2"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.location.title"]; ?></h3>
           <p>
@@ -139,7 +139,7 @@
         <!-- Hotels -->
         <div class="col">
           <div class="feature-icon text-ffscarlet bg-ffscarlet-10 bg-gradient mb-4">
-            <i class="bi bi-moon-stars fs-2 lh-1"></i>
+            <i class="bi bi-moon-stars fs-2"></i>
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.hotels.title"]; ?></h3>
           <p><?php echo $lang["lang.home.features.hotels.description"]; ?></p>
