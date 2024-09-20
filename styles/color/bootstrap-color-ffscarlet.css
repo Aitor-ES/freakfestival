@@ -40,30 +40,8 @@
 .bg-ffscarlet {
   background-color: #b92014 !important; }
 
-.bg-ffscarlet-75 {
-  background-color: #b92014c0 !important; }
-
-.bg-ffscarlet-50 {
-  background-color: #b9201480 !important; }
-
-.bg-ffscarlet-25 {
-  background-color: #b9201440 !important; }
-
-.bg-ffscarlet-gradient-top-75 {
-  background-color: transparent;
-  background-image: linear-gradient(to top, rgb(185, 32, 20), rgb(185, 32, 20, 0.75)); }
-
-.bg-ffscarlet-gradient-top-90 {
-  background-color: transparent;
-  background-image: linear-gradient(to top, rgb(185, 32, 20), rgb(185, 32, 20, 0.9)); }
-
-.bg-ffscarlet-gradient-bottom-75 {
-  background-color: transparent;
-  background-image: linear-gradient(to bottom, rgb(185, 32, 20), rgb(185, 32, 20, 0.75)); }
-
-.bg-ffscarlet-gradient-bottom-90 {
-  background-color: transparent;
-  background-image: linear-gradient(to bottom, rgb(185, 32, 20), rgb(185, 32, 20, 0.9)); }
+.bg-ffscarlet-10 {
+  background-color: rgb(185, 32, 20, 0.1) !important; }
 
 .text-ffscarlet {
   color: #b92014 !important; }

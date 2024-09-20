@@ -56,8 +56,7 @@
 }
 
 .feature-icon {
-  width: 4rem;
-  height: 4rem;
+  padding: 1rem;
   border-radius: 50%;
 
   display: inline-flex;
