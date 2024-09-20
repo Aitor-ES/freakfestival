@@ -1,22 +1,22 @@
 :root {
-  --bs-body-font-family: Inter, system-ui;
+  --bs-body-font-family: "Inter", system-ui;
   font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
 }
 @supports (font-variation-settings: normal) {
-  :root { --bs-body-font-family: InterVariable, system-ui; }
+  :root { --bs-body-font-family: "InterVariable", system-ui; }
 }
 
 .f-outfit {
-  font-family: "Outfit", system-ui;
+  font-family: "Outfit", "Inter", system-ui;
 }
 
 .f-uncial-antiqua {
-  font-family: "Uncial Antiqua", system-ui;
+  font-family: "Uncial Antiqua", "Inter", system-ui;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   --bs-heading-color: var(--bs-emphasis-color);
-  font-family: "Outfit", system-ui;
+  font-family: "Outfit", "Inter", system-ui;
 }
 
 .ff-intro-title {
