@@ -13,7 +13,7 @@
 <meta name="twitter:creator" content="@AsoValinor">
 <meta name="twitter:title" content="<?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?>">
 <meta name="twitter:description" content="<?php echo $lang["lang.head.description"]; ?>">
-<meta name="twitter:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
+<meta name="twitter:image" content="https://freakfestival.es/images/ui/banner_square-min.jpg">
 
 <!-- Facebook -->
 <meta property="og:url" content="https://freakfestival.es/<?php if ($lang["lang"] == "eu") echo "eu/"; ?><?php echo $links[$lang["lang"] . "." . $curPageName]; ?>.php">
@@ -21,7 +21,7 @@
 <meta property="og:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta property='og:site_name' content='Freak Festival'>
 <meta property="og:type" content="article">
-<meta property="og:image" content="https://freakfestival.es/images/photos/banner_square-min.jpg">
+<meta property="og:image" content="https://freakfestival.es/images/ui/banner_square-min.jpg">
 <meta property="og:image:type" content="image/jpg">
 <meta property="og:image:width" content="1000">
 <meta property="og:image:height" content="1000">
@@ -29,7 +29,7 @@
 <title><?php echo $title; ?> · <?php echo $lang["lang.head.title.name"]; ?></title>
 
 <!-- Favicon -->
-<link rel="icon" href="/images/logos/favicon.png">
+<link rel="icon" href="/images/ui/logos/favicon.png">
 
 <!-- Common CSS -->
 <!-- Inter font CSS -->

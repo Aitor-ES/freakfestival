@@ -8,7 +8,7 @@
     <!-- Banner Start -->
     <div class="mb-5 py-5" id="banner">
       <div class="container-xxl ff-gutter d-flex flex-column align-items-center text-center row-gap-5">
-        <img class="banner-logo" src="/images/logos/Letras_dado_fecha.png" alt="Freak Festival" width="250" height="200">
+        <img class="banner-logo" src="/images/ui/logos/Letras_dado_fecha.png" alt="Freak Festival" width="250" height="200">
 
         <div class="banner-box row row-cols-1 row-cols-md-4">
           <!-- Date -->
@@ -161,7 +161,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/juegos_de_mesa-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/juegos_de_mesa-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -179,7 +179,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/rol-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/rol-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -197,7 +197,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/larp-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/larp-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -215,7 +215,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/talleres-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/talleres-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -233,7 +233,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/tiendas_artistas_y_artesanos-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/tiendas_artistas_y_artesanos-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -251,7 +251,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/charlas-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/charlas-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -269,7 +269,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/presentaciones_de_libros-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/presentaciones_de_libros-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -287,7 +287,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/torneos-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/torneos-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">
@@ -305,7 +305,7 @@
         <div class="col">
           <div class="row gy-4 gx-5">
             <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/photos/concursos-min.jpg" alt="" width="200" height="200">
+              <img class="rounded-circle" src="/images/ui/concursos-min.jpg" alt="" width="200" height="200">
             </div>
 
             <div class="col">

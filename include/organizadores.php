@@ -11,7 +11,7 @@
 
     <div class="row gy-5">
       <div class="col-12 col-lg-5 text-center">
-        <img src="/images/logos/logo_valinor.svg" alt="Valinor" width="300" height="200">
+        <img src="/images/ui/logos/logo_valinor.svg" alt="Valinor" width="300" height="200">
       </div>
 
       <div class="col-12 col-lg-7">
@@ -20,7 +20,7 @@
       </div>
 
       <div class="col-12 col-lg-5 text-center">
-        <img class="rounded-4" src="/images/valinor/_MG_6669-min.JPG" alt="Freak Festival" width="auto" height="200">
+        <img class="rounded-4" src="/images/ui/valinor_freak_festival-min.JPG" alt="Freak Festival" width="auto" height="200">
       </div>
 
       <div class="col-12 col-lg-7">
@@ -29,7 +29,7 @@
       </div>
 
       <div class="col-12 col-lg-5 text-center">
-        <img class="rounded-4" src="/images/valinor/IMG_20230513_174511-min.jpg" alt="Juegos de mesa" width="auto" height="200">
+        <img class="rounded-4" src="/images/ui/valinor_juegos_de_mesa-min.jpg" alt="Juegos de mesa" width="auto" height="200">
       </div>
 
       <div class="col-12 col-lg-7">
@@ -38,7 +38,7 @@
       </div>
 
       <div class="col-12 col-lg-5 text-center">
-        <img class="rounded-4" src="/images/valinor/Agoranos-431-min.jpg" alt="Ágora Nos" width="auto" height="200">
+        <img class="rounded-4" src="/images/ui/valinor_agora_nos-min.jpg" alt="Ágora Nos" width="auto" height="200">
       </div>
 
       <div class="col-12 col-lg-7">

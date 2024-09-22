@@ -6,7 +6,7 @@
       rgba(0, 0, 0, 0.6)
     ),
     /* bottom, image */
-    url('../images/photos/banner-min.jpg');
+    url('../images/ui/banner-min.jpg');
   background-size: cover;
   background-position: center;
   background-color: #565250;

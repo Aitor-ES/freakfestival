@@ -13,7 +13,7 @@
           </div>
 
           <a href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php">
-            <img class="logo-valinor" src="/images/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto" height="100">
+            <img class="logo-valinor" src="/images/ui/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto" height="100">
           </a>
 
           <ul class="list-inline d-flex justify-content-between justify-content-lg-center column-gap-lg-3 mb-0">
@@ -38,7 +38,7 @@
         <div class="col-12 col-lg-3">
           <p><?php echo $lang["lang.footer.sponsors"]; ?></p>
           <a href="https://www.fundacionvital.eus/" target="_blank">
-            <img class="logo-sponsor" src="/images/logos/sponsors/fvital-min.png" alt="" width="auto" height="60">
+            <img class="logo-sponsor" src="/images/sponsors/fvital-min.png" alt="" width="auto" height="60">
           </a>
         </div>
 
@@ -47,11 +47,11 @@
         <div class="col-12 col-lg-3 order-lg-first">
           <div class="row gy-5">
             <div class="col-4 col-lg-12">
-              <img class="logo-vg" src="/images/logos/sponsors/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="45">
+              <img class="logo-vg" src="/images/sponsors/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="45">
             </div>
 
             <div class="col-4 col-lg-12">
-              <img class="logo-vg" src="/images/logos/sponsors/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="45">
+              <img class="logo-vg" src="/images/sponsors/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="45">
             </div>
           </div>
         </div>

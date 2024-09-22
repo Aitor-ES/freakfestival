@@ -5,7 +5,7 @@
     </button>
 
     <a id="navbar-brand" class="navbar-brand p-0 mx-auto" href="index.php">
-      <img src="/images/logos/Letras_dado.png" id="navbar-brand-logo" class="my-2" alt="Freak Festival" width="40" height="40">
+      <img src="/images/ui/logos/Letras_dado.png" id="navbar-brand-logo" class="my-2" alt="Freak Festival" width="40" height="40">
     </a>
 
     <button id="navbar-toggler-footer" class="navbar-toggler d-lg-none p-2 border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#footer-offcanvas" aria-controls="footer-offcanvas" aria-expanded="false" aria-label="Toggle footer">
@@ -15,7 +15,7 @@
     <div class="offcanvas offcanvas-start bg-ffscarlet bg-gradient d-lg-contents flex-grow-1" tabindex="-1" id="header-offcanvas" aria-labelledby="offcanvas-logo">
       <div class="offcanvas-header text-light px-4 pb-0">
         <a href="index.php">
-          <img src="/images/logos/Letras_dado.png" id="offcanvas-logo" alt="Freak Festival" width="60" height="60">
+          <img src="/images/ui/logos/Letras_dado.png" id="offcanvas-logo" alt="Freak Festival" width="60" height="60">
         </a>
 
         <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" data-bs-target="#header-offcanvas" aria-label="Close"></button>

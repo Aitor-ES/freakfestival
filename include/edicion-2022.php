@@ -12,13 +12,13 @@
     <!-- General -->
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
-        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min") as $file) {
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/2022/min") as $file) {
           if (!$file->isFile()) continue;
       ?>
 
       <div class="col-auto">
-        <a href="/images/photos/gallery/2022/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        <a href="/images/photos/2022/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/2022/thumbnails/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
         </a>
       </div>
 
@@ -32,13 +32,13 @@
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
-        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Puestos, colaboradores e invitados") as $file) {
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/2022/min/Puestos, colaboradores e invitados") as $file) {
           if (!$file->isFile()) continue;
       ?>
 
       <div class="col-auto">
-        <a href="/images/photos/gallery/2022/min/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        <a href="/images/photos/2022/min/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/2022/thumbnails/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
         </a>
       </div>
 
@@ -52,13 +52,13 @@
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
-        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Actividades") as $file) {
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/2022/min/Actividades") as $file) {
           if (!$file->isFile()) continue;
       ?>
 
       <div class="col-auto">
-        <a href="/images/photos/gallery/2022/min/Actividades/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Actividades/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        <a href="/images/photos/2022/min/Actividades/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/2022/thumbnails/Actividades/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
         </a>
       </div>
 
@@ -72,13 +72,13 @@
 
     <div class="row gy-4 mb-5 justify-content-center">
       <?php
-        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/gallery/2022/min/Cosplay") as $file) {
+        foreach (new DirectoryIterator(__DIR__ . "/../images/photos/2022/min/Cosplay") as $file) {
           if (!$file->isFile()) continue;
       ?>
 
       <div class="col-auto">
-        <a href="/images/photos/gallery/2022/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-          <img class="border rounded p-1" src="/images/photos/gallery/2022/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
+        <a href="/images/photos/2022/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+          <img class="border rounded p-1" src="/images/photos/2022/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto" height="100px">
         </a>
       </div>
 
