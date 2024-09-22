@@ -9,7 +9,7 @@
       <h1 class="ff-title"><?php echo $lang["lang.edition.2023.title"]; ?></h1>
     </div>
 
-    <!-- Stands, partners and guests -->
+    <!-- Stands, contributors and guests -->
     <h2 class="mb-4"><?php echo $lang["lang.edition.gallery.stands-contributors-guests"]; ?></h2>
 
     <div class="row gy-4 mb-5 justify-content-center">

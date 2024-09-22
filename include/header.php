@@ -108,7 +108,7 @@
 
                 <li><h6 class="dropdown-header"><?php echo $lang["lang.header.about-us"]; ?></h6></li>
                 <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".colaboradores"]; ?>.php"><?php echo $lang["lang.header.partners"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".colaboradores"]; ?>.php"><?php echo $lang["lang.header.contributors"]; ?></a></li>
 
                 <!-- <li><hr class="dropdown-divider"></li> -->
 
