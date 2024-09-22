@@ -15,7 +15,7 @@
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-4 d-flex justify-content-center align-items-start">
-              <img class="guest-logo rounded-5" src="/images/photos/guests/<?php echo $activity->logo; ?>" alt="<?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>" width="400" height="400">
+              <img class="guest-logo rounded-5" src="/images/contributors/<?php echo $activity->logo; ?>" alt="<?php echo $lang["lang.activities.$categoryName.$activity->activityName.title"]; ?>" width="400" height="400">
             </div>
 
             <!-- Activity main content -->

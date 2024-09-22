@@ -16,7 +16,7 @@
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Hotel image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center">
-              <img class="stand-logo" src="/images/logos/hotels/<?php echo $activity->logo; ?>" alt="<?php echo $activity->activityName; ?>" width="200" height="200">
+              <img class="stand-logo" src="/images/contributors/<?php echo $activity->logo; ?>" alt="<?php echo $activity->activityName; ?>" width="200" height="200">
             </div>
 
             <!-- Hotel main content -->

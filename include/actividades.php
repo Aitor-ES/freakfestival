@@ -121,7 +121,7 @@
             <!-- Activity organizer -->
             <div class="col-12 col-lg-3 d-flex flex-column align-items-center row-gap-4">
               <?php if (property_exists($activity, 'organizerImage')) { ?>
-                <img class="organizer-img" src="/images/organizers/<?php echo $activity->organizerImage ?>" alt="<?php echo $lang["lang.activities.organizer.$activity->organizer"]; ?>" width="200" height="200">
+                <img class="organizer-img" src="/images/contributors/<?php echo $activity->organizerImage ?>" alt="<?php echo $lang["lang.activities.organizer.$activity->organizer"]; ?>" width="200" height="200">
               <?php } ?>
 
               <div class="d-flex flex-column row-gap-3 text-center">

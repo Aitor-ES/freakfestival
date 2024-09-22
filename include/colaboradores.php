@@ -18,7 +18,7 @@
       <?php foreach ($contributors->associations as $association) { ?>
         <div class="col d-flex justify-content-center align-items-center">
           <a id="<?php echo $association->key; ?>" href="<?php echo $association->link; ?>" target="_blank">
-            <img loading="lazy" class="logo-contributor" src="/images/logos/contributors/2024/Asociaciones/<?php echo $association->logo; ?>"
+            <img loading="lazy" class="logo-contributor" src="/images/contributors/<?php echo $association->logo; ?>"
               alt="<?php echo $association->name; ?>" width="216" height="100">
           </a>
         </div>
@@ -32,7 +32,7 @@
       <?php foreach ($contributors->brands as $brand) { ?>
         <div class="col d-flex justify-content-center align-items-center">
           <a id="<?php echo $brand->key; ?>" href="<?php echo $brand->link; ?>" target="_blank">
-            <img loading="lazy" class="logo-contributor" src="/images/logos/contributors/2024/Tiendas, marcas y editoriales/<?php echo $brand->logo; ?>"
+            <img loading="lazy" class="logo-contributor" src="/images/contributors/<?php echo $brand->logo; ?>"
               alt="<?php echo $brand->name; ?>" width="216" height="100">
           </a>
         </div>
@@ -46,7 +46,7 @@
       <?php foreach ($contributors->photography as $photographer) { ?>
         <div class="col d-flex justify-content-center align-items-center">
           <a id="<?php echo $photographer->key; ?>" href="<?php echo $photographer->link; ?>" target="_blank">
-            <img loading="lazy" class="logo-contributor" src="/images/logos/contributors/2024/Fotografía/<?php echo $photographer->logo; ?>"
+            <img loading="lazy" class="logo-contributor" src="/images/contributors/<?php echo $photographer->logo; ?>"
               alt="<?php echo $photographer->name; ?>" width="216" height="100">
           </a>
         </div>
