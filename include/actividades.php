@@ -78,7 +78,7 @@
 
                 <!-- Activity age -->
                 <div class="col d-flex flex-column align-items-center row-gap-1">
-                  <i class="bi bi-person-exclamation fs-1 text-ffscarlet"></i>
+                  <i class="bi bi-person-check fs-1 text-ffscarlet"></i>
                   <?php
                     $age = $activity->age;
                     if (is_numeric($age)) echo "+$age {$lang["lang.activities.age.years-old"]}";
