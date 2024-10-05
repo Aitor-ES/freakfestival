@@ -94,21 +94,20 @@
 }
 
 .ff-navbar .dropdown-menu {
-    --bs-dropdown-padding: .5rem;
+    --bs-dropdown-padding: .25rem;
     --bs-dropdown-padding-x: var(--bs-dropdown-padding);
     --bs-dropdown-padding-y: var(--bs-dropdown-padding);
-    --bs-dropdown-border-radius: calc(var(--bs-border-radius-xl) + var(--bs-dropdown-padding));
+    --bs-dropdown-border-radius: calc(var(--bs-dropdown-item-border-radius) + var(--bs-dropdown-padding));
     --bs-dropdown-link-hover-bg: rgba(var(--ff-glacier-rgb), .5);
     --bs-dropdown-link-active-color: var(--bs-body-color);
     --bs-dropdown-link-active-bg: rgba(var(--ff-glacier-rgb), 1);
-    --bs-dropdown-item-padding-x: 1rem;
-    --bs-dropdown-item-padding-y: .5rem;
+    --bs-dropdown-item-padding-x: 1.5rem;
+    --bs-dropdown-item-padding-y: 0.75rem;
+    --bs-dropdown-item-border-radius: 1.5rem;
+    --bs-dropdown-header-padding-x: 1.5rem;
+    --bs-dropdown-header-padding-y: 0.75rem;
 }
 
 .ff-navbar .dropdown-menu li+li {
     margin-top: .25rem;
-}
-
-.ff-navbar .dropdown-menu .dropdown-item {
-    --bs-dropdown-item-border-radius: var(--bs-border-radius-xl);
 }
