@@ -77,9 +77,11 @@
     --bs-nav-link-hover-color: rgba(255, 255, 255, 0.85);
 }
 
-#navbar-lang {
-    grid-area: header-nav;
-    justify-self: end;
+@media (min-width: 992px) {
+    #navbar-lang {
+        grid-area: header-nav;
+        justify-self: end;
+    }
 }
 
 #navbar-lang .nav-item:not(:first-child)::before {
