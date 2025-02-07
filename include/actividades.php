@@ -29,48 +29,53 @@
     <ul class="filters list-group list-group-flush mb-5">
       <li class="list-group-item">
         <h5 class="mb-3"><i class="bi bi-calendar-event text-ffscarlet fs-4 me-3"></i><?php echo $lang["lang.activities.timetable.day"]; ?></h5>
-        <nav>
-          <div class="nav nav-pills pills-tab column-gap-2 row-gap-3" id="pills-date-tab" role="tablist">
+
+        <ul class="nav nav-pills pills-tab column-gap-2 row-gap-3" id="pills-date-tab" role="tablist">
+          <li role="presentation">
             <button class="btn btn-outline-ffscarlet btn-sm active" id="pills-date-all-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="true"
               onclick="setActivityFilter('date-all')">
               <?php echo $lang["lang.activities.filters.all"]; ?>
             </button>
+          </li>
 
-            <?php $activityTimetables = array_map(
-              fn($activity): array => property_exists($activity, "timetable") ? array_column($activity->timetable, "day") : array("continuous"),
-              $activityCategory->activities,
-            );
-            $activityTimetables = array_unique(array_merge(...$activityTimetables));
-            sort($activityTimetables);
-            foreach ($activityTimetables as $activityTimetable) { ?>
+          <?php $activityTimetables = array_map(
+            fn($activity): array => property_exists($activity, "timetable") ? array_column($activity->timetable, "day") : array("continuous"),
+            $activityCategory->activities,
+          );
+          $activityTimetables = array_unique(array_merge(...$activityTimetables));
+          sort($activityTimetables);
+          foreach ($activityTimetables as $activityTimetable) { ?>
+            <li role="presentation">
               <button class="btn btn-outline-ffscarlet btn-sm" id="pills-date-<?php echo $activityTimetable; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
                 onclick="setActivityFilter('date-<?php echo $activityTimetable; ?>')">
                 <?php echo $lang["lang.activities.timetable.$activityTimetable"]; ?>
               </button>
-            <?php } ?>
-          </div>
-        </nav>
+            </li>
+          <?php } ?>
+        </ul>
       </li>
 
       <li class="list-group-item">
         <h5 class="mb-3"><i class="bi bi-translate text-ffscarlet fs-4 me-3"></i><?php echo $lang["lang.activities.lang.language"]; ?></h5>
-        <nav>
-          <div class="nav nav-pills pills-tab column-gap-2 row-gap-3" id="pills-lang-tab" role="tablist">
+        <ul class="nav nav-pills pills-tab column-gap-2 row-gap-3" id="pills-lang-tab" role="tablist">
+          <li role="presentation">
             <button class="btn btn-outline-ffscarlet btn-sm active" id="pills-lang-all-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="true"
               onclick="setActivityFilter('lang-all')">
               <?php echo $lang["lang.activities.filters.all"]; ?>
             </button>
+          </li>
 
-            <?php $activityLangs = array_unique(array_column($activityCategory->activities, "lang"));
-            sort($activityLangs);
-            foreach ($activityLangs as $activityLang) { ?>
+          <?php $activityLangs = array_unique(array_column($activityCategory->activities, "lang"));
+          sort($activityLangs);
+          foreach ($activityLangs as $activityLang) { ?>
+            <li role="presentation">
               <button class="btn btn-outline-ffscarlet btn-sm" id="pills-lang-<?php echo $activityLang; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
                 onclick="setActivityFilter('lang-<?php echo $activityLang; ?>')">
                 <?php echo $lang["lang.activities.lang.$activityLang"]; ?>
               </button>
-            <?php } ?>
-          </div>
-        </nav>
+            </li>
+          <?php } ?>
+        </ul>
       </li>
     </ul>
 
