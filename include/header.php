@@ -51,7 +51,7 @@
             <!-- Actividades -->
             <li class="nav-item dropdown">
               <a class="nav-link text-uppercase text-start text-lg-center dropdown-toggle
-              <?php echo in_array($curPageName, ["juegos-de-mesa", "torneos", "rol-de-mesa", "rol-en-vivo", "charlas", "presentaciones-de-libros", "talleres", "otros"]) ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>"
+              <?php echo in_array($curPageName, ["juegos-de-mesa", "torneos", "rol-de-mesa", "rol-en-vivo", "charlas", "presentaciones-de-libros", "talleres", "otras-actividades"]) ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>"
               href="#" id="navbarDropdown-activities" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.activities"]; ?>
               </a>
