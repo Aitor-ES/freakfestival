@@ -149,6 +149,9 @@ $lang = array(
   "lang.activities.faq.children.question" => "¿Puedo participar siendo menor de edad?",
   "lang.activities.faq.children.answer" => "Sí, cada actividad indica su edad mínima para participar. Además, todos los menores de 12 años deben participar acompañados de un adulto responsable.",
 
+  "lang.activities.faq.rpg.question" => "¿Qué necesito para jugar a rol de mesa?",
+  "lang.activities.faq.rpg.answer" => "Para jugar a rol de mesa, sólo necesitas ganas de pasarlo bien y de vivir una aventura. Los directores de juego se encargarán de proporcionarte y explicarte todo lo necesario para jugar, como personajes pregenerados, dados y reglas.",
+
   "lang.activities.filters.all" => "Todos",
 
   "lang.activities.timetable.day" => "Día",

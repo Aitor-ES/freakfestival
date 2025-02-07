@@ -149,6 +149,9 @@ $lang = array(
   "lang.activities.faq.children.question" => "Adingabea izanik parte har dezaket?",
   "lang.activities.faq.children.answer" => "Bai, jarduera bakoitzak parte hartzeko gutxieneko adina adierazten du. Gainera, 12 urtetik beherako guztiek heldu arduradun batek lagunduta parte hartu behar dute.",
 
+  "lang.activities.faq.rpg.question" => "Zer behar dut mahaiko rolean jokatzeko?",
+  "lang.activities.faq.rpg.answer" => "Mahaiko rolean jokatzeko, ondo pasatzeko eta abentura bat bizitzeko gogoa besterik ez duzu behar. Joko-zuzendariak arduratuko dira jokatzeko behar duzun guztia emateaz eta azaltzeaz, hala nola aurrez sortutako pertsonaiak, dadoak eta arauak.",
+
   "lang.activities.filters.all" => "Guztiak",
 
   "lang.activities.timetable.day" => "Eguna",
