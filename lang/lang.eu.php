@@ -136,13 +136,18 @@ $lang = array(
   "lang.activities.others.title" => "Beste jarduerak",
   "lang.activities.others.description" => "Beste zerbaiten bila? Hemen dituzu gure jarduerak osatzeko proposamen gehiago.",
 
-  "lang.activities.callout.registration.details" => "Jardueretarako izen-emateak aurrez aurrekoak izango dira, antolatzaileen informazio-postuan Almudena Cid aretoan edo, mahai-joko eta txapelketen kasuan, ludotekaren postuan Green Capital aretoan. Izen-emate bakoitza jarduera egingo den goiz edo arratsalde berean irekiko da, ordutegi hauen arabera:",
-  "lang.activities.callout.registration.details.list.friday" => "Ostiralean: 17:30etik aurrera",
-  "lang.activities.callout.registration.details.list.saturday.morning" => "Larunbat goizean: 10:00etatik aurrera",
-  "lang.activities.callout.registration.details.list.saturday.afternoon" => "Larunbat arratsaldean: 15:00etatik aurrera",
-  "lang.activities.callout.registration.details.list.sunday" => "Igandean: 10:00etatik aurrera",
-  "lang.activities.callout.registration.open" => "Jarduera hauek ez dute aurretiko izen-ematerik behar. Bertaratzen diren guztientzat irekia da.",
-  "lang.activities.callout.children" => "Kontrakoa adierazten ez bada, jardueretan parte hartzen duten 12 urtetik beherako guztiek heldu arduradun batek lagunduta egin behar dute.",
+  "lang.activities.faq.title" => "Galderak eta erantzunak",
+
+  "lang.activities.faq.registration.question" => "Nola ematen dut izena jardueretan?",
+  "lang.activities.faq.registration.answer.details" => "Jardueretarako izen-emateak aurrez aurrekoak izango dira: informazio-postuan edo, mahai-joko eta txapelketen kasuan, ludotekaren postuan. Izen-emate bakoitza jarduera egingo den goiz edo arratsalde berean irekiko da, ordutegi hauen arabera:",
+  "lang.activities.faq.registration.answer.details.friday" => "Ostiralean: 17:30etik aurrera",
+  "lang.activities.faq.registration.answer.details.saturday.morning" => "Larunbat goizean: 10:00etatik aurrera",
+  "lang.activities.faq.registration.answer.details.saturday.afternoon" => "Larunbat arratsaldean: 15:00etatik aurrera",
+  "lang.activities.faq.registration.answer.details.sunday" => "Igandean: 10:00etatik aurrera",
+  "lang.activities.faq.registration.answer.open" => "Jarduera hauek ez dute aurretiko izen-ematerik behar. Parte hartu nahi duten guztiei irekita daude.",
+
+  "lang.activities.faq.children.question" => "Adingabea izanik parte har dezaket?",
+  "lang.activities.faq.children.answer" => "Bai, jarduera bakoitzak parte hartzeko gutxieneko adina adierazten du. Gainera, 12 urtetik beherako guztiek heldu arduradun batek lagunduta parte hartu behar dute.",
 
   "lang.activities.filters.all" => "Guztiak",
 

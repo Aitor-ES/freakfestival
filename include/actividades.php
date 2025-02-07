@@ -10,21 +10,48 @@
       <p class="ff-lead text-ffscarlet"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
     </div>
 
-    <?php if (in_array($categoryName, ["talks-exhibitions", "book-releases", "others"])) { ?>
-      <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.callout.registration.open"]; ?></div>
-    <?php } else { ?>
-      <div class="callout callout-info mb-5">
-        <p><?php echo $lang["lang.activities.callout.registration.details"]; ?></p>
-        <ul>
-          <li><?php echo $lang["lang.activities.callout.registration.details.list.friday"]; ?></li>
-          <li><?php echo $lang["lang.activities.callout.registration.details.list.saturday.morning"]; ?></li>
-          <li><?php echo $lang["lang.activities.callout.registration.details.list.saturday.afternoon"]; ?></li>
-          <li><?php echo $lang["lang.activities.callout.registration.details.list.sunday"]; ?></li>
-        </ul>
-      </div>
-    <?php } ?>
+    <h2 class="mb-4"><?php echo $lang["lang.activities.faq.title"]; ?></h2>
 
-    <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.callout.children"]; ?></div>
+    <div class="accordion accordion-flush mb-5" id="accordionFlushFaq">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+            <?php echo $lang["lang.activities.faq.registration.question"]; ?>
+          </button>
+        </h2>
+        <div id="flush-collapseOne" class="accordion-collapse collapse">
+          <div class="accordion-body">
+            <div class="alert alert-ffglacier mb-0" role="alert">
+              <?php if (in_array($categoryName, ["talks-exhibitions", "book-releases", "others"])) { ?>
+                <?php echo $lang["lang.activities.faq.registration.answer.open"]; ?>
+              <?php } else { ?>
+                <p><?php echo $lang["lang.activities.faq.registration.answer.details"]; ?></p>
+                <ul class="mb-0">
+                  <li><?php echo $lang["lang.activities.faq.registration.answer.details.friday"]; ?></li>
+                  <li><?php echo $lang["lang.activities.faq.registration.answer.details.saturday.morning"]; ?></li>
+                  <li><?php echo $lang["lang.activities.faq.registration.answer.details.saturday.afternoon"]; ?></li>
+                  <li><?php echo $lang["lang.activities.faq.registration.answer.details.sunday"]; ?></li>
+                </ul>
+              <?php } ?>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+            <?php echo $lang["lang.activities.faq.children.question"]; ?>
+          </button>
+        </h2>
+        <div id="flush-collapseTwo" class="accordion-collapse collapse">
+          <div class="accordion-body">
+            <div class="alert alert-ffglacier mb-0" role="alert">
+              <?php echo $lang["lang.activities.faq.children.answer"]; ?>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <ul class="filters list-group list-group-flush mb-5">
       <li class="list-group-item">

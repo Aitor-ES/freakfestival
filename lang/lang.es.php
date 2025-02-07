@@ -136,13 +136,18 @@ $lang = array(
   "lang.activities.others.title" => "Otras actividades",
   "lang.activities.others.description" => "¿Buscas algo diferente? Aquí tienes aún más propuestas para completar nuestra variedad de actividades.",
 
-  "lang.activities.callout.registration.details" => "Las inscripciones a las actividades serán presenciales, en el puesto de información de la organización en la sala Almudena Cid o, en el caso de los juegos de mesa y los torneos, en el puesto de la ludoteca en la sala Green Capital. Cada inscripción se abrirá en la misma mañana o tarde en la que vaya a tener lugar la actividad, según estos horarios:",
-  "lang.activities.callout.registration.details.list.friday" => "Viernes: desde las 17:30",
-  "lang.activities.callout.registration.details.list.saturday.morning" => "Sábado por la mañana: desde las 10:00",
-  "lang.activities.callout.registration.details.list.saturday.afternoon" => "Sábado por la tarde: desde las 15:00",
-  "lang.activities.callout.registration.details.list.sunday" => "Domingo: desde las 10:00",
-  "lang.activities.callout.registration.open" => "Estas actividades no requieren de inscripción previa. Son abiertas a todos los asistentes que se acerquen.",
-  "lang.activities.callout.children" => "A menos que se indique lo contrario, todos los menores de 12 años que participen en las actividades deben hacerlo acompañados de un adulto responsable.",
+  "lang.activities.faq.title" => "Preguntas frecuentes",
+
+  "lang.activities.faq.registration.question" => "¿Cómo me inscribo en las actividades?",
+  "lang.activities.faq.registration.answer.details" => "Las inscripciones a las actividades serán presenciales: en el puesto de información o, en el caso de los juegos de mesa y los torneos, en el puesto de la ludoteca. Cada inscripción se abrirá en la misma mañana o tarde en la que vaya a tener lugar la actividad, según estos horarios:",
+  "lang.activities.faq.registration.answer.details.friday" => "Viernes: desde las 17:30",
+  "lang.activities.faq.registration.answer.details.saturday.morning" => "Sábado por la mañana: desde las 10:00",
+  "lang.activities.faq.registration.answer.details.saturday.afternoon" => "Sábado por la tarde: desde las 15:00",
+  "lang.activities.faq.registration.answer.details.sunday" => "Domingo: desde las 10:00",
+  "lang.activities.faq.registration.answer.open" => "Estas actividades no requieren de inscripción previa. Están abiertas a todos los asistentes que quieran participar.",
+
+  "lang.activities.faq.children.question" => "¿Puedo participar siendo menor de edad?",
+  "lang.activities.faq.children.answer" => "Sí, cada actividad indica su edad mínima para participar. Además, todos los menores de 12 años deben participar acompañados de un adulto responsable.",
 
   "lang.activities.filters.all" => "Todos",
 
