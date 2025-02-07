@@ -1,12 +1,25 @@
-.list-group-flush>.list-group-item {
+.filters.list-group-flush>.list-group-item {
+    --bs-list-group-item-padding-y: 1.5rem;
+    --bs-list-group-item-padding-x: 0;
+}
+
+.filters.list-group-flush>.list-group-item:first-child {
+    padding-top: 0;
+}
+
+.filters.list-group-flush>.list-group-item:last-child {
+    padding-bottom: 0;
+}
+
+.activities.list-group-flush>.list-group-item {
     --bs-list-group-item-padding-y: 3rem;
     --bs-list-group-item-padding-x: 0;
 }
 
-.list-group-flush>.list-group-item:first-child {
+.activities.list-group-flush>.list-group-item:first-child {
     padding-top: 0;
 }
 
-.list-group-flush>.list-group-item:last-child {
+.activities.list-group-flush>.list-group-item:last-child {
     padding-bottom: 0;
 }

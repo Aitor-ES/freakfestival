@@ -10,7 +10,7 @@
       <p class="ff-lead text-ffscarlet"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
     </div>
 
-    <ul class="list-group list-group-flush">
+    <ul class="activities list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
         <li class="list-group-item">
           <div class="row justify-content-center gy-4 gx-5">

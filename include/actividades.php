@@ -26,9 +26,62 @@
 
     <div class="callout callout-info mb-5"><?php echo $lang["lang.activities.callout.children"]; ?></div>
 
-    <ul class="list-group list-group-flush">
+    <ul class="filters list-group list-group-flush mb-5">
+      <li class="list-group-item">
+        <h5 class="mb-3"><i class="bi bi-calendar-event text-ffscarlet fs-4 me-3"></i><?php echo $lang["lang.activities.timetable.day"]; ?></h5>
+        <nav>
+          <div class="nav nav-pills pills-tab column-gap-2 row-gap-3" id="pills-date-tab" role="tablist">
+            <button class="btn btn-outline-ffscarlet btn-sm active" id="pills-date-all-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="true"
+              onclick="setActivityFilter('date-all')">
+              <?php echo $lang["lang.activities.filters.all"]; ?>
+            </button>
+
+            <?php $activityTimetables = array_map(
+              fn($activity): array => property_exists($activity, "timetable") ? array_column($activity->timetable, "day") : array("continuous"),
+              $activityCategory->activities,
+            );
+            $activityTimetables = array_unique(array_merge(...$activityTimetables));
+            sort($activityTimetables);
+            foreach ($activityTimetables as $activityTimetable) { ?>
+              <button class="btn btn-outline-ffscarlet btn-sm" id="pills-date-<?php echo $activityTimetable; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
+                onclick="setActivityFilter('date-<?php echo $activityTimetable; ?>')">
+                <?php echo $lang["lang.activities.timetable.$activityTimetable"]; ?>
+              </button>
+            <?php } ?>
+          </div>
+        </nav>
+      </li>
+
+      <li class="list-group-item">
+        <h5 class="mb-3"><i class="bi bi-translate text-ffscarlet fs-4 me-3"></i><?php echo $lang["lang.activities.lang.language"]; ?></h5>
+        <nav>
+          <div class="nav nav-pills pills-tab column-gap-2 row-gap-3" id="pills-lang-tab" role="tablist">
+            <button class="btn btn-outline-ffscarlet btn-sm active" id="pills-lang-all-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="true"
+              onclick="setActivityFilter('lang-all')">
+              <?php echo $lang["lang.activities.filters.all"]; ?>
+            </button>
+
+            <?php $activityLangs = array_unique(array_column($activityCategory->activities, "lang"));
+            sort($activityLangs);
+            foreach ($activityLangs as $activityLang) { ?>
+              <button class="btn btn-outline-ffscarlet btn-sm" id="pills-lang-<?php echo $activityLang; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
+                onclick="setActivityFilter('lang-<?php echo $activityLang; ?>')">
+                <?php echo $lang["lang.activities.lang.$activityLang"]; ?>
+              </button>
+            <?php } ?>
+          </div>
+        </nav>
+      </li>
+    </ul>
+
+    <ul class="activities list-group list-group-flush">
       <?php foreach ($activityCategory->activities as $activity) { ?>
-        <li class="list-group-item">
+        <li class="list-group-item activity-container <?php if (property_exists($activity, 'timetable')) {
+                                                        foreach ($activity->timetable as $dayTime) echo "date-$dayTime->day ";
+                                                      } else {
+                                                        echo "date-continuous ";
+                                                      }
+                                                      echo "lang-$activity->lang"; ?>">
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <?php if (property_exists($activity, 'activityImage')) { ?>
@@ -50,29 +103,26 @@
                 <!-- Activity date -->
                 <div class="col d-flex flex-column align-items-center row-gap-1">
                   <i class="bi bi-clock fs-1 text-ffscarlet"></i>
-                  <?php
-                    if (property_exists($activity, 'timetable')) {
-                      foreach ($activity->timetable as $dayTime) { ?>
-                    <div>
-                      <?php echo $lang["lang.activities.timetable.day.$dayTime->day"]; ?>
-                      <br>
-                      <?php echo "$dayTime->time"; ?>
-                    </div>
-                  <?php
-                      }
-                    } else {
-                      echo $lang["lang.activities.timetable.continuous"];
-                    }
-                  ?>
+                  <?php if (property_exists($activity, 'timetable')) {
+                    foreach ($activity->timetable as $dayTime) { ?>
+                      <div>
+                        <?php echo $lang["lang.activities.timetable.$dayTime->day"]; ?>
+                        <br>
+                        <?php echo "$dayTime->time"; ?>
+                      </div>
+                  <?php }
+                  } else {
+                    echo $lang["lang.activities.timetable.continuous"];
+                  } ?>
                 </div>
 
                 <!-- Activity seats -->
                 <div class="col d-flex flex-column align-items-center row-gap-1">
                   <i class="bi bi-people fs-1 text-ffscarlet"></i>
                   <?php
-                    $participants = $activity->participants;
-                    if (is_numeric($participants)) echo "$participants {$lang["lang.activities.participants"]}";
-                    else echo $lang["lang.activities.participants.$participants"];
+                  $participants = $activity->participants;
+                  if (is_numeric($participants)) echo "$participants {$lang["lang.activities.participants"]}";
+                  else echo $lang["lang.activities.participants.$participants"];
                   ?>
                 </div>
 
@@ -80,9 +130,9 @@
                 <div class="col d-flex flex-column align-items-center row-gap-1">
                   <i class="bi bi-person-check fs-1 text-ffscarlet"></i>
                   <?php
-                    $age = $activity->age;
-                    if (is_numeric($age)) echo "+$age {$lang["lang.activities.age.years-old"]}";
-                    else echo $lang["lang.activities.age.$age"];
+                  $age = $activity->age;
+                  if (is_numeric($age)) echo "+$age {$lang["lang.activities.age.years-old"]}";
+                  else echo $lang["lang.activities.age.$age"];
                   ?>
                 </div>
 
@@ -139,4 +189,7 @@
   <!-- Footer Start -->
   <?php include("footer.php"); ?>
   <!-- Footer End -->
+
+  <!-- Activities JS -->
+  <script src="/js/actividades.js"></script>
 </body>

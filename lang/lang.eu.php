@@ -144,9 +144,12 @@ $lang = array(
   "lang.activities.callout.registration.open" => "Jarduera hauek ez dute aurretiko izen-ematerik behar. Bertaratzen diren guztientzat irekia da.",
   "lang.activities.callout.children" => "Kontrakoa adierazten ez bada, jardueretan parte hartzen duten 12 urtetik beherako guztiek heldu arduradun batek lagunduta egin behar dute.",
 
-  "lang.activities.timetable.day.friday" => "Ostirala, 28",
-  "lang.activities.timetable.day.saturday" => "Larunbata, 29",
-  "lang.activities.timetable.day.sunday" => "Igandea, 30",
+  "lang.activities.filters.all" => "Guztiak",
+
+  "lang.activities.timetable.day" => "Eguna",
+  "lang.activities.timetable.friday" => "Ostirala, 28",
+  "lang.activities.timetable.saturday" => "Larunbata, 29",
+  "lang.activities.timetable.sunday" => "Igandea, 30",
   "lang.activities.timetable.continuous" => "Jarraitua",
 
   "lang.activities.participants" => "parte-hartzaile",
@@ -155,6 +158,7 @@ $lang = array(
   "lang.activities.age.years-old" => "urte",
   "lang.activities.age.all" => "Publiko guztientzat",
 
+  "lang.activities.lang.language" => "Hizkuntza",
   "lang.activities.lang.es" => "Espainiera",
   "lang.activities.lang.eu" => "Euskara",
   "lang.activities.lang.both" => "Elebiduna",

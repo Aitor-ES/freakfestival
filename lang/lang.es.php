@@ -144,9 +144,12 @@ $lang = array(
   "lang.activities.callout.registration.open" => "Estas actividades no requieren de inscripción previa. Son abiertas a todos los asistentes que se acerquen.",
   "lang.activities.callout.children" => "A menos que se indique lo contrario, todos los menores de 12 años que participen en las actividades deben hacerlo acompañados de un adulto responsable.",
 
-  "lang.activities.timetable.day.friday" => "Viernes, 28",
-  "lang.activities.timetable.day.saturday" => "Sábado, 29",
-  "lang.activities.timetable.day.sunday" => "Domingo, 30",
+  "lang.activities.filters.all" => "Todos",
+
+  "lang.activities.timetable.day" => "Día",
+  "lang.activities.timetable.friday" => "Viernes, 28",
+  "lang.activities.timetable.saturday" => "Sábado, 29",
+  "lang.activities.timetable.sunday" => "Domingo, 30",
   "lang.activities.timetable.continuous" => "Continua",
 
   "lang.activities.participants" => "participantes",
@@ -155,6 +158,7 @@ $lang = array(
   "lang.activities.age.years-old" => "años",
   "lang.activities.age.all" => "Todos los públicos",
 
+  "lang.activities.lang.language" => "Idioma",
   "lang.activities.lang.es" => "Español",
   "lang.activities.lang.eu" => "Euskera",
   "lang.activities.lang.both" => "Bilingüe",
