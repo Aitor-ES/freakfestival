@@ -29,7 +29,7 @@ deployment:
     # - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R include $DEPLOYPATH
-    # - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R lang $DEPLOYPATH
     - /bin/cp -R libraries $DEPLOYPATH
     - /bin/cp -R styles $DEPLOYPATH
