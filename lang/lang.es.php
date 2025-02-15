@@ -148,7 +148,7 @@ $lang = array(
   "lang.activities.faq.registration.answer.details.saturday.morning" => "Sábado por la mañana: desde las 10:00",
   "lang.activities.faq.registration.answer.details.saturday.afternoon" => "Sábado por la tarde: desde las 15:00",
   "lang.activities.faq.registration.answer.details.sunday" => "Domingo: desde las 10:00",
-  "lang.activities.faq.registration.answer.open" => "Estas actividades no requieren de inscripción previa. Están abiertas a todos los asistentes que quieran participar.",
+  "lang.activities.faq.registration.answer.open" => "Las charlas, presentaciones de libros y otras actividades no requieren de inscripción previa. Están abiertas a todos los asistentes que quieran participar.",
 
   "lang.activities.faq.children.question" => "¿Puedo participar siendo menor de edad?",
   "lang.activities.faq.children.answer" => "Sí, cada actividad indica su edad mínima para participar. Además, todos los menores de 12 años deben participar acompañados de un adulto responsable.",
@@ -159,9 +159,9 @@ $lang = array(
   "lang.activities.filters.all" => "Todos",
 
   "lang.activities.timetable.day" => "Día",
-  "lang.activities.timetable.friday" => "Viernes, 28",
-  "lang.activities.timetable.saturday" => "Sábado, 29",
-  "lang.activities.timetable.sunday" => "Domingo, 30",
+  "lang.activities.timetable.friday" => "Viernes",
+  "lang.activities.timetable.saturday" => "Sábado",
+  "lang.activities.timetable.sunday" => "Domingo",
   "lang.activities.timetable.continuous" => "Continua",
 
   "lang.activities.participants" => "participantes",

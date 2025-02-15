@@ -148,7 +148,7 @@ $lang = array(
   "lang.activities.faq.registration.answer.details.saturday.morning" => "Larunbat goizean: 10:00etatik aurrera",
   "lang.activities.faq.registration.answer.details.saturday.afternoon" => "Larunbat arratsaldean: 15:00etatik aurrera",
   "lang.activities.faq.registration.answer.details.sunday" => "Igandean: 10:00etatik aurrera",
-  "lang.activities.faq.registration.answer.open" => "Jarduera hauek ez dute aurretiko izen-ematerik behar. Parte hartu nahi duten guztiei irekita daude.",
+  "lang.activities.faq.registration.answer.open" => "Hitzaldiak, liburu aurkezpenak eta beste jarduerak ez dute aurretiko izen-ematerik behar. Parte hartu nahi duten guztiei irekita daude.",
 
   "lang.activities.faq.children.question" => "Adingabea izanik parte har dezaket?",
   "lang.activities.faq.children.answer" => "Bai, jarduera bakoitzak parte hartzeko gutxieneko adina adierazten du. Gainera, 12 urtetik beherako guztiek heldu arduradun batek lagunduta parte hartu behar dute.",
@@ -159,9 +159,9 @@ $lang = array(
   "lang.activities.filters.all" => "Guztiak",
 
   "lang.activities.timetable.day" => "Eguna",
-  "lang.activities.timetable.friday" => "Ostirala, 28",
-  "lang.activities.timetable.saturday" => "Larunbata, 29",
-  "lang.activities.timetable.sunday" => "Igandea, 30",
+  "lang.activities.timetable.friday" => "Ostirala",
+  "lang.activities.timetable.saturday" => "Larunbata",
+  "lang.activities.timetable.sunday" => "Igandea",
   "lang.activities.timetable.continuous" => "Jarraitua",
 
   "lang.activities.participants" => "parte-hartzaile",
