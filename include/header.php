@@ -34,37 +34,18 @@
               </a>
             </li>
 
-            <!-- Programa -->
-            <li class="nav-item dropdown">
-              <a class="nav-link text-uppercase text-start text-lg-center dropdown-toggle
-              <?php echo $curPageName == "horario-de-actividades" || $curPageName == "salas" ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>"
-              href="#" id="navbarDropdown-program" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <?php echo $lang["lang.header.program"]; ?>
-              </a>
-
-              <ul class="dropdown-menu" data-bs-theme="light" aria-labelledby="navbarDropdown-program">
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".horario-de-actividades"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".salas"]; ?>.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
-              </ul>
-            </li>
-
             <!-- Actividades -->
             <li class="nav-item dropdown">
               <a class="nav-link text-uppercase text-start text-lg-center dropdown-toggle
-              <?php echo in_array($curPageName, ["juegos-de-mesa", "torneos", "rol-de-mesa", "rol-en-vivo", "charlas", "presentaciones-de-libros", "talleres", "otras-actividades"]) ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>"
+              <?php echo in_array($curPageName, ["actividades", "horario-de-actividades", "salas"]) ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>"
               href="#" id="navbarDropdown-activities" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <?php echo $lang["lang.header.activities"]; ?>
               </a>
 
               <ul class="dropdown-menu" data-bs-theme="light" aria-labelledby="navbarDropdown-activities">
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".juegos-de-mesa"]; ?>.php"><?php echo $lang["lang.activities.board-games.title"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".torneos"]; ?>.php"><?php echo $lang["lang.activities.tournaments.title"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".rol-de-mesa"]; ?>.php"><?php echo $lang["lang.activities.rpg.title"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".rol-en-vivo"]; ?>.php"><?php echo $lang["lang.activities.larp.title"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".charlas"]; ?>.php"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".presentaciones-de-libros"]; ?>.php"><?php echo $lang["lang.activities.book-releases.title"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".talleres"]; ?>.php"><?php echo $lang["lang.activities.workshops.title"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".otras-actividades"]; ?>.php"><?php echo $lang["lang.activities.others.title"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".actividades"]; ?>.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".horario-de-actividades"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
+                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".salas"]; ?>.php"><?php echo $lang["lang.header.maps-of-the-facilities"]; ?></a></li>
               </ul>
             </li>
 

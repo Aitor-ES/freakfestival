@@ -4,8 +4,8 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "talleres";
-      $title = $lang["lang.activities.workshops.title"];
+      $curPageName = "actividades";
+      $title = $lang["lang.activities.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
 
@@ -13,7 +13,7 @@
     <link href="/styles/actividades.css" rel="stylesheet">
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/../include/talleres.json'));
-        $categoryName = $activityCategory->categoryName;
+  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/../include/actividades.json'));
+        $categoryName = "activities";
         require(__DIR__ . "/../include/actividades.php"); ?>
 </html>
