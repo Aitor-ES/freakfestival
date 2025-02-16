@@ -156,168 +156,135 @@
         <h2 class="ff-title"><?php echo $lang["lang.home.activities.title"]; ?></h2>
       </div>
 
-      <div class="row row-cols-1 row-cols-lg-2 g-5">
+      <div class="row row-cols-1 row-cols-lg-2 g-5 mb-5">
         <!-- 1st activity: Board games -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/juegos_de_mesa-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.board-games.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.board-games.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".juegos-de-mesa"]; ?>.php">
-                <?php echo $lang["lang.home.activities.board-games.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
 
         <!-- 2nd activity: RPG -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/rol-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.rpg.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.rpg.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".rol-de-mesa"]; ?>.php">
-                <?php echo $lang["lang.home.activities.rpg.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
 
         <!-- 3rd activity: LARP -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/larp-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.larp.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.larp.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".rol-en-vivo"]; ?>.php">
-                <?php echo $lang["lang.home.activities.larp.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
 
         <!-- 4th activity: Workshops -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/talleres-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.workshops.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.workshops.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".talleres"]; ?>.php">
-                <?php echo $lang["lang.home.activities.workshops.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
 
         <!-- 5th activity: Artists -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/tiendas_artistas_y_artesanos-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.stands.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.stands.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".puestos"]; ?>.php">
-                <?php echo $lang["lang.home.activities.stands.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
 
         <!-- 6th activity: Talks -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/charlas-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.talks-exhibitions.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.talks-exhibitions.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".charlas"]; ?>.php">
-                <?php echo $lang["lang.home.activities.talks-exhibitions.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
 
         <!-- 7th activity: Book releases -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/presentaciones_de_libros-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.book-releases.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.book-releases.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".presentaciones-de-libros"]; ?>.php">
-                <?php echo $lang["lang.home.activities.book-releases.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
 
-        <!-- 8th activity: Tournaments -->
+        <!-- 8th activity: Contests -->
         <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
+          <div class="d-flex flex-column flex-sm-row row-gap-4 column-gap-5">
+            <div class="text-center">
               <img class="rounded-circle" src="/images/ui/torneos-min.jpg" alt="" width="200" height="200">
             </div>
 
-            <div class="col">
-              <h3 class="mb-3"><?php echo $lang["lang.activities.tournaments.title"]; ?></h3>
-              <p><?php echo $lang["lang.activities.tournaments.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".torneos"]; ?>.php">
-                <?php echo $lang["lang.home.activities.tournaments.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <!-- 9th activity: Contests -->
-        <div class="col">
-          <div class="row gy-4 gx-5">
-            <div class="col-12 col-sm-auto d-flex justify-content-center">
-              <img class="rounded-circle" src="/images/ui/concursos-min.jpg" alt="" width="200" height="200">
-            </div>
-
-            <div class="col">
+            <div>
               <h3 class="mb-3"><?php echo $lang["lang.activities.contests.title"]; ?></h3>
               <p><?php echo $lang["lang.activities.contests.description"]; ?></p>
-              <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".concursos"]; ?>.php">
-                <?php echo $lang["lang.home.activities.contests.link"]; ?>
-                <i class="bi bi-chevron-right ms-1"></i>
-              </a>
             </div>
           </div>
         </div>
+      </div>
+
+      <div class="d-grid gap-4 d-lg-flex justify-content-lg-evenly mb-5">
+        <a class="btn btn-ffscarlet btn-lg bg-gradient rounded-pill" href="<?php echo $links[$lang["lang"] . ".activities"]; ?>.php">
+          <?php echo $lang["lang.home.activities.activities.link"]; ?>
+          <i class="bi bi-chevron-right ms-1"></i>
+        </a>
+
+        <a class="btn btn-ffscarlet btn-lg bg-gradient rounded-pill" href="<?php echo $links[$lang["lang"] . ".contests"]; ?>.php">
+          <?php echo $lang["lang.home.activities.contests.link"]; ?>
+          <i class="bi bi-chevron-right ms-1"></i>
+        </a>
+
+        <a class="btn btn-ffscarlet btn-lg bg-gradient rounded-pill" href="<?php echo $links[$lang["lang"] . ".stands"]; ?>.php">
+          <?php echo $lang["lang.home.activities.stands.link"]; ?>
+          <i class="bi bi-chevron-right ms-1"></i>
+        </a>
       </div>
       <!-- Activities End -->
     </div>
