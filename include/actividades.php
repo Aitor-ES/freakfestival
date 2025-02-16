@@ -6,8 +6,8 @@
   <!-- Main Start -->
   <main class="container-md ff-gutter my-4 my-md-5">
     <div class="mb-5">
-      <h1 class="ff-title mb-4"><?php echo $lang["lang.activities.$categoryName.title"]; ?></h1>
-      <p class="ff-lead text-ffscarlet"><?php echo $lang["lang.activities.$categoryName.description"]; ?></p>
+      <h1 class="ff-title mb-4"><?php echo $lang["lang.activities.$curPageName.title"]; ?></h1>
+      <p class="ff-lead text-ffscarlet"><?php echo $lang["lang.activities.$curPageName.description"]; ?></p>
     </div>
 
     <h2 class="mb-4"><?php echo $lang["lang.activities.faq.title"]; ?></h2>

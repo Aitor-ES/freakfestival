@@ -5,7 +5,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "contests";
-      $title = $lang["lang.activities.contests.title"];
+      $title = $lang["lang.activities.$curPageName.title"];
       require("include/head.php");
     ?>
 
@@ -14,6 +14,5 @@
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
   <?php $activities = json_decode(file_get_contents(__DIR__ . '/include/concursos.json'));
-        $categoryName = "contests";
         require("include/actividades.php"); ?>
 </html>

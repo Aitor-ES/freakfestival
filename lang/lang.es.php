@@ -110,13 +110,11 @@ $lang = array(
   "lang.home.activities.workshops.link" => "Ver talleres",
   "lang.home.activities.others.link" => "Ver otras actividades",
 
-  "lang.activities.title" => "Actividades",
-  "lang.activities.title.2023" => "Actividades 2023",
-  "lang.activities.btn.rules" => "Consulta las bases",
-  "lang.activities.btn.dossier" => "Consulta el dossier",
-  "lang.activities.btn.register" => "¡Inscríbete!",
   "lang.activities.activities.title" => "Actividades",
+  "lang.activities.activities.title.2023" => "Actividades 2023",
   "lang.activities.activities.description" => "¡Descubre todas las actividades que te esperan en el Freak Festival: juegos de mesa, rol, talleres, concursos, charlas y mucho más!",
+  "lang.activities.contests.title" => "Concursos",
+  "lang.activities.contests.description" => "¡Participa en nuestros concursos de modelismo, cómic y relato corto para enseñar tu arte y hacerte con los premios ofrecidos por nuestros colaboradores!",
 
   "lang.activities.type" => "Tipo",
   "lang.activities.board-games.title" => "Juegos de mesa",
@@ -127,8 +125,6 @@ $lang = array(
   "lang.activities.rpg.description" => "Toma el papel de un personaje, tira los dados y vive aventuras en mundos de fantasía, ciencia ficción, terror y mucho más. ¡Juega y crea tu propia historia!",
   "lang.activities.larp.title" => "Rol en vivo",
   "lang.activities.larp.description" => "Ponte en la piel de un personaje y vive una historia guiada por el director de juego. ¡Actúa e improvisa junto con el resto de jugadores para influir en el devenir de los acontecimientos!",
-  "lang.activities.contests.title" => "Concursos",
-  "lang.activities.contests.description" => "¡Participa en nuestros concursos de modelismo, cómic y relato corto para enseñar tu arte y hacerte con los premios ofrecidos por nuestros colaboradores!",
   "lang.activities.stands.title" => "Tiendas, artistas y artesanos",
   "lang.activities.stands.description" => "¡Descubre a creadores y comercios locales que hacen posible la expansión de nuestras aficiones y quieren dar a conocer al mundo sus productos!",
   "lang.activities.talks-exhibitions.title" => "Charlas",
@@ -175,6 +171,10 @@ $lang = array(
   "lang.activities.lang.eu" => "Euskera",
   "lang.activities.lang.both" => "Bilingüe",
   "lang.activities.lang.free" => "Libre",
+
+  "lang.activities.btn.rules" => "Consulta las bases",
+  "lang.activities.btn.dossier" => "Consulta el dossier",
+  "lang.activities.btn.register" => "¡Inscríbete!",
 
   "lang.activities.organizer" => "Organizado por: ",
   "lang.activities.organizer.alter-paradox" => "Alter Paradox",

@@ -110,13 +110,11 @@ $lang = array(
   "lang.home.activities.workshops.link" => "Tailerrak ikusi",
   "lang.home.activities.others.link" => "Beste jarduerak ikusi",
 
-  "lang.activities.title" => "Jarduerak",
-  "lang.activities.title.2023" => "Jarduerak 2023",
-  "lang.activities.btn.rules" => "Oinarriak kontsultatu",
-  "lang.activities.btn.dossier" => "Txostena kontsultatu",
-  "lang.activities.btn.register" => "Eman izena!",
   "lang.activities.activities.title" => "Jarduerak",
+  "lang.activities.activities.title.2023" => "Jarduerak 2023",
   "lang.activities.activities.description" => "Ezagutu Freak Festival-ean zain dituzun jarduera guztiak: mahai-jokoak, rola, tailerrak, hitzaldiak, aurkezpenak eta askoz gehiago!",
+  "lang.activities.contests.title" => "Lehiaketak",
+  "lang.activities.contests.description" => "Parte hartu gure modelismo, komiki eta kontakizun laburreko lehiaketetan zure artea erakusteko eta gure laguntzaileek eskainitako sariak eskuratzeko!",
 
   "lang.activities.type" => "Mota",
   "lang.activities.board-games.title" => "Mahai-jokoak",
@@ -127,8 +125,6 @@ $lang = array(
   "lang.activities.rpg.description" => "Hartu pertsonaia baten papera, bota dadoak eta bizi abenturak hainbat mundutan: fantasia, zientzia-fikzioa, beldurra eta askoz gehiago. Jokatu eta sortu zeure istorioa!",
   "lang.activities.larp.title" => "Zuzeneko rola",
   "lang.activities.larp.description" => "Antzeztu pertsonaia bat eta bizi joko-zuzendariak gidatutako istorio bat. Jokatu eta inprobisatu gainerako jokalariekin batera gertaeren bilakaeran eragiteko!",
-  "lang.activities.contests.title" => "Lehiaketak",
-  "lang.activities.contests.description" => "Parte hartu gure modelismo, komiki eta kontakizun laburreko lehiaketetan zure artea erakusteko eta gure laguntzaileek eskainitako sariak eskuratzeko!",
   "lang.activities.stands.title" => "Dendak, artistak eta artisauak",
   "lang.activities.stands.description" => "Ezagutu gure zaletasunak zabaltzea ahalbidetzen duten eta beren produktuak munduari ezagutzera eman nahi dizkioten tokiko egile eta saltokiak!",
   "lang.activities.talks-exhibitions.title" => "Hitzaldiak",
@@ -175,6 +171,10 @@ $lang = array(
   "lang.activities.lang.eu" => "Euskara",
   "lang.activities.lang.both" => "Elebiduna",
   "lang.activities.lang.free" => "Askea",
+
+  "lang.activities.btn.rules" => "Oinarriak kontsultatu",
+  "lang.activities.btn.dossier" => "Txostena kontsultatu",
+  "lang.activities.btn.register" => "Eman izena!",
 
   "lang.activities.organizer" => "Antolatzailea(k): ",
   "lang.activities.organizer.alter-paradox" => "Alter Paradox",
