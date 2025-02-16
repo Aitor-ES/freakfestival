@@ -16,21 +16,21 @@
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Hotel image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center">
-              <img class="stand-logo" src="/images/contributors/<?php echo $hotel->logo; ?>" alt="<?php echo $hotel->activityName; ?>" width="200" height="200">
+              <img class="stand-logo" src="/images/contributors/<?php echo $hotel->logo; ?>" alt="<?php echo $hotel->name; ?>" width="200" height="200">
             </div>
 
             <!-- Hotel main content -->
             <div class="col-12 col-lg-6">
               <!-- Hotel title -->
-              <h2 id="<?php echo $hotel->activityName; ?>">
-                <?php echo $lang["lang.activities.$curPageName.$hotel->activityName.title"]; ?>
-                <a class="anchor-link" href="#<?php echo $hotel->activityName; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$curPageName.$hotel->activityName.title"]; ?>"></a>
+              <h2 id="<?php echo $hotel->name; ?>">
+                <?php echo $lang["lang.activities.$curPageName.$hotel->name.title"]; ?>
+                <a class="anchor-link" href="#<?php echo $hotel->name; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$curPageName.$hotel->name.title"]; ?>"></a>
               </h2>
 
               <dl>
                 <!-- Hotel address -->
                 <dt><?php echo $lang["lang.activities.$curPageName.address"]; ?></dt>
-                <dd><?php echo $lang["lang.activities.$curPageName.$hotel->activityName.address"]; ?></dd>
+                <dd><?php echo $lang["lang.activities.$curPageName.$hotel->name.address"]; ?></dd>
 
                 <!-- Hotel code and discount -->
                 <dt><?php echo $lang["lang.activities.$curPageName.code-and-discount"]; ?></dt>

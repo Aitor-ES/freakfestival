@@ -1,6 +1,6 @@
 [
   {
-    "activityName": "libere",
+    "name": "libere",
     "logo": "libere.svg",
     "code": "FREAKFESTIVAL2024",
     "discount": "15%",
@@ -9,7 +9,7 @@
     "instagram": ["https://www.instagram.com/staylibere"]
   },
   {
-    "activityName": "koragreencity",
+    "name": "koragreencity",
     "logo": "koragreencity.svg",
     "code": "FREAKFESTIVAL",
     "discount": "5%",
@@ -19,7 +19,7 @@
     "facebook": "https://www.facebook.com/p/Kora-Green-City-100083321343562/"
   },
   {
-    "activityName": "hotelvasvitoria",
+    "name": "hotelvasvitoria",
     "logo": "hotelvasvitoria.svg",
     "code": "FREAKFEST",
     "discount": "10%",
@@ -27,7 +27,7 @@
     "web": "https://www.hotelvasvitoria.com/"
   },
   {
-    "activityName": "ibisbudget",
+    "name": "ibisbudget",
     "logo": "ibisbudget.svg",
     "code": "256919",
     "discount": "10%",

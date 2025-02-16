@@ -1,8 +1,8 @@
 [
   {
-    "activityName": "ludoteca",
-    "activityImage": "ludoteca-min.jpg",
-    "activityCategory": "board-games",
+    "name": "ludoteca",
+    "image": "ludoteca-min.jpg",
+    "type": "board-games",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "duration": "continuous",
@@ -11,9 +11,9 @@
     "lang": "free"
   },
   {
-    "activityName": "mesozoico",
-    "activityImage": "mesozoico.jpg",
-    "activityCategory": "board-games",
+    "name": "mesozoico",
+    "image": "mesozoico.jpg",
+    "type": "board-games",
     "organizer": "mesozoico",
     "organizerImage": "mesozoico.jpg",
     "timetable": [
@@ -28,9 +28,9 @@
     "lang": "both"
   },
   {
-    "activityName": "pole-position",
-    "activityImage": "pole-position.jpg",
-    "activityCategory": "board-games",
+    "name": "pole-position",
+    "image": "pole-position.jpg",
+    "type": "board-games",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -45,9 +45,9 @@
     "lang": "es"
   },
   {
-    "activityName": "ierusalem-anno-domini",
-    "activityImage": "ierusalem-anno-domini.jpg",
-    "activityCategory": "board-games",
+    "name": "ierusalem-anno-domini",
+    "image": "ierusalem-anno-domini.jpg",
+    "type": "board-games",
     "organizer": "atlas",
     "organizerImage": "atlas-min.png",
     "timetable": [
@@ -62,9 +62,9 @@
     "lang": "es"
   },
   {
-    "activityName": "zombicide",
-    "activityImage": "zombicide.jpg",
-    "activityCategory": "board-games",
+    "name": "zombicide",
+    "image": "zombicide.jpg",
+    "type": "board-games",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -79,9 +79,9 @@
     "lang": "es"
   },
   {
-    "activityName": "euneiz",
-    "activityImage": "euneiz.svg",
-    "activityCategory": "board-games",
+    "name": "euneiz",
+    "image": "euneiz.svg",
+    "type": "board-games",
     "organizer": "euneiz",
     "timetable": [
       {
@@ -99,9 +99,9 @@
     "lang": "es"
   },
   {
-    "activityName": "wargames-done-right",
-    "activityImage": "wargames-done-right.jpg",
-    "activityCategory": "board-games",
+    "name": "wargames-done-right",
+    "image": "wargames-done-right.jpg",
+    "type": "board-games",
     "organizer": "kimera",
     "organizerImage": "kimera-min.jpg",
     "timetable": [
@@ -116,9 +116,9 @@
     "lang": "es"
   },
   {
-    "activityName": "flamecraft",
-    "activityImage": "flamecraft.jpg",
-    "activityCategory": "board-games",
+    "name": "flamecraft",
+    "image": "flamecraft.jpg",
+    "type": "board-games",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -133,9 +133,9 @@
     "lang": "es"
   },
   {
-    "activityName": "meepleland",
-    "activityImage": "meepleland.jpg",
-    "activityCategory": "board-games",
+    "name": "meepleland",
+    "image": "meepleland.jpg",
+    "type": "board-games",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -150,9 +150,9 @@
     "lang": "es"
   },
   {
-    "activityName": "terraforming-mars-dados",
-    "activityImage": "terraforming-mars-dados.jpg",
-    "activityCategory": "board-games",
+    "name": "terraforming-mars-dados",
+    "image": "terraforming-mars-dados.jpg",
+    "type": "board-games",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -167,9 +167,9 @@
     "lang": "es"
   },
   {
-    "activityName": "monstruitos",
-    "activityImage": "monstruitos.png",
-    "activityCategory": "board-games",
+    "name": "monstruitos",
+    "image": "monstruitos.png",
+    "type": "board-games",
     "organizer": "borja",
     "timetable": [
       {
@@ -187,9 +187,9 @@
     "lang": "es"
   },
   {
-    "activityName": "cartas",
-    "activityImage": "cartas.jpg",
-    "activityCategory": "board-games",
+    "name": "cartas",
+    "image": "cartas.jpg",
+    "type": "board-games",
     "organizer": "magic-all-goal",
     "organizerImage": "magicallgoal-min.PNG",
     "timetable": [
@@ -204,9 +204,9 @@
     "lang": "free"
   },
   {
-    "activityName": "d&d-devorador-esperanza",
-    "activityImage": "d&d-devorador-esperanza.png",
-    "activityCategory": "rpg",
+    "name": "d&d-devorador-esperanza",
+    "image": "d&d-devorador-esperanza.png",
+    "type": "rpg",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -221,9 +221,9 @@
     "lang": "es"
   },
   {
-    "activityName": "errege-herdoilduaren-dorrea",
-    "activityImage": "errege-herdoilduaren-dorrea.png",
-    "activityCategory": "rpg",
+    "name": "errege-herdoilduaren-dorrea",
+    "image": "errege-herdoilduaren-dorrea.png",
+    "type": "rpg",
     "organizer": "rolariak",
     "organizerImage": "rolariak-min.png",
     "timetable": [
@@ -238,9 +238,9 @@
     "lang": "eu"
   },
   {
-    "activityName": "helmuga",
-    "activityImage": "helmuga.jpg",
-    "activityCategory": "rpg",
+    "name": "helmuga",
+    "image": "helmuga.jpg",
+    "type": "rpg",
     "organizer": "rolariak",
     "organizerImage": "rolariak-min.png",
     "timetable": [
@@ -255,9 +255,9 @@
     "lang": "eu"
   },
   {
-    "activityName": "valhalla",
-    "activityImage": "valhalla.png",
-    "activityCategory": "rpg",
+    "name": "valhalla",
+    "image": "valhalla.png",
+    "type": "rpg",
     "organizer": "valhalla",
     "organizerImage": "valhalla-min.png",
     "timetable": [
@@ -272,9 +272,9 @@
     "lang": "es"
   },
   {
-    "activityName": "alien-diluvio-dioses",
-    "activityImage": "alien-diluvio-dioses-min.jpeg",
-    "activityCategory": "rpg",
+    "name": "alien-diluvio-dioses",
+    "image": "alien-diluvio-dioses-min.jpeg",
+    "type": "rpg",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -289,9 +289,9 @@
     "lang": "es"
   },
   {
-    "activityName": "cthulhu-margen-tinieblas",
-    "activityImage": "cthulhu-margen-tinieblas.png",
-    "activityCategory": "rpg",
+    "name": "cthulhu-margen-tinieblas",
+    "image": "cthulhu-margen-tinieblas.png",
+    "type": "rpg",
     "organizer": "atlas",
     "organizerImage": "atlas-min.png",
     "timetable": [
@@ -306,9 +306,9 @@
     "lang": "es"
   },
   {
-    "activityName": "dune-agentes-imperio",
-    "activityImage": "dune-agentes-imperio.png",
-    "activityCategory": "rpg",
+    "name": "dune-agentes-imperio",
+    "image": "dune-agentes-imperio.png",
+    "type": "rpg",
     "organizer": "atlas",
     "organizerImage": "atlas-min.png",
     "timetable": [
@@ -323,9 +323,9 @@
     "lang": "es"
   },
   {
-    "activityName": "witcher-bestia-villaverde",
-    "activityImage": "witcher-bestia-villaverde-min.jpeg",
-    "activityCategory": "rpg",
+    "name": "witcher-bestia-villaverde",
+    "image": "witcher-bestia-villaverde-min.jpeg",
+    "type": "rpg",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -340,9 +340,9 @@
     "lang": "es"
   },
   {
-    "activityName": "l5a-introductoria",
-    "activityImage": "l5a-introductoria.PNG",
-    "activityCategory": "rpg",
+    "name": "l5a-introductoria",
+    "image": "l5a-introductoria.PNG",
+    "type": "rpg",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -357,9 +357,9 @@
     "lang": "free"
   },
   {
-    "activityName": "imperio-rueda",
-    "activityImage": "imperio-rueda-min.jpeg",
-    "activityCategory": "rpg",
+    "name": "imperio-rueda",
+    "image": "imperio-rueda-min.jpeg",
+    "type": "rpg",
     "organizer": "jose-luis-pastor-diez",
     "timetable": [
       {
@@ -373,9 +373,9 @@
     "lang": "es"
   },
   {
-    "activityName": "reclutamiento-van-hoff",
-    "activityImage": "reclutamiento-van-hoff.jpg",
-    "activityCategory": "larp",
+    "name": "reclutamiento-van-hoff",
+    "image": "reclutamiento-van-hoff.jpg",
+    "type": "larp",
     "organizer": "van-hoff",
     "organizerImage": "van-hoff-min.jpg",
     "timetable": [
@@ -390,9 +390,9 @@
     "lang": "es"
   },
   {
-    "activityName": "telaraña-mentiras",
-    "activityImage": "telaraña-mentiras.jpg",
-    "activityCategory": "larp",
+    "name": "telaraña-mentiras",
+    "image": "telaraña-mentiras.jpg",
+    "type": "larp",
     "organizer": "hipsteria",
     "organizerImage": "hipsteria.svg",
     "timetable": [
@@ -407,9 +407,9 @@
     "lang": "es"
   },
   {
-    "activityName": "anima-imperatoris",
-    "activityImage": "anima-imperatoris.jpg",
-    "activityCategory": "larp",
+    "name": "anima-imperatoris",
+    "image": "anima-imperatoris.jpg",
+    "type": "larp",
     "organizer": "urra",
     "organizerImage": "urra-min.jpg",
     "timetable": [
@@ -424,9 +424,9 @@
     "lang": "es"
   },
   {
-    "activityName": "chapas",
-    "activityImage": "chapas.jpg",
-    "activityCategory": "workshops",
+    "name": "chapas",
+    "image": "chapas.jpg",
+    "type": "workshops",
     "organizer": "ordenderevan",
     "organizerImage": "ordenderevan-min.png",
     "timetable": [
@@ -441,9 +441,9 @@
     "lang": "es"
   },
   {
-    "activityName": "escritura",
-    "activityImage": "escritura-min.png",
-    "activityCategory": "workshops",
+    "name": "escritura",
+    "image": "escritura-min.png",
+    "type": "workshops",
     "organizer": "valhalla",
     "organizerImage": "valhalla-min.png",
     "timetable": [
@@ -458,9 +458,9 @@
     "lang": "es"
   },
   {
-    "activityName": "glasspainting",
-    "activityImage": "glasspainting.jpeg",
-    "activityCategory": "workshops",
+    "name": "glasspainting",
+    "image": "glasspainting.jpeg",
+    "type": "workshops",
     "organizer": "pixsebas",
     "organizerImage": "pixsebas-min.jpeg",
     "timetable": [
@@ -475,9 +475,9 @@
     "lang": "es"
   },
   {
-    "activityName": "conejos-lana",
-    "activityImage": "conejos-lana.jpg",
-    "activityCategory": "workshops",
+    "name": "conejos-lana",
+    "image": "conejos-lana.jpg",
+    "type": "workshops",
     "organizer": "yumi",
     "organizerImage": "yumi-min.jpg",
     "timetable": [
@@ -492,9 +492,9 @@
     "lang": "both"
   },
   {
-    "activityName": "miniaturas-basico",
-    "activityImage": "miniaturas-basico.JPG",
-    "activityCategory": "workshops",
+    "name": "miniaturas-basico",
+    "image": "miniaturas-basico.JPG",
+    "type": "workshops",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -509,9 +509,9 @@
     "lang": "es"
   },
   {
-    "activityName": "miniaturas-avanzado",
-    "activityImage": "miniaturas-avanzado.JPG",
-    "activityCategory": "workshops",
+    "name": "miniaturas-avanzado",
+    "image": "miniaturas-avanzado.JPG",
+    "type": "workshops",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -526,9 +526,9 @@
     "lang": "es"
   },
   {
-    "activityName": "acrilicos",
-    "activityImage": "acrilicos.png",
-    "activityCategory": "workshops",
+    "name": "acrilicos",
+    "image": "acrilicos.png",
+    "type": "workshops",
     "organizer": "creandoinfinito",
     "organizerImage": "creandoinfinito-min.png",
     "timetable": [
@@ -543,9 +543,9 @@
     "lang": "es"
   },
   {
-    "activityName": "duendes-polvo",
-    "activityImage": "duendes-polvo.jpg",
-    "activityCategory": "workshops",
+    "name": "duendes-polvo",
+    "image": "duendes-polvo.jpg",
+    "type": "workshops",
     "organizer": "salienart",
     "organizerImage": "salienart-min.png",
     "timetable": [
@@ -560,9 +560,9 @@
     "lang": "es"
   },
   {
-    "activityName": "huevo-dragon",
-    "activityImage": "huevo-dragon.jpg",
-    "activityCategory": "workshops",
+    "name": "huevo-dragon",
+    "image": "huevo-dragon.jpg",
+    "type": "workshops",
     "organizer": "ellaberintodeljuego",
     "organizerImage": "ellaberintodeljuego-min.jpg",
     "timetable": [
@@ -577,9 +577,9 @@
     "lang": "es"
   },
   {
-    "activityName": "varita",
-    "activityImage": "varita.jpg",
-    "activityCategory": "workshops",
+    "name": "varita",
+    "image": "varita.jpg",
+    "type": "workshops",
     "organizer": "ellaberintodeljuego",
     "organizerImage": "ellaberintodeljuego-min.jpg",
     "timetable": [
@@ -594,9 +594,9 @@
     "lang": "es"
   },
   {
-    "activityName": "cuernitos",
-    "activityImage": "cuernitos-min.jpg",
-    "activityCategory": "workshops",
+    "name": "cuernitos",
+    "image": "cuernitos-min.jpg",
+    "type": "workshops",
     "organizer": "arkenaya",
     "organizerImage": "arkenaya-min.jpg",
     "timetable": [
@@ -611,9 +611,9 @@
     "lang": "es"
   },
   {
-    "activityName": "vasos",
-    "activityImage": "vasos.webp",
-    "activityCategory": "workshops",
+    "name": "vasos",
+    "image": "vasos.webp",
+    "type": "workshops",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -632,9 +632,9 @@
     "lang": "es"
   },
   {
-    "activityName": "dados-tinta",
-    "activityImage": "dados-tinta.png",
-    "activityCategory": "talks-exhibitions",
+    "name": "dados-tinta",
+    "image": "dados-tinta.png",
+    "type": "talks-exhibitions",
     "organizer": "laura-blanco-villalba-julio-san-roman-cazorla",
     "organizerImage": "valhalla-min.png",
     "timetable": [
@@ -649,9 +649,9 @@
     "lang": "es"
   },
   {
-    "activityName": "cosplayer",
-    "activityImage": "cosplayer.JPG",
-    "activityCategory": "talks-exhibitions",
+    "name": "cosplayer",
+    "image": "cosplayer.JPG",
+    "type": "talks-exhibitions",
     "organizer": "cosdaimon",
     "organizerImage": "cosdaimon-min.jpeg",
     "timetable": [
@@ -666,9 +666,9 @@
     "lang": "both"
   },
   {
-    "activityName": "torneo-softcombat",
-    "activityImage": "torneo-softcombat.png",
-    "activityCategory": "talks-exhibitions",
+    "name": "torneo-softcombat",
+    "image": "torneo-softcombat.png",
+    "type": "talks-exhibitions",
     "organizer": "van-hoff-navalarp",
     "timetable": [
       {
@@ -682,9 +682,9 @@
     "lang": "es"
   },
   {
-    "activityName": "actuar-concurso-cosplay",
-    "activityImage": "actuar-concurso-cosplay.jpeg",
-    "activityCategory": "talks-exhibitions",
+    "name": "actuar-concurso-cosplay",
+    "image": "actuar-concurso-cosplay.jpeg",
+    "type": "talks-exhibitions",
     "organizer": "cristinasalaslopez",
     "timetable": [
       {
@@ -698,9 +698,9 @@
     "lang": "es"
   },
   {
-    "activityName": "guerra-autores",
-    "activityImage": "guerra-autores.png",
-    "activityCategory": "book-releases",
+    "name": "guerra-autores",
+    "image": "guerra-autores.png",
+    "type": "book-releases",
     "organizer": "valhalla",
     "organizerImage": "valhalla-min.png",
     "timetable": [
@@ -719,9 +719,9 @@
     "lang": "es"
   },
   {
-    "activityName": "noche-purpura",
-    "activityImage": "noche-purpura.jpg",
-    "activityCategory": "book-releases",
+    "name": "noche-purpura",
+    "image": "noche-purpura.jpg",
+    "type": "book-releases",
     "organizer": "uzanza",
     "organizerImage": "uzanza-min.png",
     "timetable": [
@@ -736,9 +736,9 @@
     "lang": "es"
   },
   {
-    "activityName": "disparo-stormtrooper",
-    "activityImage": "disparo-stormtrooper.jpg",
-    "activityCategory": "others",
+    "name": "disparo-stormtrooper",
+    "image": "disparo-stormtrooper.jpg",
+    "type": "others",
     "organizer": "ordenderevan",
     "organizerImage": "ordenderevan-min.png",
     "participants": "no-limit",
@@ -746,9 +746,9 @@
     "lang": "es"
   },
   {
-    "activityName": "photocall-star-wars",
-    "activityImage": "photocall-star-wars.jpg",
-    "activityCategory": "others",
+    "name": "photocall-star-wars",
+    "image": "photocall-star-wars.jpg",
+    "type": "others",
     "organizer": "ordenderevan",
     "organizerImage": "ordenderevan-min.png",
     "duration": "continuous",
@@ -757,9 +757,9 @@
     "lang": "es"
   },
   {
-    "activityName": "caza-tesoro",
-    "activityImage": "caza-tesoro.png",
-    "activityCategory": "others",
+    "name": "caza-tesoro",
+    "image": "caza-tesoro.png",
+    "type": "others",
     "organizer": "valhalla",
     "organizerImage": "valhalla-min.png",
     "timetable": [
@@ -773,9 +773,9 @@
     "lang": "es"
   },
   {
-    "activityName": "quiz-videojuegos",
-    "activityImage": "quiz-videojuegos.jpg",
-    "activityCategory": "others",
+    "name": "quiz-videojuegos",
+    "image": "quiz-videojuegos.jpg",
+    "type": "others",
     "organizer": "mayi",
     "organizerImage": "mayicosplay-min.jpg",
     "timetable": [

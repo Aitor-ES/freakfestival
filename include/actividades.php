@@ -76,13 +76,13 @@
             </button>
           </li>
 
-          <?php $activityCategories = array_unique(array_column($activities, "activityCategory"));
+          <?php $activityCategories = array_unique(array_column($activities, "type"));
           sort($activityCategories);
-          foreach ($activityCategories as $activityCategory) { ?>
+          foreach ($activityCategories as $type) { ?>
             <li role="presentation">
-              <button class="btn btn-outline-ffscarlet btn-sm" id="pills-type-<?php echo $activityCategory; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
-                onclick="setActivityFilter('type-<?php echo $activityCategory; ?>')">
-                <?php echo $lang["lang.activities.$activityCategory.title"]; ?>
+              <button class="btn btn-outline-ffscarlet btn-sm" id="pills-type-<?php echo $type; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
+                onclick="setActivityFilter('type-<?php echo $type; ?>')">
+                <?php echo $lang["lang.activities.$type.title"]; ?>
               </button>
             </li>
           <?php } ?>
@@ -243,7 +243,7 @@
 
     <ul class="activities list-group list-group-flush">
       <?php foreach ($activities as $activity) { ?>
-        <li class="list-group-item activity-container <?php echo "type-$activity->activityCategory ";
+        <li class="list-group-item activity-container <?php echo "type-$activity->type ";
                                                       if (property_exists($activity, 'timetable')) {
                                                         foreach ($activity->timetable as $dayTime) echo "date-$dayTime->day ";
                                                       } else {
@@ -253,17 +253,17 @@
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
-              <?php if (property_exists($activity, 'activityImage')) { ?>
-                <img class="activity-img" src="/images/activities/<?php echo $activity->activityImage ?>" alt="<?php echo $lang["lang.activities.$activity->activityCategory.$activity->activityName.title"]; ?>" width="200" height="200">
+              <?php if (property_exists($activity, 'image')) { ?>
+                <img class="activity-img" src="/images/activities/<?php echo $activity->image ?>" alt="<?php echo $lang["lang.activities.$activity->type.$activity->name.title"]; ?>" width="200" height="200">
               <?php } ?>
             </div>
 
             <!-- Activity main content -->
             <div class="col-12 col-lg-6">
               <!-- Activity title -->
-              <h2 id="<?php echo $activity->activityName; ?>" class="mb-4">
-                <?php echo $lang["lang.activities.$activity->activityCategory.$activity->activityName.title"]; ?>
-                <a class="anchor-link" href="#<?php echo $activity->activityName; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$activity->activityCategory.$activity->activityName.title"]; ?>"></a>
+              <h2 id="<?php echo $activity->name; ?>" class="mb-4">
+                <?php echo $lang["lang.activities.$activity->type.$activity->name.title"]; ?>
+                <a class="anchor-link" href="#<?php echo $activity->name; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$activity->type.$activity->name.title"]; ?>"></a>
               </h2>
 
               <!-- Activity info -->
@@ -271,7 +271,7 @@
                 <!-- Activity type -->
                 <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-dice-6 fs-2 text-ffscarlet"></i>
-                  <?php echo $lang["lang.activities.$activity->activityCategory.title"]; ?>
+                  <?php echo $lang["lang.activities.$activity->type.title"]; ?>
                 </div>
 
                 <!-- Activity date -->
@@ -315,7 +315,7 @@
               </div>
 
               <!-- Activity description -->
-              <p><?php echo $lang["lang.activities.$activity->activityCategory.$activity->activityName.description"]; ?></p>
+              <p><?php echo $lang["lang.activities.$activity->type.$activity->name.description"]; ?></p>
 
               <!-- Activity links -->
               <div class="row gy-3">

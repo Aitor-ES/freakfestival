@@ -1,7 +1,7 @@
 [
   {
-    "activityName": "cosplay",
-    "activityCategory": "contests",
+    "name": "cosplay",
+    "type": "contests",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -18,8 +18,8 @@
     "register": "https://forms.gle/sNPQpQEp7ha1ZRtR7"
   },
   {
-    "activityName": "pintado-miniaturas",
-    "activityCategory": "contests",
+    "name": "pintado-miniaturas",
+    "type": "contests",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "participants": "36",
@@ -29,8 +29,8 @@
     "register": "https://forms.gle/PYVhBGFikhfsBeTC6"
   },
   {
-    "activityName": "fast-painting",
-    "activityCategory": "contests",
+    "name": "fast-painting",
+    "type": "contests",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -46,8 +46,8 @@
     "rules": "Bases del concurso de fast painting.pdf"
   },
   {
-    "activityName": "fast-fic",
-    "activityCategory": "contests",
+    "name": "fast-fic",
+    "type": "contests",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -63,8 +63,8 @@
     "rules": "Bases del concurso de fast fic.pdf"
   },
   {
-    "activityName": "fast-comic",
-    "activityCategory": "contests",
+    "name": "fast-comic",
+    "type": "contests",
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "timetable": [
@@ -80,9 +80,9 @@
     "rules": "Bases del concurso de fast comic.pdf"
   },
   {
-    "activityName": "virus",
-    "activityImage": "virus.jpg",
-    "activityCategory": "tournaments",
+    "name": "virus",
+    "image": "virus.jpg",
+    "type": "tournaments",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -98,9 +98,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "killteam",
-    "activityImage": "killteam.png",
-    "activityCategory": "tournaments",
+    "name": "killteam",
+    "image": "killteam.png",
+    "type": "tournaments",
     "organizer": "nexo",
     "timetable": [
       {
@@ -115,9 +115,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "catan",
-    "activityImage": "catan.jpg",
-    "activityCategory": "tournaments",
+    "name": "catan",
+    "image": "catan.jpg",
+    "type": "tournaments",
     "organizer": "aventum",
     "organizerImage": "aventum-min.png",
     "timetable": [
@@ -133,9 +133,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "carcassonne",
-    "activityImage": "carcassonne.jpg",
-    "activityCategory": "tournaments",
+    "name": "carcassonne",
+    "image": "carcassonne.jpg",
+    "type": "tournaments",
     "organizer": "aventum",
     "organizerImage": "aventum-min.png",
     "timetable": [
@@ -151,9 +151,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "tuki",
-    "activityImage": "tuki.jpg",
-    "activityCategory": "tournaments",
+    "name": "tuki",
+    "image": "tuki.jpg",
+    "type": "tournaments",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -169,9 +169,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "lorcana",
-    "activityImage": "lorcana.jpg",
-    "activityCategory": "tournaments",
+    "name": "lorcana",
+    "image": "lorcana.jpg",
+    "type": "tournaments",
     "organizer": "omega",
     "organizerImage": "omega-min.jpg",
     "timetable": [
@@ -187,9 +187,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "codigo-secreto",
-    "activityImage": "codigo-secreto.jpg",
-    "activityCategory": "tournaments",
+    "name": "codigo-secreto",
+    "image": "codigo-secreto.jpg",
+    "type": "tournaments",
     "organizer": "alter-paradox",
     "organizerImage": "alterparadox.svg",
     "timetable": [
@@ -205,9 +205,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "star-wars-unlimited",
-    "activityImage": "star-wars-unlimited.jpg",
-    "activityCategory": "tournaments",
+    "name": "star-wars-unlimited",
+    "image": "star-wars-unlimited.jpg",
+    "type": "tournaments",
     "organizer": "hipsteria",
     "organizerImage": "hipsteria.svg",
     "timetable": [
@@ -223,9 +223,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "magic",
-    "activityImage": "magic.JPG",
-    "activityCategory": "tournaments",
+    "name": "magic",
+    "image": "magic.JPG",
+    "type": "tournaments",
     "organizer": "magic-all-goal",
     "organizerImage": "magicallgoal-min.PNG",
     "timetable": [
@@ -241,9 +241,9 @@
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
-    "activityName": "yugioh",
-    "activityImage": "yugioh.jpg",
-    "activityCategory": "tournaments",
+    "name": "yugioh",
+    "image": "yugioh.jpg",
+    "type": "tournaments",
     "organizer": "magic-all-goal",
     "organizerImage": "magicallgoal-min.PNG",
     "timetable": [

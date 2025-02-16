@@ -16,22 +16,22 @@
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
-              <img class="stand-logo" src="/images/contributors/<?php echo $stand->logo; ?>" alt="<?php echo $lang["lang.activities.$curPageName.$stand->activityName.title"]; ?>" width="200" height="200">
+              <img class="stand-logo" src="/images/contributors/<?php echo $stand->logo; ?>" alt="<?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>" width="200" height="200">
             </div>
 
             <!-- Activity main content -->
             <div class="col-12 col-lg-6">
               <!-- Activity title -->
-              <h2 id="<?php echo $stand->activityName; ?>">
-                <?php echo $lang["lang.activities.$curPageName.$stand->activityName.title"]; ?>
-                <a class="anchor-link" href="#<?php echo $stand->activityName; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$curPageName.$stand->activityName.title"]; ?>"></a>
+              <h2 id="<?php echo $stand->name; ?>">
+                <?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>
+                <a class="anchor-link" href="#<?php echo $stand->name; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>"></a>
               </h2>
 
               <!-- Activity type -->
-              <p class="lead text-ffscarlet"><?php echo $lang["lang.activities.$curPageName.$stand->activityName.type"]; ?></p>
+              <p class="lead text-ffscarlet"><?php echo $lang["lang.activities.$curPageName.$stand->name.type"]; ?></p>
 
               <!-- Activity description -->
-              <p><?php echo $lang["lang.activities.$curPageName.$stand->activityName.description"]; ?></p>
+              <p><?php echo $lang["lang.activities.$curPageName.$stand->name.description"]; ?></p>
 
               <!-- Activity links -->
               <ul class="list-inline">

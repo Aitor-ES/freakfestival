@@ -1,32 +1,32 @@
 [
   {
-    "activityName": "mayicosplay",
+    "name": "mayicosplay",
     "logo": "mayicosplay-min.jpg",
     "instagram": ["https://www.instagram.com/mayicosplay/"]
   },
   {
-    "activityName": "pixsebas",
+    "name": "pixsebas",
     "logo": "pixsebas-min.jpeg",
     "instagram": ["https://www.instagram.com/pixsebasglasspainting/"],
     "tiktok": "https://www.tiktok.com/@pixsebasglassart/"
   },
   {
-    "activityName": "cristinasalaslopez",
+    "name": "cristinasalaslopez",
     "logo": "cristinasalaslopez-min.jpg",
     "instagram": ["https://www.instagram.com/cristinasalaslopez/"]
   },
   {
-    "activityName": "cosdaimon",
+    "name": "cosdaimon",
     "logo": "cosdaimon-min.jpeg",
     "instagram": ["https://www.instagram.com/cos.daimon/"]
   },
   {
-    "activityName": "creandoinfinito",
+    "name": "creandoinfinito",
     "logo": "creandoinfinito-min.png",
     "instagram": ["https://www.instagram.com/creandoinfinito/"]
   },
   {
-    "activityName": "yumi",
+    "name": "yumi",
     "logo": "yumi-min.jpg",
     "instagram": ["https://www.instagram.com/yumi_waifu/"]
   }
