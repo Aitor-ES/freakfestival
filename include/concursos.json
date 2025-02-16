@@ -1,263 +1,261 @@
-{
-  "activities": [
-    {
-      "activityName": "cosplay",
-      "activityCategory": "contests",
-      "organizer": "valinor",
-      "organizerImage": "valinor.svg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "18:00 - 20:00"
-        }
-      ],
-      "duration": "2 h",
-      "participants": "20",
-      "age": "all",
-      "lang": "free",
-      "rules": "Bases del concurso de cosplay.pdf",
-      "register": "https://forms.gle/sNPQpQEp7ha1ZRtR7"
-    },
-    {
-      "activityName": "pintado-miniaturas",
-      "activityCategory": "contests",
-      "organizer": "valinor",
-      "organizerImage": "valinor.svg",
-      "participants": "36",
-      "age": "all",
-      "lang": "free",
-      "rules": "Bases del concurso de miniaturas y dioramas.pdf",
-      "register": "https://forms.gle/PYVhBGFikhfsBeTC6"
-    },
-    {
-      "activityName": "fast-painting",
-      "activityCategory": "contests",
-      "organizer": "valinor",
-      "organizerImage": "valinor.svg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "18:00 - 20:00"
-        }
-      ],
-      "duration": "2 h",
-      "participants": "12",
-      "age": "all",
-      "lang": "free",
-      "rules": "Bases del concurso de fast painting.pdf"
-    },
-    {
-      "activityName": "fast-fic",
-      "activityCategory": "contests",
-      "organizer": "valinor",
-      "organizerImage": "valinor.svg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "11:00 - 21:00"
-        }
-      ],
-      "duration": "10 h",
-      "participants": "15",
-      "age": "all",
-      "lang": "free",
-      "rules": "Bases del concurso de fast fic.pdf"
-    },
-    {
-      "activityName": "fast-comic",
-      "activityCategory": "contests",
-      "organizer": "valinor",
-      "organizerImage": "valinor.svg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "10:30 - 14:00"
-        }
-      ],
-      "duration": "3 h 30 min",
-      "participants": "15",
-      "age": "all",
-      "lang": "free",
-      "rules": "Bases del concurso de fast comic.pdf"
-    },
-    {
-      "activityName": "virus",
-      "activityImage": "virus.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "alter-paradox",
-      "organizerImage": "alterparadox.svg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "20:00 - 21:00"
-        }
-      ],
-      "duration": "1 h",
-      "participants": "18",
-      "age": "all",
-      "lang": "es",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "killteam",
-      "activityImage": "killteam.png",
-      "activityCategory": "tournaments",
-      "organizer": "nexo",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "15:00 - 21:00"
-        }
-      ],
-      "duration": "6 h",
-      "participants": "12",
-      "age": "all",
-      "lang": "es",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "catan",
-      "activityImage": "catan.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "aventum",
-      "organizerImage": "aventum-min.png",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "10:30 - 13:30"
-        }
-      ],
-      "duration": "3 h",
-      "participants": "16",
-      "age": "all",
-      "lang": "es",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "carcassonne",
-      "activityImage": "carcassonne.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "aventum",
-      "organizerImage": "aventum-min.png",
-      "timetable": [
-        {
-          "day": "sunday",
-          "time": "10:30 - 13:30"
-        }
-      ],
-      "duration": "3 h",
-      "participants": "16",
-      "age": "all",
-      "lang": "es",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "tuki",
-      "activityImage": "tuki.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "alter-paradox",
-      "organizerImage": "alterparadox.svg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "15:00 - 16:00"
-        }
-      ],
-      "duration": "1 h",
-      "participants": "9",
-      "age": "all",
-      "lang": "es",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "lorcana",
-      "activityImage": "lorcana.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "omega",
-      "organizerImage": "omega-min.jpg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "10:30 - 14:30"
-        }
-      ],
-      "duration": "4 h",
-      "participants": "16",
-      "age": "all",
-      "lang": "both",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "codigo-secreto",
-      "activityImage": "codigo-secreto.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "alter-paradox",
-      "organizerImage": "alterparadox.svg",
-      "timetable": [
-        {
-          "day": "sunday",
-          "time": "12:00 - 13:30"
-        }
-      ],
-      "duration": "1 h 15 min",
-      "participants": "16",
-      "age": "all",
-      "lang": "es",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "star-wars-unlimited",
-      "activityImage": "star-wars-unlimited.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "hipsteria",
-      "organizerImage": "hipsteria.svg",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "16:30 - 21:00"
-        }
-      ],
-      "duration": "5 h",
-      "participants": "16",
-      "age": "14",
-      "lang": "both",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "magic",
-      "activityImage": "magic.JPG",
-      "activityCategory": "tournaments",
-      "organizer": "magic-all-goal",
-      "organizerImage": "magicallgoal-min.PNG",
-      "timetable": [
-        {
-          "day": "sunday",
-          "time": "10:00 - 14:00"
-        }
-      ],
-      "duration": "5 h",
-      "participants": "16",
-      "age": "all",
-      "lang": "free",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    },
-    {
-      "activityName": "yugioh",
-      "activityImage": "yugioh.jpg",
-      "activityCategory": "tournaments",
-      "organizer": "magic-all-goal",
-      "organizerImage": "magicallgoal-min.PNG",
-      "timetable": [
-        {
-          "day": "saturday",
-          "time": "10:00 - 15:00"
-        }
-      ],
-      "duration": "5 h",
-      "participants": "16",
-      "age": "all",
-      "lang": "free",
-      "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-    }
-  ]
-}
+[
+  {
+    "activityName": "cosplay",
+    "activityCategory": "contests",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "18:00 - 20:00"
+      }
+    ],
+    "duration": "2 h",
+    "participants": "20",
+    "age": "all",
+    "lang": "free",
+    "rules": "Bases del concurso de cosplay.pdf",
+    "register": "https://forms.gle/sNPQpQEp7ha1ZRtR7"
+  },
+  {
+    "activityName": "pintado-miniaturas",
+    "activityCategory": "contests",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "participants": "36",
+    "age": "all",
+    "lang": "free",
+    "rules": "Bases del concurso de miniaturas y dioramas.pdf",
+    "register": "https://forms.gle/PYVhBGFikhfsBeTC6"
+  },
+  {
+    "activityName": "fast-painting",
+    "activityCategory": "contests",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "18:00 - 20:00"
+      }
+    ],
+    "duration": "2 h",
+    "participants": "12",
+    "age": "all",
+    "lang": "free",
+    "rules": "Bases del concurso de fast painting.pdf"
+  },
+  {
+    "activityName": "fast-fic",
+    "activityCategory": "contests",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "11:00 - 21:00"
+      }
+    ],
+    "duration": "10 h",
+    "participants": "15",
+    "age": "all",
+    "lang": "free",
+    "rules": "Bases del concurso de fast fic.pdf"
+  },
+  {
+    "activityName": "fast-comic",
+    "activityCategory": "contests",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 14:00"
+      }
+    ],
+    "duration": "3 h 30 min",
+    "participants": "15",
+    "age": "all",
+    "lang": "free",
+    "rules": "Bases del concurso de fast comic.pdf"
+  },
+  {
+    "activityName": "virus",
+    "activityImage": "virus.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "20:00 - 21:00"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "18",
+    "age": "all",
+    "lang": "es",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "killteam",
+    "activityImage": "killteam.png",
+    "activityCategory": "tournaments",
+    "organizer": "nexo",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:00 - 21:00"
+      }
+    ],
+    "duration": "6 h",
+    "participants": "12",
+    "age": "all",
+    "lang": "es",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "catan",
+    "activityImage": "catan.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "aventum",
+    "organizerImage": "aventum-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "16",
+    "age": "all",
+    "lang": "es",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "carcassonne",
+    "activityImage": "carcassonne.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "aventum",
+    "organizerImage": "aventum-min.png",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "16",
+    "age": "all",
+    "lang": "es",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "tuki",
+    "activityImage": "tuki.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:00 - 16:00"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "9",
+    "age": "all",
+    "lang": "es",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "lorcana",
+    "activityImage": "lorcana.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "omega",
+    "organizerImage": "omega-min.jpg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 14:30"
+      }
+    ],
+    "duration": "4 h",
+    "participants": "16",
+    "age": "all",
+    "lang": "both",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "codigo-secreto",
+    "activityImage": "codigo-secreto.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "12:00 - 13:30"
+      }
+    ],
+    "duration": "1 h 15 min",
+    "participants": "16",
+    "age": "all",
+    "lang": "es",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "star-wars-unlimited",
+    "activityImage": "star-wars-unlimited.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "hipsteria",
+    "organizerImage": "hipsteria.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "16:30 - 21:00"
+      }
+    ],
+    "duration": "5 h",
+    "participants": "16",
+    "age": "14",
+    "lang": "both",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "magic",
+    "activityImage": "magic.JPG",
+    "activityCategory": "tournaments",
+    "organizer": "magic-all-goal",
+    "organizerImage": "magicallgoal-min.PNG",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "10:00 - 14:00"
+      }
+    ],
+    "duration": "5 h",
+    "participants": "16",
+    "age": "all",
+    "lang": "free",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  },
+  {
+    "activityName": "yugioh",
+    "activityImage": "yugioh.jpg",
+    "activityCategory": "tournaments",
+    "organizer": "magic-all-goal",
+    "organizerImage": "magicallgoal-min.PNG",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:00 - 15:00"
+      }
+    ],
+    "duration": "5 h",
+    "participants": "16",
+    "age": "all",
+    "lang": "free",
+    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
+  }
+]

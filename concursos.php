@@ -13,7 +13,7 @@
     <link href="/styles/actividades.css" rel="stylesheet">
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/include/concursos.json'));
+  <?php $activities = json_decode(file_get_contents(__DIR__ . '/include/concursos.json'));
         $categoryName = "contests";
         require("include/actividades.php"); ?>
 </html>

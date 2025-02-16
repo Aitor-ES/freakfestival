@@ -76,13 +76,13 @@
             </button>
           </li>
 
-          <?php $activityCategories = array_unique(array_column($activityCategory->activities, "activityCategory"));
+          <?php $activityCategories = array_unique(array_column($activities, "activityCategory"));
           sort($activityCategories);
-          foreach ($activityCategories as $activityCategoriesItem) { ?>
+          foreach ($activityCategories as $activityCategory) { ?>
             <li role="presentation">
-              <button class="btn btn-outline-ffscarlet btn-sm" id="pills-type-<?php echo $activityCategoriesItem; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
-                onclick="setActivityFilter('type-<?php echo $activityCategoriesItem; ?>')">
-                <?php echo $lang["lang.activities.$activityCategoriesItem.title"]; ?>
+              <button class="btn btn-outline-ffscarlet btn-sm" id="pills-type-<?php echo $activityCategory; ?>-tab" data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
+                onclick="setActivityFilter('type-<?php echo $activityCategory; ?>')">
+                <?php echo $lang["lang.activities.$activityCategory.title"]; ?>
               </button>
             </li>
           <?php } ?>
@@ -102,7 +102,7 @@
 
           <?php $activityTimetables = array_map(
             fn($activity): array => property_exists($activity, "timetable") ? array_column($activity->timetable, "day") : array("continuous"),
-            $activityCategory->activities,
+            $activities,
           );
           $activityTimetables = array_unique(array_merge(...$activityTimetables));
           sort($activityTimetables);
@@ -128,7 +128,7 @@
             </button>
           </li>
 
-          <?php $activityLangs = array_unique(array_column($activityCategory->activities, "lang"));
+          <?php $activityLangs = array_unique(array_column($activities, "lang"));
           sort($activityLangs);
           foreach ($activityLangs as $activityLang) { ?>
             <li role="presentation">
@@ -242,7 +242,7 @@
     </div> -->
 
     <ul class="activities list-group list-group-flush">
-      <?php foreach ($activityCategory->activities as $activity) { ?>
+      <?php foreach ($activities as $activity) { ?>
         <li class="list-group-item activity-container <?php echo "type-$activity->activityCategory ";
                                                       if (property_exists($activity, 'timetable')) {
                                                         foreach ($activity->timetable as $dayTime) echo "date-$dayTime->day ";
