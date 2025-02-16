@@ -4,7 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "puestos";
+      $curPageName = "stands";
       $title = $lang["lang.activities.stands.title"];
       require(__DIR__ . "/../include/head.php");
     ?>

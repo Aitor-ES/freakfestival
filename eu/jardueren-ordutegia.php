@@ -4,7 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "horario-de-actividades";
+      $curPageName = "timetable";
       $title = $lang["lang.head.title.horario-de-actividades"];
       require(__DIR__ . "/../include/head.php");
     ?>

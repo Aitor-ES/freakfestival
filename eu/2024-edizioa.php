@@ -4,7 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "edicion-2024";
+      $curPageName = "edition-2024";
       $title = $lang["lang.head.title.edition-2024"];
       require(__DIR__ . "/../include/head.php");
     ?>

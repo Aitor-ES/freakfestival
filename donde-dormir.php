@@ -4,7 +4,7 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "donde-dormir";
+      $curPageName = "hotels";
       $title = $lang["lang.activities.hotels.title"];
       require("include/head.php");
     ?>
