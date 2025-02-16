@@ -12,14 +12,14 @@
 
     <h2 class="mb-4"><?php echo $lang["lang.activities.faq.title"]; ?></h2>
 
-    <div class="accordion accordion-flush mb-5" id="accordionFlushFaq">
+    <div class="accordion accordion-flush mb-5" id="accordion-faq">
       <div class="accordion-item">
         <h2 class="accordion-header">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-faq-registration" aria-expanded="false" aria-controls="collapse-faq-registration">
             <?php echo $lang["lang.activities.faq.registration.question"]; ?>
           </button>
         </h2>
-        <div id="flush-collapseOne" class="accordion-collapse collapse">
+        <div id="collapse-faq-registration" class="accordion-collapse collapse">
           <div class="accordion-body">
             <div class="alert alert-ffglacier mb-0" role="alert">
               <p><?php echo $lang["lang.activities.faq.registration.answer.details"]; ?></p>
@@ -36,11 +36,11 @@
       </div>
       <div class="accordion-item">
         <h2 class="accordion-header">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-faq-children" aria-expanded="false" aria-controls="collapse-faq-children">
             <?php echo $lang["lang.activities.faq.children.question"]; ?>
           </button>
         </h2>
-        <div id="flush-collapseTwo" class="accordion-collapse collapse">
+        <div id="collapse-faq-children" class="accordion-collapse collapse">
           <div class="accordion-body">
             <div class="alert alert-ffglacier mb-0" role="alert">
               <?php echo $lang["lang.activities.faq.children.answer"]; ?>
@@ -50,11 +50,11 @@
       </div>
       <div class="accordion-item">
         <h2 class="accordion-header">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-faq-rpg" aria-expanded="false" aria-controls="collapse-faq-rpg">
             <?php echo $lang["lang.activities.faq.rpg.question"]; ?>
           </button>
         </h2>
-        <div id="flush-collapseThree" class="accordion-collapse collapse">
+        <div id="collapse-faq-rpg" class="accordion-collapse collapse">
           <div class="accordion-body">
             <div class="alert alert-ffglacier mb-0" role="alert">
               <?php echo $lang["lang.activities.faq.rpg.answer"]; ?>
