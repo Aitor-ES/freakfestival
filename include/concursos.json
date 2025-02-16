@@ -83,7 +83,7 @@
     {
       "activityName": "virus",
       "activityImage": "virus.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
       "timetable": [
@@ -101,7 +101,7 @@
     {
       "activityName": "killteam",
       "activityImage": "killteam.png",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "nexo",
       "timetable": [
         {
@@ -118,7 +118,7 @@
     {
       "activityName": "catan",
       "activityImage": "catan.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "aventum",
       "organizerImage": "aventum-min.png",
       "timetable": [
@@ -136,7 +136,7 @@
     {
       "activityName": "carcassonne",
       "activityImage": "carcassonne.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "aventum",
       "organizerImage": "aventum-min.png",
       "timetable": [
@@ -154,7 +154,7 @@
     {
       "activityName": "tuki",
       "activityImage": "tuki.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
       "timetable": [
@@ -172,7 +172,7 @@
     {
       "activityName": "lorcana",
       "activityImage": "lorcana.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "omega",
       "organizerImage": "omega-min.jpg",
       "timetable": [
@@ -190,7 +190,7 @@
     {
       "activityName": "codigo-secreto",
       "activityImage": "codigo-secreto.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "alter-paradox",
       "organizerImage": "alterparadox.svg",
       "timetable": [
@@ -208,7 +208,7 @@
     {
       "activityName": "star-wars-unlimited",
       "activityImage": "star-wars-unlimited.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "hipsteria",
       "organizerImage": "hipsteria.svg",
       "timetable": [
@@ -226,7 +226,7 @@
     {
       "activityName": "magic",
       "activityImage": "magic.JPG",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "magic-all-goal",
       "organizerImage": "magicallgoal-min.PNG",
       "timetable": [
@@ -244,7 +244,7 @@
     {
       "activityName": "yugioh",
       "activityImage": "yugioh.jpg",
-      "activityCategory": "contests",
+      "activityCategory": "tournaments",
       "organizer": "magic-all-goal",
       "organizerImage": "magicallgoal-min.PNG",
       "timetable": [
