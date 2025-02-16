@@ -1,196 +1,193 @@
-{
-  "categoryName": "stands",
-  "activities": [
-    {
-      "activityName": "akaricraft",
-      "logo": "akaricraft-min.jpg",
-      "instagram": ["https://www.instagram.com/akaricrafter"],
-      "tiktok": "https://www.tiktok.com/@akaricraft"
-    },
-    {
-      "activityName": "aliciadelrey",
-      "logo": "aliciadelrey-min.jpg",
-      "web": "https://www.valhallaediciones.com/producto/trazos-en-el-tiempo/",
-      "instagram": ["https://www.instagram.com/lallavedeavril"]
-    },
-    {
-      "activityName": "arkenaya",
-      "logo": "arkenaya-min.jpg",
-      "instagram": ["https://www.instagram.com/arkenayaworkshop"]
-    },
-    {
-      "activityName": "avescaperoom",
-      "logo": "avescaperoom-min.png",
-      "web": "https://www.avescaperoom.com/",
-      "instagram": ["https://www.instagram.com/av_escape_room_vitoria"]
-    },
-    {
-      "activityName": "bjorntall",
-      "logo": "bjorntall-min.png",
-      "web": "https://bjorntall.etsy.com",
-      "instagram": ["https://www.instagram.com/bjorntallcrafts"]
-    },
-    {
-      "activityName": "cachitomio",
-      "logo": "cachitomio.svg",
-      "web": "https://cachitomiogourmet.com/",
-      "instagram": ["https://www.instagram.com/cachitomiogourmet"],
-      "facebook": "https://www.facebook.com/cachitomiogourmet",
-      "tiktok": "https://www.tiktok.com/@cachitomiogourmet"
-    },
-    {
-      "activityName": "cerbero",
-      "logo": "cerbero-min.png",
-      "web": "https://www.editorialcerbero.com/",
-      "instagram": ["https://www.instagram.com/editorialcerbero"],
-      "facebook": "https://www.facebook.com/editorialcerbero",
-      "x": "https://twitter.com/edcerbero/"
-    },
-    {
-      "activityName": "conplumaypixel",
-      "logo": "conplumaypixel-min.jpg",
-      "web": "https://conplumaypixel.com/",
-      "instagram": ["https://www.instagram.com/conplumaypixel"],
-      "facebook": "https://www.facebook.com/conplumaypixel",
-      "x": "https://twitter.com/Conplumaypixel/"
-    },
-    {
-      "activityName": "costurerorolero",
-      "logo": "costurerorolero-min.jpg",
-      "instagram": ["https://www.instagram.com/costurerorolero"]
-    },
-    {
-      "activityName": "doublecastle",
-      "logo": "doublecastle-min.jpg",
-      "web": "https://doublecastle.com/",
-      "instagram": ["https://www.instagram.com/double.castle"]
-    },
-    {
-      "activityName": "ellaberintodeljuego",
-      "logo": "ellaberintodeljuego-min.jpg",
-      "web": "https://ellaberintodeljueg.wixsite.com/inicio"
-    },
-    {
-      "activityName": "euneiz",
-      "logo": "euneiz.svg",
-      "web": "https://www.euneiz.com/"
-    },
-    {
-      "activityName": "evoletle",
-      "logo": "evoletle-min.jpg",
-      "instagram": ["https://www.instagram.com/evoletle_crochet"]
-    },
-    {
-      "activityName": "hipsteria",
-      "logo": "hipsteria-min.jpg",
-      "instagram": ["https://www.instagram.com/hipsteria_vitoria"],
-      "facebook": "https://www.facebook.com/chicohipsterico"
-    },
-    {
-      "activityName": "hohi",
-      "logo": "hohi-min.jpg",
-      "instagram": ["https://www.instagram.com/hohishop"]
-    },
-    {
-      "activityName": "ireneagorricho",
-      "logo": "ireneagorricho-min.jpg",
-      "web": "https://ireneagorricho.my.canva.site/",
-      "instagram": ["https://www.instagram.com/monstruo_devoralibros"]
-    },
-    {
-      "activityName": "ivecrochett",
-      "logo": "ivecrochett-min.png",
-      "web": "https://bjorntall.etsy.com",
-      "instagram": ["https://www.instagram.com/ive.crochett"]
-    },
-    {
-      "activityName": "juliosanromancazorla",
-      "logo": "juliosanromancazorla-min.jpeg",
-      "instagram": ["https://www.instagram.com/juliosrc_escritor"]
-    },
-    {
-      "activityName": "laurablancovillalba",
-      "logo": "laurablancovillalba-min.png",
-      "web": "https://laurablancovillalba.es/",
-      "instagram": ["https://www.instagram.com/piradaperdida"],
-      "tiktok": "https://www.tiktok.com/@laurablancovillalba",
-      "x": "https://twitter.com/piradaperdida/"
-    },
-    {
-      "activityName": "laurablue",
-      "logo": "laurablue-min.jpg",
-      "web": "https://www.behance.net/laurablue1",
-      "instagram": ["https://www.instagram.com/imlaurablue"],
-      "tiktok": "https://www.tiktok.com/@imlaurablue_"
-    },
-    {
-      "activityName": "lykostherium",
-      "logo": "lykostherium-min.png",
-      "instagram": ["https://www.instagram.com/lykostherium/"],
-      "tiktok": "https://www.tiktok.com/@lykostherium3.0",
-      "x": "https://twitter.com/lykostherium/"
-    },
-    {
-      "activityName": "magicallgoal",
-      "logo": "magicallgoal-min.PNG",
-      "web": "https://magicallgoal.ekarri.es",
-      "instagram": ["https://www.instagram.com/magicallgoal"],
-      "facebook": "https://www.facebook.com/magicallgoal.yugioh.vitoria"
-    },
-    {
-      "activityName": "nomara",
-      "logo": "nomara-min.jpeg",
-      "web": "https://nomara.es/",
-      "instagram": ["https://www.instagram.com/nomaralab"]
-    },
-    {
-      "activityName": "omega",
-      "logo": "omega-min.jpg",
-      "instagram": ["https://www.instagram.com/omegavitoria"]
-    },
-    {
-      "activityName": "salienart",
-      "logo": "salienart-min.jpg",
-      "instagram": ["https://www.instagram.com/sal_ien"]
-    },
-    {
-      "activityName": "strongtales",
-      "logo": "strongtales-min.png",
-      "web": "https://strongtaleslag.wishpondpages.com/",
-      "instagram": ["https://www.instagram.com/Strongtales_lag"],
-      "facebook": "https://www.facebook.com/StrongTalesLAG/",
-      "discord": "https://discord.com/invite/4EevEcKSrg"
-    },
-    {
-      "activityName": "theartcorner",
-      "logo": "theartcorner-min.jpg",
-      "instagram": [
-        "https://www.instagram.com/tac.colectivo",
-        "https://www.instagram.com/amaia.korapilo",
-        "https://www.instagram.com/tunimamicrafter",
-        "https://www.instagram.com/itzaguado"]
-    },
-    {
-      "activityName": "thegingercrocodile",
-      "logo": "thegingercrocodile.svg",
-      "instagram": ["https://www.instagram.com/thegingercrocodile"]
-    },
-    {
-      "activityName": "thetap",
-      "logo": "thetap-min.png",
-      "instagram": ["https://www.instagram.com/thetapvitoria"]
-    },
-    {
-      "activityName": "uzanza",
-      "logo": "uzanza-min.png",
-      "web": "https://uzanzaeditorial.com/",
-      "instagram": ["https://www.instagram.com/uzanzaeditorial"],
-      "x": "https://twitter.com/uzanzaeditorial/"
-    },
-    {
-      "activityName": "vilnieblasimaga",
-      "logo": "vilnieblasimaga-min.jpg",
-      "instagram": ["https://www.instagram.com/vilniebla", "https://www.instagram.com/simagafake"]
-    }
-  ]
-}
+[
+  {
+    "activityName": "akaricraft",
+    "logo": "akaricraft-min.jpg",
+    "instagram": ["https://www.instagram.com/akaricrafter"],
+    "tiktok": "https://www.tiktok.com/@akaricraft"
+  },
+  {
+    "activityName": "aliciadelrey",
+    "logo": "aliciadelrey-min.jpg",
+    "web": "https://www.valhallaediciones.com/producto/trazos-en-el-tiempo/",
+    "instagram": ["https://www.instagram.com/lallavedeavril"]
+  },
+  {
+    "activityName": "arkenaya",
+    "logo": "arkenaya-min.jpg",
+    "instagram": ["https://www.instagram.com/arkenayaworkshop"]
+  },
+  {
+    "activityName": "avescaperoom",
+    "logo": "avescaperoom-min.png",
+    "web": "https://www.avescaperoom.com/",
+    "instagram": ["https://www.instagram.com/av_escape_room_vitoria"]
+  },
+  {
+    "activityName": "bjorntall",
+    "logo": "bjorntall-min.png",
+    "web": "https://bjorntall.etsy.com",
+    "instagram": ["https://www.instagram.com/bjorntallcrafts"]
+  },
+  {
+    "activityName": "cachitomio",
+    "logo": "cachitomio.svg",
+    "web": "https://cachitomiogourmet.com/",
+    "instagram": ["https://www.instagram.com/cachitomiogourmet"],
+    "facebook": "https://www.facebook.com/cachitomiogourmet",
+    "tiktok": "https://www.tiktok.com/@cachitomiogourmet"
+  },
+  {
+    "activityName": "cerbero",
+    "logo": "cerbero-min.png",
+    "web": "https://www.editorialcerbero.com/",
+    "instagram": ["https://www.instagram.com/editorialcerbero"],
+    "facebook": "https://www.facebook.com/editorialcerbero",
+    "x": "https://twitter.com/edcerbero/"
+  },
+  {
+    "activityName": "conplumaypixel",
+    "logo": "conplumaypixel-min.jpg",
+    "web": "https://conplumaypixel.com/",
+    "instagram": ["https://www.instagram.com/conplumaypixel"],
+    "facebook": "https://www.facebook.com/conplumaypixel",
+    "x": "https://twitter.com/Conplumaypixel/"
+  },
+  {
+    "activityName": "costurerorolero",
+    "logo": "costurerorolero-min.jpg",
+    "instagram": ["https://www.instagram.com/costurerorolero"]
+  },
+  {
+    "activityName": "doublecastle",
+    "logo": "doublecastle-min.jpg",
+    "web": "https://doublecastle.com/",
+    "instagram": ["https://www.instagram.com/double.castle"]
+  },
+  {
+    "activityName": "ellaberintodeljuego",
+    "logo": "ellaberintodeljuego-min.jpg",
+    "web": "https://ellaberintodeljueg.wixsite.com/inicio"
+  },
+  {
+    "activityName": "euneiz",
+    "logo": "euneiz.svg",
+    "web": "https://www.euneiz.com/"
+  },
+  {
+    "activityName": "evoletle",
+    "logo": "evoletle-min.jpg",
+    "instagram": ["https://www.instagram.com/evoletle_crochet"]
+  },
+  {
+    "activityName": "hipsteria",
+    "logo": "hipsteria-min.jpg",
+    "instagram": ["https://www.instagram.com/hipsteria_vitoria"],
+    "facebook": "https://www.facebook.com/chicohipsterico"
+  },
+  {
+    "activityName": "hohi",
+    "logo": "hohi-min.jpg",
+    "instagram": ["https://www.instagram.com/hohishop"]
+  },
+  {
+    "activityName": "ireneagorricho",
+    "logo": "ireneagorricho-min.jpg",
+    "web": "https://ireneagorricho.my.canva.site/",
+    "instagram": ["https://www.instagram.com/monstruo_devoralibros"]
+  },
+  {
+    "activityName": "ivecrochett",
+    "logo": "ivecrochett-min.png",
+    "web": "https://bjorntall.etsy.com",
+    "instagram": ["https://www.instagram.com/ive.crochett"]
+  },
+  {
+    "activityName": "juliosanromancazorla",
+    "logo": "juliosanromancazorla-min.jpeg",
+    "instagram": ["https://www.instagram.com/juliosrc_escritor"]
+  },
+  {
+    "activityName": "laurablancovillalba",
+    "logo": "laurablancovillalba-min.png",
+    "web": "https://laurablancovillalba.es/",
+    "instagram": ["https://www.instagram.com/piradaperdida"],
+    "tiktok": "https://www.tiktok.com/@laurablancovillalba",
+    "x": "https://twitter.com/piradaperdida/"
+  },
+  {
+    "activityName": "laurablue",
+    "logo": "laurablue-min.jpg",
+    "web": "https://www.behance.net/laurablue1",
+    "instagram": ["https://www.instagram.com/imlaurablue"],
+    "tiktok": "https://www.tiktok.com/@imlaurablue_"
+  },
+  {
+    "activityName": "lykostherium",
+    "logo": "lykostherium-min.png",
+    "instagram": ["https://www.instagram.com/lykostherium/"],
+    "tiktok": "https://www.tiktok.com/@lykostherium3.0",
+    "x": "https://twitter.com/lykostherium/"
+  },
+  {
+    "activityName": "magicallgoal",
+    "logo": "magicallgoal-min.PNG",
+    "web": "https://magicallgoal.ekarri.es",
+    "instagram": ["https://www.instagram.com/magicallgoal"],
+    "facebook": "https://www.facebook.com/magicallgoal.yugioh.vitoria"
+  },
+  {
+    "activityName": "nomara",
+    "logo": "nomara-min.jpeg",
+    "web": "https://nomara.es/",
+    "instagram": ["https://www.instagram.com/nomaralab"]
+  },
+  {
+    "activityName": "omega",
+    "logo": "omega-min.jpg",
+    "instagram": ["https://www.instagram.com/omegavitoria"]
+  },
+  {
+    "activityName": "salienart",
+    "logo": "salienart-min.jpg",
+    "instagram": ["https://www.instagram.com/sal_ien"]
+  },
+  {
+    "activityName": "strongtales",
+    "logo": "strongtales-min.png",
+    "web": "https://strongtaleslag.wishpondpages.com/",
+    "instagram": ["https://www.instagram.com/Strongtales_lag"],
+    "facebook": "https://www.facebook.com/StrongTalesLAG/",
+    "discord": "https://discord.com/invite/4EevEcKSrg"
+  },
+  {
+    "activityName": "theartcorner",
+    "logo": "theartcorner-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/tac.colectivo",
+      "https://www.instagram.com/amaia.korapilo",
+      "https://www.instagram.com/tunimamicrafter",
+      "https://www.instagram.com/itzaguado"]
+  },
+  {
+    "activityName": "thegingercrocodile",
+    "logo": "thegingercrocodile.svg",
+    "instagram": ["https://www.instagram.com/thegingercrocodile"]
+  },
+  {
+    "activityName": "thetap",
+    "logo": "thetap-min.png",
+    "instagram": ["https://www.instagram.com/thetapvitoria"]
+  },
+  {
+    "activityName": "uzanza",
+    "logo": "uzanza-min.png",
+    "web": "https://uzanzaeditorial.com/",
+    "instagram": ["https://www.instagram.com/uzanzaeditorial"],
+    "x": "https://twitter.com/uzanzaeditorial/"
+  },
+  {
+    "activityName": "vilnieblasimaga",
+    "logo": "vilnieblasimaga-min.jpg",
+    "instagram": ["https://www.instagram.com/vilniebla", "https://www.instagram.com/simagafake"]
+  }
+]

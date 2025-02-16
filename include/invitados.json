@@ -1,36 +1,33 @@
-{
-  "categoryName": "guests",
-  "activities": [
-    {
-      "activityName": "mayicosplay",
-      "logo": "mayicosplay-min.jpg",
-      "instagram": ["https://www.instagram.com/mayicosplay/"]
-    },
-    {
-      "activityName": "pixsebas",
-      "logo": "pixsebas-min.jpeg",
-      "instagram": ["https://www.instagram.com/pixsebasglasspainting/"],
-      "tiktok": "https://www.tiktok.com/@pixsebasglassart/"
-    },
-    {
-      "activityName": "cristinasalaslopez",
-      "logo": "cristinasalaslopez-min.jpg",
-      "instagram": ["https://www.instagram.com/cristinasalaslopez/"]
-    },
-    {
-      "activityName": "cosdaimon",
-      "logo": "cosdaimon-min.jpeg",
-      "instagram": ["https://www.instagram.com/cos.daimon/"]
-    },
-    {
-      "activityName": "creandoinfinito",
-      "logo": "creandoinfinito-min.png",
-      "instagram": ["https://www.instagram.com/creandoinfinito/"]
-    },
-    {
-      "activityName": "yumi",
-      "logo": "yumi-min.jpg",
-      "instagram": ["https://www.instagram.com/yumi_waifu/"]
-    }
-  ]
-}
+[
+  {
+    "activityName": "mayicosplay",
+    "logo": "mayicosplay-min.jpg",
+    "instagram": ["https://www.instagram.com/mayicosplay/"]
+  },
+  {
+    "activityName": "pixsebas",
+    "logo": "pixsebas-min.jpeg",
+    "instagram": ["https://www.instagram.com/pixsebasglasspainting/"],
+    "tiktok": "https://www.tiktok.com/@pixsebasglassart/"
+  },
+  {
+    "activityName": "cristinasalaslopez",
+    "logo": "cristinasalaslopez-min.jpg",
+    "instagram": ["https://www.instagram.com/cristinasalaslopez/"]
+  },
+  {
+    "activityName": "cosdaimon",
+    "logo": "cosdaimon-min.jpeg",
+    "instagram": ["https://www.instagram.com/cos.daimon/"]
+  },
+  {
+    "activityName": "creandoinfinito",
+    "logo": "creandoinfinito-min.png",
+    "instagram": ["https://www.instagram.com/creandoinfinito/"]
+  },
+  {
+    "activityName": "yumi",
+    "logo": "yumi-min.jpg",
+    "instagram": ["https://www.instagram.com/yumi_waifu/"]
+  }
+]

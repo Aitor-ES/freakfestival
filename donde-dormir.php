@@ -13,7 +13,6 @@
     <link href="/styles/donde-dormir.css" rel="stylesheet">
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/include/donde-dormir.json'));
-        $categoryName = $activityCategory->categoryName;
+  <?php $hotels = json_decode(file_get_contents(__DIR__ . '/include/donde-dormir.json'));
         require("include/donde-dormir.php"); ?>
 </html>

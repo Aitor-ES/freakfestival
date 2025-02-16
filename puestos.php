@@ -13,7 +13,6 @@
     <link href="/styles/puestos.css" rel="stylesheet">
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/include/puestos.json'));
-        $categoryName = $activityCategory->categoryName;
+  <?php $stands = json_decode(file_get_contents(__DIR__ . '/include/puestos.json'));
         require("include/puestos.php"); ?>
 </html>

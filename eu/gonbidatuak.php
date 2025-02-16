@@ -13,7 +13,6 @@
     <link href="/styles/invitados.css" rel="stylesheet">
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php $activityCategory = json_decode(file_get_contents(__DIR__ . '/../include/invitados.json'));
-        $categoryName = $activityCategory->categoryName;
+  <?php $guests = json_decode(file_get_contents(__DIR__ . '/../include/invitados.json'));
         require(__DIR__ . "/../include/invitados.php"); ?>
 </html>
