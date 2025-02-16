@@ -269,13 +269,13 @@
               <!-- Activity info -->
               <div class="row row-cols-2 row-cols-sm-3 row-cols-lg-2 row-cols-xl-3 g-4 mb-4">
                 <!-- Activity type -->
-                <div class="col d-flex align-items-center column-gap-3 row-gap-1">
+                <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-dice-6 fs-2 text-ffscarlet"></i>
                   <?php echo $lang["lang.activities.$activity->activityCategory.title"]; ?>
                 </div>
 
                 <!-- Activity date -->
-                <div class="col d-flex align-items-center column-gap-3 row-gap-1">
+                <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-clock fs-2 text-ffscarlet"></i>
                   <?php if (property_exists($activity, 'timetable')) { ?>
                     <div>
@@ -292,7 +292,7 @@
                 </div>
 
                 <!-- Activity seats -->
-                <div class="col d-flex align-items-center column-gap-3 row-gap-1">
+                <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-people fs-2 text-ffscarlet"></i>
                   <?php $participants = $activity->participants;
                   if (is_numeric($participants)) echo "$participants {$lang["lang.activities.participants"]}";
@@ -300,7 +300,7 @@
                 </div>
 
                 <!-- Activity age -->
-                <div class="col d-flex align-items-center column-gap-3 row-gap-1">
+                <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-person-check fs-2 text-ffscarlet"></i>
                   <?php $age = $activity->age;
                   if (is_numeric($age)) echo "+$age {$lang["lang.activities.age.years-old"]}";
@@ -308,7 +308,7 @@
                 </div>
 
                 <!-- Activity language -->
-                <div class="col d-flex align-items-center column-gap-3 row-gap-1">
+                <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-translate fs-2 text-ffscarlet"></i>
                   <?php echo $lang["lang.activities.lang.$activity->lang"]; ?>
                 </div>
