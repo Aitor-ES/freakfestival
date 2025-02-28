@@ -11,10 +11,7 @@ $links = array(
   "es.hotels" => "donde-dormir",
   "es.organizers" => "organizadores",
   "es.contributors" => "colaboradores",
-  "es.edition-2024" => "edicion-2024",
-  "es.edition-2023" => "edicion-2023",
-  "es.edition-2022" => "edicion-2022",
-  "es.edition-2018" => "edicion-2018",
+  "es.photos" => "fotos",
 
   "eu.index" => "index",
   "eu.activities" => "jarduerak",
@@ -27,9 +24,6 @@ $links = array(
   "eu.hotels" => "non-lo-egin",
   "eu.organizers" => "antolatzaileak",
   "eu.contributors" => "laguntzaileak",
-  "eu.edition-2024" => "2024-edizioa",
-  "eu.edition-2023" => "2023-edizioa",
-  "eu.edition-2022" => "2022-edizioa",
-  "eu.edition-2018" => "2018-edizioa",
+  "eu.photos" => "argazkiak",
 );
 ?>

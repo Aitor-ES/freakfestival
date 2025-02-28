@@ -4,8 +4,8 @@
   <head>
     <!-- Header tags and common CSS -->
     <?php
-      $curPageName = "edition-2022";
-      $title = $lang["lang.head.title.edition-2022"];
+      $curPageName = "photos";
+      $title = $lang["lang.head.title.fotos"];
       require(__DIR__ . "/../include/head.php");
     ?>
 
@@ -15,5 +15,5 @@
     <!-- Page CSS -->
     <link href="/styles/fotos.css" rel="stylesheet">
   </head>
-  <?php require(__DIR__ . "/../include/edicion-2022.php"); ?>
+  <?php require(__DIR__ . "/../include/fotos.php"); ?>
 </html>
