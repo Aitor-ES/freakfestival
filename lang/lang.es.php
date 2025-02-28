@@ -20,6 +20,7 @@ $lang = array(
   "lang.head.title.organizadores" => "Organizadores",
   "lang.head.title.name" => "Freak Festival: Juegos de mesa, Rol, Talleres y Artesanía en Vitoria-Gasteiz",
 
+  "lang.header.festival" => "Freak Festival",
   "lang.header.home" => "Inicio",
   "lang.header.program" => "Programa",
   "lang.header.program.2023" => "Programa 2023",
@@ -41,6 +42,7 @@ $lang = array(
   "lang.header.contributors" => "Colaboradores",
   "lang.header.maps-of-the-facilities" => "Salas",
   "lang.header.editions" => "Ediciones anteriores",
+  "lang.header.editions.2025" => "Freak Festival 2025",
   "lang.header.editions.2024" => "Freak Festival 2024",
   "lang.header.editions.2023" => "Freak Festival 2023",
   "lang.header.editions.2022" => "Freak Festival 2022",

@@ -20,6 +20,7 @@ $lang = array(
   "lang.head.title.organizadores" => "Antolatzaileak",
   "lang.head.title.name" => "Freak Festival: Mahai-jokoak, Rola, Tailerrak eta Artisautza Vitoria-Gasteizen",
 
+  "lang.header.festival" => "Freak Festival",
   "lang.header.home" => "Hasiera",
   "lang.header.program" => "Egitaraua",
   "lang.header.program.2023" => "Egitaraua 2023",
