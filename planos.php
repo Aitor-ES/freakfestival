@@ -5,9 +5,9 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "maps";
-      $title = $lang["lang.head.title.salas"];
+      $title = $lang["lang.head.title.planos"];
       require("include/head.php");
     ?>
   </head>
-  <?php require("include/salas.php"); ?>
+  <?php require("include/planos.php"); ?>
 </html>

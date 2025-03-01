@@ -16,7 +16,7 @@ $lang = array(
   "lang.head.title.index" => "Hasiera",
   "lang.head.title.registrations-applications" => "Izen-emateak eta hautagaitzak",
   "lang.head.title.invitados" => "Gonbidatuak",
-  "lang.head.title.salas" => "Aretoak",
+  "lang.head.title.planos" => "Ekitaldiaren planoak",
   "lang.head.title.organizadores" => "Antolatzaileak",
   "lang.head.title.name" => "Freak Festival: Mahai-jokoak, Rola, Tailerrak eta Artisautza Vitoria-Gasteizen",
 
@@ -40,7 +40,7 @@ $lang = array(
   "lang.header.about-us" => "Guri buruz",
   "lang.header.organizers" => "Antolatzaileak",
   "lang.header.contributors" => "Laguntzaileak",
-  "lang.header.maps-of-the-facilities" => "Aretoak",
+  "lang.header.maps" => "Ekitaldiaren planoak",
   "lang.header.editions" => "Aurreko edizioak",
   "lang.header.editions.2024" => "Freak Festival 2024",
   "lang.header.editions.2023" => "Freak Festival 2023",
@@ -499,7 +499,7 @@ $lang = array(
   "lang.activities.hotels.ibisbudget.title" => "Ibis Budget",
   "lang.activities.hotels.ibisbudget.address" => "Martin de Saracibar Kalea, 2, 01010 Vitoria-Gasteiz, Araba",
 
-  "lang.maps-of-the-facilities.title" => "Aretoak",
+  "lang.maps.title" => "Ekitaldiaren planoak",
 
   "lang.organizers.valinor.title" => "Antolatzaileak",
   "lang.organizers.valinor.hello.title" => "Kaixo! Valinor Elkartea gara",

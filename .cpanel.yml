@@ -11,8 +11,8 @@ deployment:
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp inscripciones-candidaturas.php $DEPLOYPATH
     - /bin/cp invitados.php $DEPLOYPATH
-    - /bin/cp salas.php $DEPLOYPATH
     - /bin/cp organizadores.php $DEPLOYPATH
+    - /bin/cp planos.php $DEPLOYPATH
     - /bin/cp puestos.php $DEPLOYPATH
     - /bin/cp -R docs $DEPLOYPATH
     - /bin/cp -R eu $DEPLOYPATH

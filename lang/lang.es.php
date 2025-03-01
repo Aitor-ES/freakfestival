@@ -16,7 +16,7 @@ $lang = array(
   "lang.head.title.index" => "Inicio",
   "lang.head.title.registrations-applications" => "Inscripciones y candidaturas",
   "lang.head.title.invitados" => "Invitados",
-  "lang.head.title.salas" => "Salas",
+  "lang.head.title.planos" => "Planos del evento",
   "lang.head.title.organizadores" => "Organizadores",
   "lang.head.title.name" => "Freak Festival: Juegos de mesa, Rol, Talleres y Artesanía en Vitoria-Gasteiz",
 
@@ -40,7 +40,7 @@ $lang = array(
   "lang.header.about-us" => "Sobre nosotros",
   "lang.header.organizers" => "Organizadores",
   "lang.header.contributors" => "Colaboradores",
-  "lang.header.maps-of-the-facilities" => "Salas",
+  "lang.header.maps" => "Planos del evento",
   "lang.header.editions" => "Ediciones anteriores",
   "lang.header.editions.2025" => "Freak Festival 2025",
   "lang.header.editions.2024" => "Freak Festival 2024",
@@ -496,7 +496,7 @@ $lang = array(
   "lang.activities.hotels.ibisbudget.title" => "Ibis Budget",
   "lang.activities.hotels.ibisbudget.address" => "Calle Martín de Saracíbar, 2, 01010 Vitoria-Gasteiz, Álava",
 
-  "lang.maps-of-the-facilities.title" => "Salas",
+  "lang.maps.title" => "Planos del evento",
 
   "lang.organizers.valinor.title" => "Organizadores",
   "lang.organizers.valinor.hello.title" => "¡Hola! Somos la Asociación Valinor",
