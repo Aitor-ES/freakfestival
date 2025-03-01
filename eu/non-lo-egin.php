@@ -13,6 +13,6 @@
     <link href="/styles/donde-dormir.css" rel="stylesheet">
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php $hotels = json_decode(file_get_contents(__DIR__ . '/../include/donde-dormir.json'));
-        require(__DIR__ . "/../include/donde-dormir.php"); ?>
+  <?php $hotels = json_decode(file_get_contents(__DIR__ . '/../include/donde-alojarse.json'));
+        require(__DIR__ . "/../include/donde-alojarse.php"); ?>
 </html>

@@ -10,9 +10,9 @@
     ?>
 
     <!-- Page CSS -->
-    <link href="/styles/donde-dormir.css" rel="stylesheet">
+    <link href="/styles/donde-alojarse.css" rel="stylesheet">
     <link href="/styles/list-group.css" rel="stylesheet">
   </head>
-  <?php $hotels = json_decode(file_get_contents(__DIR__ . '/include/donde-dormir.json'));
-        require("include/donde-dormir.php"); ?>
+  <?php $hotels = json_decode(file_get_contents(__DIR__ . '/include/donde-alojarse.json'));
+        require("include/donde-alojarse.php"); ?>
 </html>

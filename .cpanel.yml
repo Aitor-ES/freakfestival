@@ -5,7 +5,7 @@ deployment:
     - /bin/cp actividades.php $DEPLOYPATH
     - /bin/cp colaboradores.php $DEPLOYPATH
     - /bin/cp concursos.php $DEPLOYPATH
-    - /bin/cp donde-dormir.php $DEPLOYPATH
+    - /bin/cp donde-alojarse.php $DEPLOYPATH
     - /bin/cp fotos.php $DEPLOYPATH
     - /bin/cp horario-de-actividades.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
