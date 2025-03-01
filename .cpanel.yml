@@ -6,10 +6,7 @@ deployment:
     - /bin/cp colaboradores.php $DEPLOYPATH
     - /bin/cp concursos.php $DEPLOYPATH
     - /bin/cp donde-dormir.php $DEPLOYPATH
-    - /bin/cp edicion-2018.php $DEPLOYPATH
-    - /bin/cp edicion-2022.php $DEPLOYPATH
-    - /bin/cp edicion-2023.php $DEPLOYPATH
-    - /bin/cp edicion-2024.php $DEPLOYPATH
+    - /bin/cp fotos.php $DEPLOYPATH
     - /bin/cp horario-de-actividades.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp inscripciones-candidaturas.php $DEPLOYPATH
