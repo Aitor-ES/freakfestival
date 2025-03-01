@@ -5,7 +5,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "timetable";
-      $title = $lang["lang.timetable.title"];
+      $pageTitle = $lang["lang.timetable.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>

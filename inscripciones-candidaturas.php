@@ -5,7 +5,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "registrations-applications";
-      $title = $lang["lang.registrations-applications.title"];
+      $pageTitle = $lang["lang.registrations-applications.title"];
       require("include/head.php");
     ?>
   </head>

@@ -4,7 +4,7 @@ $lang = array(
 
   "lang.head.description" => "Freak Festival publiko guztientzat mahai-jokoak, rola, tailerrak, artisautza postuak eta gehiago eskaintzen dituen Vitoria-Gasteizeko aisialdi alternatiboko dohaineko ekitaldia da.",
   "lang.head.author" => "Valinor Kultura-Elkartea",
-  "lang.head.title.name" => "Freak Festival: Mahai-jokoak, Rola, Tailerrak eta Artisautza Vitoria-Gasteizen",
+  "lang.head.title" => "Freak Festival: Mahai-jokoak, Rola, Tailerrak eta Artisautza Vitoria-Gasteizen",
 
   "lang.header.festival" => "Freak Festival",
   "lang.header.home" => "Hasiera",

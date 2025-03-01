@@ -5,7 +5,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "hotels";
-      $title = $lang["lang.activities.hotels.title"];
+      $pageTitle = $lang["lang.activities.hotels.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
 

@@ -4,7 +4,7 @@ $lang = array(
 
   "lang.head.description" => "El Freak Festival es un evento gratuito de ocio alternativo de Vitoria-Gasteiz que acerca a todos los públicos juegos de mesa, rol, talleres, puestos de artesanía y más.",
   "lang.head.author" => "Asociación Cultural Valinor",
-  "lang.head.title.name" => "Freak Festival: Juegos de mesa, Rol, Talleres y Artesanía en Vitoria-Gasteiz",
+  "lang.head.title" => "Freak Festival: Juegos de mesa, Rol, Talleres y Artesanía en Vitoria-Gasteiz",
 
   "lang.header.festival" => "Freak Festival",
   "lang.header.home" => "Inicio",
