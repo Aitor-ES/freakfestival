@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta name="author" content="<?php echo $lang["lang.head.author"]; ?>">
-<meta name="theme-color" content="#191d38">
+<meta name="theme-color" content="#b92014">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary">
