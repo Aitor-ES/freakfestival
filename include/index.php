@@ -111,7 +111,7 @@
             <br>
             <?php echo $lang["lang.home.features.date.weekdays.sunday"]; ?>
           </p>
-          <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".horario-de-actividades"]; ?>.php">
+          <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".timetable"]; ?>.php">
             <?php echo $lang["lang.home.features.date.timetable"]; ?>
             <i class="bi bi-chevron-right ms-1"></i>
           </a>
@@ -143,7 +143,7 @@
           </div>
           <h3 class="mb-3"><?php echo $lang["lang.home.features.hotels.title"]; ?></h3>
           <p><?php echo $lang["lang.home.features.hotels.description"]; ?></p>
-          <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".donde-dormir"]; ?>.php">
+          <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".hotels"]; ?>.php">
             <?php echo $lang["lang.home.features.hotels.link"]; ?>
             <i class="bi bi-chevron-right ms-1"></i>
           </a>
