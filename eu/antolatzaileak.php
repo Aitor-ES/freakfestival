@@ -5,7 +5,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "organizers";
-      $title = $lang["lang.head.title.organizadores"];
+      $title = $lang["lang.organizers.valinor.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
   </head>

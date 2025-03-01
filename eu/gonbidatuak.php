@@ -5,7 +5,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "guests";
-      $title = $lang["lang.head.title.invitados"];
+      $title = $lang["lang.activities.guests.title"];
       require(__DIR__ . "/../include/head.php");
     ?>
 

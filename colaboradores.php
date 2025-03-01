@@ -5,7 +5,7 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "contributors";
-      $title = $lang["lang.head.title.colaboradores"];
+      $title = $lang["lang.contributors.title"];
       require("include/head.php");
     ?>
 

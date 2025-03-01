@@ -5,7 +5,6 @@
     <!-- Header tags and common CSS -->
     <?php
       $curPageName = "index";
-      $title = $lang["lang.head.title.index"];
       require("include/head.php");
     ?>
 
