@@ -1,9 +1,12 @@
 :root {
   --bs-body-font-family: "Inter", system-ui;
-  font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
+  font-feature-settings: 'liga' 1, 'calt' 1;
 }
+
 @supports (font-variation-settings: normal) {
-  :root { --bs-body-font-family: "InterVariable", system-ui; }
+  :root {
+    --bs-body-font-family: "InterVariable", system-ui;
+  }
 }
 
 .f-outfit {
@@ -14,7 +17,18 @@
   font-family: "Uncial Antiqua", "Inter", system-ui;
 }
 
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   --bs-heading-color: var(--bs-emphasis-color);
   font-family: "Outfit", "Inter", system-ui;
 }
@@ -48,4 +62,8 @@
   .ff-lead {
     font-size: 1.5rem;
   }
+}
+
+.ff-text-shadow {
+  text-shadow: 0px 2px 5px rgba(0, 0, 0, 1);
 }

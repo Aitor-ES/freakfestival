@@ -8,19 +8,41 @@
     --ff-glacier-rgb: 127, 205, 226;
     --ff-glacier-hover: #99d7e8;
     --ff-glacier-hover-rgb: 153, 215, 232;
+
+    --ff-sunlight: #f7c97f;
+    --ff-sunlight-rgb: 247, 201, 127;
+    --ff-sunlight-hover: #f9d499;
+    --ff-sunlight-hover-rgb: 249, 212, 153;
 }
 
 .ff-gutter {
     --bs-gutter-x: 3rem;
 }
 
-main a, main button, main input, main select, main textarea, main h2, main h3, main h4, main [tabindex="0"] {
+main a,
+main button,
+main input,
+main select,
+main textarea,
+main h2,
+main h3,
+main h4,
+main [tabindex="0"] {
     scroll-margin-top: 80px;
     scroll-margin-bottom: 100px;
 }
 
 @media (min-width: 992px) {
-    main a, main button, main input, main select, main textarea, main h2, main h3, main h4, main [tabindex="0"] {
+
+    main a,
+    main button,
+    main input,
+    main select,
+    main textarea,
+    main h2,
+    main h3,
+    main h4,
+    main [tabindex="0"] {
         scroll-margin-top: 140px;
     }
 }
@@ -47,7 +69,10 @@ main a, main button, main input, main select, main textarea, main h2, main h3, m
     vertical-align: -.125em;
 }
 
-.anchor-link:focus, .anchor-link:hover, :hover>.anchor-link, :target>.anchor-link {
+.anchor-link:focus,
+.anchor-link:hover,
+:hover>.anchor-link,
+:target>.anchor-link {
     color: var(--ff-scarlet);
     text-decoration: none;
     opacity: 1
