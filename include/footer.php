@@ -1,6 +1,8 @@
-<footer class="offcanvas-lg offcanvas-end bg-ffscarlet bg-gradient text-white text-center mt-lg-5 py-4 py-lg-5" data-bs-theme="dark" tabindex="-1" id="footer-offcanvas">
+<footer class="offcanvas-lg offcanvas-end bg-ffscarlet bg-gradient text-white text-center mt-lg-5 py-4 py-lg-5"
+  data-bs-theme="dark" tabindex="-1" id="footer-offcanvas">
   <div class="offcanvas-header text-light px-4">
-    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" data-bs-target="#footer-offcanvas" aria-label="Close"></button>
+    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" data-bs-target="#footer-offcanvas"
+      aria-label="Close"></button>
   </div>
   <div class="offcanvas-body px-4 px-lg-0">
     <div class="container">
@@ -13,24 +15,30 @@
           </div>
 
           <a href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php">
-            <img class="logo-valinor" src="/images/ui/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto" height="100">
+            <img class="logo-valinor" src="/images/ui/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto"
+              height="100">
           </a>
 
           <ul class="list-inline d-flex justify-content-between justify-content-lg-center column-gap-lg-3 mb-0">
             <li class="list-inline-item me-0">
-              <a class="icon-btn btn btn-lg btn-outline-light" href="mailto:info@freakfestival.es" target="_blank"><i class="bi bi-envelope-fill"></i></a>
+              <a class="icon-btn btn btn-lg btn-outline-light" href="mailto:info@freakfestival.es" target="_blank"><i
+                  class="bi bi-envelope-fill"></i></a>
             </li>
             <li class="list-inline-item me-0">
-              <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.instagram.com/asovalinor" target="_blank"><i class="bi bi-instagram"></i></a>
+              <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.instagram.com/asovalinor"
+                target="_blank"><i class="bi bi-instagram"></i></a>
             </li>
             <li class="list-inline-item me-0">
-              <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.facebook.com/asociacionvalinor" target="_blank"><i class="bi bi-facebook"></i></a>
+              <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.facebook.com/asociacionvalinor"
+                target="_blank"><i class="bi bi-facebook"></i></a>
             </li>
             <li class="list-inline-item me-0">
-              <a class="icon-btn btn btn-lg btn-outline-light" href="https://twitter.com/AsoValinor" target="_blank"><i class="bi bi-twitter-x"></i></a>
+              <a class="icon-btn btn btn-lg btn-outline-light" href="https://twitter.com/AsoValinor" target="_blank"><i
+                  class="bi bi-twitter-x"></i></a>
             </li>
             <li class="list-inline-item me-0">
-              <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.discord.com/invite/w4DQ2kZ9TV" target="_blank"><i class="bi bi-discord"></i></a>
+              <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.discord.com/invite/w4DQ2kZ9TV"
+                target="_blank"><i class="bi bi-discord"></i></a>
             </li>
           </ul>
         </div>
@@ -47,11 +55,14 @@
         <div class="col-12 col-lg-3 order-lg-first">
           <div class="row gy-5">
             <div class="col-4 col-lg-12">
-              <img class="logo-vg" src="/images/sponsors/vitoria-gasteiz-green-capital.svg" alt="" width="auto" height="45">
+              <img class="logo-vg" src="/images/sponsors/vitoria-gasteiz-green-capital.svg" alt="" width="auto"
+                height="45">
             </div>
 
             <div class="col-4 col-lg-12">
-              <img class="logo-vg" src="/images/sponsors/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt="" width="auto" height="45">
+              <img class="logo-vg"
+                src="/images/sponsors/ayuntamiento-de-vitoria-gasteiz-vitoria-gasteizko-udala-logo-vector.svg" alt=""
+                width="auto" height="45">
             </div>
           </div>
         </div>
@@ -62,4 +73,5 @@
 
 <!-- Common scripts -->
 <!-- Bootstrap JS bundle w/ Popper.js -->
-<script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
