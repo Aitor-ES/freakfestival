@@ -59,7 +59,7 @@
             <h3 class="mb-3"><?php echo $lang["lang.home.features.activities.title"]; ?></h3>
             <p><?php echo $lang["lang.home.features.activities.description"]; ?></p>
             <a class="btn btn-outline-ffscarlet rounded-pill"
-              href="<?php echo $links[$lang["lang"] . ".activities"]; ?>.php">
+              href="/<?php echo $links[$lang["lang"] . ".activities"]; ?>.php">
               <?php echo $lang["lang.home.features.activities.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>
@@ -73,7 +73,7 @@
             <h3 class="mb-3"><?php echo $lang["lang.home.features.contests.title"]; ?></h3>
             <p><?php echo $lang["lang.home.features.contests.description"]; ?></p>
             <a class="btn btn-outline-ffscarlet rounded-pill"
-              href="<?php echo $links[$lang["lang"] . ".contests"]; ?>.php">
+              href="/<?php echo $links[$lang["lang"] . ".contests"]; ?>.php">
               <?php echo $lang["lang.home.features.contests.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>
@@ -87,7 +87,7 @@
             <h3 class="mb-3"><?php echo $lang["lang.home.features.stands.title"]; ?></h3>
             <p><?php echo $lang["lang.home.features.stands.description"]; ?></p>
             <a class="btn btn-outline-ffscarlet rounded-pill"
-              href="<?php echo $links[$lang["lang"] . ".stands"]; ?>.php">
+              href="/<?php echo $links[$lang["lang"] . ".stands"]; ?>.php">
               <?php echo $lang["lang.home.features.stands.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>
@@ -101,7 +101,7 @@
             <h3 class="mb-3"><?php echo $lang["lang.home.features.guests.title"]; ?></h3>
             <p><?php echo $lang["lang.home.features.guests.description"]; ?></p>
             <a class="btn btn-outline-ffscarlet rounded-pill"
-              href="<?php echo $links[$lang["lang"] . ".guests"]; ?>.php">
+              href="/<?php echo $links[$lang["lang"] . ".guests"]; ?>.php">
               <?php echo $lang["lang.home.features.guests.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>
@@ -172,7 +172,7 @@
             <i class="bi bi-cup-straw fs-1 text-ffscarlet"></i>
             <h3 class="mb-3"><?php echo $lang["lang.home.info.food.title"]; ?></h3>
             <p><?php echo $lang["lang.home.info.food.description"]; ?></p>
-            <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links[$lang["lang"] . ".maps"]; ?>.php">
+            <a class="btn btn-outline-ffscarlet rounded-pill" href="/<?php echo $links[$lang["lang"] . ".maps"]; ?>.php">
               <?php echo $lang["lang.home.info.food.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>
@@ -186,7 +186,7 @@
             <h3 class="mb-3"><?php echo $lang["lang.home.info.hotels.title"]; ?></h3>
             <p><?php echo $lang["lang.home.info.hotels.description"]; ?></p>
             <a class="btn btn-outline-ffscarlet rounded-pill"
-              href="<?php echo $links[$lang["lang"] . ".hotels"]; ?>.php">
+              href="/<?php echo $links[$lang["lang"] . ".hotels"]; ?>.php">
               <?php echo $lang["lang.home.info.hotels.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>

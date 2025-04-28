@@ -4,7 +4,7 @@
       <i class="bi bi-list" style="font-size: 1.5rem;"></i>
     </button>
 
-    <a id="navbar-brand" class="navbar-brand p-0 mx-auto" href="index.php">
+    <a id="navbar-brand" class="navbar-brand p-0 mx-auto" href="/<?php echo $links[$lang["lang"] . ".index"]; ?>.php">
       <img src="/images/ui/logos/Letras_dado.png" id="navbar-brand-logo" class="my-2" alt="Freak Festival" width="40" height="40">
     </a>
 
@@ -14,7 +14,7 @@
 
     <div class="offcanvas offcanvas-start bg-ffscarlet bg-gradient d-lg-contents flex-grow-1" tabindex="-1" id="header-offcanvas" aria-labelledby="offcanvas-logo">
       <div class="offcanvas-header text-light px-4 pb-0">
-        <a href="index.php">
+        <a href="/<?php echo $links[$lang["lang"] . ".index"]; ?>.php">
           <img src="/images/ui/logos/Letras_dado.png" id="offcanvas-logo" alt="Freak Festival" width="60" height="60">
         </a>
 
@@ -37,31 +37,31 @@
               </a>
 
               <ul class="dropdown-menu" data-bs-theme="light" aria-labelledby="navbarDropdown-festival">
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".index"]; ?>.php"><?php echo $lang["lang.header.home"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".photos"]; ?>.php"><?php echo $lang["lang.header.photos"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".index"]; ?>.php"><?php echo $lang["lang.header.home"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".photos"]; ?>.php"><?php echo $lang["lang.header.photos"]; ?></a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
                 <li>
                   <h6 class="dropdown-header"><?php echo $lang["lang.header.info"]; ?></h6>
                 </li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".hotels"]; ?>.php"><?php echo $lang["lang.header.hotels"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".maps"]; ?>.php"><?php echo $lang["lang.header.maps"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".hotels"]; ?>.php"><?php echo $lang["lang.header.hotels"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".maps"]; ?>.php"><?php echo $lang["lang.header.maps"]; ?></a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
                 <li>
                   <h6 class="dropdown-header"><?php echo $lang["lang.header.about-us"]; ?></h6>
                 </li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".organizers"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".contributors"]; ?>.php"><?php echo $lang["lang.header.contributors"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".organizers"]; ?>.php"><?php echo $lang["lang.header.organizers"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".contributors"]; ?>.php"><?php echo $lang["lang.header.contributors"]; ?></a></li>
                 <!-- <li>
                   <hr class="dropdown-divider">
                 </li>
                 <li>
                   <h6 class="dropdown-header"><?php echo $lang["lang.header.editions.2025"]; ?></h6>
                 </li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".registrations-applications"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".registrations-applications"]; ?>.php"><?php echo $lang["lang.header.activities.registrations-applications"]; ?></a></li> -->
               </ul>
             </li>
 
@@ -74,16 +74,16 @@
               </a>
 
               <ul class="dropdown-menu" data-bs-theme="light" aria-labelledby="navbarDropdown-program">
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".activities"]; ?>.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".contests"]; ?>.php"><?php echo $lang["lang.header.contests"]; ?></a></li>
-                <li><a class="dropdown-item" href="<?php echo $links[$lang["lang"] . ".timetable"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".activities"]; ?>.php"><?php echo $lang["lang.header.activities"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".contests"]; ?>.php"><?php echo $lang["lang.header.contests"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".timetable"]; ?>.php"><?php echo $lang["lang.header.timetable"]; ?></a></li>
               </ul>
             </li>
 
             <!-- Puestos -->
             <li class="nav-item">
               <a class="nav-link text-uppercase text-start text-lg-center
-              <?php echo $curPageName == "stands" ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>" href="<?php echo $links[$lang["lang"] . ".stands"]; ?>.php">
+              <?php echo $curPageName == "stands" ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>" href="/<?php echo $links[$lang["lang"] . ".stands"]; ?>.php">
                 <?php echo $lang["lang.header.stands"]; ?>
               </a>
             </li>
@@ -91,7 +91,7 @@
             <!-- Invitados -->
             <li class="nav-item">
               <a class="nav-link text-uppercase text-start text-lg-center
-              <?php echo $curPageName == "guests" ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>" href="<?php echo $links[$lang["lang"] . ".guests"]; ?>.php">
+              <?php echo $curPageName == "guests" ? "fw-bold active\" aria-current=\"page" : "fw-semibold"; ?>" href="/<?php echo $links[$lang["lang"] . ".guests"]; ?>.php">
                 <?php echo $lang["lang.header.guests"]; ?>
               </a>
             </li>
@@ -110,7 +110,7 @@
 
             <!-- EU -->
             <li class="nav-item d-flex align-items-center">
-              <a class="nav-link text-uppercase fw-semibold" href="/eu/<?php echo $links["eu." . $curPageName]; ?>.php">EU</a>
+              <a class="nav-link text-uppercase fw-semibold" href="/<?php echo $links["eu." . $curPageName]; ?>.php">EU</a>
             </li>
           </ul>
         </div>

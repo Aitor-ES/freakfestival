@@ -14,7 +14,7 @@
             <strong class="f-outfit text-uppercase"><?php echo $lang["lang.footer.title"]; ?></strong>
           </div>
 
-          <a href="<?php echo $links[$lang["lang"] . ".organizers"]; ?>.php">
+          <a href="/<?php echo $links[$lang["lang"] . ".organizers"]; ?>.php">
             <img class="logo-valinor" src="/images/ui/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto"
               height="100">
           </a>
