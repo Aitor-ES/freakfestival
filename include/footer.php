@@ -11,10 +11,10 @@
           <div>
             <p><?php echo $lang["lang.footer.description"]; ?></p>
             <p><?php echo $lang["lang.footer.organized-by"]; ?></p>
-            <strong class="f-outfit text-uppercase"><?php echo $lang["lang.home.features.title"]; ?></strong>
+            <strong class="f-outfit text-uppercase"><?php echo $lang["lang.footer.title"]; ?></strong>
           </div>
 
-          <a href="<?php echo $links[$lang["lang"] . ".organizadores"]; ?>.php">
+          <a href="<?php echo $links[$lang["lang"] . ".organizers"]; ?>.php">
             <img class="logo-valinor" src="/images/ui/logos/logo_valinor_blanco.svg" alt="Freak Festival" width="auto"
               height="100">
           </a>

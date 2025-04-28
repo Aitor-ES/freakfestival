@@ -35,6 +35,7 @@ $lang = array(
   "lang.header.editions.2018" => "Freak Festival 2018",
   "lang.header.social.mail" => "Correo",
 
+  "lang.footer.title" => "Juega, Descubre, Crea",
   "lang.footer.description" => "Juegos de mesa, rol, talleres, puestos de artesanía, charlas, espectáculos, torneos, concursos y mucho más.",
   "lang.footer.organized-by" => "Organizado por la Asociación Cultural Valinor.",
   "lang.footer.organizers" => "Organizadores:",
