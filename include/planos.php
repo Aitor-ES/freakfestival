@@ -6,7 +6,7 @@
   <!-- Main Start -->
   <main class="container-md ff-gutter my-4 my-md-5">
     <div class="mb-5">
-      <h1 class="ff-title"><?php echo $lang["lang.maps.title"]; ?></h1>
+      <h1 class="ff-title"><?php echo $lang["lang.maps.title"]; ?> (2024)</h1>
     </div>
 
     <div class="row justify-content-center gy-5">
