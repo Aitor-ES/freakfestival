@@ -49,13 +49,7 @@
 
 #navbar-brand-logo {
     width: auto;
-    height: 32px;
-}
-
-@media (min-width: 992px) {
-    #navbar-brand-logo {
-        height: 40px;
-    }
+    height: 40px;
 }
 
 #offcanvas-logo {

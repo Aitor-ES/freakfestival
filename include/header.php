@@ -5,7 +5,7 @@
     </button>
 
     <a id="navbar-brand" class="navbar-brand p-0 mx-auto" href="/<?php echo $links[$lang["lang"] . ".index"]; ?>.php">
-      <img src="/images/ui/logos/Letras_dado.png" id="navbar-brand-logo" class="my-2" alt="Freak Festival" width="40" height="40">
+      <img src="/images/ui/logos/Sin_dado.png" id="navbar-brand-logo" class="my-1 my-lg-2" alt="Freak Festival" width="40" height="40">
     </a>
 
     <button id="navbar-toggler-footer" class="navbar-toggler d-lg-none p-2 border-0 shadow-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#footer-offcanvas" aria-controls="footer-offcanvas" aria-expanded="false" aria-label="Toggle footer">
