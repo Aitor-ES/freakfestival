@@ -12,6 +12,7 @@ $links = array(
   "es.organizers" => "organizadores",
   "es.contributors" => "colaboradores",
   "es.photos" => "fotos",
+  "es.posters" => "carteles",
 
   "eu.index" => "eu/index",
   "eu.activities" => "eu/jarduerak",
@@ -25,5 +26,6 @@ $links = array(
   "eu.organizers" => "eu/antolatzaileak",
   "eu.contributors" => "eu/laguntzaileak",
   "eu.photos" => "eu/argazkiak",
+  "eu.posters" => "eu/kartelak",
 );
 ?>

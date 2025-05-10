@@ -29,7 +29,7 @@
             <!-- Festival -->
             <li class="nav-item dropdown">
               <a class="nav-link text-uppercase text-start text-lg-center dropdown-toggle
-              <?php echo in_array($curPageName, ["index", "photos", "hotels", "maps", "organizers", "contributors", "inscripciones-candidaturas"])
+              <?php echo in_array($curPageName, ["index", "photos", "posters", "hotels", "maps", "organizers", "contributors", "inscripciones-candidaturas"])
                 ? "fw-bold active\" aria-current=\"page"
                 : "fw-semibold"; ?>"
                 href="#" id="navbarDropdown-festival" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -39,6 +39,7 @@
               <ul class="dropdown-menu" data-bs-theme="light" aria-labelledby="navbarDropdown-festival">
                 <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".index"]; ?>.php"><?php echo $lang["lang.header.home"]; ?></a></li>
                 <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".photos"]; ?>.php"><?php echo $lang["lang.header.photos"]; ?></a></li>
+                <li><a class="dropdown-item" href="/<?php echo $links[$lang["lang"] . ".posters"]; ?>.php"><?php echo $lang["lang.header.posters"]; ?></a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>

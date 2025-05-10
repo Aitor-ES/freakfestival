@@ -3,6 +3,7 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/m197082/freakfestival.es/
     - /bin/cp actividades.php $DEPLOYPATH
+    - /bin/cp carteles.php $DEPLOYPATH
     - /bin/cp colaboradores.php $DEPLOYPATH
     - /bin/cp concursos.php $DEPLOYPATH
     - /bin/cp donde-alojarse.php $DEPLOYPATH
