@@ -10,7 +10,7 @@
       <div class="container-md ff-gutter d-flex flex-column row-gap-5">
         <div class="row g-5">
           <div class="col-12 col-lg-4 d-flex justify-content-center align-items-center">
-            <img class="banner-logo" src="/images/ui/logos/Letras_dado_fecha.png" alt="Freak Festival" width="250"
+            <img class="banner-logo" src="/images/ui/logos/Letras_dado_fecha_borde.png" alt="Freak Festival" width="200"
               height="200">
           </div>
 
