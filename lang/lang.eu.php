@@ -21,6 +21,7 @@ $lang = array(
   "lang.header.guests.2023" => "Gonbidatuak 2023",
   "lang.header.more" => "Gehiago",
   "lang.header.photos" => "Argazkiak",
+  "lang.header.posters" => "Kartelak",
   "lang.header.info" => "Informazioa",
   "lang.header.hotels" => "Non lo egin",
   "lang.header.about-us" => "Guri buruz",
