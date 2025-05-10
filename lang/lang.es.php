@@ -529,7 +529,7 @@ $lang = array(
   "lang.photos.gallery.video" => "Vídeo",
 
   "lang.posters.title" => "Carteles",
-  "lang.posters.description" => "Los carteles del Freak Festival, la historia de cada edición del evento. Aquí encontrarás todos los carteles de las ediciones pasadas y la actual.",
+  "lang.posters.description" => "Los carteles del Freak Festival, la historia de cada edición del evento. Aquí encontrarás todos los carteles de las ediciones pasadas y la actual. ¡Haz clic para ampliar!",
   "lang.posters.2025.title" => "Freak Festival 2025",
   "lang.posters.2025.alt" => "Cartel del Freak Festival 2025",
   "lang.posters.2025.description" => "La ruina ha sido liberada. Aquel que una vez fue un valioso aliado de los pueblos de Lor, ahora arrasa la tierra con fuego, dejando tras de sí un rastro de cadáveres y desesperación. Ithot el Demente oscurece el cielo con su presencia, mientras sus huestes devoran los restos de la destrucción que va sembrando. Ahora ha tomado una de las torres de acceso de Vial nor, la prestigiosa academia de magia y solo Ekhamu, en su infinita picardía, sabe cuales pueden ser sus oscuras intenciones… ¿Podrán nuestros héroes detener al Demente y desvelar los pérfidos planes que lo guían… antes de que sea demasiado tarde?",

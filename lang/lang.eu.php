@@ -535,7 +535,7 @@ $lang = array(
   "lang.photos.gallery.video" => "Bideoa",
 
   "lang.posters.title" => "Kartelak",
-  "lang.posters.description" => "Freak Festival-aren kartelak, edizio bakoitzeko istorioa. Hemen aurreko eta aurtengo edizioetako kartel guztiak aurkituko dituzu.",
+  "lang.posters.description" => "Freak Festival-aren kartelak, edizio bakoitzeko istorioa. Hemen aurreko eta aurtengo edizioetako kartel guztiak aurkituko dituzu. Egin klik handitzeko!",
   "lang.posters.2025.title" => "Freak Festival 2025",
   "lang.posters.2025.alt" => "Freak Festival 2025 kartela",
   "lang.posters.2025.description" => "Hondamendia askatua izan da. Behin Lorreko herrien aliatu baliotsua izan zenak orain suz suntsitzen du lurra, bere atzean gorpu eta etsipen arrasto bat utziz. Ithot Zoroak bere presentziarekin zerua iluntzen du, bere armadak ereiten ari den suntsipenaren hondarrak irensten dituzten bitartean. Orain, Vial nor-en, magia-akademia ospetsua, sarbide-dorreetako bat hartu du, eta Ekhamuk bakarrik daki bere pikardia amaigabean zein izan daitezkeen bere asmo ilunak… Gure heroiek geldiaraziko al dute Zoroa eta agerian utziko al dituzte hura gidatzen duten plan zitalak… beranduegi izan baino lehen?",
