@@ -13,7 +13,7 @@
     <ul class="activities list-group list-group-flush">
       <!-- 2025 -->
       <li class="list-group-item">
-        <div class="row justify-content-center gy-4 gx-5">
+        <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2025-min.jpg" data-lightbox="gallery">
               <img class="rounded" src="/images/posters/cartel_2025_thumbnail-min.jpg" alt="<?php echo $lang["lang.posters.2025.alt"]; ?>" width="187" height="300">
@@ -32,7 +32,7 @@
 
       <!-- 2024 -->
       <li class="list-group-item">
-        <div class="row justify-content-center gy-4 gx-5">
+        <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2024-min.png" data-lightbox="gallery">
               <img class="rounded" src="/images/posters/cartel_2024_thumbnail-min.png" alt="<?php echo $lang["lang.posters.2024.alt"]; ?>" width="212" height="300">
@@ -51,7 +51,7 @@
 
       <!-- 2023 -->
       <li class="list-group-item">
-        <div class="row justify-content-center gy-4 gx-5">
+        <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2023-min.png" data-lightbox="gallery">
               <img class="rounded" src="/images/posters/cartel_2023_thumbnail-min.png" alt="<?php echo $lang["lang.posters.2023.alt"]; ?>" width="212" height="300">
@@ -70,7 +70,7 @@
 
       <!-- 2022 -->
       <li class="list-group-item">
-        <div class="row justify-content-center gy-4 gx-5">
+        <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2022.svg" data-lightbox="gallery">
               <img class="rounded" src="/images/posters/cartel_2022.svg" alt="<?php echo $lang["lang.posters.2022.alt"]; ?>" width="212" height="300">
