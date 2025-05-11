@@ -20,6 +20,7 @@
 <meta property="og:title" content="<?php echo $title; ?>">
 <meta property="og:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta property='og:site_name' content="Freak Festival">
+<meta property="og:locale" content="<?php echo $lang["lang"]; ?>_ES" />
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://freakfestival.es/images/ui/banner_square-min.jpg">
 <meta property="og:image:alt" content="Freak Festival">
