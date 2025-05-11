@@ -169,7 +169,7 @@
         <!-- Food -->
         <div class="col">
           <div class="h-100 bg-ffscarlet-10 bg-gradient rounded-4 p-4">
-            <i class="bi bi-cup-straw fs-1 text-ffscarlet"></i>
+            <i class="bi bi-fork-knife fs-1 text-ffscarlet"></i>
             <h3 class="mb-3"><?php echo $lang["lang.home.info.food.title"]; ?></h3>
             <p><?php echo $lang["lang.home.info.food.description"]; ?></p>
             <a class="btn btn-outline-ffscarlet rounded-pill" href="/<?php echo $links[$lang["lang"] . ".maps"]; ?>.php">
