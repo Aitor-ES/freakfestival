@@ -35,10 +35,20 @@
                 <i class="bi bi-diamond me-2"></i><?php echo $lang["lang.home.banner.paragraph.3"]; ?>
               </li>
             </ul>
-            <p
-              class="rounded-pill border border-3 border-ffsunlight text-ffsunlight text-uppercase fw-semibold ff-text-shadow fs-5 py-3 px-4">
-              <?php echo $lang["lang.home.banner.entrance"]; ?>
-            </p>
+            <div class="row row-cols-auto g-4">
+              <div class="col">
+                <p
+                  class="rounded-pill border border-3 border-ffsunlight text-ffsunlight text-uppercase fw-semibold ff-text-shadow fs-5 py-3 px-4">
+                  <?php echo $lang["lang.home.banner.entrance"]; ?>
+                </p>
+              </div>
+              <div class="col">
+                <a class="btn btn-lg btn-ffsunlight rounded-pill border-3 text-uppercase fw-semibold py-3 px-4"
+                  href="https://forms.gle/Z7N7NZj59DWfs2VU6" target="_blank">
+                  <?php echo $lang["lang.home.banner.contribute"]; ?>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

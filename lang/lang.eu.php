@@ -49,6 +49,7 @@ $lang = array(
   "lang.home.banner.title" => "Jokatu, Ezagutu, Sortu",
   "lang.home.banner.location" => "Vitoria-Gasteiz",
   "lang.home.banner.entrance" => "Dohaineko sarrera",
+  "lang.home.banner.contribute" => "Lagundu",
   "lang.home.banner.date" => "Urriak 17, 18, 19",
   "lang.home.banner.paragraph.1" => "Parte hartu Euskadiko aisialdi ludikoko dohaineko jaialdi handienean",
   "lang.home.banner.paragraph.2" => "Ondo pasa zure familia eta lagunekin 3 egunetan zehar",

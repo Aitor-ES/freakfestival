@@ -50,6 +50,7 @@ $lang = array(
   "lang.home.banner.title" => "Juega, Descubre, Crea",
   "lang.home.banner.location" => "Vitoria-Gasteiz",
   "lang.home.banner.entrance" => "Entrada gratuita",
+  "lang.home.banner.contribute" => "Colabora",
   "lang.home.banner.date" => "17, 18, 19 de octubre",
   "lang.home.banner.paragraph.1" => "Participa en el mayor festival gratuito de ocio lúdico del País Vasco",
   "lang.home.banner.paragraph.2" => "Disfruta con tu familia y amigos de 3 días de diversión",
