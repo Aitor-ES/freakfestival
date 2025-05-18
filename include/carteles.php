@@ -16,14 +16,16 @@
         <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2025-min.jpg" data-lightbox="gallery">
-              <img class="rounded" src="/images/posters/cartel_2025_thumbnail-min.jpg" alt="<?php echo $lang["lang.posters.2025.alt"]; ?>" width="187" height="300">
+              <img class="rounded" src="/images/posters/cartel_2025_thumbnail-min.jpg"
+                alt="<?php echo $lang["lang.posters.2025.alt"]; ?>" width="187" height="300">
             </a>
           </div>
 
           <div class="col-12 col-lg-6">
             <h2 class="mb-4"><?php echo $lang["lang.posters.2025.title"]; ?></h2>
             <p><?php echo $lang["lang.posters.2025.description"]; ?></p>
-            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/DI3-fPkt4EK/" target="_blank">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/DI3-fPkt4EK/"
+              target="_blank">
               <i class="bi bi-instagram"></i>
             </a>
           </div>
@@ -35,14 +37,16 @@
         <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2024-min.png" data-lightbox="gallery">
-              <img class="rounded" src="/images/posters/cartel_2024_thumbnail-min.png" alt="<?php echo $lang["lang.posters.2024.alt"]; ?>" width="212" height="300">
+              <img class="rounded" src="/images/posters/cartel_2024_thumbnail-min.png"
+                alt="<?php echo $lang["lang.posters.2024.alt"]; ?>" width="212" height="300">
             </a>
           </div>
 
           <div class="col-12 col-lg-6">
             <h2 class="mb-4"><?php echo $lang["lang.posters.2024.title"]; ?></h2>
             <p><?php echo $lang["lang.posters.2024.description"]; ?></p>
-            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/C6duqgQKiGc/" target="_blank">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/C6duqgQKiGc/"
+              target="_blank">
               <i class="bi bi-instagram"></i>
             </a>
           </div>
@@ -54,14 +58,16 @@
         <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2023-min.png" data-lightbox="gallery">
-              <img class="rounded" src="/images/posters/cartel_2023_thumbnail-min.png" alt="<?php echo $lang["lang.posters.2023.alt"]; ?>" width="212" height="300">
+              <img class="rounded" src="/images/posters/cartel_2023_thumbnail-min.png"
+                alt="<?php echo $lang["lang.posters.2023.alt"]; ?>" width="212" height="300">
             </a>
           </div>
 
           <div class="col-12 col-lg-6">
             <h2 class="mb-4"><?php echo $lang["lang.posters.2023.title"]; ?></h2>
             <p><?php echo $lang["lang.posters.2023.description"]; ?></p>
-            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/Cq8gOnQvy3i/" target="_blank">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/Cq8gOnQvy3i/"
+              target="_blank">
               <i class="bi bi-instagram"></i>
             </a>
           </div>
@@ -73,14 +79,16 @@
         <div class="row justify-content-center g-5">
           <div class="col-12 col-lg-4 text-center">
             <a href="/images/posters/cartel_2022.svg" data-lightbox="gallery">
-              <img class="rounded" src="/images/posters/cartel_2022.svg" alt="<?php echo $lang["lang.posters.2022.alt"]; ?>" width="212" height="300">
+              <img class="rounded" src="/images/posters/cartel_2022.svg"
+                alt="<?php echo $lang["lang.posters.2022.alt"]; ?>" width="212" height="300">
             </a>
           </div>
 
           <div class="col-12 col-lg-6">
             <h2 class="mb-4"><?php echo $lang["lang.posters.2022.title"]; ?></h2>
             <p><?php echo $lang["lang.posters.2022.description"]; ?></p>
-            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/Cdd2ieDtcgu/" target="_blank">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/p/Cdd2ieDtcgu/"
+              target="_blank">
               <i class="bi bi-instagram"></i>
             </a>
           </div>

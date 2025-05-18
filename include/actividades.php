@@ -103,12 +103,14 @@
     <ul class="activities list-group list-group-flush">
       <?php foreach ($activities as $activity) { ?>
         <li class="list-group-item activity-container <?php echo "type-$activity->type ";
-                                                      if (property_exists($activity, 'timetable')) {
-                                                        foreach ($activity->timetable as $dayTime) echo "date-$dayTime->day ";
-                                                      } else {
-                                                        echo "date-continuous ";
-                                                      }
-                                                      echo "lang-$activity->lang"; ?>">
+        if (property_exists($activity, 'timetable')) {
+          foreach ($activity->timetable as $dayTime) {
+            echo "date-$dayTime->day ";
+          }
+        } else {
+          echo "date-continuous ";
+        }
+        echo "lang-$activity->lang"; ?>">
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
@@ -157,16 +159,20 @@
                 <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-people fs-2 text-ffscarlet"></i>
                   <?php $participants = $activity->participants;
-                  if (is_numeric($participants)) echo "$participants {$lang["lang.activities.participants"]}";
-                  else echo $lang["lang.activities.participants.$participants"]; ?>
+                  if (is_numeric($participants))
+                    echo "$participants {$lang["lang.activities.participants"]}";
+                  else
+                    echo $lang["lang.activities.participants.$participants"]; ?>
                 </div>
 
                 <!-- Activity age -->
                 <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-person-check fs-2 text-ffscarlet"></i>
                   <?php $age = $activity->age;
-                  if (is_numeric($age)) echo "+$age {$lang["lang.activities.age.years-old"]}";
-                  else echo $lang["lang.activities.age.$age"]; ?>
+                  if (is_numeric($age))
+                    echo "+$age {$lang["lang.activities.age.years-old"]}";
+                  else
+                    echo $lang["lang.activities.age.$age"]; ?>
                 </div>
 
                 <!-- Activity language -->

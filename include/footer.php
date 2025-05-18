@@ -21,24 +21,32 @@
 
           <ul class="list-inline d-flex justify-content-between justify-content-lg-center column-gap-lg-3 mb-0">
             <li class="list-inline-item me-0">
-              <a class="icon-btn btn btn-lg btn-outline-light" href="mailto:info@freakfestival.es" target="_blank"><i
-                  class="bi bi-envelope-fill"></i></a>
+              <a class="icon-btn btn btn-lg btn-outline-light" href="mailto:info@freakfestival.es" target="_blank">
+                <i class="bi bi-envelope-fill"></i>
+              </a>
             </li>
             <li class="list-inline-item me-0">
               <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.instagram.com/asovalinor"
-                target="_blank"><i class="bi bi-instagram"></i></a>
+                target="_blank">
+                <i class="bi bi-instagram"></i>
+              </a>
             </li>
             <li class="list-inline-item me-0">
               <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.facebook.com/asociacionvalinor"
-                target="_blank"><i class="bi bi-facebook"></i></a>
+                target="_blank">
+                <i class="bi bi-facebook"></i>
+              </a>
             </li>
             <li class="list-inline-item me-0">
-              <a class="icon-btn btn btn-lg btn-outline-light" href="https://twitter.com/AsoValinor" target="_blank"><i
-                  class="bi bi-twitter-x"></i></a>
+              <a class="icon-btn btn btn-lg btn-outline-light" href="https://twitter.com/AsoValinor" target="_blank">
+                <i class="bi bi-twitter-x"></i>
+              </a>
             </li>
             <li class="list-inline-item me-0">
               <a class="icon-btn btn btn-lg btn-outline-light" href="https://www.discord.com/invite/w4DQ2kZ9TV"
-                target="_blank"><i class="bi bi-discord"></i></a>
+                target="_blank">
+                <i class="bi bi-discord"></i>
+              </a>
             </li>
           </ul>
         </div>

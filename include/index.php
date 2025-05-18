@@ -182,7 +182,8 @@
             <i class="bi bi-fork-knife fs-1 text-ffscarlet"></i>
             <h3 class="mb-3"><?php echo $lang["lang.home.info.food.title"]; ?></h3>
             <p><?php echo $lang["lang.home.info.food.description"]; ?></p>
-            <a class="btn btn-outline-ffscarlet rounded-pill" href="/<?php echo $links[$lang["lang"] . ".maps"]; ?>.php">
+            <a class="btn btn-outline-ffscarlet rounded-pill"
+              href="/<?php echo $links[$lang["lang"] . ".maps"]; ?>.php">
               <?php echo $lang["lang.home.info.food.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>

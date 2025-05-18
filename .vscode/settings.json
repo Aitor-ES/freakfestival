@@ -1,12 +1,12 @@
 {
-    "editor.formatOnSave": true,
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": true,
-    "html.format.indentInnerHtml": true,
-    "html.format.templating": true,
-    "html.format.wrapAttributes": "auto",
-    "[php]": {
-        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
-    },
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.templating": true,
+  "html.format.wrapAttributes": "auto",
+  "[php]": {
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  },
 }

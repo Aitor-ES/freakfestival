@@ -1,17 +1,17 @@
 .filters.list-group-flush>.list-group-item {
-    --bs-list-group-item-padding-y: 1.5rem;
-    --bs-list-group-item-padding-x: 0;
+  --bs-list-group-item-padding-y: 1.5rem;
+  --bs-list-group-item-padding-x: 0;
 }
 
 .filters.list-group-flush>.list-group-item:first-child {
-    padding-top: 0;
+  padding-top: 0;
 }
 
 .filters.list-group-flush>.list-group-item:last-child {
-    padding-bottom: 0;
+  padding-bottom: 0;
 }
 
 .activities.list-group-flush>.list-group-item {
-    --bs-list-group-item-padding-y: 3rem;
-    --bs-list-group-item-padding-x: 0;
+  --bs-list-group-item-padding-y: 3rem;
+  --bs-list-group-item-padding-x: 0;
 }

@@ -1,22 +1,22 @@
 :root {
-    --ff-scarlet: #b92014;
-    --ff-scarlet-rgb: 185, 32, 20;
-    --ff-scarlet-hover: #941a10;
-    --ff-scarlet-hover-rgb: 148, 26, 16;
+  --ff-scarlet: #b92014;
+  --ff-scarlet-rgb: 185, 32, 20;
+  --ff-scarlet-hover: #941a10;
+  --ff-scarlet-hover-rgb: 148, 26, 16;
 
-    --ff-glacier: #7fcde2;
-    --ff-glacier-rgb: 127, 205, 226;
-    --ff-glacier-hover: #99d7e8;
-    --ff-glacier-hover-rgb: 153, 215, 232;
+  --ff-glacier: #7fcde2;
+  --ff-glacier-rgb: 127, 205, 226;
+  --ff-glacier-hover: #99d7e8;
+  --ff-glacier-hover-rgb: 153, 215, 232;
 
-    --ff-sunlight: #f7c97f;
-    --ff-sunlight-rgb: 247, 201, 127;
-    --ff-sunlight-hover: #f9d499;
-    --ff-sunlight-hover-rgb: 249, 212, 153;
+  --ff-sunlight: #f7c97f;
+  --ff-sunlight-rgb: 247, 201, 127;
+  --ff-sunlight-hover: #f9d499;
+  --ff-sunlight-hover-rgb: 249, 212, 153;
 }
 
 .ff-gutter {
-    --bs-gutter-x: 3rem;
+  --bs-gutter-x: 3rem;
 }
 
 main a,
@@ -28,52 +28,52 @@ main h2,
 main h3,
 main h4,
 main [tabindex="0"] {
-    scroll-margin-top: 80px;
-    scroll-margin-bottom: 100px;
+  scroll-margin-top: 80px;
+  scroll-margin-bottom: 100px;
 }
 
 @media (min-width: 992px) {
 
-    main a,
-    main button,
-    main input,
-    main select,
-    main textarea,
-    main h2,
-    main h3,
-    main h4,
-    main [tabindex="0"] {
-        scroll-margin-top: 140px;
-    }
+  main a,
+  main button,
+  main input,
+  main select,
+  main textarea,
+  main h2,
+  main h3,
+  main h4,
+  main [tabindex="0"] {
+    scroll-margin-top: 140px;
+  }
 }
 
 .anchor-link {
-    padding: 0 .175rem;
-    font-weight: 400;
-    color: rgba(var(--ff-scarlet-rgb), 0.5);
-    text-decoration: none;
-    opacity: 0;
-    transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
+  padding: 0 .175rem;
+  font-weight: 400;
+  color: rgba(var(--ff-scarlet-rgb), 0.5);
+  text-decoration: none;
+  opacity: 0;
+  transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .anchor-link {
-        transition: none
-    }
+  .anchor-link {
+    transition: none
+  }
 }
 
 .anchor-link::after {
-    font-family: bootstrap-icons !important;
-    content: "\f471";
-    line-height: 1;
-    vertical-align: -.125em;
+  font-family: bootstrap-icons !important;
+  content: "\f471";
+  line-height: 1;
+  vertical-align: -.125em;
 }
 
 .anchor-link:focus,
 .anchor-link:hover,
 :hover>.anchor-link,
 :target>.anchor-link {
-    color: var(--ff-scarlet);
-    text-decoration: none;
-    opacity: 1
+  color: var(--ff-scarlet);
+  text-decoration: none;
+  opacity: 1
 }

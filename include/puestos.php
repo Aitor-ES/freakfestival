@@ -16,7 +16,8 @@
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
-              <img class="stand-logo" src="/images/contributors/<?php echo $stand->logo; ?>" alt="<?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>" width="200" height="200">
+              <img class="stand-logo" src="/images/contributors/<?php echo $stand->logo; ?>"
+                alt="<?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>" width="200" height="200">
             </div>
 
             <!-- Activity main content -->
@@ -24,7 +25,8 @@
               <!-- Activity title -->
               <h2 id="<?php echo $stand->name; ?>">
                 <?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>
-                <a class="anchor-link" href="#<?php echo $stand->name; ?>" aria-label="Link to this section: <?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>"></a>
+                <a class="anchor-link" href="#<?php echo $stand->name; ?>"
+                  aria-label="Link to this section: <?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>"></a>
               </h2>
 
               <!-- Activity type -->
@@ -36,28 +38,55 @@
               <!-- Activity links -->
               <ul class="list-inline">
                 <?php if (property_exists($stand, 'web')) { ?>
-                  <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->web; ?>" target="_blank"><i class="bi bi-globe"></i></a></li>
+                  <li class="list-inline-item">
+                    <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->web; ?>" target="_blank">
+                      <i class="bi bi-globe"></i>
+                    </a>
+                  </li>
                 <?php } ?>
 
                 <?php if (property_exists($stand, 'instagram')) {
                   foreach ($stand->instagram as $instagram) { ?>
-                  <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $instagram; ?>" target="_blank"><i class="bi bi-instagram"></i></a></li>
-                <?php } } ?>
+                    <li class="list-inline-item">
+                      <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $instagram; ?>" target="_blank">
+                        <i class="bi bi-instagram"></i>
+                      </a>
+                    </li>
+                  <?php }
+                } ?>
 
                 <?php if (property_exists($stand, 'facebook')) { ?>
-                  <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->facebook; ?>" target="_blank"><i class="bi bi-facebook"></i></a></li>
+                  <li class="list-inline-item">
+                    <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->facebook; ?>"
+                      target="_blank">
+                      <i class="bi bi-facebook"></i>
+                    </a>
+                  </li>
                 <?php } ?>
 
                 <?php if (property_exists($stand, 'x')) { ?>
-                  <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->x; ?>" target="_blank"><i class="bi bi-twitter-x"></i></a></li>
+                  <li class="list-inline-item">
+                    <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->x; ?>" target="_blank">
+                      <i class="bi bi-twitter-x"></i>
+                    </a>
+                  </li>
                 <?php } ?>
 
                 <?php if (property_exists($stand, 'tiktok')) { ?>
-                  <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->tiktok; ?>" target="_blank"><i class="bi bi-tiktok"></i></a></li>
+                  <li class="list-inline-item">
+                    <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->tiktok; ?>"
+                      target="_blank">
+                      <i class="bi bi-tiktok"></i>
+                    </a>
+                  </li>
                 <?php } ?>
 
                 <?php if (property_exists($stand, 'discord')) { ?>
-                  <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->x; ?>" target="_blank"><i class="bi bi-discord"></i></a></li>
+                  <li class="list-inline-item">
+                    <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->x; ?>" target="_blank">
+                      <i class="bi bi-discord"></i>
+                    </a>
+                  </li>
                 <?php } ?>
               </ul>
             </div>

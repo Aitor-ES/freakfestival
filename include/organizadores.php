@@ -20,7 +20,8 @@
       </div>
 
       <div class="col-12 col-lg-5 text-center">
-        <img class="rounded-4" src="/images/ui/valinor_freak_festival-min.JPG" alt="Freak Festival" width="auto" height="200">
+        <img class="rounded-4" src="/images/ui/valinor_freak_festival-min.JPG" alt="Freak Festival" width="auto"
+          height="200">
       </div>
 
       <div class="col-12 col-lg-7">
@@ -29,7 +30,8 @@
       </div>
 
       <div class="col-12 col-lg-5 text-center">
-        <img class="rounded-4" src="/images/ui/valinor_juegos_de_mesa-min.jpg" alt="Juegos de mesa" width="auto" height="200">
+        <img class="rounded-4" src="/images/ui/valinor_juegos_de_mesa-min.jpg" alt="Juegos de mesa" width="auto"
+          height="200">
       </div>
 
       <div class="col-12 col-lg-7">
@@ -46,11 +48,35 @@
         <p><?php echo $lang["lang.organizers.valinor.join.description"]; ?></p>
 
         <ul class="list-inline">
-          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="mailto:asociacionvalinor@gmail.com" target="_blank"><i class="bi bi-envelope-fill"></i></a></li>
-          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/asovalinor" target="_blank"><i class="bi bi-instagram"></i></a></li>
-          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.facebook.com/asociacionvalinor" target="_blank"><i class="bi bi-facebook"></i></a></li>
-          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://twitter.com/AsoValinor" target="_blank"><i class="bi bi-twitter-x"></i></a></li>
-          <li class="list-inline-item"><a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.discord.com/invite/w4DQ2kZ9TV" target="_blank"><i class="bi bi-discord"></i></a></li>
+          <li class="list-inline-item">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="mailto:asociacionvalinor@gmail.com"
+              target="_blank">
+              <i class="bi bi-envelope-fill"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.instagram.com/asovalinor"
+              target="_blank">
+              <i class="bi bi-instagram"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.facebook.com/asociacionvalinor"
+              target="_blank">
+              <i class="bi bi-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://twitter.com/AsoValinor" target="_blank">
+              <i class="bi bi-twitter-x"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="https://www.discord.com/invite/w4DQ2kZ9TV"
+              target="_blank">
+              <i class="bi bi-discord"></i>
+            </a>
+          </li>
         </ul>
       </div>
 

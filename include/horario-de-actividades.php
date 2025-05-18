@@ -13,7 +13,8 @@
           <?php echo $lang["lang.timetable.download-timetable"]; ?>
         </a>
 
-        <a class="btn btn-outline-ffscarlet w-100 w-lg-auto" href="https://drive.google.com/drive/folders/1YTU8JnlwXyX6uIaIsA5PFKwOoXLbZ2E5?usp=drive_link" role="button">
+        <a class="btn btn-outline-ffscarlet w-100 w-lg-auto"
+          href="https://drive.google.com/drive/folders/1YTU8JnlwXyX6uIaIsA5PFKwOoXLbZ2E5?usp=drive_link" role="button">
           <?php echo $lang["lang.timetable.download-list"]; ?>
         </a>
       </div>

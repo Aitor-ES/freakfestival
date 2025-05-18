@@ -6,6 +6,8 @@
   --bs-link-color-rgb: var(--ff-scarlet-hover-rgb);
 }
 
-.icon-link>.bi::before, .icon-link>[class*=" bi-"]::before, .icon-link>[class^=bi-]::before {
+.icon-link>.bi::before,
+.icon-link>[class*=" bi-"]::before,
+.icon-link>[class^=bi-]::before {
   vertical-align: 0;
 }
