@@ -1,6 +1,6 @@
 <body>
   <!-- Navbar Start -->
-  <?php include("header.php"); ?>
+  <?php include "header.php"; ?>
   <!-- Navbar End -->
 
   <!-- Main Start -->
@@ -23,15 +23,15 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2024/min/Viernes/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2024/thumbnails/Viernes/<?php echo $file->getFilename(); ?>" alt="" width="auto"
-                height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2024/min/Viernes/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2024/thumbnails/Viernes/<?php echo $file->getFilename(); ?>" alt="" width="auto"
+                  height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -44,15 +44,15 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2024/min/Sábado/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2024/thumbnails/Sábado/<?php echo $file->getFilename(); ?>" alt="" width="auto"
-                height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2024/min/Sábado/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2024/thumbnails/Sábado/<?php echo $file->getFilename(); ?>" alt="" width="auto"
+                  height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -65,15 +65,15 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2024/min/Domingo/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2024/thumbnails/Domingo/<?php echo $file->getFilename(); ?>" alt="" width="auto"
-                height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2024/min/Domingo/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2024/thumbnails/Domingo/<?php echo $file->getFilename(); ?>" alt="" width="auto"
+                  height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
     </div>
@@ -91,16 +91,16 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2023/min/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
-              data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2023/thumbnails/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
-                alt="" width="auto" height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2023/min/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
+                data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2023/thumbnails/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
+                  alt="" width="auto" height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -113,15 +113,15 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2023/min/Actividades/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2023/thumbnails/Actividades/<?php echo $file->getFilename(); ?>" alt="" width="auto"
-                height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2023/min/Actividades/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2023/thumbnails/Actividades/<?php echo $file->getFilename(); ?>" alt="" width="auto"
+                  height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -134,15 +134,15 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2023/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2023/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto"
-                height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2023/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2023/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto"
+                  height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
     </div>
@@ -158,14 +158,14 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2022/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1" src="/images/photos/2022/thumbnails/<?php echo $file->getFilename(); ?>"
-                alt="" width="auto" height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2022/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1" src="/images/photos/2022/thumbnails/<?php echo $file->getFilename(); ?>"
+                  alt="" width="auto" height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -178,16 +178,16 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2022/min/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
-              data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2022/thumbnails/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
-                alt="" width="auto" height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2022/min/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
+                data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2022/thumbnails/Puestos, colaboradores e invitados/<?php echo $file->getFilename(); ?>"
+                  alt="" width="auto" height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -200,15 +200,15 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2022/min/Actividades/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2022/thumbnails/Actividades/<?php echo $file->getFilename(); ?>" alt="" width="auto"
-                height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2022/min/Actividades/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2022/thumbnails/Actividades/<?php echo $file->getFilename(); ?>" alt="" width="auto"
+                  height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -221,15 +221,15 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2022/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1"
-                src="/images/photos/2022/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto"
-                height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2022/min/Cosplay/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1"
+                  src="/images/photos/2022/thumbnails/Cosplay/<?php echo $file->getFilename(); ?>" alt="" width="auto"
+                  height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
 
@@ -253,14 +253,14 @@
             continue;
           ?>
 
-          <div class="col-auto">
-            <a href="/images/photos/2018/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
-              <img class="border rounded p-1" src="/images/photos/2018/thumbnails/<?php echo $file->getFilename(); ?>"
-                alt="" width="auto" height="100px">
-            </a>
-          </div>
+            <div class="col-auto">
+              <a href="/images/photos/2018/min/<?php echo $file->getFilename(); ?>" data-lightbox="gallery">
+                <img class="border rounded p-1" src="/images/photos/2018/thumbnails/<?php echo $file->getFilename(); ?>"
+                  alt="" width="auto" height="100px">
+              </a>
+            </div>
 
-          <?php
+            <?php
         } ?>
       </div>
     </div>
@@ -268,7 +268,7 @@
   <!-- Main End -->
 
   <!-- Footer Start -->
-  <?php include("footer.php"); ?>
+  <?php include "footer.php"; ?>
   <!-- Footer End -->
 
   <!-- Lightbox2 JS -->

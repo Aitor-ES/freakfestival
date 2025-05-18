@@ -1,5 +1,5 @@
 <?php
-$lang = array(
+$lang = [
   "lang" => "es",
 
   "lang.head.description" => "El Freak Festival es un evento gratuito de ocio lúdico para todos los públicos en Vitoria-Gasteiz, con juegos de mesa, rol, talleres de manualidades y mucho más.",
@@ -543,4 +543,4 @@ $lang = array(
   "lang.posters.2022.title" => "Freak Festival 2022",
   "lang.posters.2022.alt" => "Cartel del Freak Festival 2022",
   "lang.posters.2022.description" => "¡Y al fin tenemos el placer de presentaros el cartel del Freak Festival de este año 2022! Con una temática más centrada en el rol de mesa, pero sin dejar de lado los clásicos, os traemos una edición fresca y divertida. Para estar al tanto de todos los detalles podéis acceder tanto a nuestra web como a cualquiera de nuestras redes sociales a través del QR de la imagen. ¡Recordad, el 25 y 26 de junio en el Palacio de Congresos Europa!",
-);
+];

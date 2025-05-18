@@ -1,5 +1,5 @@
 <?php
-$lang = array(
+$lang = [
   "lang" => "eu",
 
   "lang.head.description" => "Freak Festival Vitoria-Gasteizeko publiko guztientzako aisialdi ludikoko dohaineko ekitaldia da, mahai-joko, rol, eskulan tailer eta askoz gehiagorekin.",
@@ -550,4 +550,4 @@ $lang = array(
   "lang.posters.2022.title" => "Freak Festival 2022",
   "lang.posters.2022.alt" => "Freak Festival 2022 kartela",
   "lang.posters.2022.description" => "Eta, azkenean, atsegin handiz aurkeztuko dizuegu 2022ko Freak Festivaleko kartela! Aurten gaia mahai rolean zentratu dugu, baina klasikoak alde batera utzi gabe, edizio fresko eta dibertigarria dakarkizuegu. Xehetasun guztien berri izateko, gure webgunera sartu zein gure sare sozialetara jo dezakezue irudiaren QR-aren bidez. Gogoratu, ekainaren 25 eta 26an Europa Biltzar Jauregian!",
-);
+];

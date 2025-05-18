@@ -1,4 +1,4 @@
-<?php require_once("links.php"); ?>
+<?php require_once "links.php"; ?>
 
 <?php $title = isset($pageTitle) ? $pageTitle . " · " . $lang["lang.head.title"] : $lang["lang.head.title"]; ?>
 

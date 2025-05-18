@@ -1,6 +1,6 @@
 <body>
   <!-- Navbar Start -->
-  <?php include("header.php"); ?>
+  <?php include "header.php"; ?>
   <!-- Navbar End -->
 
   <!-- Main Start -->
@@ -99,7 +99,7 @@
   <!-- Main End -->
 
   <!-- Footer Start -->
-  <?php include("footer.php"); ?>
+  <?php include "footer.php"; ?>
   <!-- Footer End -->
 
   <!-- Lightbox2 JS -->

@@ -1,4 +1,4 @@
-<?php require_once("lang/lang.es.php"); ?>
+<?php require_once "lang/lang.es.php"; ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang["lang"]; ?>">
 
@@ -7,13 +7,13 @@
     <?php
     $curPageName = "contributors";
     $pageTitle = $lang["lang.contributors.title"];
-    require("include/head.php");
+    require "include/head.php";
     ?>
 
     <!-- Page CSS -->
     <link href="/styles/colaboradores.css" rel="stylesheet">
   </head>
 
-  <?php require("include/colaboradores.php"); ?>
+  <?php require "include/colaboradores.php"; ?>
 
 </html>

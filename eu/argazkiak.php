@@ -1,4 +1,4 @@
-<?php require_once(__DIR__ . "/../lang/lang.eu.php"); ?>
+<?php require_once __DIR__ . "/../lang/lang.eu.php"; ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang["lang"]; ?>">
 
@@ -7,7 +7,7 @@
     <?php
     $curPageName = "photos";
     $pageTitle = $lang["lang.photos.title"];
-    require(__DIR__ . "/../include/head.php");
+    require __DIR__ . "/../include/head.php";
     ?>
 
     <!-- Lightbox2 library -->
@@ -17,6 +17,6 @@
     <link href="/styles/fotos.css" rel="stylesheet">
   </head>
 
-  <?php require(__DIR__ . "/../include/fotos.php"); ?>
+  <?php require __DIR__ . "/../include/fotos.php"; ?>
 
 </html>

@@ -1,5 +1,5 @@
 <?php
-$links = array(
+$links = [
   "es.index" => "index",
   "es.activities" => "actividades",
   "es.timetable" => "horario-de-actividades",
@@ -27,5 +27,4 @@ $links = array(
   "eu.contributors" => "eu/laguntzaileak",
   "eu.photos" => "eu/argazkiak",
   "eu.posters" => "eu/kartelak",
-);
-?>
+];

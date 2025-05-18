@@ -1,4 +1,4 @@
-<?php require_once("lang/lang.es.php"); ?>
+<?php require_once "lang/lang.es.php"; ?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang["lang"]; ?>">
 
@@ -7,7 +7,7 @@
     <?php
     $curPageName = "guests";
     $pageTitle = $lang["lang.activities.guests.title"];
-    require("include/head.php");
+    require "include/head.php";
     ?>
 
     <!-- Page CSS -->
@@ -16,6 +16,6 @@
   </head>
 
   <?php $guests = json_decode(file_get_contents(__DIR__ . '/include/invitados.json'));
-  require("include/invitados.php"); ?>
+  require "include/invitados.php"; ?>
 
 </html>
