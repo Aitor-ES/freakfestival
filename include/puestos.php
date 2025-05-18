@@ -83,7 +83,8 @@
 
                 <?php if (property_exists($stand, 'discord')) { ?>
                   <li class="list-inline-item">
-                    <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->x; ?>" target="_blank">
+                    <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $stand->discord; ?>"
+                      target="_blank">
                       <i class="bi bi-discord"></i>
                     </a>
                   </li>
