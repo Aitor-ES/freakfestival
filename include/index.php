@@ -42,12 +42,12 @@
                   <?php echo $lang["lang.home.banner.entrance"]; ?>
                 </p>
               </div>
-              <div class="col">
+              <!-- <div class="col">
                 <a class="btn btn-lg btn-ffsunlight rounded-pill border-3 text-uppercase fw-semibold py-3 px-4"
                   href="https://forms.gle/Z7N7NZj59DWfs2VU6" target="_blank">
                   <?php echo $lang["lang.home.banner.contribute"]; ?>
                 </a>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
