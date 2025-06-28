@@ -157,8 +157,12 @@ $lang = [
   "lang.activities.participants" => "participantes",
   "lang.activities.participants.no-limit" => "Sin límite",
 
+  "lang.activities.age" => "Edad",
   "lang.activities.age.years-old" => "años",
   "lang.activities.age.all" => "Todos los públicos",
+  "lang.activities.age.children" => "0-12 años",
+  "lang.activities.age.teenagers" => "12-18 años",
+  "lang.activities.age.adults" => "Más de 18 años",
 
   "lang.activities.lang.language" => "Idioma",
   "lang.activities.lang.es" => "Español",

@@ -76,6 +76,34 @@
         </ul>
       </li>
 
+      <!-- Filter by age -->
+      <li class="list-group-item">
+        <h5 class="mb-3">
+          <i class="bi bi-person-check text-ffscarlet fs-4 me-3"></i>
+          <?php echo $lang["lang.activities.age"]; ?>
+        </h5>
+
+        <ul class="nav nav-pills pills-tab column-gap-2 row-gap-3" id="pills-age-tab" role="tablist">
+          <li role="presentation">
+            <button class="btn btn-outline-ffscarlet btn-sm active" id="pills-age-all-tab" data-bs-toggle="pill"
+              type="button" role="tab" aria-selected="true" onclick="setActivityFilter('age-all')">
+              <?php echo $lang["lang.activities.filters.all"]; ?>
+            </button>
+          </li>
+
+          <?php $activityAges = array_unique(array_merge(...array_column($activities, "age")));
+          foreach ($activityAges as $activityAge) { ?>
+            <li role="presentation">
+              <button class="btn btn-outline-ffscarlet btn-sm" id="pills-age-<?php echo $activityAge; ?>-tab"
+                data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
+                onclick="setActivityFilter('age-<?php echo $activityAge; ?>')">
+                <?php echo $lang["lang.activities.age.$activityAge"]; ?>
+              </button>
+            </li>
+          <?php } ?>
+        </ul>
+      </li>
+
       <!-- Filter by language -->
       <li class="list-group-item">
         <h5 class="mb-3">
@@ -92,7 +120,6 @@
           </li>
 
           <?php $activityLangs = array_unique(array_merge(...array_column($activities, "lang")));
-          sort($activityLangs);
           foreach ($activityLangs as $activityLang) { ?>
             <li role="presentation">
               <button class="btn btn-outline-ffscarlet btn-sm" id="pills-lang-<?php echo $activityLang; ?>-tab"
@@ -116,6 +143,9 @@
           }
         } else {
           echo " date-continuous";
+        }
+        foreach ($activity->age as $activityAge) {
+          echo " age-$activityAge";
         }
         foreach ($activity->lang as $activityLang) {
           echo " lang-$activityLang";
@@ -152,8 +182,8 @@
                   <i class="bi bi-clock fs-2 text-ffscarlet"></i>
                   <?php if (property_exists($activity, 'timetable')) { ?>
                     <div>
-                      <?php foreach ($activity->timetable as $dayTime) { ?>
-                        <?php echo $lang["lang.activities.timetable.$dayTime->day"]; ?>
+                      <?php foreach ($activity->timetable as $dayTime) {
+                        echo $lang["lang.activities.timetable.$dayTime->day"]; ?>
                         <br>
                         <?php echo "$dayTime->time"; ?>
                         <br>
@@ -177,17 +207,19 @@
                 <!-- Activity age -->
                 <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-person-check fs-2 text-ffscarlet"></i>
-                  <?php $age = $activity->age;
-                  if (is_numeric($age))
-                    echo "+$age {$lang["lang.activities.age.years-old"]}";
+                  <?php if ($activity->age == ["children", "teenagers", "adults"])
+                    echo $lang["lang.activities.age.all"];
                   else
-                    echo $lang["lang.activities.age.$age"]; ?>
+                    foreach ($activity->age as $age) {
+                      echo $lang["lang.activities.age.$age"]; ?>
+                      <br>
+                    <?php } ?>
                 </div>
 
                 <!-- Activity language -->
                 <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-translate fs-2 text-ffscarlet"></i>
-                  <?php if (in_array("es", $activity->lang) && in_array("eu", $activity->lang))
+                  <?php if ($activity->lang == ["es", "eu"])
                     echo $lang["lang.activities.lang.both"];
                   else
                     echo $lang["lang.activities.lang.{$activity->lang[0]}"]; ?>

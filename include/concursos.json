@@ -12,7 +12,11 @@
     ],
     "duration": "2 h",
     "participants": "20",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -26,7 +30,11 @@
     "organizer": "valinor",
     "organizerImage": "valinor.svg",
     "participants": "36",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -47,7 +55,11 @@
     ],
     "duration": "2 h",
     "participants": "12",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -67,7 +79,11 @@
     ],
     "duration": "10 h",
     "participants": "15",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -87,7 +103,11 @@
     ],
     "duration": "3 h 30 min",
     "participants": "15",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -108,7 +128,11 @@
     ],
     "duration": "1 h",
     "participants": "18",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es"
     ],
@@ -127,7 +151,11 @@
     ],
     "duration": "6 h",
     "participants": "12",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es"
     ],
@@ -147,7 +175,11 @@
     ],
     "duration": "3 h",
     "participants": "16",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es"
     ],
@@ -167,7 +199,11 @@
     ],
     "duration": "3 h",
     "participants": "16",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es"
     ],
@@ -187,7 +223,11 @@
     ],
     "duration": "1 h",
     "participants": "9",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es"
     ],
@@ -207,7 +247,11 @@
     ],
     "duration": "4 h",
     "participants": "16",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -228,7 +272,11 @@
     ],
     "duration": "1 h 15 min",
     "participants": "16",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es"
     ],
@@ -248,7 +296,10 @@
     ],
     "duration": "5 h",
     "participants": "16",
-    "age": "14",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -269,7 +320,11 @@
     ],
     "duration": "5 h",
     "participants": "16",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
@@ -290,7 +345,11 @@
     ],
     "duration": "5 h",
     "participants": "16",
-    "age": "all",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
     "lang": [
       "es",
       "eu"
