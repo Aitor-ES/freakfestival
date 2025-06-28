@@ -8,7 +8,10 @@
     "duration": "continuous",
     "participants": "no-limit",
     "age": "all",
-    "lang": "free"
+    "lang": [
+      "es",
+      "eu"
+    ]
   },
   {
     "name": "mesozoico",
@@ -25,7 +28,10 @@
     "duration": "3 h",
     "participants": "4",
     "age": "12",
-    "lang": "both"
+    "lang": [
+      "es",
+      "eu"
+    ]
   },
   {
     "name": "pole-position",
@@ -42,7 +48,9 @@
     "duration": "3 h",
     "participants": "5",
     "age": "14",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "ierusalem-anno-domini",
@@ -59,7 +67,9 @@
     "duration": "2 h",
     "participants": "4",
     "age": "14",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "zombicide",
@@ -76,7 +86,9 @@
     "duration": "3 h",
     "participants": "6",
     "age": "14",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "euneiz",
@@ -96,7 +108,9 @@
     "duration": "3 h",
     "participants": "10",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "wargames-done-right",
@@ -113,7 +127,9 @@
     "duration": "3 h",
     "participants": "4",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "flamecraft",
@@ -130,7 +146,9 @@
     "duration": "1 h",
     "participants": "5",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "meepleland",
@@ -147,7 +165,9 @@
     "duration": "1 h",
     "participants": "4",
     "age": "10",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "terraforming-mars-dados",
@@ -164,7 +184,9 @@
     "duration": "45 min",
     "participants": "4",
     "age": "14",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "monstruitos",
@@ -184,7 +206,9 @@
     "duration": "3 h",
     "participants": "4",
     "age": "8",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "cartas",
@@ -201,7 +225,10 @@
     "duration": "continuous",
     "participants": "no-limit",
     "age": "all",
-    "lang": "free"
+    "lang": [
+      "es",
+      "eu"
+    ]
   },
   {
     "name": "d&d-devorador-esperanza",
@@ -218,7 +245,9 @@
     "duration": "5 h",
     "participants": "4",
     "age": "16",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "errege-herdoilduaren-dorrea",
@@ -235,7 +264,9 @@
     "duration": "3 h",
     "participants": "6",
     "age": "10",
-    "lang": "eu"
+    "lang": [
+      "eu"
+    ]
   },
   {
     "name": "helmuga",
@@ -252,7 +283,9 @@
     "duration": "2 h 30 min",
     "participants": "4",
     "age": "8",
-    "lang": "eu"
+    "lang": [
+      "eu"
+    ]
   },
   {
     "name": "valhalla",
@@ -269,7 +302,9 @@
     "duration": "2 h",
     "participants": "7",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "alien-diluvio-dioses",
@@ -286,7 +321,9 @@
     "duration": "3 h",
     "participants": "5",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "cthulhu-margen-tinieblas",
@@ -303,7 +340,9 @@
     "duration": "3 h",
     "participants": "5",
     "age": "16",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "dune-agentes-imperio",
@@ -320,7 +359,9 @@
     "duration": "3 h",
     "participants": "5",
     "age": "16",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "witcher-bestia-villaverde",
@@ -337,7 +378,9 @@
     "duration": "3 h",
     "participants": "5",
     "age": "18",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "l5a-introductoria",
@@ -354,7 +397,10 @@
     "duration": "3 h 30 min",
     "participants": "5",
     "age": "all",
-    "lang": "free"
+    "lang": [
+      "es",
+      "eu"
+    ]
   },
   {
     "name": "imperio-rueda",
@@ -370,7 +416,9 @@
     "duration": "2 h",
     "participants": "6",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "reclutamiento-van-hoff",
@@ -387,7 +435,9 @@
     "duration": "1 h",
     "participants": "16",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "telaraña-mentiras",
@@ -404,7 +454,9 @@
     "duration": "3 h",
     "participants": "21",
     "age": "18",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "anima-imperatoris",
@@ -421,7 +473,9 @@
     "duration": "2 h 30 min",
     "participants": "12",
     "age": "14",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "chapas",
@@ -438,7 +492,9 @@
     "duration": "1 h",
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "escritura",
@@ -455,7 +511,9 @@
     "duration": "1 h",
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "glasspainting",
@@ -472,7 +530,9 @@
     "duration": "1 h",
     "participants": "6",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "conejos-lana",
@@ -489,7 +549,10 @@
     "duration": "1 h",
     "participants": "10",
     "age": "all",
-    "lang": "both"
+    "lang": [
+      "es",
+      "eu"
+    ]
   },
   {
     "name": "miniaturas-basico",
@@ -506,7 +569,9 @@
     "duration": "1 h",
     "participants": "10",
     "age": "12",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "miniaturas-avanzado",
@@ -523,7 +588,9 @@
     "duration": "1 h 30 min",
     "participants": "10",
     "age": "12",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "acrilicos",
@@ -540,7 +607,9 @@
     "duration": "1 h 30 min",
     "participants": "16",
     "age": "10",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "duendes-polvo",
@@ -557,7 +626,9 @@
     "duration": "40 min",
     "participants": "15",
     "age": "8",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "huevo-dragon",
@@ -574,7 +645,9 @@
     "duration": "1 h",
     "participants": "6",
     "age": "6",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "varita",
@@ -591,7 +664,9 @@
     "duration": "1 h",
     "participants": "10",
     "age": "6",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "cuernitos",
@@ -608,7 +683,9 @@
     "duration": "2 h",
     "participants": "10",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "vasos",
@@ -629,7 +706,9 @@
     "duration": "2 h",
     "participants": "24",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "dados-tinta",
@@ -646,7 +725,9 @@
     "duration": "1 h",
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "cosplayer",
@@ -663,7 +744,10 @@
     "duration": "30 min",
     "participants": "no-limit",
     "age": "all",
-    "lang": "both"
+    "lang": [
+      "es",
+      "eu"
+    ]
   },
   {
     "name": "torneo-softcombat",
@@ -679,7 +763,9 @@
     "duration": "1 h",
     "participants": "16",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "actuar-concurso-cosplay",
@@ -695,7 +781,9 @@
     "duration": "40 min",
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "guerra-autores",
@@ -716,7 +804,9 @@
     "duration": "1 h",
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "noche-purpura",
@@ -733,7 +823,9 @@
     "duration": "1 h",
     "participants": "no-limit",
     "age": "14",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "disparo-stormtrooper",
@@ -743,7 +835,9 @@
     "organizerImage": "ordenderevan-min.png",
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "photocall-star-wars",
@@ -754,7 +848,9 @@
     "duration": "continuous",
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "caza-tesoro",
@@ -770,7 +866,9 @@
     ],
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   },
   {
     "name": "quiz-videojuegos",
@@ -786,6 +884,8 @@
     ],
     "participants": "no-limit",
     "age": "all",
-    "lang": "es"
+    "lang": [
+      "es"
+    ]
   }
 ]

@@ -10,7 +10,9 @@
       <p class="ff-lead text-ffscarlet"><?php echo $lang["lang.activities.$curPageName.description"]; ?></p>
     </div>
 
+    <!-- Filters Start -->
     <ul class="filters list-group list-group-flush mb-5">
+      <!-- Filter by type -->
       <li class="list-group-item">
         <h5 class="mb-3">
           <i class="bi bi-dice-5 text-ffscarlet fs-4 me-3"></i>
@@ -39,6 +41,7 @@
         </ul>
       </li>
 
+      <!-- Filter by day -->
       <li class="list-group-item">
         <h5 class="mb-3">
           <i class="bi bi-calendar-event text-ffscarlet fs-4 me-3"></i>
@@ -54,7 +57,9 @@
           </li>
 
           <?php $activityTimetables = array_map(
-            fn($activity): array => property_exists($activity, "timetable") ? array_column($activity->timetable, "day") : array("continuous"),
+            fn($activity): array => property_exists($activity, "timetable")
+            ? array_column($activity->timetable, "day")
+            : ["continuous"],
             $activities,
           );
           $activityTimetables = array_unique(array_merge(...$activityTimetables));
@@ -71,6 +76,7 @@
         </ul>
       </li>
 
+      <!-- Filter by language -->
       <li class="list-group-item">
         <h5 class="mb-3">
           <i class="bi bi-translate text-ffscarlet fs-4 me-3"></i>
@@ -85,7 +91,7 @@
             </button>
           </li>
 
-          <?php $activityLangs = array_unique(array_column($activities, "lang"));
+          <?php $activityLangs = array_unique(array_merge(...array_column($activities, "lang")));
           sort($activityLangs);
           foreach ($activityLangs as $activityLang) { ?>
             <li role="presentation">
@@ -99,18 +105,21 @@
         </ul>
       </li>
     </ul>
+    <!-- Filters End -->
 
     <ul class="activities list-group list-group-flush">
       <?php foreach ($activities as $activity) { ?>
-        <li class="list-group-item activity-container <?php echo "type-$activity->type ";
+        <li class="list-group-item activity-container <?php echo "type-$activity->type";
         if (property_exists($activity, 'timetable')) {
           foreach ($activity->timetable as $dayTime) {
-            echo "date-$dayTime->day ";
+            echo " date-$dayTime->day";
           }
         } else {
-          echo "date-continuous ";
+          echo " date-continuous";
         }
-        echo "lang-$activity->lang"; ?>">
+        foreach ($activity->lang as $activityLang) {
+          echo " lang-$activityLang";
+        } ?>">
           <div class="row justify-content-center gy-4 gx-5">
             <!-- Activity image -->
             <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
@@ -178,7 +187,10 @@
                 <!-- Activity language -->
                 <div class="col d-flex align-items-center column-gap-3">
                   <i class="bi bi-translate fs-2 text-ffscarlet"></i>
-                  <?php echo $lang["lang.activities.lang.$activity->lang"]; ?>
+                  <?php if (in_array("es", $activity->lang) && in_array("eu", $activity->lang))
+                    echo $lang["lang.activities.lang.both"];
+                  else
+                    echo $lang["lang.activities.lang.{$activity->lang[0]}"]; ?>
                 </div>
               </div>
 

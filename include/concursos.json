@@ -13,7 +13,10 @@
     "duration": "2 h",
     "participants": "20",
     "age": "all",
-    "lang": "free",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases del concurso de cosplay.pdf",
     "register": "https://forms.gle/sNPQpQEp7ha1ZRtR7"
   },
@@ -24,7 +27,10 @@
     "organizerImage": "valinor.svg",
     "participants": "36",
     "age": "all",
-    "lang": "free",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases del concurso de miniaturas y dioramas.pdf",
     "register": "https://forms.gle/PYVhBGFikhfsBeTC6"
   },
@@ -42,7 +48,10 @@
     "duration": "2 h",
     "participants": "12",
     "age": "all",
-    "lang": "free",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases del concurso de fast painting.pdf"
   },
   {
@@ -59,7 +68,10 @@
     "duration": "10 h",
     "participants": "15",
     "age": "all",
-    "lang": "free",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases del concurso de fast fic.pdf"
   },
   {
@@ -76,7 +88,10 @@
     "duration": "3 h 30 min",
     "participants": "15",
     "age": "all",
-    "lang": "free",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases del concurso de fast comic.pdf"
   },
   {
@@ -94,7 +109,9 @@
     "duration": "1 h",
     "participants": "18",
     "age": "all",
-    "lang": "es",
+    "lang": [
+      "es"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -111,7 +128,9 @@
     "duration": "6 h",
     "participants": "12",
     "age": "all",
-    "lang": "es",
+    "lang": [
+      "es"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -129,7 +148,9 @@
     "duration": "3 h",
     "participants": "16",
     "age": "all",
-    "lang": "es",
+    "lang": [
+      "es"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -147,7 +168,9 @@
     "duration": "3 h",
     "participants": "16",
     "age": "all",
-    "lang": "es",
+    "lang": [
+      "es"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -165,7 +188,9 @@
     "duration": "1 h",
     "participants": "9",
     "age": "all",
-    "lang": "es",
+    "lang": [
+      "es"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -183,7 +208,10 @@
     "duration": "4 h",
     "participants": "16",
     "age": "all",
-    "lang": "both",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -201,7 +229,9 @@
     "duration": "1 h 15 min",
     "participants": "16",
     "age": "all",
-    "lang": "es",
+    "lang": [
+      "es"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -219,7 +249,10 @@
     "duration": "5 h",
     "participants": "16",
     "age": "14",
-    "lang": "both",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -237,7 +270,10 @@
     "duration": "5 h",
     "participants": "16",
     "age": "all",
-    "lang": "free",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   },
   {
@@ -255,7 +291,10 @@
     "duration": "5 h",
     "participants": "16",
     "age": "all",
-    "lang": "free",
+    "lang": [
+      "es",
+      "eu"
+    ],
     "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   }
 ]
