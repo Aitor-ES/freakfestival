@@ -160,8 +160,12 @@ $lang = [
   "lang.activities.participants" => "parte-hartzaile",
   "lang.activities.participants.no-limit" => "Mugarik ez",
 
+  "lang.activities.age" => "Adina",
   "lang.activities.age.years-old" => "urte",
   "lang.activities.age.all" => "Publiko guztientzat",
+  "lang.activities.age.children" => "0-12 urte",
+  "lang.activities.age.teenagers" => "12-18 urte",
+  "lang.activities.age.adults" => "18 urtetik gora",
 
   "lang.activities.lang.language" => "Hizkuntza",
   "lang.activities.lang.es" => "Espainiera",
