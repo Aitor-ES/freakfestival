@@ -1,0 +1,1053 @@
+[
+  {
+    "name": "ludoteca",
+    "image": "ludoteca-min.jpg",
+    "type": "board-games",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "duration": "continuous",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es",
+      "eu"
+    ]
+  },
+  {
+    "name": "mesozoico",
+    "image": "mesozoico.jpg",
+    "type": "board-games",
+    "organizer": "mesozoico",
+    "organizerImage": "mesozoico.jpg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "18:00 - 21:00"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "4",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es",
+      "eu"
+    ]
+  },
+  {
+    "name": "pole-position",
+    "image": "pole-position.jpg",
+    "type": "board-games",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:30 - 18:00"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "5",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "ierusalem-anno-domini",
+    "image": "ierusalem-anno-domini.jpg",
+    "type": "board-games",
+    "organizer": "atlas",
+    "organizerImage": "atlas-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "2 h",
+    "participants": "4",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "zombicide",
+    "image": "zombicide.jpg",
+    "type": "board-games",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:00 - 18:00"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "6",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "euneiz",
+    "image": "euneiz.svg",
+    "type": "board-games",
+    "organizer": "euneiz",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "18:00 - 21:00"
+      },
+      {
+        "day": "saturday",
+        "time": "18:00 - 21:00"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "10",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "wargames-done-right",
+    "image": "wargames-done-right.jpg",
+    "type": "board-games",
+    "organizer": "kimera",
+    "organizerImage": "kimera-min.jpg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:00 - 18:00"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "4",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "flamecraft",
+    "image": "flamecraft.jpg",
+    "type": "board-games",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "10:30 - 11:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "5",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "meepleland",
+    "image": "meepleland.jpg",
+    "type": "board-games",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "19:30 - 20:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "4",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "terraforming-mars-dados",
+    "image": "terraforming-mars-dados.jpg",
+    "type": "board-games",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "18:00 - 19:00"
+      }
+    ],
+    "duration": "45 min",
+    "participants": "4",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "monstruitos",
+    "image": "monstruitos.png",
+    "type": "board-games",
+    "organizer": "borja",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "18:00 - 21:00"
+      },
+      {
+        "day": "sunday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "4",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "cartas",
+    "image": "cartas.jpg",
+    "type": "board-games",
+    "organizer": "magic-all-goal",
+    "organizerImage": "magicallgoal-min.PNG",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "18:00 - 21:00"
+      }
+    ],
+    "duration": "continuous",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es",
+      "eu"
+    ]
+  },
+  {
+    "name": "d&d-devorador-esperanza",
+    "image": "d&d-devorador-esperanza.png",
+    "type": "rpg",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:30 - 20:30"
+      }
+    ],
+    "duration": "5 h",
+    "participants": "4",
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "errege-herdoilduaren-dorrea",
+    "image": "errege-herdoilduaren-dorrea.png",
+    "type": "rpg",
+    "organizer": "rolariak",
+    "organizerImage": "rolariak-min.png",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "6",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "eu"
+    ]
+  },
+  {
+    "name": "helmuga",
+    "image": "helmuga.jpg",
+    "type": "rpg",
+    "organizer": "rolariak",
+    "organizerImage": "rolariak-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:30 - 18:00"
+      }
+    ],
+    "duration": "2 h 30 min",
+    "participants": "4",
+    "age": [
+      "children"
+    ],
+    "lang": [
+      "eu"
+    ]
+  },
+  {
+    "name": "valhalla",
+    "image": "valhalla.png",
+    "type": "rpg",
+    "organizer": "valhalla",
+    "organizerImage": "valhalla-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "12:00 - 14:00"
+      }
+    ],
+    "duration": "2 h",
+    "participants": "7",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "alien-diluvio-dioses",
+    "image": "alien-diluvio-dioses-min.jpeg",
+    "type": "rpg",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "5",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "cthulhu-margen-tinieblas",
+    "image": "cthulhu-margen-tinieblas.png",
+    "type": "rpg",
+    "organizer": "atlas",
+    "organizerImage": "atlas-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "18:00 - 21:00"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "5",
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "dune-agentes-imperio",
+    "image": "dune-agentes-imperio.png",
+    "type": "rpg",
+    "organizer": "atlas",
+    "organizerImage": "atlas-min.png",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "5",
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "witcher-bestia-villaverde",
+    "image": "witcher-bestia-villaverde-min.jpeg",
+    "type": "rpg",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:30 - 18:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "5",
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "l5a-introductoria",
+    "image": "l5a-introductoria.PNG",
+    "type": "rpg",
+    "organizer": "alter-paradox",
+    "organizerImage": "alterparadox.svg",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "18:00 - 21:00"
+      }
+    ],
+    "duration": "3 h 30 min",
+    "participants": "5",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es",
+      "eu"
+    ]
+  },
+  {
+    "name": "imperio-rueda",
+    "image": "imperio-rueda-min.jpeg",
+    "type": "rpg",
+    "organizer": "jose-luis-pastor-diez",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "18:30 - 20:30"
+      }
+    ],
+    "duration": "2 h",
+    "participants": "6",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "reclutamiento-van-hoff",
+    "image": "reclutamiento-van-hoff.jpg",
+    "type": "larp",
+    "organizer": "van-hoff",
+    "organizerImage": "van-hoff-min.jpg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 11:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "16",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "telaraña-mentiras",
+    "image": "telaraña-mentiras.jpg",
+    "type": "larp",
+    "organizer": "hipsteria",
+    "organizerImage": "hipsteria.svg",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "10:30 - 13:30"
+      }
+    ],
+    "duration": "3 h",
+    "participants": "21",
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "anima-imperatoris",
+    "image": "anima-imperatoris.jpg",
+    "type": "larp",
+    "organizer": "urra",
+    "organizerImage": "urra-min.jpg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:30 - 18:00"
+      }
+    ],
+    "duration": "2 h 30 min",
+    "participants": "12",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "chapas",
+    "image": "chapas.jpg",
+    "type": "workshops",
+    "organizer": "ordenderevan",
+    "organizerImage": "ordenderevan-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "11:30 - 12:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "escritura",
+    "image": "escritura-min.png",
+    "type": "workshops",
+    "organizer": "valhalla",
+    "organizerImage": "valhalla-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "11:30 - 13:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "glasspainting",
+    "image": "glasspainting.jpeg",
+    "type": "workshops",
+    "organizer": "pixsebas",
+    "organizerImage": "pixsebas-min.jpeg",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "19:00 - 20:00"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "6",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "conejos-lana",
+    "image": "conejos-lana.jpg",
+    "type": "workshops",
+    "organizer": "yumi",
+    "organizerImage": "yumi-min.jpg",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "18:00 - 19:00"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "10",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es",
+      "eu"
+    ]
+  },
+  {
+    "name": "miniaturas-basico",
+    "image": "miniaturas-basico.JPG",
+    "type": "workshops",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:30 - 16:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "10",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "miniaturas-avanzado",
+    "image": "miniaturas-avanzado.JPG",
+    "type": "workshops",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "10:30 - 12:00"
+      }
+    ],
+    "duration": "1 h 30 min",
+    "participants": "10",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "acrilicos",
+    "image": "acrilicos.png",
+    "type": "workshops",
+    "organizer": "creandoinfinito",
+    "organizerImage": "creandoinfinito-min.png",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "12:00 - 13:30"
+      }
+    ],
+    "duration": "1 h 30 min",
+    "participants": "16",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "duendes-polvo",
+    "image": "duendes-polvo.jpg",
+    "type": "workshops",
+    "organizer": "salienart",
+    "organizerImage": "salienart-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "16:30 - 17:30"
+      }
+    ],
+    "duration": "40 min",
+    "participants": "15",
+    "age": [
+      "children"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "huevo-dragon",
+    "image": "huevo-dragon.jpg",
+    "type": "workshops",
+    "organizer": "ellaberintodeljuego",
+    "organizerImage": "ellaberintodeljuego-min.jpg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 11:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "6",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "varita",
+    "image": "varita.jpg",
+    "type": "workshops",
+    "organizer": "ellaberintodeljuego",
+    "organizerImage": "ellaberintodeljuego-min.jpg",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "18:00 - 19:00"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "10",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "cuernitos",
+    "image": "cuernitos-min.jpg",
+    "type": "workshops",
+    "organizer": "arkenaya",
+    "organizerImage": "arkenaya-min.jpg",
+    "timetable": [
+      {
+        "day": "friday",
+        "time": "19:00 - 21:00"
+      }
+    ],
+    "duration": "2 h",
+    "participants": "10",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "vasos",
+    "image": "vasos.webp",
+    "type": "workshops",
+    "organizer": "valinor",
+    "organizerImage": "valinor.svg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "16:00 - 18:00"
+      },
+      {
+        "day": "sunday",
+        "time": "10:30 - 12:30"
+      }
+    ],
+    "duration": "2 h",
+    "participants": "24",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "dados-tinta",
+    "image": "dados-tinta.png",
+    "type": "talks-exhibitions",
+    "organizer": "laura-blanco-villalba-julio-san-roman-cazorla",
+    "organizerImage": "valhalla-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "15:30 - 16:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "cosplayer",
+    "image": "cosplayer.JPG",
+    "type": "talks-exhibitions",
+    "organizer": "cosdaimon",
+    "organizerImage": "cosdaimon-min.jpeg",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "11:30 - 12:00"
+      }
+    ],
+    "duration": "30 min",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es",
+      "eu"
+    ]
+  },
+  {
+    "name": "torneo-softcombat",
+    "image": "torneo-softcombat.png",
+    "type": "talks-exhibitions",
+    "organizer": "van-hoff-navalarp",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "12:30 - 13:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "16",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "actuar-concurso-cosplay",
+    "image": "actuar-concurso-cosplay.jpeg",
+    "type": "talks-exhibitions",
+    "organizer": "cristinasalaslopez",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "12:00 - 13:00"
+      }
+    ],
+    "duration": "40 min",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "guerra-autores",
+    "image": "guerra-autores.png",
+    "type": "book-releases",
+    "organizer": "valhalla",
+    "organizerImage": "valhalla-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "10:30 - 11:30"
+      },
+      {
+        "day": "sunday",
+        "time": "10:00 - 11:00"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "noche-purpura",
+    "image": "noche-purpura.jpg",
+    "type": "book-releases",
+    "organizer": "uzanza",
+    "organizerImage": "uzanza-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "16:30 - 17:30"
+      }
+    ],
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "disparo-stormtrooper",
+    "image": "disparo-stormtrooper.jpg",
+    "type": "others",
+    "organizer": "ordenderevan",
+    "organizerImage": "ordenderevan-min.png",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "photocall-star-wars",
+    "image": "photocall-star-wars.jpg",
+    "type": "others",
+    "organizer": "ordenderevan",
+    "organizerImage": "ordenderevan-min.png",
+    "duration": "continuous",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "caza-tesoro",
+    "image": "caza-tesoro.png",
+    "type": "others",
+    "organizer": "valhalla",
+    "organizerImage": "valhalla-min.png",
+    "timetable": [
+      {
+        "day": "saturday",
+        "time": "17:30"
+      }
+    ],
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  },
+  {
+    "name": "quiz-videojuegos",
+    "image": "quiz-videojuegos.jpg",
+    "type": "others",
+    "organizer": "mayi",
+    "organizerImage": "mayicosplay-min.jpg",
+    "timetable": [
+      {
+        "day": "sunday",
+        "time": "11:30 - 12:00"
+      }
+    ],
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ]
+  }
+]

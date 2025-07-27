@@ -6,11 +6,20 @@
   <!-- Main Start -->
   <main class="container-md ff-gutter my-4 my-md-5">
     <div class="mb-5">
-      <h1 class="ff-title mb-4"><?php echo $lang["lang.activities.$curPageName.title"]; ?> (2024)</h1>
+      <h1 class="ff-title mb-4"><?php echo $lang["lang.activities.$curPageName.title"]; ?></h1>
     </div>
 
-    <ul class="activities list-group list-group-flush">
-      <?php foreach ($guests as $guest) { ?>
+    <?php if (!$guests) { ?>
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 justify-content-center">
+        <div class="col">
+          <div class="h-100 bg-ffscarlet-10 bg-gradient rounded-4 p-4">
+            <p class="text-center fs-3 my-3"><strong><?php echo $lang["lang.common.wip"]; ?></strong></p>
+          </div>
+        </div>
+      </div>
+    <?php } else { ?>
+      <ul class="activities list-group list-group-flush">
+        <?php foreach ($guests as $guest) { ?>
           <li class="list-group-item">
             <div class="row justify-content-center g-5">
               <!-- Activity image -->
@@ -40,62 +49,63 @@
                 <!-- Activity links -->
                 <ul class="list-inline">
                   <?php if (property_exists($guest, 'web')) { ?>
-                      <li class="list-inline-item">
-                        <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->web; ?>" target="_blank">
-                          <i class="bi bi-globe"></i>
-                        </a>
-                      </li>
+                    <li class="list-inline-item">
+                      <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->web; ?>" target="_blank">
+                        <i class="bi bi-globe"></i>
+                      </a>
+                    </li>
                   <?php } ?>
 
                   <?php if (property_exists($guest, 'instagram')) {
                     foreach ($guest->instagram as $instagram) { ?>
-                          <li class="list-inline-item">
-                            <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $instagram; ?>" target="_blank">
-                              <i class="bi bi-instagram"></i>
-                            </a>
-                          </li>
-                      <?php }
+                      <li class="list-inline-item">
+                        <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $instagram; ?>" target="_blank">
+                          <i class="bi bi-instagram"></i>
+                        </a>
+                      </li>
+                    <?php }
                   } ?>
 
                   <?php if (property_exists($guest, 'facebook')) { ?>
-                      <li class="list-inline-item">
-                        <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->facebook; ?>"
-                          target="_blank">
-                          <i class="bi bi-facebook"></i>
-                        </a>
-                      </li>
+                    <li class="list-inline-item">
+                      <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->facebook; ?>"
+                        target="_blank">
+                        <i class="bi bi-facebook"></i>
+                      </a>
+                    </li>
                   <?php } ?>
 
                   <?php if (property_exists($guest, 'x')) { ?>
-                      <li class="list-inline-item">
-                        <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->x; ?>" target="_blank">
-                          <i class="bi bi-twitter-x"></i>
-                        </a>
-                      </li>
+                    <li class="list-inline-item">
+                      <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->x; ?>" target="_blank">
+                        <i class="bi bi-twitter-x"></i>
+                      </a>
+                    </li>
                   <?php } ?>
 
                   <?php if (property_exists($guest, 'tiktok')) { ?>
-                      <li class="list-inline-item">
-                        <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->tiktok; ?>"
-                          target="_blank">
-                          <i class="bi bi-tiktok"></i>
-                        </a>
-                      </li>
+                    <li class="list-inline-item">
+                      <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->tiktok; ?>"
+                        target="_blank">
+                        <i class="bi bi-tiktok"></i>
+                      </a>
+                    </li>
                   <?php } ?>
 
                   <?php if (property_exists($guest, 'discord')) { ?>
-                      <li class="list-inline-item">
-                        <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->x; ?>" target="_blank">
-                          <i class="bi bi-discord"></i>
-                        </a>
-                      </li>
+                    <li class="list-inline-item">
+                      <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->x; ?>" target="_blank">
+                        <i class="bi bi-discord"></i>
+                      </a>
+                    </li>
                   <?php } ?>
                 </ul>
               </div>
             </div>
           </li>
-      <?php } ?>
-    </ul>
+        <?php } ?>
+      </ul>
+    <?php } ?>
   </main>
   <!-- Main End -->
 

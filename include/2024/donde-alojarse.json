@@ -1,0 +1,41 @@
+[
+  {
+    "name": "libere",
+    "logo": "libere.svg",
+    "code": "FREAKFESTIVAL2024",
+    "discount": "15%",
+    "maps": "https://maps.app.goo.gl/u5UCWASsfXpdCGhT6",
+    "web": "https://www.staylibere.com/es/apartahoteles/libere-vitoria?utm_source=gmb_listing&utm_medium=organic",
+    "instagram": [
+      "https://www.instagram.com/staylibere"
+    ]
+  },
+  {
+    "name": "koragreencity",
+    "logo": "koragreencity.svg",
+    "code": "FREAKFESTIVAL",
+    "discount": "5%",
+    "maps": "https://maps.app.goo.gl/6ZV4hFLN2K27EpNC9",
+    "web": "https://www.koragreencity.com/es/?utm_source=freakfestival.es&utm_medium=referral&utm_campaign=freakfestival24",
+    "instagram": [
+      "https://www.instagram.com/koragreencity"
+    ],
+    "facebook": "https://www.facebook.com/p/Kora-Green-City-100083321343562/"
+  },
+  {
+    "name": "hotelvasvitoria",
+    "logo": "hotelvasvitoria.svg",
+    "code": "FREAKFEST",
+    "discount": "10%",
+    "maps": "https://maps.app.goo.gl/baHP8uyTCLSiV5N56",
+    "web": "https://www.hotelvasvitoria.com/"
+  },
+  {
+    "name": "ibisbudget",
+    "logo": "ibisbudget.svg",
+    "code": "256919",
+    "discount": "10%",
+    "maps": "https://maps.app.goo.gl/nxFZV8YqAmYTbbaD7",
+    "web": "https://ibis.accor.com/espana/index.es.shtml"
+  }
+]
