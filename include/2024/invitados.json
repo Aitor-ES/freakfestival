@@ -1,0 +1,45 @@
+[
+  {
+    "name": "mayicosplay",
+    "logo": "mayicosplay-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/mayicosplay/"
+    ]
+  },
+  {
+    "name": "pixsebas",
+    "logo": "pixsebas-min.jpeg",
+    "instagram": [
+      "https://www.instagram.com/pixsebasglasspainting/"
+    ],
+    "tiktok": "https://www.tiktok.com/@pixsebasglassart/"
+  },
+  {
+    "name": "cristinasalaslopez",
+    "logo": "cristinasalaslopez-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/cristinasalaslopez/"
+    ]
+  },
+  {
+    "name": "cosdaimon",
+    "logo": "cosdaimon-min.jpeg",
+    "instagram": [
+      "https://www.instagram.com/cos.daimon/"
+    ]
+  },
+  {
+    "name": "creandoinfinito",
+    "logo": "creandoinfinito-min.png",
+    "instagram": [
+      "https://www.instagram.com/creandoinfinito/"
+    ]
+  },
+  {
+    "name": "yumi",
+    "logo": "yumi-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/yumi_waifu/"
+    ]
+  }
+]

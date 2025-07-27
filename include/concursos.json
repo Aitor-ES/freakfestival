@@ -1,30 +1,5 @@
 [
   {
-    "name": "cosplay",
-    "type": "contests",
-    "organizer": "valinor",
-    "organizerImage": "valinor.svg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "18:00 - 20:00"
-      }
-    ],
-    "duration": "2 h",
-    "participants": "20",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es",
-      "eu"
-    ],
-    "rules": "Bases del concurso de cosplay.pdf",
-    "register": "https://forms.gle/sNPQpQEp7ha1ZRtR7"
-  },
-  {
     "name": "pintado-miniaturas",
     "type": "contests",
     "organizer": "valinor",
@@ -39,8 +14,7 @@
       "es",
       "eu"
     ],
-    "rules": "Bases del concurso de miniaturas y dioramas.pdf",
-    "register": "https://forms.gle/PYVhBGFikhfsBeTC6"
+    "rules": "Bases del concurso de miniaturas y dioramas.pdf"
   },
   {
     "name": "fast-painting",
@@ -77,7 +51,7 @@
         "time": "11:00 - 21:00"
       }
     ],
-    "duration": "10 h",
+    "duration": "3 h",
     "participants": "15",
     "age": [
       "children",
@@ -98,10 +72,10 @@
     "timetable": [
       {
         "day": "saturday",
-        "time": "10:30 - 14:00"
+        "time": "11:00 - 21:00"
       }
     ],
-    "duration": "3 h 30 min",
+    "duration": "3 h",
     "participants": "15",
     "age": [
       "children",
@@ -113,247 +87,5 @@
       "eu"
     ],
     "rules": "Bases del concurso de fast comic.pdf"
-  },
-  {
-    "name": "virus",
-    "image": "virus.jpg",
-    "type": "tournaments",
-    "organizer": "alter-paradox",
-    "organizerImage": "alterparadox.svg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "20:00 - 21:00"
-      }
-    ],
-    "duration": "1 h",
-    "participants": "18",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "killteam",
-    "image": "killteam.png",
-    "type": "tournaments",
-    "organizer": "nexo",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "15:00 - 21:00"
-      }
-    ],
-    "duration": "6 h",
-    "participants": "12",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "catan",
-    "image": "catan.jpg",
-    "type": "tournaments",
-    "organizer": "aventum",
-    "organizerImage": "aventum-min.png",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "10:30 - 13:30"
-      }
-    ],
-    "duration": "3 h",
-    "participants": "16",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "carcassonne",
-    "image": "carcassonne.jpg",
-    "type": "tournaments",
-    "organizer": "aventum",
-    "organizerImage": "aventum-min.png",
-    "timetable": [
-      {
-        "day": "sunday",
-        "time": "10:30 - 13:30"
-      }
-    ],
-    "duration": "3 h",
-    "participants": "16",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "tuki",
-    "image": "tuki.jpg",
-    "type": "tournaments",
-    "organizer": "alter-paradox",
-    "organizerImage": "alterparadox.svg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "15:00 - 16:00"
-      }
-    ],
-    "duration": "1 h",
-    "participants": "9",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "lorcana",
-    "image": "lorcana.jpg",
-    "type": "tournaments",
-    "organizer": "omega",
-    "organizerImage": "omega-min.jpg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "10:30 - 14:30"
-      }
-    ],
-    "duration": "4 h",
-    "participants": "16",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es",
-      "eu"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "codigo-secreto",
-    "image": "codigo-secreto.jpg",
-    "type": "tournaments",
-    "organizer": "alter-paradox",
-    "organizerImage": "alterparadox.svg",
-    "timetable": [
-      {
-        "day": "sunday",
-        "time": "12:00 - 13:30"
-      }
-    ],
-    "duration": "1 h 15 min",
-    "participants": "16",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "star-wars-unlimited",
-    "image": "star-wars-unlimited.jpg",
-    "type": "tournaments",
-    "organizer": "hipsteria",
-    "organizerImage": "hipsteria.svg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "16:30 - 21:00"
-      }
-    ],
-    "duration": "5 h",
-    "participants": "16",
-    "age": [
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es",
-      "eu"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "magic",
-    "image": "magic.JPG",
-    "type": "tournaments",
-    "organizer": "magic-all-goal",
-    "organizerImage": "magicallgoal-min.PNG",
-    "timetable": [
-      {
-        "day": "sunday",
-        "time": "10:00 - 14:00"
-      }
-    ],
-    "duration": "5 h",
-    "participants": "16",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es",
-      "eu"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
-  },
-  {
-    "name": "yugioh",
-    "image": "yugioh.jpg",
-    "type": "tournaments",
-    "organizer": "magic-all-goal",
-    "organizerImage": "magicallgoal-min.PNG",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "10:00 - 15:00"
-      }
-    ],
-    "duration": "5 h",
-    "participants": "16",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es",
-      "eu"
-    ],
-    "rules": "Bases de los torneos de juegos de mesa y cartas.pdf"
   }
 ]
