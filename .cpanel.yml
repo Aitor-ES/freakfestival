@@ -6,7 +6,6 @@ deployment:
     - /bin/cp carteles.php $DEPLOYPATH
     - /bin/cp colaboradores.php $DEPLOYPATH
     - /bin/cp concursos.php $DEPLOYPATH
-    - /bin/cp donde-alojarse.php $DEPLOYPATH
     - /bin/cp fotos.php $DEPLOYPATH
     - /bin/cp horario-de-actividades.php $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
@@ -17,7 +16,6 @@ deployment:
     - /bin/cp puestos.php $DEPLOYPATH
     - /bin/cp -R docs $DEPLOYPATH
     - /bin/cp -R eu $DEPLOYPATH
-    # - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R include $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
