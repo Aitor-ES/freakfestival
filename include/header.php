@@ -67,11 +67,6 @@
                   <h6 class="dropdown-header"><?php echo $lang["lang.header.info"]; ?></h6>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="/<?php echo $links["$lang[lang].hotels"]; ?>.php">
-                    <?php echo $lang["lang.header.hotels"]; ?>
-                  </a>
-                </li>
-                <li>
                   <a class="dropdown-item" href="/<?php echo $links["$lang[lang].maps"]; ?>.php">
                     <?php echo $lang["lang.header.maps"]; ?>
                   </a>
