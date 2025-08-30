@@ -242,8 +242,8 @@
                 <div class="row gy-3">
                   <?php if (property_exists($activity, 'rules')) { ?>
                     <div class="col-auto">
-                      <a class="btn btn-outline-ffscarlet rounded-pill" href="/docs/<?php echo $activity->rules; ?>"
-                        role="button">
+                      <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $activity->rules; ?>"
+                        target="_blank">
                         <i class="bi bi-filetype-pdf me-1"></i>
                         <?php echo $lang["lang.activities.btn.rules"]; ?>
                       </a>
@@ -252,7 +252,7 @@
 
                   <?php if (property_exists($activity, 'register')) { ?>
                     <div class="col-auto">
-                      <a class="btn btn-ffscarlet rounded-pill" href="<?php echo $activity->register; ?>" role="button">
+                      <a class="btn btn-ffscarlet rounded-pill" href="<?php echo $activity->register; ?>" target="_blank">
                         <?php echo $lang["lang.activities.btn.register"]; ?>
                         <i class="bi bi-chevron-right ms-1"></i>
                       </a>
