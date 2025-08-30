@@ -15,7 +15,7 @@
 <meta name="twitter:creator" content="@AsoValinor">
 
 <!-- Facebook -->
-<meta property="og:url" content="https://freakfestival.es/<?php echo $links["$lang[lang].$curPageName"]; ?>.php">
+<meta property="og:url" content="https://freakfestival.es<?php echo $links["$lang[lang].$curPageName"]; ?>.php">
 <meta property="og:title" content="<?php echo $title; ?>">
 <meta property="og:description" content="<?php echo $lang["lang.head.description"]; ?>">
 <meta property='og:site_name' content="Freak Festival">
