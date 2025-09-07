@@ -23,7 +23,6 @@ $lang = [
   "lang.header.photos" => "Fotos",
   "lang.header.posters" => "Carteles",
   "lang.header.info" => "Información",
-  "lang.header.hotels" => "Dónde alojarse",
   "lang.header.about-us" => "Sobre nosotros",
   "lang.header.organizers" => "Organizadores",
   "lang.header.contributors" => "Colaboradores",
@@ -90,9 +89,6 @@ $lang = [
   "lang.home.info.food.title" => "Dónde comer y beber",
   "lang.home.info.food.description" => "¡En la zona comedor podrás saciarte con la oferta de comida y bebida de nuestros colaboradores!",
   "lang.home.info.food.link" => "Ver planos del evento",
-  "lang.home.info.hotels.title" => "Dónde alojarse",
-  "lang.home.info.hotels.description" => "¿Necesitas alojarte? ¡Aprovecha los descuentos de nuestros hoteles colaboradores!",
-  "lang.home.info.hotels.link" => "Ver hoteles y descuentos",
 
   "lang.home.values.title" => "¿Por qué el Freak Festival?",
   "lang.home.values.public.title" => "Para todos los públicos",
@@ -485,19 +481,6 @@ $lang = [
   "lang.activities.stands.vilnieblasimaga.title" => "Vilniebla y Simaga",
   "lang.activities.stands.vilnieblasimaga.type" => "Los dos hermanos que han escrito <cite>El aquelarre de Celia</cite>",
   "lang.activities.stands.vilnieblasimaga.description" => "Una actriz caída en desgracia se recluye en una casa en la costa de Galicia para meterse en la piel de su próximo papel: la bruja Morgana.",
-
-  "lang.activities.hotels.title" => "Dónde alojarse",
-  "lang.activities.hotels.description" => "¿Vienes de fuera y necesitas un lugar donde alojarte? ¡Nuestros hoteles colaboradores ofrecen descuentos para que venir al Freak Festival sea más económico!",
-  "lang.activities.hotels.address" => "Dirección",
-  "lang.activities.hotels.code-and-discount" => "Código y descuento",
-  "lang.activities.hotels.libere.title" => "Líbere",
-  "lang.activities.hotels.libere.address" => "Av. Gasteiz, 45, 01008 Vitoria-Gasteiz, Álava",
-  "lang.activities.hotels.koragreencity.title" => "Kora Green City",
-  "lang.activities.hotels.koragreencity.address" => "Plaza del Renacimiento, 12, 01004 Vitoria-Gasteiz, Álava",
-  "lang.activities.hotels.hotelvasvitoria.title" => "Hotel Vas Vitoria",
-  "lang.activities.hotels.hotelvasvitoria.address" => "Calle Rioja, 11, 01005 Vitoria-Gasteiz, Álava",
-  "lang.activities.hotels.ibisbudget.title" => "Ibis Budget",
-  "lang.activities.hotels.ibisbudget.address" => "Calle Martín de Saracíbar, 2, 01010 Vitoria-Gasteiz, Álava",
 
   "lang.maps.title" => "Planos del evento",
 
