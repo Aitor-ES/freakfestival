@@ -32,17 +32,14 @@
               <!-- Activity main content -->
               <div class="col-12 col-lg-6">
                 <!-- Activity title -->
-                <h2 id="<?php echo $stand->name; ?>">
+                <h2 id="<?php echo $stand->name; ?>" class="mb-3">
                   <?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>
                   <a class="anchor-link" href="#<?php echo $stand->name; ?>"
                     aria-label="Link to this section: <?php echo $lang["lang.activities.$curPageName.$stand->name.title"]; ?>"></a>
                 </h2>
 
-                <!-- Activity type -->
-                <p class="lead text-ffscarlet"><?php echo $lang["lang.activities.$curPageName.$stand->name.type"]; ?></p>
-
                 <!-- Activity description -->
-                <p><?php echo $lang["lang.activities.$curPageName.$stand->name.description"]; ?></p>
+                <p class="mb-4"><?php echo $lang["lang.activities.$curPageName.$stand->name.description"]; ?></p>
 
                 <!-- Activity links -->
                 <ul class="list-inline">
