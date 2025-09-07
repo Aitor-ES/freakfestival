@@ -124,7 +124,7 @@
         <h2 class="ff-title"><?php echo $lang["lang.home.info.title"]; ?></h2>
       </div>
 
-      <div class="row row-cols-1 row-cols-md-3 row-cols-lg-3 g-5">
+      <div class="row row-cols-1 row-cols-md-3 justify-content-center g-5">
         <!-- Timetable -->
         <div class="col">
           <div class="h-100 bg-ffscarlet-10 bg-gradient rounded-4 p-4">
@@ -181,19 +181,6 @@
             <p><?php echo $lang["lang.home.info.food.description"]; ?></p>
             <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links["$lang[lang].maps"]; ?>.php">
               <?php echo $lang["lang.home.info.food.link"]; ?>
-              <i class="bi bi-chevron-right ms-1"></i>
-            </a>
-          </div>
-        </div>
-
-        <!-- Hotels -->
-        <div class="col">
-          <div class="h-100 bg-ffscarlet-10 bg-gradient rounded-4 p-4">
-            <i class="bi bi-moon-stars fs-1 text-ffscarlet"></i>
-            <h3 class="mb-3"><?php echo $lang["lang.home.info.hotels.title"]; ?></h3>
-            <p><?php echo $lang["lang.home.info.hotels.description"]; ?></p>
-            <a class="btn btn-outline-ffscarlet rounded-pill" href="<?php echo $links["$lang[lang].hotels"]; ?>.php">
-              <?php echo $lang["lang.home.info.hotels.link"]; ?>
               <i class="bi bi-chevron-right ms-1"></i>
             </a>
           </div>

@@ -23,7 +23,6 @@ $lang = [
   "lang.header.photos" => "Argazkiak",
   "lang.header.posters" => "Kartelak",
   "lang.header.info" => "Informazioa",
-  "lang.header.hotels" => "Non lo egin",
   "lang.header.about-us" => "Guri buruz",
   "lang.header.organizers" => "Antolatzaileak",
   "lang.header.contributors" => "Laguntzaileak",
@@ -93,9 +92,6 @@ $lang = [
   "lang.home.info.food.title" => "Non jan eta edan",
   "lang.home.info.food.description" => "Jantokian gure laguntzaileen janari eta edari eskaintzarekin ase ahal izango zara!",
   "lang.home.info.food.link" => "Ekitaldiaren planoak ikusi",
-  "lang.home.info.hotels.title" => "Non lo egin",
-  "lang.home.info.hotels.description" => "Lo egin behar al duzu? Erabili gure hotel laguntzaileen deskontuak!",
-  "lang.home.info.hotels.link" => "Hotelak eta deskontuak ikusi",
 
   "lang.home.values.title" => "Zergatik Freak Festival?",
   "lang.home.values.public.title" => "Publiko guztientzat",
@@ -492,19 +488,6 @@ $lang = [
   "lang.activities.stands.vilnieblasimaga.title" => "Vilniebla y Simaga",
   "lang.activities.stands.vilnieblasimaga.type" => "<cite>El aquelarre de Celia</cite> idatzi duten bi neba-arrebak",
   "lang.activities.stands.vilnieblasimaga.description" => "Zoritxarrean eroritako aktore bat Galiziako kostaldeko etxe batean sartu da bere hurrengo paperaren azalean sartzeko: Morgana sorgina.",
-
-  "lang.activities.hotels.title" => "Non lo egin",
-  "lang.activities.hotels.description" => "Kanpotik zatoz eta lo egiteko leku bat behar al duzu? Gure hotel laguntzaileek deskontuak eskaintzen dituzte Freak Festival-era etortzea ekonomikoagoa izan dadin!",
-  "lang.activities.hotels.address" => "Helbidea",
-  "lang.activities.hotels.code-and-discount" => "Kodea eta deskontua",
-  "lang.activities.hotels.libere.title" => "Líbere",
-  "lang.activities.hotels.libere.address" => "Gasteiz Hiribidea, 45, 01008 Vitoria-Gasteiz, Araba",
-  "lang.activities.hotels.koragreencity.title" => "Kora Green City",
-  "lang.activities.hotels.koragreencity.address" => "Berpizkundearen Plaza, 12, 01004 Vitoria-Gasteiz, Araba",
-  "lang.activities.hotels.hotelvasvitoria.title" => "Hotel Vas Vitoria",
-  "lang.activities.hotels.hotelvasvitoria.address" => "Errioxa Kalea, 11, 01005 Vitoria-Gasteiz, Araba",
-  "lang.activities.hotels.ibisbudget.title" => "Ibis Budget",
-  "lang.activities.hotels.ibisbudget.address" => "Martin de Saracibar Kalea, 2, 01010 Vitoria-Gasteiz, Araba",
 
   "lang.maps.title" => "Ekitaldiaren planoak",
 
