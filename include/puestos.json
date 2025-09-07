@@ -1,1 +1,207 @@
-[]
+[
+  {
+    "name": "artandrea",
+    "logo": "artandrea-min.png",
+    "instagram": [
+      "https://www.instagram.com/arta.ndrea/"
+    ]
+  },
+  {
+    "name": "artkhamcreations",
+    "logo": "artkhamcreations-min.png",
+    "instagram": [
+      "https://www.instagram.com/artkham.creations"
+    ]
+  },
+  {
+    "name": "bjorntall",
+    "logo": "bjorntall-min.png",
+    "instagram": [
+      "https://www.instagram.com/bjorntallcrafts"
+    ]
+  },
+  {
+    "name": "cerbero",
+    "logo": "cerbero-min.png",
+    "web": "https://www.editorialcerbero.com/",
+    "instagram": [
+      "https://www.instagram.com/editorialcerbero/"
+    ],
+    "bluesky": "https://bsky.app/profile/editorialcerbero.com/",
+    "youtube": "https://www.youtube.com/channel/UCcDHpCa1Jg1fF8k8Sc1-VBw",
+    "tiktok": "https://www.tiktok.com/@editorialcerbero/"
+  },
+  {
+    "name": "conplumaypixel",
+    "logo": "conplumaypixel-min.jpg",
+    "web": "https://conplumaypixel.com/",
+    "instagram": [
+      "https://www.instagram.com/conplumaypixel"
+    ],
+    "facebook": "https://www.facebook.com/conplumaypixel",
+    "x": "https://twitter.com/Conplumaypixel/"
+  },
+  {
+    "name": "costurerorolero",
+    "logo": "costurerorolero-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/costurerorolero"
+    ]
+  },
+  {
+    "name": "doublecastle",
+    "logo": "doublecastle-min.jpg",
+    "web": "https://doublecastle.com/",
+    "instagram": [
+      "https://www.instagram.com/double.castle/"
+    ]
+  },
+  {
+    "name": "dressed_in_chains",
+    "logo": "dressed_in_chains-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/dressed_in_chains/"
+    ]
+  },
+  {
+    "name": "fatimaackerson",
+    "logo": "fatimaackerson-min.jpg",
+    "web": "https://fatimaackerson.com/"
+  },
+  {
+    "name": "hereticastore",
+    "logo": "hereticastore-min.png",
+    "instagram": [
+      "https://www.instagram.com/hereticastore/"
+    ]
+  },
+  {
+    "name": "hobbyaescala",
+    "logo": "hobbyaescala-min.png",
+    "web": "https://www.hobbyaescala.com/",
+    "instagram": [
+      "https://www.instagram.com/fran_hobbyaescala/"
+    ]
+  },
+  {
+    "name": "ivecrochett",
+    "logo": "ivecrochett-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/ive.crochett"
+    ]
+  },
+  {
+    "name": "juanra",
+    "logo": "juanra-min.jpg"
+  },
+  {
+    "name": "laplazoletaartesanos",
+    "logo": "laplazoletaartesanos-min.jpg",
+    "web": "https://laplazoletaartesanos.es/"
+  },
+  {
+    "name": "larpnorte",
+    "logo": "larpnorte-min.jpg"
+  },
+  {
+    "name": "lunadeaquelarre",
+    "logo": "lunadeaquelarre-min.jpg",
+    "web": "https://lunadeaquelarre.com/"
+  },
+  {
+    "name": "lusapelusart",
+    "logo": "lusapelusart-min.png",
+    "x": "https://x.com/lusapelusart/"
+  },
+  {
+    "name": "lykostherium",
+    "logo": "lykostherium-min.png",
+    "instagram": [
+      "https://www.instagram.com/lykostherium/"
+    ],
+    "x": "https://twitter.com/lykostherium/",
+    "bluesky": "https://bsky.app/profile/lykostherium.bsky.social"
+  },
+  {
+    "name": "monarkatcg",
+    "logo": "monarkatcg-min.png",
+    "web": "https://monarkatcg.store/",
+    "instagram": [
+      "https://www.instagram.com/monarkatcg.store/"
+    ]
+  },
+  {
+    "name": "okhamistudio",
+    "logo": "okhamistudio-min.png",
+    "web": "https://okhamistudio.com/",
+    "instagram": [
+      "https://www.instagram.com/okhami_studio/"
+    ],
+    "etsy": "https://www.etsy.com/shop/OkhamiStudio"
+  },
+  {
+    "name": "omega",
+    "logo": "omega-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/omegavitoria"
+    ]
+  },
+  {
+    "name": "pinku_artista",
+    "logo": "pinku_artista-min.png",
+    "instagram": [
+      "https://www.instagram.com/pinku_artista/"
+    ]
+  },
+  {
+    "name": "regnumaragonum",
+    "logo": "regnumaragonum-min.png",
+    "instagram": [
+      "https://www.instagram.com/regnumaragonum/"
+    ]
+  },
+  {
+    "name": "sugaareditorial",
+    "logo": "sugaareditorial-min.png",
+    "web": "https://sugaareditorial.com/",
+    "instagram": [
+      "https://www.instagram.com/sugaareditorial/"
+    ],
+    "facebook": "https://www.facebook.com/sugaareditorial/",
+    "x": "https://x.com/EditorialSugaar/",
+    "bluesky": "https://bsky.app/profile/sugaareditorial.bsky.social/",
+    "youtube": "https://www.youtube.com/@SugaarEditorial"
+  },
+  {
+    "name": "suseyaediciones",
+    "logo": "suseyaediciones-min.png",
+    "web": "https://suseyaediciones.com/",
+    "instagram": [
+      "https://instagram.com/suseyaediciones/"
+    ],
+    "facebook": "https://www.facebook.com/suseyaediciones/",
+    "x": "https://x.com/suseyaediciones/"
+  },
+  {
+    "name": "tembocolor",
+    "logo": "tembocolor-min.png",
+    "web": "https://tembocolor.com/"
+  },
+  {
+    "name": "tributosliterarios",
+    "logo": "tributosliterarios-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/tributosliterarios/",
+      "https://www.instagram.com/valhalla_ediciones/"
+    ]
+  },
+  {
+    "name": "uzanzaeditorial",
+    "logo": "uzanzaeditorial-min.png",
+    "web": "https://uzanzaeditorial.com/",
+    "instagram": [
+      "https://www.instagram.com/uzanzaeditorial/"
+    ],
+    "x": "https://twitter.com/uzanzaeditorial/"
+  }
+]
