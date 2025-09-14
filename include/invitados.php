@@ -43,8 +43,7 @@
                 </p>
 
                 <!-- Activity description -->
-                <p><?php echo $lang["lang.activities.$curPageName.$guest->name.description.1"]; ?></p>
-                <p><?php echo $lang["lang.activities.$curPageName.$guest->name.description.2"]; ?></p>
+                <p class="mb-4"><?php echo $lang["lang.activities.$curPageName.$guest->name.description"]; ?></p>
 
                 <!-- Activity links -->
                 <ul class="list-inline">

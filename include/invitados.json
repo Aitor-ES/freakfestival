@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "ginnasander",
+    "logo": "ginnasander-min.PNG",
+    "instagram": [
+      "https://www.instagram.com/ginnasander/"
+    ]
+  },
+  {
+    "name": "missbowin",
+    "logo": "missbowin-min.PNG",
+    "web": "https://www.missbowin.com/"
+  }
+]
