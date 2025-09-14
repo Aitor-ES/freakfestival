@@ -64,6 +64,16 @@
     ]
   },
   {
+    "name": "ellaberintodeljuego",
+    "logo": "ellaberintodeljuego-min.jpg",
+    "web": "https://ellaberintodeljueg.wixsite.com/inicio"
+  },
+  {
+    "name": "euneiz",
+    "logo": "euneiz.svg",
+    "web": "https://www.euneiz.com/"
+  },
+  {
     "name": "fatimaackerson",
     "logo": "fatimaackerson-min.jpg",
     "web": "https://fatimaackerson.com/"
@@ -73,6 +83,20 @@
     "logo": "hereticastore-min.png",
     "instagram": [
       "https://www.instagram.com/hereticastore/"
+    ]
+  },
+  {
+    "name": "hijosdellobo",
+    "logo": "hijosdellobo-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/hijosdellobo/"
+    ]
+  },
+  {
+    "name": "hohishop",
+    "logo": "hohishop-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/hohishop/"
     ]
   },
   {
@@ -123,11 +147,27 @@
     "bluesky": "https://bsky.app/profile/lykostherium.bsky.social"
   },
   {
+    "name": "magicallgoal",
+    "logo": "magicallgoal-min.PNG",
+    "web": "https://magicallgoal.ekarri.es",
+    "instagram": [
+      "https://www.instagram.com/magicallgoal"
+    ],
+    "facebook": "https://www.facebook.com/magicallgoal.yugioh.vitoria"
+  },
+  {
     "name": "monarkatcg",
     "logo": "monarkatcg-min.png",
     "web": "https://monarkatcg.store/",
     "instagram": [
       "https://www.instagram.com/monarkatcg.store/"
+    ]
+  },
+  {
+    "name": "mucho_vinilo",
+    "logo": "mucho_vinilo-min.jpg",
+    "instagram": [
+      "https://www.instagram.com/mucho_vinilo/"
     ]
   },
   {
@@ -144,6 +184,13 @@
     "logo": "omega-min.jpg",
     "instagram": [
       "https://www.instagram.com/omegavitoria"
+    ]
+  },
+  {
+    "name": "pixsebasglasspainting",
+    "logo": "pixsebasglasspainting-min.jpeg",
+    "instagram": [
+      "https://www.instagram.com/pixsebasglasspainting/"
     ]
   },
   {
@@ -194,14 +241,5 @@
       "https://www.instagram.com/tributosliterarios/",
       "https://www.instagram.com/valhalla_ediciones/"
     ]
-  },
-  {
-    "name": "uzanzaeditorial",
-    "logo": "uzanzaeditorial-min.png",
-    "web": "https://uzanzaeditorial.com/",
-    "instagram": [
-      "https://www.instagram.com/uzanzaeditorial/"
-    ],
-    "x": "https://twitter.com/uzanzaeditorial/"
   }
 ]
