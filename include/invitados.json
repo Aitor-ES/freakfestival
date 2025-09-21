@@ -10,5 +10,22 @@
     "name": "missbowin",
     "logo": "missbowin-min.PNG",
     "web": "https://www.missbowin.com/"
+  },
+  {
+    "name": "albertoaguileravo",
+    "logo": "albertoaguileravo-min.PNG",
+    "instagram": [
+      "https://www.instagram.com/albertoaguileravo/"
+    ],
+    "tiktok": "https://www.tiktok.com/@albertoaguileravo",
+    "web": "https://linktr.ee/albertoaguileravo"
+  },
+  {
+    "name": "fisicomic",
+    "logo": "fisicomic-min.png",
+    "instagram": [
+      "https://www.instagram.com/fisicomic/"
+    ],
+    "web": "https://www.20minutos.es/autor/ruben-sierra/"
   }
 ]
