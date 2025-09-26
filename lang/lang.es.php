@@ -547,6 +547,7 @@ $lang = [
   "lang.contributors.title" => "Colaboradores",
   "lang.contributors.associations" => "Asociaciones",
   "lang.contributors.brands" => "Tiendas, marcas y editoriales",
+  "lang.contributors.independents" => "Colaboradores independientes",
   "lang.contributors.photography" => "Fotografía",
 
   "lang.photos.title" => "Fotos",

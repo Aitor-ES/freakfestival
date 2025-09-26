@@ -554,6 +554,7 @@ $lang = [
   "lang.contributors.title" => "Laguntzaileak",
   "lang.contributors.associations" => "Elkarteak",
   "lang.contributors.brands" => "Dendak, markak eta argitaletxeak",
+  "lang.contributors.independents" => "Laguntzaile independenteak",
   "lang.contributors.photography" => "Fotografia",
 
   "lang.photos.title" => "Argazkiak",

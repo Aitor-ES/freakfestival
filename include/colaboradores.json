@@ -1,5 +1,206 @@
 {
-  "associations": [],
-  "brands": [],
-  "photography": []
+  "associations": [
+    {
+      "key": "aamm",
+      "name": "Asociación Alavesa de Miniaturas y Maquetas",
+      "logo": "aamm-min.jpg",
+      "link": "http://aa-mm.org/"
+    },
+    {
+      "key": "acnil",
+      "name": "Asociación ACNIL",
+      "logo": "acnil-min.png",
+      "link": "https://acnil.es/"
+    },
+    {
+      "key": "alterparadox",
+      "name": "Alter Paradox",
+      "logo": "alterparadox.svg",
+      "link": "https://alterparadox.es/"
+    },
+    {
+      "key": "boardgamegasteiz",
+      "name": "BoardGameGasteiz",
+      "logo": "boardgamegasteiz-min.png",
+      "link": "https://www.instagram.com/board.game.gasteiz/"
+    },
+    {
+      "key": "cutulumesayrol",
+      "name": "CUTULU, asociación de juegos de mesa y rol de Tudela",
+      "logo": "cutulumesayrol-min.png",
+      "link": "https://www.cutulumesayrol.es/"
+    },
+    {
+      "key": "golem_taldea",
+      "name": "Golem Taldea",
+      "logo": "golem_taldea-min.jpg",
+      "link": "https://www.instagram.com/golem_taldea/"
+    },
+    {
+      "key": "hijosdellobo",
+      "name": "Hijos del lobo",
+      "logo": "hijosdellobo-min.jpg",
+      "link": "https://www.instagram.com/hijosdellobo/"
+    },
+    {
+      "key": "kimera",
+      "name": "Asociación Kimera",
+      "logo": "kimera-min.jpg",
+      "link": "https://www.instagram.com/asociacionkimera/"
+    },
+    {
+      "key": "lahistoriaenguerra",
+      "name": "La Historia en Guerra",
+      "logo": "lahistoriaenguerra-min.png",
+      "link": "https://www.facebook.com/lahistoriaenguerra/"
+    },
+    {
+      "key": "navalarp",
+      "name": "NavaLARP",
+      "logo": "navalarp-min.png",
+      "link": "https://www.instagram.com/navalarp_/"
+    },
+    {
+      "key": "ordenderevan",
+      "name": "Orden de Revan Cantabria",
+      "logo": "ordenderevan-min.png",
+      "link": "https://www.instagram.com/orden_de_revan/"
+    },
+    {
+      "key": "otakuworld",
+      "name": "Asociación Otaku World",
+      "logo": "otakuworld-min.png",
+      "link": "https://www.instagram.com/otakuworld_asoc/"
+    },
+    {
+      "key": "regnumaragonum",
+      "name": "Asociación Cultural Regnum Aragonum",
+      "logo": "regnumaragonum-min.png",
+      "link": "https://www.instagram.com/regnumaragonum/"
+    },
+    {
+      "key": "strongtales",
+      "name": "Strongtales Live Action Games",
+      "logo": "strongtales-min.png",
+      "link": "http://strongtaleslag.com/"
+    }
+  ],
+  "brands": [
+    {
+      "key": "cerbero",
+      "name": "Editorial Cerbero",
+      "logo": "cerbero-min.png",
+      "link": "https://www.editorialcerbero.com/"
+    },
+    {
+      "key": "conplumaypixel",
+      "name": "Con Pluma y Píxel",
+      "logo": "conplumaypixel-min.jpg",
+      "link": "https://conplumaypixel.com/"
+    },
+    {
+      "key": "doublecastle",
+      "name": "Double Castle",
+      "logo": "doublecastle-min.jpg",
+      "link": "https://doublecastle.com/"
+    },
+    {
+      "key": "ellaberintodeljuego",
+      "name": "El LABERINTO DEL JUEGO 2.0",
+      "logo": "ellaberintodeljuego-min.jpg",
+      "link": "https://ellaberintodeljueg.wixsite.com/inicio"
+    },
+    {
+      "key": "euneiz",
+      "name": "Universidad EUNEIZ",
+      "logo": "euneiz.svg",
+      "link": "https://www.euneiz.com/"
+    },
+    {
+      "key": "fatimaackerson",
+      "name": "So Below",
+      "logo": "fatimaackerson-min.jpg",
+      "link": "https://fatimaackerson.com/"
+    },
+    {
+      "key": "hereticastore",
+      "name": "Heretica Store",
+      "logo": "hereticastore-min.png",
+      "link": "https://www.instagram.com/hereticastore/"
+    },
+    {
+      "key": "hipsteria",
+      "name": "Hipsteria",
+      "logo": "hipsteria.svg",
+      "link": "https://www.instagram.com/hipsteria_vitoria/"
+    },
+    {
+      "key": "hobbyaescala",
+      "name": "Hobbyaescala",
+      "logo": "hobbyaescala-min.png",
+      "link": "https://www.instagram.com/fran_hobbyaescala/"
+    },
+    {
+      "key": "laplazoletaartesanos",
+      "name": "Laplazoleta",
+      "logo": "laplazoletaartesanos-min.jpg",
+      "link": "https://laplazoletaartesanos.es/"
+    },
+    {
+      "key": "magicallgoal",
+      "name": "Magic all Goal",
+      "logo": "magicallgoal-min.PNG",
+      "link": "https://magicallgoal.ekarri.es"
+    },
+    {
+      "key": "monarkatcg",
+      "name": "Monarka Store",
+      "logo": "monarkatcg-min.png",
+      "link": "https://monarkatcg.store/"
+    },
+    {
+      "key": "naroainformatica",
+      "name": "Naroa Informática",
+      "logo": "naroainformatica-min.jpg",
+      "link": "https://naroainformatica.com/"
+    },
+    {
+      "key": "omega",
+      "name": "Omega Center - Zacatrus",
+      "logo": "omega-min.jpg",
+      "link": "https://www.instagram.com/omegavitoria/"
+    },
+    {
+      "key": "sugaareditorial",
+      "name": "Sugaar Editorial",
+      "logo": "sugaareditorial-min.png",
+      "link": "https://sugaareditorial.com/"
+    },
+    {
+      "key": "suseyaediciones",
+      "name": "Suseya Ediciones",
+      "logo": "suseyaediciones-min.png",
+      "link": "https://suseyaediciones.com/"
+    },
+    {
+      "key": "tributosliterarios",
+      "name": "Tributos literarios",
+      "logo": "tributosliterarios-min.jpg",
+      "link": "https://www.instagram.com/tributosliterarios/"
+    }
+  ],
+  "independents": [
+    {
+      "key": "lunadeaquelarre",
+      "name": "LunaDeAquelarre",
+      "logo": "lunadeaquelarre-min.jpg",
+      "link": "https://lunadeaquelarre.com/"
+    },
+    {
+      "key": "tembocolor",
+      "name": "Tembo",
+      "logo": "tembocolor-min.png",
+      "link": "https://tembocolor.com/"
+    }
+  ]
 }
