@@ -59,10 +59,10 @@
       </div>
     <?php } ?>
 
-    <!-- Photography -->
-    <h2 class="mb-5"><?php echo $lang["lang.contributors.photography"]; ?></h2>
+    <!-- Independents -->
+    <h2 class="mb-5"><?php echo $lang["lang.contributors.independents"]; ?></h2>
 
-    <?php if (!$contributors->photography) { ?>
+    <?php if (!$contributors->independents) { ?>
       <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-3 justify-content-center mb-5">
         <div class="col">
           <div class="h-100 bg-ffscarlet-10 bg-gradient rounded-4 p-4">
@@ -72,11 +72,11 @@
       </div>
     <?php } else { ?>
       <div class="row row-cols-2 row-cols-sm-3 row-cols-lg-4 row-cols-xl-5 g-5 mb-5 justify-content-evenly">
-        <?php foreach ($contributors->photography as $photographer) { ?>
+        <?php foreach ($contributors->independents as $independent) { ?>
           <div class="col d-flex justify-content-center align-items-center">
-            <a id="<?php echo $photographer->key; ?>" href="<?php echo $photographer->link; ?>" target="_blank">
-              <img loading="lazy" class="logo-contributor" src="/images/contributors/<?php echo $photographer->logo; ?>"
-                alt="<?php echo $photographer->name; ?>" width="216" height="100">
+            <a id="<?php echo $independent->key; ?>" href="<?php echo $independent->link; ?>" target="_blank">
+              <img loading="lazy" class="logo-contributor" src="/images/contributors/<?php echo $independent->logo; ?>"
+                alt="<?php echo $independent->name; ?>" width="216" height="100">
             </a>
           </div>
         <?php } ?>
