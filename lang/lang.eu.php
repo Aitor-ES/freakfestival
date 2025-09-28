@@ -558,7 +558,7 @@ $lang = [
   "lang.contributors.photography" => "Fotografia",
 
   "lang.photos.title" => "Argazkiak",
-  "lang.photos.description" => "¡Gogoratu Freak Festival-eko unerik onenak! Hemen aurreko edizioetako argazkiak aurkituko dituzu: jarduerak, lehiaketak, postuak, gonbidatuak eta askoz gehiago.",
+  "lang.photos.description" => "Gogoratu Freak Festival-eko unerik onenak! Hemen aurreko edizioetako argazkiak aurkituko dituzu: jarduerak, lehiaketak, postuak, gonbidatuak eta askoz gehiago.",
   "lang.photos.2024.title" => "Freak Festival 2024",
   "lang.photos.2023.title" => "Freak Festival 2023",
   "lang.photos.2022.title" => "Freak Festival 2022",
