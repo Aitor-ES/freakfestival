@@ -13,6 +13,12 @@
       "link": "https://acnil.es/"
     },
     {
+      "key": "aeyoyo",
+      "name": "Asociación Española de Yoyó, Zirriborroak Kultur Elkartea",
+      "logo": "aeyoyo-min.jpg",
+      "link": "https://www.instagram.com/_aeyoyo_/"
+    },
+    {
       "key": "alterparadox",
       "name": "Alter Paradox",
       "logo": "alterparadox.svg",
@@ -43,12 +49,6 @@
       "link": "https://www.instagram.com/hijosdellobo/"
     },
     {
-      "key": "kimera",
-      "name": "Asociación Kimera",
-      "logo": "kimera-min.jpg",
-      "link": "https://www.instagram.com/asociacionkimera/"
-    },
-    {
       "key": "lahistoriaenguerra",
       "name": "La Historia en Guerra",
       "logo": "lahistoriaenguerra-min.png",
@@ -65,12 +65,6 @@
       "name": "Orden de Revan Cantabria",
       "logo": "ordenderevan-min.png",
       "link": "https://www.instagram.com/orden_de_revan/"
-    },
-    {
-      "key": "otakuworld",
-      "name": "Asociación Otaku World",
-      "logo": "otakuworld-min.png",
-      "link": "https://www.instagram.com/otakuworld_asoc/"
     },
     {
       "key": "regnumaragonum",
@@ -123,6 +117,12 @@
       "link": "https://fatimaackerson.com/"
     },
     {
+      "key": "feroca",
+      "name": "Feroca",
+      "logo": "feroca-min.jpg",
+      "link": "https://feroca.com/es/"
+    },
+    {
       "key": "hereticastore",
       "name": "Heretica Store",
       "logo": "hereticastore-min.png",
@@ -153,6 +153,12 @@
       "link": "https://magicallgoal.ekarri.es"
     },
     {
+      "key": "malditogames",
+      "name": "Maldito Games",
+      "logo": "malditogames-min.png",
+      "link": "https://www.malditogames.com/"
+    },
+    {
       "key": "monarkatcg",
       "name": "Monarka Store",
       "logo": "monarkatcg-min.png",
@@ -169,6 +175,18 @@
       "name": "Omega Center - Zacatrus",
       "logo": "omega-min.jpg",
       "link": "https://www.instagram.com/omegavitoria/"
+    },
+    {
+      "key": "piñatagames",
+      "name": "Piñata Games",
+      "logo": "piñatagames-min.png",
+      "link": "https://piñatagames.es/"
+    },
+    {
+      "key": "shadowlands",
+      "name": "Shadowlands Ediciones",
+      "logo": "shadowlands-min.png",
+      "link": "https://shadowlands.es/"
     },
     {
       "key": "sugaareditorial",
@@ -190,6 +208,18 @@
     }
   ],
   "independents": [
+    {
+      "key": "bluebirdonfire",
+      "name": "Bluebird on Fire",
+      "logo": "bluebirdonfire-min.png",
+      "link": "https://www.bluebirdonfire.com/"
+    },
+    {
+      "key": "kakiworks",
+      "name": "KakiWorks",
+      "logo": "kakiworks-min.jpg",
+      "link": "https://www.instagram.com/kakiworks/"
+    },
     {
       "key": "lunadeaquelarre",
       "name": "LunaDeAquelarre",
