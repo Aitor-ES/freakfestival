@@ -81,6 +81,12 @@
   ],
   "brands": [
     {
+      "key": "akinteractive",
+      "name": "AK Interactive",
+      "logo": "akinteractive-min.png",
+      "link": "https://www.ak-interactive.com/"
+    },
+    {
       "key": "cerbero",
       "name": "Editorial Cerbero",
       "logo": "cerbero-min.png",
@@ -93,10 +99,28 @@
       "link": "https://conplumaypixel.com/"
     },
     {
+      "key": "corvusbelli",
+      "name": "Corvus Belli",
+      "logo": "corvusbelli-min.png",
+      "link": "https://corvusbelli.com/es/"
+    },
+    {
       "key": "doublecastle",
       "name": "Double Castle",
       "logo": "doublecastle-min.jpg",
       "link": "https://doublecastle.com/"
+    },
+    {
+      "key": "dracoideas",
+      "name": "Draco Ideas editorial",
+      "logo": "dracoideas-min.png",
+      "link": "https://dracoideas.com/editorial/"
+    },
+    {
+      "key": "eclipseeditorial",
+      "name": "Eclipse Editorial",
+      "logo": "eclipseeditorial-min.png",
+      "link": "https://eclipseeditorial.com/games/"
     },
     {
       "key": "ellaberintodeljuego",
@@ -121,6 +145,12 @@
       "name": "Feroca",
       "logo": "feroca-min.jpg",
       "link": "https://feroca.com/es/"
+    },
+    {
+      "key": "greenstuffworld",
+      "name": "Green Stuff World",
+      "logo": "greenstuffworld-min.png",
+      "link": "https://www.greenstuffworld.com/es/"
     },
     {
       "key": "hereticastore",
@@ -208,12 +238,6 @@
     }
   ],
   "independents": [
-    {
-      "key": "bluebirdonfire",
-      "name": "Bluebird on Fire",
-      "logo": "bluebirdonfire-min.png",
-      "link": "https://www.bluebirdonfire.com/"
-    },
     {
       "key": "kakiworks",
       "name": "KakiWorks",

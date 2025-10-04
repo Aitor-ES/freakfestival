@@ -74,6 +74,13 @@
     "web": "https://www.euneiz.com/"
   },
   {
+    "name": "evoletle_crochet",
+    "logo": "evoletle_crochet-min.png",
+    "instagram": [
+      "https://www.instagram.com/evoletle_crochet/"
+    ]
+  },
+  {
     "name": "fatimaackerson",
     "logo": "fatimaackerson-min.jpg",
     "web": "https://fatimaackerson.com/"
@@ -232,7 +239,10 @@
   {
     "name": "tembocolor",
     "logo": "tembocolor-min.png",
-    "web": "https://tembocolor.com/"
+    "web": "https://tembocolor.com/",
+    "instagram": [
+      "https://instagram.com/tembo/"
+    ]
   },
   {
     "name": "tributosliterarios",
