@@ -65,20 +65,12 @@
               </button>
             </li>
 
-            <?php $activityTimetables = array_map(
-              fn($activity): array => property_exists($activity, "timetable")
-              ? array_column($activity->timetable, "day")
-              : ["continuous"],
-              $activities,
-            );
-            $activityTimetables = array_unique(array_merge(...$activityTimetables));
-            sort($activityTimetables);
-            foreach ($activityTimetables as $activityTimetable) { ?>
+            <?php foreach (["continuous", "friday", "saturday", "sunday"] as $activityDay) { ?>
               <li role="presentation">
-                <button class="btn btn-outline-ffscarlet btn-sm" id="pills-date-<?php echo $activityTimetable; ?>-tab"
+                <button class="btn btn-outline-ffscarlet btn-sm" id="pills-date-<?php echo $activityDay; ?>-tab"
                   data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
-                  onclick="setActivityFilter('date-<?php echo $activityTimetable; ?>')">
-                  <?php echo $lang["lang.activities.timetable.$activityTimetable"]; ?>
+                  onclick="setActivityFilter('date-<?php echo $activityDay; ?>')">
+                  <?php echo $lang["lang.activities.timetable.$activityDay"]; ?>
                 </button>
               </li>
             <?php } ?>
@@ -128,8 +120,7 @@
               </button>
             </li>
 
-            <?php $activityLangs = array_unique(array_merge(...array_column($activities, "lang")));
-            foreach ($activityLangs as $activityLang) { ?>
+            <?php foreach (["es", "eu"] as $activityLang) { ?>
               <li role="presentation">
                 <button class="btn btn-outline-ffscarlet btn-sm" id="pills-lang-<?php echo $activityLang; ?>-tab"
                   data-bs-toggle="pill" type="button" role="tab" aria-selected="false"
@@ -144,12 +135,17 @@
       <!-- Filters End -->
 
       <ul class="activities list-group list-group-flush">
-        <?php foreach ($activities as $activity) { ?>
+        <?php foreach ($activities as $activity) {
+          if ($lang["lang"] == "eu") {
+            $activityName = $activity->nameEU;
+            $activityDescription = $activity->descriptionEU;
+          } else {
+            $activityName = $activity->nameES;
+            $activityDescription = $activity->descriptionES;
+          } ?>
           <li class="list-group-item activity-container <?php echo "type-$activity->type";
-          if (property_exists($activity, 'timetable')) {
-            foreach ($activity->timetable as $dayTime) {
-              echo " date-$dayTime->day";
-            }
+          if (property_exists($activity, 'day')) {
+            echo " date-$activity->day";
           } else {
             echo " date-continuous";
           }
@@ -163,19 +159,17 @@
               <!-- Activity image -->
               <div class="col-12 col-lg-3 d-flex justify-content-center align-items-start">
                 <?php if (property_exists($activity, 'image')) { ?>
-                  <img class="activity-img" src="/images/activities/<?php echo $activity->image ?>"
-                    alt="<?php echo $lang["lang.activities.$activity->type.$activity->name.title"]; ?>" width="200"
-                    height="200">
+                  <img class="activity-img" src="<?php echo $activity->image ?>" width="200" height="200">
                 <?php } ?>
               </div>
 
               <!-- Activity main content -->
               <div class="col-12 col-lg-6">
                 <!-- Activity title -->
-                <h2 id="<?php echo $activity->name; ?>" class="mb-4">
-                  <?php echo $lang["lang.activities.$activity->type.$activity->name.title"]; ?>
-                  <a class="anchor-link" href="#<?php echo $activity->name; ?>"
-                    aria-label="Link to this section: <?php echo $lang["lang.activities.$activity->type.$activity->name.title"]; ?>"></a>
+                <h2 id="<?php echo $activityName; ?>" class="mb-4">
+                  <?php echo $activityName; ?>
+                  <a class="anchor-link" href="#<?php echo $activityName; ?>"
+                    aria-label="Link to this section: <?php echo $activityName; ?>"></a>
                 </h2>
 
                 <!-- Activity info -->
@@ -188,17 +182,22 @@
 
                   <!-- Activity date -->
                   <div class="col d-flex align-items-center column-gap-3">
+                    <i class="bi bi-calendar2-check fs-2 text-ffscarlet"></i>
+                    <?php if (property_exists($activity, 'day') && property_exists($activity, 'time')) {
+                      echo $lang["lang.activities.timetable.$activity->day"]; ?>
+                      <br>
+                      <?php echo $activity->time;
+                    } else {
+                      echo $lang["lang.activities.timetable.continuous"];
+                    } ?>
+                  </div>
+
+                  <!-- Activity duration -->
+                  <div class="col d-flex align-items-center column-gap-3">
                     <i class="bi bi-clock fs-2 text-ffscarlet"></i>
-                    <?php if (property_exists($activity, 'timetable')) { ?>
-                      <div>
-                        <?php foreach ($activity->timetable as $dayTime) {
-                          echo $lang["lang.activities.timetable.$dayTime->day"]; ?>
-                          <br>
-                          <?php echo "$dayTime->time"; ?>
-                          <br>
-                        <?php } ?>
-                      </div>
-                    <?php } else {
+                    <?php if (property_exists($activity, 'duration')) {
+                      echo $activity->duration;
+                    } else {
                       echo $lang["lang.activities.timetable.continuous"];
                     } ?>
                   </div>
@@ -236,7 +235,7 @@
                 </div>
 
                 <!-- Activity description -->
-                <p><?php echo $lang["lang.activities.$activity->type.$activity->name.description"]; ?></p>
+                <p><?php echo $activityDescription; ?></p>
 
                 <!-- Activity links -->
                 <div class="row gy-3">
@@ -264,14 +263,15 @@
               <!-- Activity organizer -->
               <div class="col-12 col-lg-3 d-flex flex-column align-items-center row-gap-4">
                 <?php if (property_exists($activity, 'organizerImage')) { ?>
-                  <img class="organizer-img" src="/images/contributors/<?php echo $activity->organizerImage ?>"
-                    alt="<?php echo $lang["lang.activities.organizer.$activity->organizer"]; ?>" width="200" height="200">
+                  <img class="organizer-img" src="<?php echo $activity->organizerImage ?>" width="200" height="200">
                 <?php } ?>
 
-                <div class="d-flex flex-column row-gap-2 text-center">
-                  <small class="text-body-secondary"><?php echo $lang["lang.activities.organizer"]; ?></small>
-                  <span class="fs-3 fw-medium"><?php echo $lang["lang.activities.organizer.$activity->organizer"]; ?></span>
-                </div>
+                <?php if (property_exists($activity, 'organizer')) { ?>
+                  <div class="d-flex flex-column row-gap-2 text-center">
+                    <small class="text-body-secondary"><?php echo $lang["lang.activities.organizer"]; ?></small>
+                    <span class="fs-3 fw-medium"><?php echo $activity->organizer; ?></span>
+                  </div>
+                <?php } ?>
               </div>
             </div>
           </li>
