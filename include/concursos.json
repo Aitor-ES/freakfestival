@@ -1,9 +1,12 @@
 [
   {
-    "name": "pintado-miniaturas",
+    "nameES": "Miniaturas y dioramas",
+    "nameEU": "Miniaturak eta dioramak",
+    "descriptionES": "¿Qué habilidad tienes con colores acrílicos? No importa el material de la miniatura, nos interesa lo bien que le hayas dejado la capa de pintura. Y, si una miniatura no es un reto suficiente, ¿por qué no subir el listón? Tráenos tu obra maestra en forma de diorama. ¡Enséñanos tu arte con el pincel y la creación de escenas y arrasa en este concurso!",
+    "descriptionEU": "Zer trebetasun duzu kolore akrilikoekin? Berdin dio miniaturaren materialak, interesatzen zaigu zein ondo utzi diozun pintura-geruza. Eta miniatura bat erronka nahikoa ez bada, zergatik ez igo muga? Ekarri zure maisulana diorama eran. Erakuts iezaguzu zure artea pintzelarekin eta eszenen sorkuntzarekin eta irabazi lehiaketa honetan!",
     "type": "contests",
-    "organizer": "valinor",
-    "organizerImage": "valinor.svg",
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "/images/ui/logos/logo_valinor.svg",
     "participants": "36",
     "age": [
       "children",
@@ -18,10 +21,13 @@
     "register": "https://forms.gle/5nP6vWzrx1H1op129"
   },
   {
-    "name": "fast-painting",
+    "nameES": "Fast Painting",
+    "nameEU": "Fast Painting",
+    "descriptionES": "¿Te crees capaz de pintar a contrarreloj una miniatura digna del primer puesto? Demuéstranos tu maestría con el pincel en este concurso. Recuerda, ¡el temporizador no se detiene mientras se seca la pintura!",
+    "descriptionEU": "Lehen postua merezi duen miniatura bat erlojupean margotzeko gai zarela uste duzu? Erakutsi zure maisutasuna pintzelarekin lehiaketa honetan. Gogoratu, tenporizadorea ez da gelditzen pintura lehortzen den bitartean!",
     "type": "contests",
-    "organizer": "valinor",
-    "organizerImage": "valinor.svg",
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "/images/ui/logos/logo_valinor.svg",
     "timetable": [
       {
         "day": "saturday",
@@ -42,10 +48,13 @@
     "rules": "https://drive.google.com/file/d/1ZrsAbL6f6FIt6cCn2U6A1QAlZ8LdWnfY/view?usp=drive_link"
   },
   {
-    "name": "fast-fic",
+    "nameES": "Fast Fic",
+    "nameEU": "Fast Fic",
+    "descriptionES": "Si quieres probar a contrarreloj tu imaginación y habilidad literaria, aquí tienes el reto que buscabas. ¡Crea tu mejor relato durante el evento y conmueve al jurado con tus palabras!",
+    "descriptionEU": "Zure irudimena eta trebetasun literarioa erlojuaren kontra probatu nahi badituzu, hemen duzu bilatzen zenuen erronka. Sortu zure kontakizunik onena ekitaldian zehar eta hunkitu epaimahaia zure hitzekin!",
     "type": "contests",
-    "organizer": "valinor",
-    "organizerImage": "valinor.svg",
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "/images/ui/logos/logo_valinor.svg",
     "timetable": [
       {
         "day": "saturday",
@@ -66,10 +75,13 @@
     "rules": "https://drive.google.com/file/d/1CqZx0PbJmpeaasdSiQnyr0qoJVMMF3xv/view?usp=drive_link"
   },
   {
-    "name": "fast-comic",
+    "nameES": "Fast Comic",
+    "nameEU": "Fast Comic",
+    "descriptionES": "¿Te crees capaz de crear en tiempo record una buena historia en formato cómic? ¡Agarra tu material de dibujo y enséñanos de lo que eres capaz!",
+    "descriptionEU": "Denbora errekorrean komiki formatuan istorio on bat sortzeko gai zarela uste duzu? Hartu zure marrazketa materiala eta erakutsi zer egiteko gai zaren!",
     "type": "contests",
-    "organizer": "valinor",
-    "organizerImage": "valinor.svg",
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "/images/ui/logos/logo_valinor.svg",
     "timetable": [
       {
         "day": "saturday",
