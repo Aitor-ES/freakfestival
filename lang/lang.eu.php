@@ -120,7 +120,7 @@ $lang = [
   "lang.activities.larp.description" => "Antzeztu pertsonaia bat eta bizi joko-zuzendariak gidatutako istorio bat. Jokatu eta inprobisatu gainerako jokalariekin batera gertaeren bilakaeran eragiteko!",
   "lang.activities.stands.title" => "Artisten eta denden postuak",
   "lang.activities.stands.description" => "Ezagutu gure zaletasunak zabaltzea ahalbidetzen duten eta beren produktuak munduari ezagutzera eman nahi dizkioten tokiko egile eta saltokiak!",
-  "lang.activities.talks-exhibitions.title" => "Hitzaldiak",
+  "lang.activities.talks-exhibitions.title" => "Hitzaldi eta erakustaldiak",
   "lang.activities.talks-exhibitions.description" => "Ikasi gustukoen dituzuen zaletasunei buruz gai ugaritan adituek eskainitako hitzaldi eta erakustaldiekin: literatura, artea, rola eta gehiago!",
   "lang.activities.book-releases.title" => "Liburu aurkezpenak",
   "lang.activities.book-releases.description" => "Ezagutu gure argitaletxe laguntzaileek argitaratutako azken lanak eta ezagutu idazleak zuzenean. Aprobetxatu zure hurrengo irakurketa eskuratzeko!",
@@ -158,7 +158,7 @@ $lang = [
 
   "lang.activities.age" => "Adina",
   "lang.activities.age.years-old" => "urte",
-  "lang.activities.age.all" => "Publiko guztientzat",
+  "lang.activities.age.all" => "Publiko guztiak",
   "lang.activities.age.children" => "0-12 urte",
   "lang.activities.age.teenagers" => "12-18 urte",
   "lang.activities.age.adults" => "18 urtetik gora",
@@ -376,6 +376,9 @@ $lang = [
   "lang.activities.guests.fisicomic.title" => "Fisicomic",
   "lang.activities.guests.fisicomic.dedication" => "Friki gaien dibulgatzaile zientifikoa",
   "lang.activities.guests.fisicomic.description" => "Rubén Sierra fisikaria, ingeniari elektronikoa da, eta frikiaren zientzian espezializatutako zientzia-dibulgatzailea. Fisicomic proiektuarekin, mangen, animeen, filmen, telesailen, bideojokoen eta freak kulturaren mundu osoaren atzean dagoen zientziaz hitz egiten du.",
+  "lang.activities.guests.doblajesymazmorras.title" => "Doblajes y Mazmorras",
+  "lang.activities.guests.doblajesymazmorras.dedication" => "Ahots-artistak, rol-jokalariak eta ikus-entzunezko narratzaileak",
+  "lang.activities.guests.doblajesymazmorras.description" => "Rol-eskirulak ahots-aktoreekin elkartzean ematen den transmutaziotik, narrazio-maisutasun apur bat geiturik eta guztia ikus-entzunezko hizkuntza sutsuan urtzetik, Doblajes y Mazmorras dator, fantasiazko istorioak interpretatuz, inoiz imajinatu ez duten bezala. Lux Áncora: La Travesía de la Bruma Eterna, haien rol kanpaina nagusia, Siria Sesenrak zuzentzen du eta DaggerHeart sistemarekin zuzenean jokatzen du.",
   "lang.activities.guests.mayicosplay.title" => "Mayi",
   "lang.activities.guests.mayicosplay.dedication" => "Cosplayer",
   "lang.activities.guests.mayicosplay.description" => "Gasteizko erreferentziazko cosplayer-a. Hiru urte daramatza modu formalean cosplay-aren mundu zoragarrian. Gutxinaka, makillajearen eta ileordeen estilizazioan espezializatzen. Osasun mentaleko erizaina izanik, cosplay-a norberaren osasun mentala zaintzeko era zoragarri bezala lantzea gustatzen zaio.",
@@ -540,6 +543,9 @@ $lang = [
   "lang.activities.stands.vilnieblasimaga.description" => "Zoritxarrean eroritako aktore bat Galiziako kostaldeko etxe batean sartu da bere hurrengo paperaren azalean sartzeko: Morgana sorgina.",
 
   "lang.maps.title" => "Ekitaldiaren planoak",
+  "lang.maps.almudena-cid" => "Almudena Cid aretoa",
+  "lang.maps.green-capital" => "Green Capital aretoa",
+  "lang.maps.estibaliz" => "Estibaliz aretoa",
 
   "lang.organizers.valinor.title" => "Antolatzaileak",
   "lang.organizers.valinor.hello.title" => "Kaixo! Valinor Elkartea gara",

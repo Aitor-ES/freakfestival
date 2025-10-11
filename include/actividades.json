@@ -65,11 +65,11 @@
     "temasSensibles": ""
   },
   {
-    "organizer": "Alter paradox",
+    "organizer": "Alter Paradox",
     "organizerImage": "https://drive.google.com/thumbnail?id=176RArLe8TtnmCqMe5-qilYKVeYuO4NjK",
     "type": "board-games",
-    "nameES": "Demo Clank",
-    "nameEU": "Demo Clank",
+    "nameES": "Aprende a jugar a Clank",
+    "nameEU": "Clank-ean jokatzen ikasi",
     "descriptionES": "Juego de mesa medio para 4 jugadores.",
     "descriptionEU": "Mahai jokoa 4 jokalarirentzat.",
     "day": "sunday",
@@ -204,8 +204,8 @@
     "nameEU": "Despertados",
     "descriptionES": "Partida de rol (Kult o Cthulhu d100) al módulo Despertados.",
     "descriptionEU": "Rol partida (Kult o Cthulhu d100) Despertados modulua",
-    "day": "saturday",
-    "time": "16:00 - 19:00",
+    "day": "sunday",
+    "time": "10:30 - 13:30",
     "duration": "3 h",
     "participants": 5,
     "age": [
@@ -355,7 +355,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=11FU8idThOdHrsMVHkgrUWNEhrd8pQfae",
     "type": "talks-exhibitions",
     "nameES": "Torneo de Softcombat",
-    "nameEU": "Softcombat tcapelketa",
+    "nameEU": "Softcombat txapelketa",
     "descriptionES": "¿Quieres probar que eres el mejor combatiente del lugar, pero prefieres no arriesgarte con un arma que de verdad pueda matarte? Este torneo es para ti. Demuestra que eres capaz de blandir las armas y alzarte con la victoria.",
     "descriptionEU": "Lurraldeko gerlaririk trebeena zarela egiaztatu nahi duzu baina nahiago duzu ez arriskatu nahi benetako armekin? Torneo hau zuretzat da. Erakutsi armak astintzeko eta garaipena lortzeko gai zarela.",
     "day": "sunday",
@@ -526,10 +526,10 @@
     "organizer": "El Laberinto del Juego 2.0",
     "organizerImage": "https://drive.google.com/thumbnail?id=1z1XAtoh_6k7XrVmn907kzXlPNvuOmsNX",
     "type": "workshops",
-    "nameES": "Huevos de dragón",
-    "nameEU": "Dragoi-arrautzak",
-    "descriptionES": "Repetimos actividad del pasado festival que les encantó, en esta ocasión tendremos diferentes opciones para realizar sus propios huevos de dragón.",
-    "descriptionEU": "Aurreko jaialdian  asko gustatu zitzaien jarduera errepikatuko dugu; oraingoan, aukera desberdinak izango ditugu beren dragoi arrautzak egiteko.",
+    "nameES": "Taller de huevos de dragón",
+    "nameEU": "Dragoi-arrautzen tailerra",
+    "descriptionES": "Repetimos actividad del pasado festival que les encantó; en esta ocasión, tendremos diferentes opciones para realizar sus propios huevos de dragón.",
+    "descriptionEU": "Aurreko jaialdian asko gustatu zitzaien jarduera errepikatuko dugu; oraingoan, aukera desberdinak izango ditugu beren dragoi arrautzak egiteko.",
     "day": "saturday",
     "time": "16:00 - 17:00",
     "duration": "1 h",
@@ -572,8 +572,8 @@
     "type": "board-games",
     "nameES": "Rol oculto: Blood on the Clocktower",
     "nameEU": "Rol ezkutua:  Blood on the Clocktower",
-    "descriptionES": "En el tranquilo pueblo de Ravenswood Bluff, un demonio camina entre vosotros...  Durante una infernal tormenta, al filo de la medianoche, resuena un grito escalofriante. Los habitantes del pueblo se apresuran a investigar y encuentran al cuentacuentos del pueblo asesinado, su cuerpo empalado en las manecillas de la torre del reloj, la sangre goteando sobre los adoquines de abajo. Un demonio anda suelto, asesinando de noche y disfrazado de humano de día. Algunos tienen retazos de información. Otros tienen habilidades que combaten el mal o protegen a los inocentes. Pero el Demonio y sus malvados secuaces difunden mentiras para confundir y levantar sospechas.  ¿Conseguirá la buena gente del pueblo resolver el rompecabezas a tiempo para ejecutar al verdadero demonio y salvarse? ¿O el mal invadirá este pueblo antaño pacífico?",
-    "descriptionEU": "Ravenswood Bluff herri lasaian deabru bat dabil zuen artean... Ekaitz infernutar batean, gauerdi aldera, garrasi ikaragarria entzuten da. Herriko biztanleek berehala ikertzen dute, eta herriaren ipuin-kontalaria hilda aurkitzen dute, haren gorputza erloju-dorreko orratzetan itsatsita, odola beheko galtzadarrien gainean tantaka. Deabru bat aske dabil, gauez hiltzen eta egunez gizakiz mozorrotuta. Batzuek informazio zatiak dituzte. Beste batzuek gaizkiari aurre egiten dioten edo errugabeak babesten dituzten trebetasunak dituzte. Baina Deabruak eta bere jarraitzaile gaiztoek gezurrak zabaltzen dituzte nahasteko eta susmoak pizteko. Lortuko al du jende zintzoak buru-hausgarria garaiz ebaztea benetako deabrua hiltzeko? Edo gaizkiak garai batean baketsua zen herri hau inbadituko du?",
+    "descriptionES": "En el tranquilo pueblo de Ravenswood Bluff, un demonio camina entre vosotros…  Durante una infernal tormenta, al filo de la medianoche, resuena un grito escalofriante. Los habitantes del pueblo se apresuran a investigar y encuentran al cuentacuentos del pueblo asesinado, su cuerpo empalado en las manecillas de la torre del reloj, la sangre goteando sobre los adoquines de abajo. Un demonio anda suelto, asesinando de noche y disfrazado de humano de día. Algunos tienen retazos de información. Otros tienen habilidades que combaten el mal o protegen a los inocentes. Pero el Demonio y sus malvados secuaces difunden mentiras para confundir y levantar sospechas. ¿Conseguirá la buena gente del pueblo resolver el rompecabezas a tiempo para ejecutar al verdadero demonio y salvarse? ¿O el mal invadirá este pueblo antaño pacífico?",
+    "descriptionEU": "Ravenswood Bluff herri lasaian deabru bat dabil zuen artean… Ekaitz infernutar batean, gauerdi aldera, garrasi ikaragarria entzuten da. Herriko biztanleek berehala ikertzen dute, eta herriaren ipuin-kontalaria hilda aurkitzen dute, haren gorputza erloju-dorreko orratzetan itsatsita, odola beheko galtzadarrien gainean tantaka. Deabru bat aske dabil, gauez hiltzen eta egunez gizakiz mozorrotuta. Batzuek informazio zatiak dituzte. Beste batzuek gaizkiari aurre egiten dioten edo errugabeak babesten dituzten trebetasunak dituzte. Baina Deabruak eta bere jarraitzaile gaiztoek gezurrak zabaltzen dituzte nahasteko eta susmoak pizteko. Lortuko al du jende zintzoak buru-hausgarria garaiz ebaztea benetako deabrua hiltzeko? Edo gaizkiak garai batean baketsua zen herri hau inbadituko du?",
     "day": "saturday",
     "time": "16:00 - 17:00",
     "duration": "1 h",
@@ -615,8 +615,8 @@
     "type": "workshops",
     "nameES": "Taller de Juegos Históricos",
     "nameEU": "Joko Historikoen Tailerra",
-    "descriptionES": "Hablaremos sobre la historia de los juegos de mesa en la antigüedad (Egipcios, romanos, celtas, vikingos...) y probaremos varios de ellos",
-    "descriptionEU": "Antzinaroko mahai-jokoen historiari buruz hitz egingo dugu (egiptoarrak, erromatarrak, zeltak, bikingoak...) eta horietako batzuk probatuko ditugu.",
+    "descriptionES": "Hablaremos sobre la historia de los juegos de mesa en la antigüedad (Egipcios, romanos, celtas, vikingos…) y probaremos varios de ellos",
+    "descriptionEU": "Antzinaroko mahai-jokoen historiari buruz hitz egingo dugu (egiptoarrak, erromatarrak, zeltak, bikingoak…) eta horietako batzuk probatuko ditugu.",
     "day": "sunday",
     "time": "10:30 - 11:30",
     "duration": "1 h",
@@ -635,8 +635,8 @@
     "organizer": "Los pinceles de JuanRa",
     "organizerImage": "https://drive.google.com/thumbnail?id=1Zjyg0LX5IwHP8jN1gbL-2WkTlekcXXO_",
     "type": "others",
-    "nameES": "Trivial Friki ¿Sabes más que un Primigenio?",
-    "nameEU": "Trivial Frikia, Primigenio bat baino gehiago dakizu?",
+    "nameES": "Trivial Friki: ¿Sabes más que un Primigenio?",
+    "nameEU": "Trivial Frikia: Primigenio bat baino gehiago dakizu?",
     "descriptionES": "Un concurso por categorías y que va subiendo de dificultad, atrévete a desafiar en la final al Friki Primigenio, y llévate un bonito premio y un gran recuerdo.",
     "descriptionEU": "Kategorien araberako lehiaketa bat, zailtasuna handituz doana, ausartu zaitez Friki Primigenioari finalean desafio egitera, eta eraman sari polit bat eta oroitzapen handi bat.",
     "day": "saturday",
@@ -678,7 +678,7 @@
     "temasSensibles": "Violencia"
   },
   {
-    "organizer": "Julio San Román Cazorla (en nombre de Tributos literarios)",
+    "organizer": "Julio San Román Cazorla / Tributos literarios",
     "organizerImage": "https://drive.google.com/thumbnail?id=1H9gUrIdQOsXCvPjsx90R77tppNFaUMNq",
     "type": "talks-exhibitions",
     "nameES": "Por qué Bilbo Bolsón no compraría en Mercadona: cómo innovar en la fantasía cuando parece que todo está dicho",
@@ -705,7 +705,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=16CDklP-oyCUBi5l84S_HpowKlMS9vS8K",
     "type": "board-games",
     "nameES": "TENACY - Juego de estrategia para 2 jugadores",
-    "nameEU": "TENACY - 2 jokalarirentzako estrategia joko",
+    "nameEU": "TENACY - 2 jokalarirentzako estrategia jokoa",
     "descriptionES": "TENACY es un juego de estrategia para 2 jugadores que combina las mecánicas de toma de decisiones de un abstracto con el lanzamiento de poderosos hechizos. Controlarás un ejército con 5 clases de unidades, cada una con su tipo de movimiento, su tipo de ataque y sus habilidades. No pierdas de vista a las unidades mágicas, sus hechizos causarán estragos en el campo de batalla.",
     "descriptionEU": "TENACY 2 jokalarirentzako estrategia joko bat da, abstraktu baten erabakiak hartzeko mekanikak sorginkeria ahaltsuen jaurtiketarekin konbinatzen dituena. 5 unitate mota dituen armada bat kontrolatuko duzu, bakoitza bere mugimendu motarekin, kalte egiteko moduarekin eta trebetasunekin. Ez galdu unitate magikoak bistatik, haien sorginkeriek triskantza eragingo dute gudu-zelaian.",
     "day": "friday",
@@ -727,7 +727,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=16CDklP-oyCUBi5l84S_HpowKlMS9vS8K",
     "type": "board-games",
     "nameES": "TENACY - Juego de estrategia para 2 jugadores",
-    "nameEU": "TENACY - 2 jokalarirentzako estrategia joko",
+    "nameEU": "TENACY - 2 jokalarirentzako estrategia jokoa",
     "descriptionES": "TENACY es un juego de estrategia para 2 jugadores que combina las mecánicas de toma de decisiones de un abstracto con el lanzamiento de poderosos hechizos. Controlarás un ejército con 5 clases de unidades, cada una con su tipo de movimiento, su tipo de ataque y sus habilidades. No pierdas de vista a las unidades mágicas, sus hechizos causarán estragos en el campo de batalla.",
     "descriptionEU": "TENACY 2 jokalarirentzako estrategia joko bat da, abstraktu baten erabakiak hartzeko mekanikak sorginkeria ahaltsuen jaurtiketarekin konbinatzen dituena. 5 unitate mota dituen armada bat kontrolatuko duzu, bakoitza bere mugimendu motarekin, kalte egiteko moduarekin eta trebetasunekin. Ez galdu unitate magikoak bistatik, haien sorginkeriek triskantza eragingo dute gudu-zelaian.",
     "day": "saturday",
@@ -749,7 +749,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=16CDklP-oyCUBi5l84S_HpowKlMS9vS8K",
     "type": "board-games",
     "nameES": "TENACY - Juego de estrategia para 2 jugadores",
-    "nameEU": "TENACY - 2 jokalarirentzako estrategia joko",
+    "nameEU": "TENACY - 2 jokalarirentzako estrategia jokoa",
     "descriptionES": "TENACY es un juego de estrategia para 2 jugadores que combina las mecánicas de toma de decisiones de un abstracto con el lanzamiento de poderosos hechizos. Controlarás un ejército con 5 clases de unidades, cada una con su tipo de movimiento, su tipo de ataque y sus habilidades. No pierdas de vista a las unidades mágicas, sus hechizos causarán estragos en el campo de batalla.",
     "descriptionEU": "TENACY 2 jokalarirentzako estrategia joko bat da, abstraktu baten erabakiak hartzeko mekanikak sorginkeria ahaltsuen jaurtiketarekin konbinatzen dituena. 5 unitate mota dituen armada bat kontrolatuko duzu, bakoitza bere mugimendu motarekin, kalte egiteko moduarekin eta trebetasunekin. Ez galdu unitate magikoak bistatik, haien sorginkeriek triskantza eragingo dute gudu-zelaian.",
     "day": "sunday",
@@ -773,7 +773,7 @@
     "nameES": "Wargames Done Right!",
     "nameEU": "Wargames Done Right!",
     "descriptionES": "¿Quieres aprender a jugar a un juego rapido, sencillo y al que puedes jugar con cualquiera de tus miniaturas? Pues descubre de mano de un Ranger de OnePageRules como jugar a este sistema gratuito.",
-    "descriptionEU": "Zure miniaturetako edozeinekin jolas dezakezun joko azkar eta erraz batean jolasten ikasi nahi duzu? OnePageRulesen Ranger baten eskutik doako sistema honetan nola jolastu aurkituko duzu.",
+    "descriptionEU": "Zure miniaturetako edozeinekin joka dezakezun joko azkar eta erraz batean jokatzen ikasi nahi duzu? OnePageRules-en Ranger baten eskutik doako sistema honetan nola jokatu aurkituko duzu.",
     "day": "sunday",
     "time": "10:30 - 12:00",
     "duration": "1 h 30 min",
@@ -795,7 +795,7 @@
     "nameES": "Wargames Done Right!",
     "nameEU": "Wargames Done Right!",
     "descriptionES": "¿Quieres aprender a jugar a un juego rapido, sencillo y al que puedes jugar con cualquiera de tus miniaturas? Pues descubre de mano de un Ranger de OnePageRules como jugar a este sistema gratuito.",
-    "descriptionEU": "Zure miniaturetako edozeinekin jolas dezakezun joko azkar eta erraz batean jolasten ikasi nahi duzu? OnePageRulesen Ranger baten eskutik doako sistema honetan nola jolastu aurkituko duzu.",
+    "descriptionEU": "Zure miniaturetako edozeinekin joka dezakezun joko azkar eta erraz batean jokatzen ikasi nahi duzu? OnePageRulesen Ranger baten eskutik doako sistema honetan nola jokatu aurkituko duzu.",
     "day": "sunday",
     "time": "12:00 - 13:30",
     "duration": "1 h 30 min",
@@ -859,7 +859,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=1FDPW_qWTJEC_Ne87Rzt8yhSHfI8FcJwF",
     "type": "board-games",
     "nameES": "Aprende a jugar a Yu-Gi-Oh!",
-    "nameEU": "Yu-Gi-Oh! jolasten ikasi",
+    "nameEU": "Yu-Gi-Oh! jokatzen ikasi",
     "descriptionES": "Partidas de demostración para aprender a jugar a Yu-Gi-Oh! y baraja de regalo.",
     "descriptionEU": "Yu-Gi-Oh! karta jokoa ikasi eta kartak oparitaz etxera eraman itzazu.",
     "day": "friday",
@@ -882,56 +882,10 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=1FDPW_qWTJEC_Ne87Rzt8yhSHfI8FcJwF",
     "type": "board-games",
     "nameES": "Aprende a jugar a Yu-Gi-Oh!",
-    "nameEU": "Yu-Gi-Oh! jolasten ikasi",
+    "nameEU": "Yu-Gi-Oh! jokatzen ikasi",
     "descriptionES": "Partidas de demostración para aprender a jugar a Yu-Gi-Oh! y baraja de regalo.",
     "descriptionEU": "Yu-Gi-Oh! karta jokoa ikasi eta kartak oparitaz etxera eraman itzazu.",
     "day": "saturday",
-    "time": "11:00 - 12:00",
-    "duration": "1 h",
-    "participants": "6",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "image": "https://drive.google.com/thumbnail?id=1Sqj00NwnEb6y1nIqlYBXYJoqNT-O6zvD",
-    "temasSensibles": ""
-  },
-  {
-    "organizer": "Magic all Goal",
-    "organizerImage": "https://drive.google.com/thumbnail?id=1FDPW_qWTJEC_Ne87Rzt8yhSHfI8FcJwF",
-    "type": "board-games",
-    "nameES": "Aprende a jugar a Yu-Gi-Oh!",
-    "nameEU": "Yu-Gi-Oh! jolasten ikasi",
-    "descriptionES": "Partidas de demostración para aprender a jugar a Yu-Gi-Oh! y baraja de regalo.",
-    "descriptionEU": "Yu-Gi-Oh! karta jokoa ikasi eta kartak oparitaz etxera eraman itzazu.",
-    "day": "saturday",
-    "time": "17:00 - 18:00",
-    "duration": "1 h",
-    "participants": "6",
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "image": "https://drive.google.com/thumbnail?id=1Sqj00NwnEb6y1nIqlYBXYJoqNT-O6zvD",
-    "temasSensibles": ""
-  },
-  {
-    "organizer": "Magic all Goal",
-    "organizerImage": "https://drive.google.com/thumbnail?id=1FDPW_qWTJEC_Ne87Rzt8yhSHfI8FcJwF",
-    "type": "board-games",
-    "nameES": "Aprende a jugar a Yu-Gi-Oh!",
-    "nameEU": "Yu-Gi-Oh! jolasten ikasi",
-    "descriptionES": "Partidas de demostración para aprender a jugar a Yu-Gi-Oh! y baraja de regalo.",
-    "descriptionEU": "Yu-Gi-Oh! karta jokoa ikasi eta kartak oparitaz etxera eraman itzazu.",
-    "day": "sunday",
     "time": "11:00 - 12:00",
     "duration": "1 h",
     "participants": "6",
@@ -998,8 +952,8 @@
     "type": "board-games",
     "nameES": "Conociendo los juegos de azar en la literatura: tabas, dados y naipes",
     "nameEU": "Ausazko jokoak literaturan ezagutzen: tabak, dadoak eta kartak",
-    "descriptionES": "En este taller aprenderemos a jugar aquellos que aparecen en las páginas en las comedias clásicas, la poesía medieval, las novelas del siglo de oro, los libros de Jane Austen o los relatos de Puskin, y que tantas veces llevan a sus participantes a la ruina o la delincuencia, de la que saldrán... o no. Pero en este taller no correremos ese riesgo...",
-    "descriptionEU": "Tailer honetan, komedia klasikoetan, Erdi Aroko poesian, urrezko mendeko nobeletan, Jane Austenen liburuetan edo Puskinen kontakizunetan orrialdeetan agertzen direnak jolasten ikasiko dugu, askotan partaideak hondamendira edo delinkuentziara eramaten baitituzte, eta hortik aterako dira... edo ez. Baina lantegi honetan ez dugu arriskurik izango...",
+    "descriptionES": "En este taller aprenderemos a jugar aquellos que aparecen en las páginas en las comedias clásicas, la poesía medieval, las novelas del siglo de oro, los libros de Jane Austen o los relatos de Puskin, y que tantas veces llevan a sus participantes a la ruina o la delincuencia, de la que saldrán… o no. Pero en este taller no correremos ese riesgo…",
+    "descriptionEU": "Tailer honetan, komedia klasikoetan, Erdi Aroko poesian, urrezko mendeko nobeletan, Jane Austenen liburuetan edo Puskinen kontakizunetan orrialdeetan agertzen direnak jolasten ikasiko dugu, askotan partaideak hondamendira edo delinkuentziara eramaten baitituzte, eta hortik aterako dira… edo ez. Baina lantegi honetan ez dugu arriskurik izango…",
     "day": "saturday",
     "time": "16:00 - 17:00",
     "duration": "1 h",
@@ -1020,8 +974,8 @@
     "type": "others",
     "nameES": "Visita al museo Fournier de naipes",
     "nameEU": "Fournier karta museoara bisita",
-    "descriptionES": "Visita guiada al Museo Fournier de naipes, donde veremos naipes medievales, de tarot, japoneses o temáticos además de los métodos de fabricación, los tipos de barajas de diferentes juegos y países...",
-    "descriptionEU": "Fournier Karta Museora bisita gidatua. Erdi Aroko kartak, tarot-kartak, japoniarrak edo gaikako kartak, fabrikazio-metodoak, joko eta herrialde ezberdinetako karta-sortak...",
+    "descriptionES": "Visita guiada al Museo Fournier de naipes, donde veremos naipes medievales, de tarot, japoneses o temáticos además de los métodos de fabricación, los tipos de barajas de diferentes juegos y países…",
+    "descriptionEU": "Fournier Karta Museora bisita gidatua. Erdi Aroko kartak, tarot-kartak, japoniarrak edo gaikako kartak, fabrikazio-metodoak, joko eta herrialde ezberdinetako karta-sortak…",
     "day": "saturday",
     "time": "11:00 - 13:00",
     "duration": "2 h",
@@ -1041,7 +995,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=1TFbuAIAiOFUHU0LtmIaDYRMIeq7hLO2i",
     "type": "tournaments",
     "nameES": "Torneo Pokémon",
-    "nameEU": "Pokémon lehiaketa",
+    "nameEU": "Pokémon txapelketa",
     "descriptionES": "Muestra tus habilidades estratégicas y tu ingenio en nuestro torneo de cartas. Compite contra otros jugadores, demuestra tu destreza y lucha por alcanzar la victoria. Participa, disfruta de la emoción de cada partida y demuestra que eres el mejor en el juego.",
     "descriptionEU": "Erakutsi zure trebetasun estrategikoak eta zure asmamena gure karta-txapelketan. Lehiatu beste jokalari batzuen aurka, erakutsi zure trebetasuna eta borrokatu garaipena lortzeko. Parte hartu, partida bakoitzaren emozioaz gozatu eta erakutsi jokoan onena zarela.",
     "day": "friday",
@@ -1056,16 +1010,15 @@
     "lang": [
       "es"
     ],
-    "image": "",
-    "temasSensibles": "",
-    "observaciones": "TODAVÍA NO PASAR"
+    "image": "https://drive.google.com/thumbnail?id=1gXlfZCjRDfnbzPWOxEzfVzKW8liqofWQ",
+    "temasSensibles": ""
   },
   {
     "organizer": "Monarka Store",
     "organizerImage": "https://drive.google.com/thumbnail?id=1TFbuAIAiOFUHU0LtmIaDYRMIeq7hLO2i",
     "type": "tournaments",
     "nameES": "Torneo One piece",
-    "nameEU": "One piece lehiaketa",
+    "nameEU": "One piece txapelketa",
     "descriptionES": "Muestra tus habilidades estratégicas y tu ingenio en nuestro torneo de cartas. Compite contra otros jugadores, demuestra tu destreza y lucha por alcanzar la victoria. Participa, disfruta de la emoción de cada partida y demuestra que eres el mejor en el juego.",
     "descriptionEU": "Erakutsi zure trebetasun estrategikoak eta zure asmamena gure karta-txapelketan. Lehiatu beste jokalari batzuen aurka, erakutsi zure trebetasuna eta borrokatu garaipena lortzeko. Parte hartu, partida bakoitzaren emozioaz gozatu eta erakutsi jokoan onena zarela.",
     "day": "saturday",
@@ -1080,16 +1033,15 @@
     "lang": [
       "es"
     ],
-    "image": "",
-    "temasSensibles": "",
-    "observaciones": "TODAVÍA NO PASAR"
+    "image": "https://drive.google.com/thumbnail?id=1_Y6WZdsiFpL3OS4rPdF_XUrKhY7LjBQu",
+    "temasSensibles": ""
   },
   {
     "organizer": "Monarka Store",
     "organizerImage": "https://drive.google.com/thumbnail?id=1TFbuAIAiOFUHU0LtmIaDYRMIeq7hLO2i",
     "type": "tournaments",
     "nameES": "Torneo Magic",
-    "nameEU": "Magic lehiaketa",
+    "nameEU": "Magic txapelketa",
     "descriptionES": "Muestra tus habilidades estratégicas y tu ingenio en nuestro torneo de cartas. Compite contra otros jugadores, demuestra tu destreza y lucha por alcanzar la victoria. Participa, disfruta de la emoción de cada partida y demuestra que eres el mejor en el juego.",
     "descriptionEU": "Erakutsi zure trebetasun estrategikoak eta zure asmamena gure karta-txapelketan. Lehiatu beste jokalari batzuen aurka, erakutsi zure trebetasuna eta borrokatu garaipena lortzeko. Parte hartu, partida bakoitzaren emozioaz gozatu eta erakutsi jokoan onena zarela.",
     "day": "saturday",
@@ -1104,9 +1056,8 @@
     "lang": [
       "es"
     ],
-    "image": "",
-    "temasSensibles": "",
-    "observaciones": "TODAVÍA NO PASAR"
+    "image": "https://drive.google.com/thumbnail?id=1bQ_E3cFcDqnhWn_wL7ga1jLgdFaPRZvc",
+    "temasSensibles": ""
   },
   {
     "organizer": "Orden de Revan",
@@ -1133,7 +1084,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=1fGVDDzHLZzer6glycKpmvfslPbdFwJYQ",
     "type": "others",
     "nameES": "Photocall de Star Wars",
-    "nameEU": "Photocall de Star Wars",
+    "nameEU": "Star Wars photocall-a",
     "descriptionES": "Ten la oportunidad de poder sacaros fotos con diferentes personajes de la saga de Star Wars en nuestro photocall del planeta desértico de Tatooine representado en las películas.",
     "descriptionEU": "Star Wars sagako pertsonaiekin argazkiak ateratzeko aukera izango duzu Tatooine basamortuko planetako gure photocall-ean.",
     "participants": "no-limit",
@@ -1153,7 +1104,7 @@
     "organizerImage": "https://drive.google.com/thumbnail?id=1Iv9DGWaTjj51IKVpmhu1DEEMP0HAOBs3",
     "type": "workshops",
     "nameES": "Taller de chapas",
-    "nameEU": "Taller de chapas",
+    "nameEU": "Txapen tailerra",
     "descriptionES": "Actividad para todos los públicos. Todos aquellos que quieran participar, tendrán la oportunidad de escoger entre los diferentes tipos de diseños con los que contamos de temática de Star Wars, los cuales podrán colorear a su gusto y en el tiempo que crean conveniente. Los participantes acabarán cuando tengan la oportunidad de llevarse las chapas finalizadas a su gusto.",
     "descriptionEU": "Publiko guztientzako jarduera. Parte hartu nahi duten guztiek Star Warseko gaien diseinu mota ezberdinen artean hautatzeko aukera izango dute, nahi duten moduan eta egoki deritzoten denboran koloreztatu ahal izateko. Parte-hartzaileek txapa nahi bezala amaitutakoan etxera eramateko aukera izango dute.",
     "day": "saturday",
@@ -1198,8 +1149,8 @@
     "organizer": "Piñata Games",
     "organizerImage": "https://drive.google.com/thumbnail?id=1udFEIX5trGMopZXp_zP9z0Od1IujJ7Ha",
     "type": "board-games",
-    "nameES": "Demo del juego Un montón de ropa sucia",
-    "nameEU": "Un montón de ropa sucia jokoaren demoa",
+    "nameES": "Aprende a jugar a Un montón de ropa sucia",
+    "nameEU": "Un montón de ropa sucia-n jokatzen ikasi",
     "descriptionES": "Juego de mesa rápido y divertido donde los jugadores compiten por recoger la ropa más limpia y estilosa, mientras sabotean a los demás llenándoles su montón de ropa con basura y prendas indeseables. Una partida caótica, divertida y llena de interacción para todos los públicos.",
     "descriptionEU": "Mahai joko azkarra eta dibertigarria, non jokalariek arropa garbiena eta estilosoena biltzeko lehiatzen diren, besteak saboteatzen dituzten bitartean, beren arropa piloa zaborrez eta nahi ez dituzten jantziez betez. Partida kaotikoa, dibertigarria eta interakzioz betea publiko guztientzat.",
     "duration": "30 min",
@@ -1436,27 +1387,6 @@
     "observaciones": "Los menores de 12 años deben ir acompañados de 1 adulto y solo ocuparán 1 puesto (1 vaso/puesto)"
   },
   {
-    "type": "talks-exhibitions",
-    "nameES": "Roast (junto con autores de Valhalla)",
-    "nameEU": "Roast (Valhallaren egileekin batera)",
-    "descriptionES": "El clásico roast donde nos picamos entre autores. Todo amistoso pero con chistes y algún puñal entre riñones.",
-    "descriptionEU": "Autoreen arteko roast klasikoa. Dena adiskidetsua, baina txisteekin eta giltzurrun arteko sastakaiekin.",
-    "day": "friday",
-    "time": "18:30 - 19:30",
-    "duration": "1 h",
-    "participants": 300,
-    "age": [
-      "children",
-      "teenagers",
-      "adults"
-    ],
-    "lang": [
-      "es"
-    ],
-    "image": "https://drive.google.com/thumbnail?id=1W-c1vldWGl_Hd_upsaLOgzUPsWLgNQmt",
-    "temasSensibles": ""
-  },
-  {
     "type": "rpg",
     "nameES": "Partida iniciación Fabula Ultima: Press Start",
     "nameEU": "Fabula Ultima: Press Start jokatzen ikasteko partida",
@@ -1476,15 +1406,17 @@
     "temasSensibles": "Lenguaje soez"
   },
   {
+    "organizer": "Alter Paradox",
+    "organizerImage": "https://drive.google.com/thumbnail?id=176RArLe8TtnmCqMe5-qilYKVeYuO4NjK",
     "type": "board-games",
-    "nameES": "Demostración de Elenco",
-    "nameEU": "Elenco-ren erakustaldia",
-    "descriptionES": "Partidas organizadas del juego Elenco de la mano de sus autores. Puedes probarlo en solitario o en grupos de hasta 5 personas, ¡y descubre si eres capaz de llevarte la ovación del público!",
-    "descriptionEU": "Elenco jokoaren partida antolatuak, egileen eskutik. Bakarka edo gehienez 5 pertsonako taldeetan proba dezakezu, eta ezagutu publikoaren txalo zaparrada eramateko gai zaren!",
+    "nameES": "Aprende a jugar a Warcrow",
+    "nameEU": "Warcrow-ean jokatzen ikasi",
+    "descriptionES": "Bienvenidos, viajeros, a Warcrow, el nuevo Wargame de fantasía medieval de Corvus Belli, que nos transporta al mundo fantástico de Lindwurm. En este escenario controlas una pequeña fuerza militar formada por guerreros, criaturas y magos, que libran escaramuzas persiguiendo los intereses de tu facción. ¿Comandarás a la orgullosa Legión Negra, o te darás al saqueo junto a los Orcos de las Tribus del Norte? El destino de Lindwurm está en tus manos, viajero, ¿te atreverás a explorarlo?",
+    "descriptionEU": "Ongietorri bidaiari, Warcrow-era, Corvus Belliren fantasia mediebaleko wargame berrira, zeinek Lindwurm-eko mundu fantastikora garraiatzen zaituen. Eszenatoki honetan, zure fakzioaren interesak jarraituz, gudariz, izakiz eta magoz osatutako indar militar txiki bat kontrolatuko duzu. Legio Beltz harroaren buru izango zara, ala Iparraldeko Tribuen Orkoekin batera harrapatuko zaituzte? Lindwurm-en patua zure esku dago, bidaiari hori, esploratzera ausartuko zara?",
     "day": "saturday",
-    "time": "11:00 - 12:00",
-    "duration": "45 min",
-    "participants": 5,
+    "time": "16:00 - 17:30",
+    "duration": "1 h 30 min",
+    "participants": 2,
     "age": [
       "teenagers",
       "adults"
@@ -1492,19 +1424,21 @@
     "lang": [
       "es"
     ],
-    "image": "https://drive.google.com/thumbnail?id=17_FVo9fxZBgsT-dLSqwhfub6GE3ZwIFC",
-    "temasSensibles": ""
+    "image": "https://drive.google.com/thumbnail?id=13i8G7WwiObunyAWS-gAYLzLuaq0exhAs",
+    "temasSensibles": "Violencia"
   },
   {
+    "organizer": "Alter Paradox",
+    "organizerImage": "https://drive.google.com/thumbnail?id=176RArLe8TtnmCqMe5-qilYKVeYuO4NjK",
     "type": "board-games",
-    "nameES": "Demostración de Elenco",
-    "nameEU": "Elenco-ren erakustaldia",
-    "descriptionES": "Partidas organizadas del juego Elenco de la mano de sus autores. Puedes probarlo en solitario o en grupos de hasta 5 personas, ¡y descubre si eres capaz de llevarte la ovación del público!",
-    "descriptionEU": "Elenco jokoaren partida antolatuak, egileen eskutik. Bakarka edo gehienez 5 pertsonako taldeetan proba dezakezu, eta ezagutu publikoaren txalo zaparrada eramateko gai zaren!",
+    "nameES": "Aprende a jugar a Warcrow",
+    "nameEU": "Warcrow-ean jokatzen ikasi",
+    "descriptionES": "Bienvenidos, viajeros, a Warcrow, el nuevo Wargame de fantasía medieval de Corvus Belli, que nos transporta al mundo fantástico de Lindwurm. En este escenario controlas una pequeña fuerza militar formada por guerreros, criaturas y magos, que libran escaramuzas persiguiendo los intereses de tu facción. ¿Comandarás a la orgullosa Legión Negra, o te darás al saqueo junto a los Orcos de las Tribus del Norte? El destino de Lindwurm está en tus manos, viajero, ¿te atreverás a explorarlo?",
+    "descriptionEU": "Ongietorri bidaiari, Warcrow-era, Corvus Belliren fantasia mediebaleko wargame berrira, zeinek Lindwurm-eko mundu fantastikora garraiatzen zaituen. Eszenatoki honetan, zure fakzioaren interesak jarraituz, gudariz, izakiz eta magoz osatutako indar militar txiki bat kontrolatuko duzu. Legio Beltz harroaren buru izango zara, ala Iparraldeko Tribuen Orkoekin batera harrapatuko zaituzte? Lindwurm-en patua zure esku dago, bidaiari hori, esploratzera ausartuko zara?",
     "day": "saturday",
-    "time": "17:00 - 18:00",
-    "duration": "45 min",
-    "participants": 5,
+    "time": "17:30 - 19:00",
+    "duration": "1 h 30 min",
+    "participants": 2,
     "age": [
       "teenagers",
       "adults"
@@ -1512,27 +1446,251 @@
     "lang": [
       "es"
     ],
-    "image": "https://drive.google.com/thumbnail?id=17_FVo9fxZBgsT-dLSqwhfub6GE3ZwIFC",
+    "image": "https://drive.google.com/thumbnail?id=13i8G7WwiObunyAWS-gAYLzLuaq0exhAs",
+    "temasSensibles": "Violencia"
+  },
+  {
+    "organizer": "Alter Paradox",
+    "organizerImage": "https://drive.google.com/thumbnail?id=176RArLe8TtnmCqMe5-qilYKVeYuO4NjK",
+    "type": "board-games",
+    "nameES": "Aprende a jugar a Warcrow",
+    "nameEU": "Warcrow-ean jokatzen ikasi",
+    "descriptionES": "Bienvenidos, viajeros, a Warcrow, el nuevo Wargame de fantasía medieval de Corvus Belli, que nos transporta al mundo fantástico de Lindwurm. En este escenario controlas una pequeña fuerza militar formada por guerreros, criaturas y magos, que libran escaramuzas persiguiendo los intereses de tu facción. ¿Comandarás a la orgullosa Legión Negra, o te darás al saqueo junto a los Orcos de las Tribus del Norte? El destino de Lindwurm está en tus manos, viajero, ¿te atreverás a explorarlo?",
+    "descriptionEU": "Ongietorri bidaiari, Warcrow-era, Corvus Belliren fantasia mediebaleko wargame berrira, zeinek Lindwurm-eko mundu fantastikora garraiatzen zaituen. Eszenatoki honetan, zure fakzioaren interesak jarraituz, gudariz, izakiz eta magoz osatutako indar militar txiki bat kontrolatuko duzu. Legio Beltz harroaren buru izango zara, ala Iparraldeko Tribuen Orkoekin batera harrapatuko zaituzte? Lindwurm-en patua zure esku dago, bidaiari hori, esploratzera ausartuko zara?",
+    "day": "saturday",
+    "time": "19:00 - 20:30",
+    "duration": "1 h 30 min",
+    "participants": 2,
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=13i8G7WwiObunyAWS-gAYLzLuaq0exhAs",
+    "temasSensibles": "Violencia"
+  },
+  {
+    "organizer": "Ludice Games",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1YNduDZYQm6RWKzZgaiPFQ-mCDD_msSVm",
+    "type": "board-games",
+    "nameES": "¡Un partido a Freak Ball mini!",
+    "nameEU": "Freak Ball mini partida bat!",
+    "descriptionES": "¡Juega un partido memorable de Freak Ball mini en menos de 30 minutos! Sólo necesitarás una breve explicación y ya estarás preparado para saltar al campo y hacer tus mejores jugadas.",
+    "descriptionEU": "Freak Ball mini partida gogoangarria jokatu 30 minutu baino gutxiagoan! Azalpen labur bat besterik ez duzu beharko eta prest egongo zara zelaira salto egin eta zure jokaldirik onenak egiteko.",
+    "day": "friday",
+    "time": "18:30 - 19:15",
+    "duration": "45 min",
+    "participants": 16,
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1T6tI3pWJ5A4wzmBcj-0N6muqJVdb4vUe",
     "temasSensibles": ""
   },
   {
+    "organizer": "Ludice Games",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1YNduDZYQm6RWKzZgaiPFQ-mCDD_msSVm",
     "type": "board-games",
-    "nameES": "Demostración de Elenco",
-    "nameEU": "Elenco-ren erakustaldia",
-    "descriptionES": "Partidas organizadas del juego Elenco de la mano de sus autores. Puedes probarlo en solitario o en grupos de hasta 5 personas, ¡y descubre si eres capaz de llevarte la ovación del público!",
-    "descriptionEU": "Elenco jokoaren partida antolatuak, egileen eskutik. Bakarka edo gehienez 5 pertsonako taldeetan proba dezakezu, eta ezagutu publikoaren txalo zaparrada eramateko gai zaren!",
+    "nameES": "¡Un partido a Freak Ball mini!",
+    "nameEU": "Freak Ball mini partida bat!",
+    "descriptionES": "¡Juega un partido memorable de Freak Ball mini en menos de 30 minutos! Sólo necesitarás una breve explicación y ya estarás preparado para saltar al campo y hacer tus mejores jugadas.",
+    "descriptionEU": "Freak Ball mini partida gogoangarria jokatu 30 minutu baino gutxiagoan! Azalpen labur bat besterik ez duzu beharko eta prest egongo zara zelaira salto egin eta zure jokaldirik onenak egiteko.",
+    "day": "saturday",
+    "time": "12:00 - 12:45",
+    "duration": "45 min",
+    "participants": 16,
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1T6tI3pWJ5A4wzmBcj-0N6muqJVdb4vUe",
+    "temasSensibles": ""
+  },
+  {
+    "organizer": "Magic all Goal",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1FDPW_qWTJEC_Ne87Rzt8yhSHfI8FcJwF",
+    "type": "tournaments",
+    "nameES": "Torneo de Yu-Gi-Oh! OTS Regional Qualifier",
+    "nameEU": "Yu-Gi-Oh! OTS Regional Qualifier txapelketa",
+    "descriptionES": "Torneo clasificatorio para el campeonato europeo de Yu-Gi-Oh!",
+    "descriptionEU": "Europako Yu-Gi-Oh! txapelketarako sailkatze txapelketa.",
+    "day": "saturday",
+    "time": "16:00 - 20:30",
+    "duration": "4 h 30 min",
+    "participants": 24,
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1bZVC6n_g41rIUhT6p3pp3xTWrsCvcpnV",
+    "temasSensibles": ""
+  },
+  {
+    "organizer": "Magic all Goal",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1FDPW_qWTJEC_Ne87Rzt8yhSHfI8FcJwF",
+    "type": "tournaments",
+    "nameES": "Torneo de Magic Commander multijugador",
+    "nameEU": "Jokalari anitzeko Magic Commander txapelketa",
+    "descriptionES": "Torneo del juego de cartas Magic formato Commander multijugador.",
+    "descriptionEU": "Jokalari anitzeko Commander formatuko Magic karta jokoaren txapelketa.",
     "day": "sunday",
-    "time": "11:00 - 12:00",
-    "duration": "45 min",
-    "participants": 5,
+    "time": "10:15 - 13:45",
+    "duration": "3 h 30 min",
+    "participants": 24,
     "age": [
+      "children",
       "teenagers",
       "adults"
     ],
     "lang": [
       "es"
     ],
-    "image": "https://drive.google.com/thumbnail?id=17_FVo9fxZBgsT-dLSqwhfub6GE3ZwIFC",
+    "image": "https://drive.google.com/thumbnail?id=10ijGZ9p8WfzfnKJAJZ4rFh1ANmlNfTMI",
+    "temasSensibles": ""
+  },
+  {
+    "organizer": "Nexo",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1ettYYzMHfuHlKnARF9SLxE190utEbqBK",
+    "type": "talks-exhibitions",
+    "nameES": "Curso de pintura de miniaturas",
+    "nameEU": "Miniaturak margotzeko ikastaroa",
+    "descriptionES": "Breve introducción a la teoría de color, interepretación de luces y sombras para generar volumen, esquematizar pieza, efecto OSL.",
+    "descriptionEU": "Kolorearen teoriari buruzko sarrera laburra, argien eta itzalen interepretazioa bolumena sortzeko, pieza eskematizatzeko, OSL efektua.",
+    "day": "saturday",
+    "time": "11:00 - 14:30",
+    "duration": "3 h 30 min",
+    "participants": 5,
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1L4f1QHqjpGXiHgG45-nyE9TbqxY8xOu-",
+    "temasSensibles": ""
+  },
+  {
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1f2Ir8-sJsCj-KwmMgL_NGpoZC29AWoxs",
+    "type": "rpg",
+    "nameES": "La torre del Demente",
+    "nameEU": "Zoroaren dorrea",
+    "descriptionES": "La ruina ha sido liberada. Aquel que una vez fue un valioso aliado de los pueblos de Lor ahora arrasa la tierra con fuego, dejando tras de sí un rastro de cadáveres y desesperación. Ithot el Demente oscurece el cielo con su presencia, mientras sus huestes devoran los restos de la destrucción que va sembrando. Ahora ha tomado una de las torres de acceso de Vial nor, la prestigiosa academia de magia y solo Ekhamu, en su infinita picardía, sabe cuales pueden ser sus oscuras intenciones… ¿Podrán nuestros héroes detener al Demente y desvelar los pérfidos planes que lo guían… antes de que sea demasiado tarde?",
+    "descriptionEU": "Hondamendia askatua izan da. Behin Lorreko herrien aliatu baliotsua izan zenak orain suz suntsitzen du lurra, bere atzean gorpu eta etsipen arrasto bat utziz. Ithot Zoroak bere presentziarekin zerua iluntzen du, bere hezurrek ereiten ari den suntsipenaren hondarrak irensten dituzten bitartean. Orain, Vial nor-en, magia-akademia ospetsua, sarbide-dorreetako bat hartu du eta Ekhamuk bakarrik daki bere pikardia amaigabean zein izan daitezkeen bere asmo ilunak… Gure heroiek geldiaraziko al dute Zoroa eta agerian utziko al dituzte hura gidatzen duten plan zitalak… beranduegi izan baino lehen?",
+    "day": "saturday",
+    "time": "11:00 - 15:00",
+    "duration": "4 h",
+    "participants": 5,
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1AY3QuB8f3Uwlj0-gST4Q_NkGXAgFyLfX",
+    "temasSensibles": "Violencia"
+  },
+  {
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1f2Ir8-sJsCj-KwmMgL_NGpoZC29AWoxs",
+    "type": "rpg",
+    "nameES": "La Piel de Toro 1978: Barco a Venus",
+    "nameEU": "Zezen Larrua 1978: Barco a Venus",
+    "descriptionES": "El arranque de la aventura se sitúa en un incendio que jamás ocurrió en nuestro mundo en unos grandes almacenes de Madrid que nunca existieron. Los investigadores tratarán de frustrar los planes de Gonzalo de Torres, un brujo del siglo XVII que ha prolongado su vida con medios místicos pero que, en su locura, pretende realizar un hechizo de convocatoria que manifieste a Azathoth en nuestro mundo.",
+    "descriptionEU": "Abenturaren hasiera gure munduan inoiz gertatu ez den sute batean kokatzen da, inoiz existitu ez diren Madrilgo saltoki handi batzuetan. Ikertzaileak Gonzalo de Torresen planak zapuzten saiatuko dira. Gonzalo XVII. mendeko sorgina da, bere bizitza bitarteko mistikoekin luzatu duena, baina, bere eromenean, gure munduan Azathoth adieraziko duen deialdi sorginkeria bat egin nahi duena.",
+    "day": "sunday",
+    "time": "11:00 - 13:00",
+    "duration": "2 h",
+    "participants": 5,
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1XveldC0NYLdXCeFEQjVsj0dtQCf0ZLg3",
+    "temasSensibles": "Violencia, Lenguaje soez, Horror / Terror, Drogas"
+  },
+  {
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1f2Ir8-sJsCj-KwmMgL_NGpoZC29AWoxs",
+    "type": "workshops",
+    "nameES": "¡Atrévete con las miniaturas!",
+    "nameEU": "Ausartu zaitez miniaturekin!",
+    "descriptionES": "¿Tienes miniaturas en casa pero no te atreves a pintarlas por miedo a hacerlo mal? ¡Este es tu taller! Además de explicarte los pasos a seguir desde que consigues tu miniatura hasta terminarla, tendrás la oportunidad de poner a prueba y mejorar tus habilidades como pintor@.",
+    "descriptionEU": "Miniaturak dituzu etxean baina ez zara ausartzen hauek margotzen zerbait oker egingo duzulakoan? Hau da zure tailerra! Miniatura bat jasotzetik amaitzerainoko urratsak azaltzeaz gain, zure margolari abilezia frogatu eta hobetzeko aukera izango duzu",
+    "day": "friday",
+    "time": "19:30 - 21:00",
+    "duration": "1 h 30 min",
+    "participants": 10,
+    "age": [
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es",
+      "eu"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1dRLA6NGsKo4bUOkiUrXI7fackLewcuNA",
+    "temasSensibles": ""
+  },
+  {
+    "organizer": "Asociación Cultural Valinor",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1f2Ir8-sJsCj-KwmMgL_NGpoZC29AWoxs",
+    "type": "rpg",
+    "nameES": "Puente 9 - Cosmere RPG",
+    "nameEU": "Puente 9 - Cosmere RPG",
+    "descriptionES": "Cuando la tragedia azota una expedición, unos pocos supervivientes afortunados deben volver a casa a través de los abismos de las Llanuras Quebradas. ¿Podrá ese insólito grupo sobrevivir a la noche, descubrir los secretos de los Radiantes Perdidos y regresar a los campamentos de guerra?",
+    "descriptionEU": "Tragediak espedizio bat astintzen duenean, bizirik dirauten zorioneko gutxi batzuk Lautada Hautsietako amildegietan barrena itzuli behar dute etxera. Ahal izango du gauaren aurrean bizirik irautea, Erradianteen Galduen sekretuak aurkitzea eta gerra kanpamentuetara itzuli?",
+    "day": "sunday",
+    "time": "10:00 - 14:00",
+    "duration": "4 h",
+    "participants": 5,
+    "age": [
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1MrZ83qZOAFn8mi15xRojoZSNAIcivyWW",
+    "temasSensibles": "Violencia, Discriminación"
+  },
+  {
+    "organizer": "EUNEIZ",
+    "organizerImage": "https://drive.google.com/thumbnail?id=15b-NWCWUFnasopK6WrSoeNfkgJRfkIrl",
+    "type": "talks-exhibitions",
+    "nameES": "Videojuegos por la transformación social",
+    "nameEU": "Eraldaketa sozialerako bideojokoak",
+    "descriptionES": "Los videojuegos son mucho más que un simple entretenimiento escapista consistente en matar dragones, zombis, nazis y salvar damiselas en apuros. Algunos títulos alternativos tratan de representar diferentes conflictos sociales reales y muy actuales como bullying, homofobia, violencia machista, cambio climático, guerras, migraciones o salud mental, entre otros. En esta charla veremos varios juegos que muestran realidades ajenas para que nos pongamos en la piel de sus protagonistas y empaticemos con sus problemas. Obras sin violencia, breves, baratas y para todas las edades que sirven para reflexionar mientras nos divertimos, ideales para disfrutar en familia o en clase.",
+    "descriptionEU": "Bideojokoak, herensugeak, zonbiak, naziak hil eta estutasunetan dauden damatxoak salbatzeaz haratago doaz. Titulu alternatibo batzuk benetako eta gaur egungo gatazka sozial ezberdinak irudikatzen saiatzen dira, hala nola, bullying-a, homofobia, indarkeria matxista, klima aldaketa, gerrak, migrazioak edo osasun mentala, besteak beste. Hitzaldi honetan, besteen errealitateak erakusten dituzten zenbait joko ikusiko ditugu, protagonisten azalean jar gaitezen eta haien arazoekin enpatizatu dezagun. Biolentziarik gabeko, laburrak, merkeak eta adin guztientzako lanak, dibertitzen garen bitartean hausnartzeko baliagarriak direnak, familian edo ikasgelan gozatzeko aproposak.",
+    "day": "friday",
+    "time": "19:30 - 20:30",
+    "duration": "45 min",
+    "participants": 150,
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1vkAGiaHWmh79k4cm5trm1slHAoPMoi5R",
     "temasSensibles": ""
   }
 ]
