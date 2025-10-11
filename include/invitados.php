@@ -91,6 +91,15 @@
                     </li>
                   <?php } ?>
 
+                  <?php if (property_exists($guest, 'youtube')) { ?>
+                    <li class="list-inline-item">
+                      <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->youtube; ?>"
+                        target="_blank">
+                        <i class="bi bi-youtube"></i>
+                      </a>
+                    </li>
+                  <?php } ?>
+
                   <?php if (property_exists($guest, 'discord')) { ?>
                     <li class="list-inline-item">
                       <a class="icon-btn btn btn-lg btn-outline-ffscarlet" href="<?php echo $guest->x; ?>" target="_blank">

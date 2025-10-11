@@ -28,12 +28,8 @@
     "type": "contests",
     "organizer": "Asociación Cultural Valinor",
     "organizerImage": "/images/ui/logos/logo_valinor.svg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "18:00 - 20:00"
-      }
-    ],
+    "day": "saturday",
+    "time": "18:00 - 20:00",
     "duration": "2 h",
     "participants": "12",
     "age": [
@@ -55,12 +51,8 @@
     "type": "contests",
     "organizer": "Asociación Cultural Valinor",
     "organizerImage": "/images/ui/logos/logo_valinor.svg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "11:00 - 21:00"
-      }
-    ],
+    "day": "saturday",
+    "time": "11:00 - 21:00",
     "duration": "3 h",
     "participants": "15",
     "age": [
@@ -82,12 +74,8 @@
     "type": "contests",
     "organizer": "Asociación Cultural Valinor",
     "organizerImage": "/images/ui/logos/logo_valinor.svg",
-    "timetable": [
-      {
-        "day": "saturday",
-        "time": "11:00 - 21:00"
-      }
-    ],
+    "day": "saturday",
+    "time": "11:00 - 21:00",
     "duration": "3 h",
     "participants": "15",
     "age": [
