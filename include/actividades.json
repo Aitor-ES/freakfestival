@@ -154,7 +154,7 @@
     "temasSensibles": ""
   },
   {
-    "organizer": "Asociacion ACNIL",
+    "organizer": "Asociación ACNIL",
     "organizerImage": "https://drive.google.com/thumbnail?id=1dAE2OlLAJOQw_e8GyWbZ7VBhpfq2bdWw",
     "type": "board-games",
     "nameES": "Partida Blood on the Clocktower",
@@ -326,7 +326,7 @@
     "lang": [
       "es"
     ],
-    "image": "https://drive.google.com/thumbnail?id=1xh_P1OPf-xPoCfrMuoxijLMdgBWVtatj",
+    "image": "",
     "temasSensibles": ""
   },
   {
@@ -1190,7 +1190,7 @@
   },
   {
     "organizer": "Rolariak",
-    "organizerImage": "",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1CkSXO41ClZlP0CSKKorqmgyc-QVh1auI",
     "type": "rpg",
     "nameES": "Helmuga: iragana",
     "nameEU": "Helmuga: iragana",
@@ -1208,7 +1208,7 @@
     "lang": [
       "eu"
     ],
-    "image": "https://drive.google.com/thumbnail?id=1CkSXO41ClZlP0CSKKorqmgyc-QVh1auI",
+    "image": "/images/activities/helmuga.jpg",
     "temasSensibles": ""
   },
   {

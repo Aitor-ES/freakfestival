@@ -4,11 +4,11 @@
 }
 
 .filters.list-group-flush>.list-group-item:first-child {
-  padding-top: 0;
+  padding-top: 0.5rem;
 }
 
 .filters.list-group-flush>.list-group-item:last-child {
-  padding-bottom: 0;
+  padding-bottom: 0.5rem;
 }
 
 .activities.list-group-flush>.list-group-item {

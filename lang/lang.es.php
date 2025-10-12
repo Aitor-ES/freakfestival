@@ -142,6 +142,7 @@ $lang = [
   "lang.activities.faq.rpg.question" => "¿Qué necesito para jugar a rol de mesa?",
   "lang.activities.faq.rpg.answer" => "Para jugar a rol de mesa, sólo necesitas ganas de pasarlo bien y de vivir una aventura. Los directores de juego se encargarán de proporcionarte y explicarte todo lo necesario para jugar, como personajes pregenerados, dados y reglas.",
 
+  "lang.activities.filters.title" => "Buscar actividades",
   "lang.activities.filters.all" => "Todos",
 
   "lang.activities.timetable.day" => "Día",
@@ -150,7 +151,7 @@ $lang = [
   "lang.activities.timetable.sunday" => "Domingo",
   "lang.activities.timetable.continuous" => "Continua",
 
-  "lang.activities.participants" => "participantes",
+  "lang.activities.participants" => "plazas",
   "lang.activities.participants.no-limit" => "Sin límite",
 
   "lang.activities.age" => "Edad",
@@ -158,7 +159,8 @@ $lang = [
   "lang.activities.age.all" => "Todos los públicos",
   "lang.activities.age.children" => "0-12 años",
   "lang.activities.age.teenagers" => "12-18 años",
-  "lang.activities.age.adults" => "Más de 18 años",
+  "lang.activities.age.adults" => "+18 años",
+  "lang.activities.age.teenagers-adults" => "+12 años",
 
   "lang.activities.lang.language" => "Idioma",
   "lang.activities.lang.es" => "Español",
