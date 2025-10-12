@@ -20,21 +20,21 @@
     <div class="row justify-content-center mb-5">
       <h2 class="mb-4"><?php echo $lang["lang.maps.almudena-cid"]; ?></h2>
       <div class="col-12 col-lg-10">
-        <img src="/images/maps/2025/IMG_4863-min.PNG" alt="" width="100%" height="auto">
+        <img src="/images/maps/2025/SalaAlmudenaCidConLeyenda-min.PNG" alt="" width="100%" height="auto">
       </div>
     </div>
 
     <div class="row justify-content-center mb-5">
       <h2 class="mb-4"><?php echo $lang["lang.maps.green-capital"]; ?></h2>
       <div class="col-12 col-lg-10">
-        <img src="/images/maps/2025/IMG_4862-min.PNG" alt="" width="100%" height="auto">
+        <img src="/images/maps/2025/SalaGreenCapitalConLeyenda-min.PNG" alt="" width="100%" height="auto">
       </div>
     </div>
 
     <div class="row justify-content-center mb-5">
       <h2 class="mb-4"><?php echo $lang["lang.maps.estibaliz"]; ?></h2>
       <div class="col-12 col-lg-10">
-        <img src="/images/maps/2025/IMG_4861-min.PNG" alt="" width="100%" height="auto">
+        <img src="/images/maps/2025/SalaEstibalizConLeyenda-min.PNG" alt="" width="100%" height="auto">
       </div>
     </div>
   </main>
