@@ -145,6 +145,7 @@ $lang = [
   "lang.activities.faq.rpg.question" => "Zer behar dut mahaiko rolean jokatzeko?",
   "lang.activities.faq.rpg.answer" => "Mahaiko rolean jokatzeko, ondo pasatzeko eta abentura bat bizitzeko gogoa besterik ez duzu behar. Joko-zuzendariak arduratuko dira jokatzeko behar duzun guztia emateaz eta azaltzeaz, hala nola aurrez sortutako pertsonaiak, dadoak eta arauak.",
 
+  "lang.activities.filters.title" => "Jarduerak bilatu",
   "lang.activities.filters.all" => "Guztiak",
 
   "lang.activities.timetable.day" => "Eguna",
@@ -153,7 +154,7 @@ $lang = [
   "lang.activities.timetable.sunday" => "Igandea",
   "lang.activities.timetable.continuous" => "Jarraitua",
 
-  "lang.activities.participants" => "parte-hartzaile",
+  "lang.activities.participants" => "plaza",
   "lang.activities.participants.no-limit" => "Mugarik ez",
 
   "lang.activities.age" => "Adina",
@@ -161,7 +162,8 @@ $lang = [
   "lang.activities.age.all" => "Publiko guztiak",
   "lang.activities.age.children" => "0-12 urte",
   "lang.activities.age.teenagers" => "12-18 urte",
-  "lang.activities.age.adults" => "18 urtetik gora",
+  "lang.activities.age.adults" => "18+ urte",
+  "lang.activities.age.teenagers-adults" => "12+ urte",
 
   "lang.activities.lang.language" => "Hizkuntza",
   "lang.activities.lang.es" => "Espainiera",

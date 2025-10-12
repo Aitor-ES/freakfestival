@@ -12,6 +12,13 @@
 .organizer-img {
   width: auto;
   height: auto;
-  max-height: 200px;
-  max-width: 200px;
+  max-height: 150px;
+  max-width: 150px;
+}
+
+@media (min-width: 992px) {
+  .organizer-img {
+    max-height: 200px;
+    max-width: 200px;
+  }
 }
