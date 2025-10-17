@@ -301,7 +301,7 @@
 
               <!-- Activity organizer -->
               <div class="col-12 col-lg-3">
-                <div class="row row-cols-2 row-cols-lg-1 align-items-center gy-4">
+                <div class="row row-cols-2 row-cols-lg-1 justify-content-center align-items-center gy-4">
                   <?php if (property_exists($activity, 'organizerImage')) { ?>
                     <div class="col text-center">
                       <img class="organizer-img" src="<?php echo $activity->organizerImage ?>" width="200" height="200">
