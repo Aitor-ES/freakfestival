@@ -1692,5 +1692,73 @@
     ],
     "image": "https://drive.google.com/thumbnail?id=1vkAGiaHWmh79k4cm5trm1slHAoPMoi5R",
     "temasSensibles": ""
+  },
+  {
+    "organizer": "Los Historiadores",
+    "type": "talks-exhibitions",
+    "nameES": "Presentación + teatrillo infantil",
+    "nameEU": "Aurkezpena + haurrentzako antzerkitxoa",
+    "descriptionES": "Presentación dinámica de la saga \"Los Historiadores\" y representación teatralizada (con una ayuda del público más joven) de un fragmento del primer libro.",
+    "descriptionEU": "\"Los Historiadores\" sagaren aurkezpen dinamikoa eta lehen liburuko pasarte baten antzezpen antzeztua (publiko gazteenaren laguntzarekin).",
+    "day": "friday",
+    "time": "18:30 - 19:30",
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1_XgCwuJF1iVQMtTcD46bFSY-R3N-Twxm",
+    "temasSensibles": ""
+  },
+  {
+    "organizer": "Fisicomic",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1TS0enY__Y-wa6410k8oiM5oFnCAnQ1mT",
+    "type": "talks-exhibitions",
+    "nameES": "Destrozando tu infancia",
+    "nameEU": "Zure haurtzaroa kaltetzen",
+    "descriptionES": "Show de comedia y ciencia donde se hablan de toda la ciencia de las series, películas, videojuegos, animes y mangas de la época de los 90 en adelante.",
+    "descriptionEU": "90eko hamarkadatik aurrerako telesail, film, bideojoko, anime eta mangen zientzia guztiaz hitz egiten den komedia- eta zientzia-show bat.",
+    "day": "saturday",
+    "time": "12:00 - 13:00",
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=1clzlyjaS2z_tVikSOaen3AVjgSPZOxJ_",
+    "temasSensibles": ""
+  },
+  {
+    "organizer": "Fisicomic",
+    "organizerImage": "https://drive.google.com/thumbnail?id=1TS0enY__Y-wa6410k8oiM5oFnCAnQ1mT",
+    "type": "talks-exhibitions",
+    "nameES": "No es una pregunta estúpida",
+    "nameEU": "Ez da galdera inozoa",
+    "descriptionES": "¿Tienes preguntas sobre si se podrían hacer algunas cosas de tus mangas, animes, o videojuegos favoritos en la vida real? Pregunta a Rubén, físico e ingeniero, la veracidad y realidad que hay detrás de tus obras favoritas.",
+    "descriptionEU": "Ba al duzu galderarik bizitza errealean zure mangetan, animeetan edo bideojoko gogokoenetan gauza batzuk egin ote daitezkeen? Galdetu Rubeni, fisikaria eta ingeniaria, zure obra gogokoenen atzean dagoen egiazkotasuna eta errealitatea.",
+    "day": "saturday",
+    "time": "16:30 - 17:30",
+    "duration": "1 h",
+    "participants": "no-limit",
+    "age": [
+      "children",
+      "teenagers",
+      "adults"
+    ],
+    "lang": [
+      "es"
+    ],
+    "image": "https://drive.google.com/thumbnail?id=17vK1mAvLWeOLXVJaNOwLyBuFmkSJ87bX",
+    "temasSensibles": ""
   }
 ]
